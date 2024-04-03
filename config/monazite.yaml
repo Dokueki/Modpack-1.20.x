@@ -1,0 +1,25 @@
+topInformation:
+  # If true, the item outputs of the current recipe will be displayed.
+  # Default: true
+  displayItemOutputs: true
+
+  # If true, the name of the item will be displayed.
+  # Default: true
+  displayItemName: true
+
+  # If true, the fluid outputs of the current recipe will be displayed.
+  # Default: true
+  displayFluidOutputs: true
+
+  # If true, the name of the fluid will be displayed.
+  # Default: true
+  displayFluidName: true
+
+  # If true, only the name of item and fluid will be displayed.
+  # Default: false
+  conciseMode: false
+
+  # Each line can have a maximum of several items, which only take effect when displayItemName is false.
+  # Default: 8
+  itemsPerLine: 8
+
