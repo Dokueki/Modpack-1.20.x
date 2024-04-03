@@ -33,7 +33,6 @@ chiselsandbits/*
 /.bobby
 .curseclient
 .sl_password
-options.txt
 patchouli_data.json
 usernamecache.json
 usercache.json
