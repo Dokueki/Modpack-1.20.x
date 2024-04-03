@@ -1,0 +1,13 @@
+name = "No Report Button"
+filename = "no-report-button-forge-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d05c3ed9409e02cd5c0285bbcf54844505eccf37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594978
+project-id = 658722
