@@ -52,7 +52,7 @@ knownkeys.txt
 
 *.code-workspace
 *.zip
-
+*.mrpack
 
 # Server Pack
 .github/buildtools/serverpack/*
