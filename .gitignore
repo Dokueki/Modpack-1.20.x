@@ -6,8 +6,6 @@ config/fml.toml
 config/forge-client.toml
 config/xaerominimap_entities.json
 config/voicechat/username-cache.json
-config/xaerominimap.txt
-config/xaeroworldmap.txt
 
 # .minecraft
 crash-reports/*
