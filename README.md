@@ -15,9 +15,9 @@
   <p align="center">
     <a href="https://github.com/TerraFirmaGreg-Team/Modpack-1.20.x/wiki">Explore the wiki</a>
     ·
-    <a href="https://github.com/TerraFirmaGreg-Team/Modpack-1.20.x/issues">Report Bugs</a>
+    <a href="https://github.com/Dokueki/Modpack-1.20.x/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/TerraFirmaGreg-Team/Modpack-1.20.x/issues">Request Features</a>
+    <a href="https://github.com/Dokueki/Modpack-1.20.x/issues">Request Features</a>
     ·
     <a href="https://github.com/TerraFirmaGreg-Team/projects/10">Roadmap</a>
   </p>
