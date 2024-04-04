@@ -3040,6 +3040,11 @@ hash = "387e483d5ed7f5b8cf88288c2824b6159e8a123225222ff171898f1006d84ec7"
 metafile = true
 
 [[files]]
+file = "mods/death-counter.pw.toml"
+hash = "593d4922a9266db35cce5bf6da43778a70e951f19b6140c6a1e0cd171780ef9c"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
 metafile = true
