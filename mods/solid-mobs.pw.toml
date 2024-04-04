@@ -1,0 +1,13 @@
+name = "Solid Mobs - [Fabric & Forge]"
+filename = "solid_mobs_forge.1.19.4+1.20-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3eb93e5c6bc05063eef5c0d6a903d2e78cdc8e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4734653
+project-id = 631710

@@ -1,0 +1,13 @@
+name = "Multi Mine"
+filename = "multimine-1.20.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "326194bae5f59a09882f6209bd4cf9829bed0178"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4925614
+project-id = 227887

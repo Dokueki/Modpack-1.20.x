@@ -1,0 +1,13 @@
+name = "TFC Homestead walking sticks"
+filename = "tfccanes-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00df362fe76424875a9cf69cb998218a4b2606f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5229154
+project-id = 920202

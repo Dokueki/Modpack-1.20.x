@@ -1,0 +1,13 @@
+name = "Burn in the Sun"
+filename = "burninthesun-forge-1.20.1-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "acb1c6d33887f7125b5a70ac10e6679dc2f14305"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4627264
+project-id = 484945
