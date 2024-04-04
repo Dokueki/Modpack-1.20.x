@@ -37,56 +37,8 @@ file = ".github/ISSUE_TEMPLATE/ru-03-question.yml"
 hash = "2ebbceb8ca9ad931e793fd192a11ace989d814cf384fd79194a5a56c3688016e"
 
 [[files]]
-file = ".github/buildtools/client_mod.txt"
-hash = "cb37ecdc538eb607de3741c8ea129864cee46d5c13c5ace73323597adc48974d"
-
-[[files]]
-file = ".github/buildtools/modpack/instance.cfg"
-hash = "34f83fc05e6e19e908a66bec64d5eefa7e3fa119a771e1fb1e1f06e0ebca57cf"
-
-[[files]]
-file = ".github/buildtools/modpack/manifest.json"
-hash = "bdbf6d5933e3de5c0bf5bd96e172bbe1fa5941f09ac57e9043774725af3a5819"
-
-[[files]]
-file = ".github/buildtools/modpack/mmc-pack.json"
-hash = "36a72dc413b9daa335268641459312fb64dc26cb4f3f19b0008cddf3d4c2ed27"
-
-[[files]]
-file = ".github/buildtools/modpack/modlist.html"
-hash = "07697c8281bc2983813b1b1f89624679976aa15cce89e92008404c97402eb35d"
-
-[[files]]
-file = ".github/buildtools/serverpack/forge-auto-install.txt"
-hash = "224e625f9c04580b2688dbed0dfc492edb2545324c03478b46631bcee077b0c2"
-
-[[files]]
-file = ".github/buildtools/serverpack/minecraft_server.jar"
-hash = "7fbd40e35b6171be6c2187021488189669ed166545058703544fbd23cd29c64b"
-
-[[files]]
-file = ".github/buildtools/serverpack/server-icon.png"
-hash = "14d661e5837a15cd66017aa901be9145f022a36403349e3df9fabbed9da5f9e1"
-
-[[files]]
-file = ".github/buildtools/serverpack/server.properties"
-hash = "f9fb6c495f4eaa59b29adc0ca8ffb7ca82ec44c102daff94b1b9b1253ec0a09f"
-
-[[files]]
-file = ".github/buildtools/serverpack/server_starter.conf"
-hash = "13afcd063827469da024773d94c63c9b2ed7a788ce4e0fb0ff55049c0b61a78c"
-
-[[files]]
-file = ".github/buildtools/serverpack/start_server.bat"
-hash = "62334ea0a41f3e06a982d6501783c508e49e331190ff043eda3480107ed38b34"
-
-[[files]]
 file = ".github/pull_request_template.md"
 hash = "92102e63d4ec84597d5edd0c67b7100a359eef8a078cd46d26b76694fa7044db"
-
-[[files]]
-file = ".github/workflows/release.yml"
-hash = "9f30fb95b4e88727e20bfcb40594fe0672f081d369d420da8db895cbb377421e"
 
 [[files]]
 file = "CHANGELOG.md"
@@ -99,10 +51,6 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 [[files]]
 file = "README.md"
 hash = "885a116a6af51711fca9be754f4de1a05d1ecd87aff5399cdfb8fbd8e4410048"
-
-[[files]]
-file = "blueprints/speeedcraft/pack.json"
-hash = "8695e9c35d8052e4800ecc20a94173efcb1f67cb88fba5bbf332e53e371df7cc"
 
 [[files]]
 file = "config/.toolswap"
