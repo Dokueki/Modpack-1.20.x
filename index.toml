@@ -3350,6 +3350,16 @@ hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
 metafile = true
 
 [[files]]
+file = "mods/simple-login.pw.toml"
+hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1540e5d979657f7e5c4dc5b52a3489786f1f2972054495bc5bb3062354702302"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
