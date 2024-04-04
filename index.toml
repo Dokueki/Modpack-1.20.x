@@ -2821,6 +2821,14 @@ file = "kubejs/startup_scripts/tfc/constants.js"
 hash = "eb976a167d3737a5df2a757d15e4da26e367d3f2af6d3ed460387020a0d1defa"
 
 [[files]]
+file = "mods/AnimalTrap-1.20.1-forge-1.0.1-custom.jar"
+hash = "eea63c260a0e39308392be96abc69050b3014ec2e303cd7b46aa3602c9e4a55b"
+
+[[files]]
+file = "mods/AnimalTrapTFC-1.20.1-forge-1.0.1-custom.jar"
+hash = "443ae06814b81f9a28ae3041edf5b2fb0c0f86087b5b32f66b5bbf937e039891"
+
+[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "d45973beb5a6fb30e74cb249bf66e7906005310706d154157f8ba69819444378"
 metafile = true
