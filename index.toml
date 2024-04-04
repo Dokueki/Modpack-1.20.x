@@ -61,32 +61,16 @@ file = "config/CoroUtil/General.toml"
 hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
 
 [[files]]
+file = "config/Discord-Integration.toml"
+hash = "6fc0f6bf2f91fbecd709c2a42d3e443b4d30561b902c594027f5479662a533d5"
+
+[[files]]
 file = "config/InventoryHUD/curios.json"
 hash = "20de4ca7c8988e627ee2bb5832fb89694d0cc2847f052893b391023852ce7398"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/additionalplacements-client.toml"
@@ -173,10 +157,6 @@ file = "config/chat_heads.json5"
 hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
 [[files]]
-file = "config/chatimageconfig.json"
-hash = "e91cdd732791cdeecdf35d1fcf607de49e6267a1a92755944c53aa0a11105e2b"
-
-[[files]]
 file = "config/chiselsandbits-client.toml"
 hash = "ae628a305ada8274b766c9e14cb2d58b612d1c0b9e69a78a13cb1cd90f133de2"
 
@@ -213,10 +193,6 @@ file = "config/craftingtweaks-common.toml"
 hash = "2cf3fbd8735023b15888f9af5ca6a270f0ecabb20c72465e5de93b58e8130b53"
 
 [[files]]
-file = "config/craftpresence.json"
-hash = "6e2f8bd8b913e49d762fabec75a1e7e8cc1227bcab2095739e2e98143e6750d5"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "6bdffc741647463db2865247814706c6aed9dd2c83ff0c79486b1572f926e67e"
 
@@ -227,10 +203,6 @@ hash = "679e3eb1366b748e91af6d137f1a9f52a3a3a02373c0e454015dc504df4bf6fa"
 [[files]]
 file = "config/createaddition-common.toml"
 hash = "6c2795c37d849bb1a24ec061c02b2bd64c06542c6fad6d22ce35a650e94303b1"
-
-[[files]]
-file = "config/createpickywheels-common.toml"
-hash = "87590dedc76ce47b1fa829d1ab8f12b650e50b0353d0f33c4e6fa3fe2955d391"
 
 [[files]]
 file = "config/cucumber-client.toml"
@@ -339,14 +311,6 @@ hash = "1914b2723ebfa8d7f88279976f609f482dce75e37a9b2273d0d5ce450cfcd2da"
 [[files]]
 file = "config/enhancedvisuals.json"
 hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
-
-[[files]]
-file = "config/everlastingskins-common.toml"
-hash = "2f09b12941bb1fc93e936d9d66a42cc7fa5c7b782eb8fd256e37234ce78abeab"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -535,10 +499,6 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
-
-[[files]]
-file = "config/firstperson.json"
-hash = "7c5f12bcaffb58f7af8ef3113bd4fa7de550a6a5f809a829689ea46c9e05748b"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -733,26 +693,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "8730a7f8d5c195791e46286bd2aa9ca0f374d91137311f0b4275f71e6b7cdb03"
 
 [[files]]
-file = "config/jsg/jsgConfig_1.0/Debug.toml"
-hash = "731bf67c956eeabdac635b34ea95279e7239475848600940cba521b445cafbe8"
-
-[[files]]
-file = "config/jsg/jsgConfig_1.0/DialHomeDevice.toml"
-hash = "e9b66d565f253cc895e596e5e35b1f975f40cb9ea1a3c766b9337b342b12d8bd"
-
-[[files]]
-file = "config/jsg/jsgConfig_1.0/General.toml"
-hash = "8de238101b4f9d81a4543df8ccba7037c02ec083fef363b170f045d6c39c91b7"
-
-[[files]]
-file = "config/jsg/jsgConfig_1.0/Stargate.toml"
-hash = "e17e14d67a60fa8ae6eae2b76f55883790b3fa067da0e5d3cb9d77891a1fec3f"
-
-[[files]]
-file = "config/jsg/jsgDimensions_1.0.json"
-hash = "34db634d9b1268d41344e2df2201510c96594e1a23d3ee1991420ea323b6d2fd"
-
-[[files]]
 file = "config/konkrete/locals/de_de.local"
 hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
@@ -773,24 +713,8 @@ file = "config/kubejs-tfc.toml"
 hash = "1d65503b8c8511875ef5727e20a5566bb21523ff0872b9de3ac349f13fc94e3b"
 
 [[files]]
-file = "config/limitedchunks.json"
-hash = "2c31744153b3361c8f9ccb73e7746a76a943af3a847c5e280abb9f75ca71b848"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "b305940cd8ba8680b79d94e5bf1901fb3531eae97d2bceefdc722055e580e5f9"
-
-[[files]]
-file = "config/localizedchat-common.toml"
-hash = "bc7a951b164e76f829c8991319f729a2a38d54fd562907a56a2b361b72a2dce4"
-
-[[files]]
-file = "config/minecolonies-client.toml"
-hash = "596601175eb019db1557fd700a5103b7d526db950bde58567f371dfee5eb2d4b"
-
-[[files]]
-file = "config/minecolonies-common.toml"
-hash = "1359438cc3b094bb8952e6e7a790ddd444f700588398ab41f5bf90a09b62e755"
 
 [[files]]
 file = "config/mobsunscreen-common.toml"
@@ -842,7 +766,7 @@ hash = "d3677ed2cee0a1837f12ce661727a7b2eeda9eaad2ff6c5e398ae95b477165a4"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "e109f2de9b6dfd262e560f19a03bf7382e43218b84670e132f3e2a6e6b568197"
+hash = "4ca6815ca8829de05ce2b23f47468f161f26b0a9b4dbe88d963dd005823a4c5c"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -881,14 +805,6 @@ file = "config/recipeessentials.json"
 hash = "4c9418b330985ebe913236da43dfa461a00519187cfbd04d868a6737b038db4f"
 
 [[files]]
-file = "config/resourceful-config-web.json"
-hash = "6e9b958c8e0538c23cf8771dd812eb37bc4c92a678e4be44edd38f0ece9692c9"
-
-[[files]]
-file = "config/rrls.toml"
-hash = "cdb8f05b7d1f27000afc234dbf868b163ee97707d6daa2d61353111bb864aec7"
-
-[[files]]
 file = "config/saturn-optimizations.toml"
 hash = "212c1c6b7fa0f671de835a6ac4f67bfb20d9b5bce6de698824b1ebe395ff704b"
 
@@ -899,14 +815,6 @@ hash = "f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d"
 [[files]]
 file = "config/smoothboot.json"
 hash = "780cbbe638e0a8a6d5e4dd4b606b4250ababa3bfa6aed0df58eec97fa333ef2a"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "1e253c3dde40b4d1b3b57f50424d9f7af48cc630d8330ab4642d2eeace4a5dc4"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/solid_mobs.json"
@@ -943,10 +851,6 @@ hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
 [[files]]
 file = "config/spidersproducewebs.json5"
 hash = "d560b694a68ed33b6a8aff4a63a355f2f0fec79d2831e7cd608cc8253c2c1909"
-
-[[files]]
-file = "config/structurize-client.toml"
-hash = "017f5ecb8bc70673467f2bc21fd99459d5418416d2be5c86fa14c47de111fa02"
 
 [[files]]
 file = "config/tfc-client.toml"
@@ -1002,7 +906,7 @@ hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "62ee4526ae47497e1290071fc6e63b6ae7c7b1598a61d77abd1fe709132beabd"
+hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -1034,7 +938,7 @@ hash = "9dfdbceab9095ee7345d9fb9ce5f4665de6b34298214607cea2d504d39e8b23c"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1067,10 +971,6 @@ hash = "7d10adc0723ad4da1d2242d99ea5713d43a6c9b509ec95dafac24d52d0b1b3a5"
 [[files]]
 file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "0c9cb7ce493414f2a4b846417db297b8c24ec9950e5e2630d1cfff387568f5ae"
-
-[[files]]
-file = "config/zume.json5"
-hash = "19a159138f9b8f8cf015f8cade4bf15e4423b20fd7356800b402f6f14a2cccb0"
 
 [[files]]
 file = "defaultconfigs/corpse-server.toml"
