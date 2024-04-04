@@ -3293,7 +3293,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "cf933a376002dedd3540c61dd502073815c01ae0a69c79d07cf2971e47a963a5"
+hash = "24ff2fc07890c3fae3e080da2852b4120427393a237f810d58d5280247c40550"
 metafile = true
 
 [[files]]
@@ -3323,7 +3323,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "d64ed1fc4085c7c0133189627c9c3dd050f33898687ee3c63e64702d0ed403a6"
+hash = "273a8491dae7a6e241f8d20d5b5cc42ee227b9abfa128734e450803665102918"
 metafile = true
 
 [[files]]
