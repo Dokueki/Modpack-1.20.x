@@ -1,6 +1,6 @@
 name = "My Server Is Compatible"
 filename = "MyServerIsCompatible-1.20-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
