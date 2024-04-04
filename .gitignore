@@ -1,11 +1,13 @@
 
 # Configs
+config/.toolswap
 config/jei/world/*
 config/oculus.properties
 config/fml.toml
 config/forge-client.toml
 config/xaerominimap_entities.json
 config/voicechat/username-cache.json
+config/jade/server-plugin-overrides.json
 
 # .minecraft
 crash-reports/*
