@@ -113,10 +113,6 @@ file = "config/CoroUtil/General.toml"
 hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
 
 [[files]]
-file = "config/Discord-Integration.toml"
-hash = "6fc0f6bf2f91fbecd709c2a42d3e443b4d30561b902c594027f5479662a533d5"
-
-[[files]]
 file = "config/InventoryHUD/curios.json"
 hash = "20de4ca7c8988e627ee2bb5832fb89694d0cc2847f052893b391023852ce7398"
 
@@ -2830,11 +2826,6 @@ hash = "d45973beb5a6fb30e74cb249bf66e7906005310706d154157f8ba69819444378"
 metafile = true
 
 [[files]]
-file = "mods/ags-death-counter.pw.toml"
-hash = "0f049feb0f699b514a15e8fb9b285ea39ff230f1bcf4c342f7e57facb5a65c34"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -2995,11 +2986,6 @@ hash = "78cacc203857570841308fa2b833f50b5bec688dd326ac2f3be50d3b4c60f3cd"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "22c8fef68b868b239fffc73449f8a9ccdd947c7c3c524d383cc7c5d512193a00"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
 metafile = true
@@ -3117,11 +3103,6 @@ metafile = true
 [[files]]
 file = "mods/firmalife.pw.toml"
 hash = "89fdf5f2ed3f719d0ac7a9e98a2aad0af41b42c983fb53356645774e500dfe83"
-metafile = true
-
-[[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "8d36fe6f1fcd5768f6e494bb8be8de565c70ce1e28255e29f7690c742877a82f"
 metafile = true
 
 [[files]]
@@ -3422,11 +3403,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "19d21b037fcdcc6c8a4beb1b586ab0db36cc94f9287a42e32daffe66eddc52f9"
 metafile = true
 
 [[files]]
