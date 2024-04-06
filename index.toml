@@ -770,7 +770,7 @@ hash = "d3677ed2cee0a1837f12ce661727a7b2eeda9eaad2ff6c5e398ae95b477165a4"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "e88226ea6e3ce1f8f28d84c50533d067b3ac192a1048eaedbd9f0987eec1de48"
+hash = "165c76082879f04a39334b28d629654d442d16842adfee082d031da26b5b3ae4"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -909,6 +909,10 @@ file = "config/voicechat/translations.properties"
 hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
 
 [[files]]
+file = "config/voicechat/username-cache.json"
+hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "bd41990acbab402cd32dc0f9767311774a01c1f53ea0be1b03339f1e16af32ad"
 
@@ -938,7 +942,7 @@ hash = "9dfdbceab9095ee7345d9fb9ce5f4665de6b34298214607cea2d504d39e8b23c"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2511,6 +2515,10 @@ hash = "0f9ae550fec551b9361f7710cda48bacdddefd2132140b8dcb4cff1a2d298860"
 [[files]]
 file = "kubejs/server_scripts/handglider/recipes.js"
 hash = "0b956d9fc726adf160a8549ac6a8557e7672f1a00f254d79ea627efa4f3b09d3"
+
+[[files]]
+file = "kubejs/server_scripts/lithic_coins.js"
+hash = "d2acc720e165e4a8c0131fb4905e862c0577bd6e71d63aec1d5d3fd4ef402cb0"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
