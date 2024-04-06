@@ -274,7 +274,7 @@ hash = "02803f27750b5f5cfe333b008a5032fca0df356bd35b75c94a318f45f3e75f5b"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "ba510751f49bfef0edfadca5b41a8416c8a8101eea444462314c12bc309e6b31"
+hash = "9fe4a9789256c2f7434f0608c58344dbbdd638ee965e66010d653e57755bfbc1"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -311,6 +311,10 @@ hash = "1914b2723ebfa8d7f88279976f609f482dce75e37a9b2273d0d5ce450cfcd2da"
 [[files]]
 file = "config/enhancedvisuals.json"
 hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
+
+[[files]]
+file = "config/experimentalsettingsdisabler-client.toml"
+hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -658,7 +662,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "f5f833e2249031445beada12a386d60f5e2d6e61c6e8ecb48fa992d2c6c70c09"
+hash = "2e91f94e2d4a3585bb20ed8d48ede7f5a7f07a65015740dee3601b6ad7eb38f9"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -753,6 +757,10 @@ file = "config/multimine.cfg"
 hash = "d7714c2a405a32dd493586f9aaa602a2f4b0426c85c9965cce606c1ea1db88f3"
 
 [[files]]
+file = "config/necronomicon.json5"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
@@ -766,7 +774,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ccdcdac9f600c78428d5c42a6ae6cfc9f2756ba6cd73150a8b73fb1f9fe01f24"
+hash = "b4d70cc997936fae7183f9b4366b3991d85dd40741de59d2facfb9a5e4b1d31e"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -838,11 +846,11 @@ hash = "d5c0d12b14cf0dff0328a96ac90a1f5cd50ea08be0fbebdac330c08ed6f5b5d9"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "584293cbf3ba8c6f027e5ad41435c35ceeb564f89e8e517e4ba4f5846e53a3dc"
+hash = "4c9f04306621449bcbdd6c59384d7057e2649c520f09e7b9c91450921c6ef933"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "30e0c03e64f2d30396ea3c091b21bdb1aceb3873faddab88949ee0c4bca6d81c"
+hash = "61f7cba6eb9d2f1fca365079a486c05a14c619e57bd089b423cff204123683c6"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -934,11 +942,11 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "5506c8debeeb064566b5d666e22a0427015718566841f498d8b867e6ccfa4078"
+hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2942,6 +2950,11 @@ hash = "ff8baecd50b1fbd79dc4397554946687efca886d1ddc0c06c7730e775ffbebe8"
 metafile = true
 
 [[files]]
+file = "mods/experimental-settings-disabler.pw.toml"
+hash = "5c760f88115ea4cbc556956185ae36761a5e5947bdd24eb01541dfd1c9b32e53"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "d871e11677c2c0eb1539c2e4014f0290010b85b5ee99d41bdf465e7ee18e4e5f"
 metafile = true
@@ -2954,6 +2967,11 @@ metafile = true
 [[files]]
 file = "mods/farsighted-mobs-forge.pw.toml"
 hash = "4faaa75710197421e8191c89735e308718acf3a1b58427a3976652eddb1cca81"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "e40f25640b4d5872b76c7324b35dd995d041fd409ca4fa4e93f8c6a1dfb4fbcc"
 metafile = true
 
 [[files]]
@@ -3434,11 +3452,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "5a95fc8fb25a0a75895b612b44dfdb677bc958972c2b527efbf732ffe48caae7"
-metafile = true
-
-[[files]]
-file = "mods/yeetusexperimentus.pw.toml"
-hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
 metafile = true
 
 [[files]]
