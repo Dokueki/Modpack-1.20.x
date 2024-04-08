@@ -1,5 +1,0 @@
-
-[logbegone]
-	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Bloodmoon value", "Error calculating block tint for block"]
-	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "Bloodmoon value", "Error calculating block tint for block"]
-

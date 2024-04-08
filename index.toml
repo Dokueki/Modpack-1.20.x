@@ -541,6 +541,10 @@ file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "1c3ade413ad1f0c5cf1c477d145bf7e3b733b18fad24c695267faa4ac37fdd31"
 
 [[files]]
+file = "config/ftbbackups2.json"
+hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
@@ -737,10 +741,6 @@ file = "config/lithium.properties"
 hash = "b305940cd8ba8680b79d94e5bf1901fb3531eae97d2bceefdc722055e580e5f9"
 
 [[files]]
-file = "config/logbegone.toml"
-hash = "f34c72f25ba1d9d2161c55114595948ed5fdbf526ee9e4f9da3eb3a104683f03"
-
-[[files]]
 file = "config/mobsunscreen-common.toml"
 hash = "80ab3ff1057432cde7075d29ee51faef7f0d1e1aa8217fdb1904df0396700a45"
 
@@ -790,7 +790,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ed5576c7409d1fe2a89d4a5b66ddc3dfa8c35d6b361ae6b25f4e186686ab9ae0"
+hash = "d540302e5e98cf2e84599a78d5b9b1727c75a9c71f6e344b0388cd7d9533782f"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,11 +866,11 @@ hash = "2a2cca54dd1a5e0bc51c01f873a66e0173306a31060bbcd64a5084948394c296"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "410bce845ccb4a3d641e82c589c9d6aff3451ed9af4eb6b2750c74c08d1684a8"
+hash = "49a8028e01edb01c5d957d1986cdbccdc737d027007be15d8d4f57eb7afb6478"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "2ac5f2aadf15e3aa84db23bc2fecbb862b40c3041ce7655f4b9ceea94f37f260"
+hash = "cd8ab16caba99b30e3b192da7eb437886a39dd70221fee98e619c1e46a1c8928"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -978,7 +978,7 @@ hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3046,6 +3046,11 @@ hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
@@ -3196,11 +3201,6 @@ hash = "b5ec7f5b4e8a3f4b368e661627b177d53f344369bf4d6ebc8aac0c02e17049c6"
 metafile = true
 
 [[files]]
-file = "mods/log-begone.pw.toml"
-hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
-metafile = true
-
-[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
 metafile = true
@@ -3318,6 +3318,11 @@ metafile = true
 [[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "3615807aea9dbfee978e6df7445bb79844ef1a0c551e7f16fe8f3952c6fef367"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "78287a685bb66b0b924ba9c6c13e6559233c829d754f7f62a0617d001c999db9"
 metafile = true
 
 [[files]]

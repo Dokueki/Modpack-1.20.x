@@ -11,9 +11,7 @@ config/voicechat/username-cache.json
 config/jade/server-plugin-overrides.json
 config/embeddium-fingerprint.json
 config/embeddium-options.json
-config/ftbquests/**
-config/xaerominimap.txt
-config/xaeroworldmap.txt
+
 config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
 
