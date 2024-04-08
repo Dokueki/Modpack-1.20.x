@@ -66,7 +66,7 @@ hash = "6fc0f6bf2f91fbecd709c2a42d3e443b4d30561b902c594027f5479662a533d5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "9c2c796cfaedc6935d9d424b8d03e150779325a4679a74bacbbf281505418431"
+hash = "ffcd62606d70b28a485b63a148bc9d1bec1fd2f4e277cc7cd96af6f8793977b5"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -155,10 +155,6 @@ hash = "988cfbd9a6de8894be0e21fe870a3d3215beab32c8180e629d8922083dfd4e02"
 [[files]]
 file = "config/burninthesun-common.toml"
 hash = "e250672d92c63eba5827a45afcd83b0d0ca30aebd53112e18aa6562e920661d0"
-
-[[files]]
-file = "config/caelum-client.toml"
-hash = "408bae05f9f10384bb7314df9008464430363a9fd45e2005060ede63d3312c68"
 
 [[files]]
 file = "config/carryon-client.toml"
@@ -298,11 +294,15 @@ hash = "472eb65d190616ace4f9d0318a47e9cc5ce89ea43d321413f26daff849d825e8"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "5387db0ae4a24a090ab77368d9e9c44ee875f3b2adc64836ba34e366a8bafb0f"
+hash = "e029d95ca1aa0e83f9c06ab2c84adeb6d8966cf998de48459eb7b6d772c9c3ab"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
 hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
 
 [[files]]
 file = "config/emi.css"
@@ -790,7 +790,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "b33cfa162d1e53b7985217cf36aa99c51ff521463c5a1cce364ce58c5f4b9255"
+hash = "ed5576c7409d1fe2a89d4a5b66ddc3dfa8c35d6b361ae6b25f4e186686ab9ae0"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -865,6 +865,14 @@ file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "2a2cca54dd1a5e0bc51c01f873a66e0173306a31060bbcd64a5084948394c296"
 
 [[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "410bce845ccb4a3d641e82c589c9d6aff3451ed9af4eb6b2750c74c08d1684a8"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "2ac5f2aadf15e3aa84db23bc2fecbb862b40c3041ce7655f4b9ceea94f37f260"
+
+[[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
 
@@ -899,10 +907,6 @@ hash = "a7f04f87913ec608251f13fcf3edf9765ed184a74c3b3984e764d157d77509dc"
 [[files]]
 file = "config/tfcastikorcarts-common.toml"
 hash = "97292825b89e6872f219da4ddd774bfa01e5eaab32c3a9d1d989ce40ebbf5902"
-
-[[files]]
-file = "config/tfccaelum-common.toml"
-hash = "3c778a05f28d279fe47f73881fe045255ef033fe6f37347f3bb7802f32a6c22f"
 
 [[files]]
 file = "config/tfcdesirepaths-common.toml"
@@ -970,11 +974,11 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "5506c8debeeb064566b5d666e22a0427015718566841f498d8b867e6ccfa4078"
+hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1058,7 +1062,7 @@ hash = "4ad6d51a0232cd0396b11ff9f91b3cecfc07375d868c60ec4476533fb9c1dc29"
 
 [[files]]
 file = "defaultconfigs/tfc-server.toml"
-hash = "c528bc1ad4f5bb471e51ce41d50f44adea2519f5d2ff1edc1babfeb63bb113b7"
+hash = "5419457d1e6b6140da0014bd3be5e4c07d83ffe0658e508516bc701e8912166b"
 
 [[files]]
 file = "icon.png"
@@ -2817,11 +2821,6 @@ hash = "a573fc4b00a9ad5d19d60a8617698d0f41f790fb53a3626ffd3ad493cc13ab15"
 metafile = true
 
 [[files]]
-file = "mods/caelum.pw.toml"
-hash = "0e3f8fb94585f6087c831362037b9aacf6aa5f76527ead4563033ef321970a8d"
-metafile = true
-
-[[files]]
 file = "mods/carpeted-stairs.pw.toml"
 hash = "87c0430acb03c8092df8aa37df9d7cb16bc6895ec3932c72e23a04561faf5896"
 metafile = true
@@ -3444,11 +3443,6 @@ metafile = true
 [[files]]
 file = "mods/tfc-ambiental-second-edition.pw.toml"
 hash = "230780e56b3afd44bd6b37b162193e2c4090a57259bd27b6554e2769837f7482"
-metafile = true
-
-[[files]]
-file = "mods/tfc-caelum.pw.toml"
-hash = "82737c2a4b84fccedb1bf38aeecdaa671ad22afe2ddde34357594dfe54610786"
 metafile = true
 
 [[files]]
