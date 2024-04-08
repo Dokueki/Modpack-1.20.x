@@ -114,7 +114,7 @@ hash = "369843f065d40c8ad953309d3b93cd054cc3aa97952190efbaebac58c2a9cc16"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "e8064b014f9e01c27b63877f98410dd166f79b562aabb0d8fc365aeef2616902"
+hash = "6126b69842cf022e4142bf3cbbddfc7174512f43b40970f13a0236c3ed40935d"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
@@ -678,7 +678,7 @@ hash = "6b000326258730c6337903ff15199fca978cfb8003e797a63a880ce249f72029"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "12b60e566b1bc09a1e2592d9d4905bef1db9f01a99d1b6b2e34259247672da1a"
+hash = "988b27dfee8c5cded5b3f9932fe220d5871348bb0717d03912cafc42420ed89e"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -786,7 +786,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "57cc84140cb79e177cbd06ee592f851bef97214b0a8946ba044d1d13cb9a42b5"
+hash = "64bf937bfe571b95e1e252d39ec3d3011cbeb82d66be0ca3a7c7ef220221f43a"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -930,7 +930,7 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
+hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -962,7 +962,7 @@ hash = "9dfdbceab9095ee7345d9fb9ce5f4665de6b34298214607cea2d504d39e8b23c"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
