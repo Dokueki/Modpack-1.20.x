@@ -790,7 +790,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "1f93b9bcef14d25dd160eed8ee6c3cca5860de027e537e401897a02f2e4e6b82"
+hash = "c59404c16afe7685089f5cfdd9dce1c872eb40e6a40abf6caf8c7a5268c67938"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,11 +866,11 @@ hash = "2a2cca54dd1a5e0bc51c01f873a66e0173306a31060bbcd64a5084948394c296"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "0ef9fffb75e799a1ae90823d46fe7401589f03154e56669f79f7b9ce291cc087"
+hash = "ecf282e343f53a315ede5c2cd979170a4eb323d6bbcc2ed9a515b639b2d7ecfe"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "6dbd29014cf9575baeddf549a3a8006c33bacbcfd0dbaf3a312a37f5f296c3ae"
+hash = "a3c24ff7bfeec1babbd8dd4f32c1b654518a5331f67a720d034fb3280691424a"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -978,7 +978,7 @@ hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2615,10 +2615,6 @@ hash = "4095f3e190338bc8b7d0b4b0023012450de6304c17cdef3bb7f0219e0688345e"
 [[files]]
 file = "kubejs/server_scripts/treetap/recipes.js"
 hash = "f7d89aa677721ddd4643a8826defc42bcac48310ecf8f148369b491eac5856b5"
-
-[[files]]
-file = "kubejs/server_scripts/walking_canes.js"
-hash = "0a36637f876560516813d10284b2ee77869d4b2121909489b2ed136caf226b2b"
 
 [[files]]
 file = "kubejs/server_scripts/water_flasks/data.js"
