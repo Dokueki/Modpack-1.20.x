@@ -145,8 +145,15 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "monazite": {
+    "recipe_info_item_output": true,
+    "recipe_info_fluid_output": true
+  },
   "corpse": {
     "corpse": true
+  },
+  "tfc_support_indicator": {
+    "support_indicator": true
   },
   "treetap": {
     "tap": true

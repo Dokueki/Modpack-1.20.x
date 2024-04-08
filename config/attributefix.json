@@ -77,6 +77,17 @@
         "value": 1024
       }
     },
+    "enhancedai:generic.xray_follow_range": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 256,
+        "value": 256
+      }
+    },
     "minecraft:generic.max_health": {
       "enabled": true,
       "min": {
