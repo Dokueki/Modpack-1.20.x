@@ -298,15 +298,11 @@ hash = "472eb65d190616ace4f9d0318a47e9cc5ce89ea43d321413f26daff849d825e8"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "6b9bd096da969c7e9c174248f44241c10e3e9a6e6e47099da95690469fb33d3a"
+hash = "5387db0ae4a24a090ab77368d9e9c44ee875f3b2adc64836ba34e366a8bafb0f"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
 hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "ff4f33bdd42508bae1e1d3382266725a1310316aca807a5e8af618276cc5fd03"
 
 [[files]]
 file = "config/emi.css"
@@ -326,7 +322,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "1e444bc81590a9b5bca8da28d5e09fd0d2b6bce9bcf359f9f72e94b70a3d9929"
+hash = "cbddddb792a836b53c1450396d67a285c524364d236b36661f7431e0690f72a0"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -742,7 +738,7 @@ hash = "b305940cd8ba8680b79d94e5bf1901fb3531eae97d2bceefdc722055e580e5f9"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "3505824984199e5271c54ffde433f1052e193ff4f682f53dc2ac3a8886986424"
+hash = "f34c72f25ba1d9d2161c55114595948ed5fdbf526ee9e4f9da3eb3a104683f03"
 
 [[files]]
 file = "config/mobsunscreen-common.toml"
@@ -794,7 +790,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "5e56df960cae1ada1b9ea1e9d61ccbf654f212a4e15338dd45508f78297c6655"
+hash = "b33cfa162d1e53b7985217cf36aa99c51ff521463c5a1cce364ce58c5f4b9255"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -867,14 +863,6 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "2a2cca54dd1a5e0bc51c01f873a66e0173306a31060bbcd64a5084948394c296"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "f0cf51001ba713de107bb41f76b42c68c6dd93effdfc0b2ebcebb992d3f036f5"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e462ff60015edc57f3d94697b8136ef49c770509d07586a055a7a2334194f5b1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -982,11 +970,11 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "9dfdbceab9095ee7345d9fb9ce5f4665de6b34298214607cea2d504d39e8b23c"
+hash = "5506c8debeeb064566b5d666e22a0427015718566841f498d8b867e6ccfa4078"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -998,7 +986,7 @@ hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "9dfdbceab9095ee7345d9fb9ce5f4665de6b34298214607cea2d504d39e8b23c"
+hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
 file = "config/zombieawareness/ClientConfig.toml"
