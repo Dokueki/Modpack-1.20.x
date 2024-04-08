@@ -27,7 +27,7 @@
 	enableInfestations = true
 	#
 	# Enables TFC setting the moon phase based on the progress of the month. The etymology of the English word 'month' is in fact related to the word 'moon'.
-	enableCalendarSensitiveMoonPhases = true
+	enableCalendarSensitiveMoonPhases = false
 	#
 	# If false, vanilla lightning will not strike.
 	enableLightning = true

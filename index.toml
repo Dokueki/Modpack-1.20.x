@@ -66,7 +66,7 @@ hash = "6fc0f6bf2f91fbecd709c2a42d3e443b4d30561b902c594027f5479662a533d5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "20de4ca7c8988e627ee2bb5832fb89694d0cc2847f052893b391023852ce7398"
+hash = "9c2c796cfaedc6935d9d424b8d03e150779325a4679a74bacbbf281505418431"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -155,6 +155,10 @@ hash = "988cfbd9a6de8894be0e21fe870a3d3215beab32c8180e629d8922083dfd4e02"
 [[files]]
 file = "config/burninthesun-common.toml"
 hash = "e250672d92c63eba5827a45afcd83b0d0ca30aebd53112e18aa6562e920661d0"
+
+[[files]]
+file = "config/caelum-client.toml"
+hash = "408bae05f9f10384bb7314df9008464430363a9fd45e2005060ede63d3312c68"
 
 [[files]]
 file = "config/carryon-client.toml"
@@ -290,7 +294,7 @@ hash = "2c58318485b34f88159acb0bb8cf359b61ca80d4b8fd2750f5d596d43121bede"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "02803f27750b5f5cfe333b008a5032fca0df356bd35b75c94a318f45f3e75f5b"
+hash = "472eb65d190616ace4f9d0318a47e9cc5ce89ea43d321413f26daff849d825e8"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
@@ -737,6 +741,10 @@ file = "config/lithium.properties"
 hash = "b305940cd8ba8680b79d94e5bf1901fb3531eae97d2bceefdc722055e580e5f9"
 
 [[files]]
+file = "config/logbegone.toml"
+hash = "3505824984199e5271c54ffde433f1052e193ff4f682f53dc2ac3a8886986424"
+
+[[files]]
 file = "config/mobsunscreen-common.toml"
 hash = "80ab3ff1057432cde7075d29ee51faef7f0d1e1aa8217fdb1904df0396700a45"
 
@@ -770,7 +778,7 @@ hash = "ff00fc95814ad2f0a5932603ff119904e278f0020aa994cebba92aa1827c1c96"
 
 [[files]]
 file = "config/multimine.cfg"
-hash = "d7714c2a405a32dd493586f9aaa602a2f4b0426c85c9965cce606c1ea1db88f3"
+hash = "f680ddb6964cfe83f419fb31ed8ecc9f15408e998d5c7c6b8e38f025d741f00a"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -786,7 +794,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "64bf937bfe571b95e1e252d39ec3d3011cbeb82d66be0ca3a7c7ef220221f43a"
+hash = "5e56df960cae1ada1b9ea1e9d61ccbf654f212a4e15338dd45508f78297c6655"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -802,7 +810,7 @@ hash = "242a0f58407ecc71ff5e2c6cd2910001c089ee4e6130454c377115e8a8f3c83a"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
-hash = "88ea0a4ac580013afcf17c7ae37892b82553cf03a5c14ced5441ad22c6d5143c"
+hash = "6e18bfa2ec02629937474e436f3f44fb67d54fd6e6b47a7c9b4c5b3a3bd83916"
 
 [[files]]
 file = "config/playerrevive-client.json"
@@ -862,11 +870,11 @@ hash = "2a2cca54dd1a5e0bc51c01f873a66e0173306a31060bbcd64a5084948394c296"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "648481d07e49c02bf6d023e8507b30bf56ff1189ae7255fa048da5ce625f8fd3"
+hash = "f0cf51001ba713de107bb41f76b42c68c6dd93effdfc0b2ebcebb992d3f036f5"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ce80a1d98726407ea7785e3550855336068c2af8f4d21d7856291d186fd89dae"
+hash = "e462ff60015edc57f3d94697b8136ef49c770509d07586a055a7a2334194f5b1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -885,6 +893,10 @@ file = "config/tfc-common.toml"
 hash = "15d05d1d0c5737b368fb8f59f1caf412ed19f6a425116e80bca4fff223dfe5da"
 
 [[files]]
+file = "config/tfc_tumbleweed-common.toml"
+hash = "dd7de574b74c651046f6d3e5b7a4179231fc2f095480ef52fa410c9eef6f1bcc"
+
+[[files]]
 file = "config/tfcagedalcohol-client.toml"
 hash = "0e230e247ef6b5631f0d779dec5e3f03bcd88555e5081f0824b9618e2509f52e"
 
@@ -901,8 +913,16 @@ file = "config/tfcastikorcarts-common.toml"
 hash = "97292825b89e6872f219da4ddd774bfa01e5eaab32c3a9d1d989ce40ebbf5902"
 
 [[files]]
+file = "config/tfccaelum-common.toml"
+hash = "3c778a05f28d279fe47f73881fe045255ef033fe6f37347f3bb7802f32a6c22f"
+
+[[files]]
 file = "config/tfcdesirepaths-common.toml"
 hash = "4f512eaced8f5605db5aa54eac9532b94bade7dfe3361424aa4edff99fd43542"
+
+[[files]]
+file = "config/tfchotornot-common.toml"
+hash = "d689e6c689cca8dc3e76606858bd3cc81d6a3c5271b3a541d3a508145407edea"
 
 [[files]]
 file = "config/tfg.json"
@@ -919,6 +939,10 @@ hash = "b2e66325535b673063f023e6b99d9ba072a202ef3823b0543f446e0730ec62b9"
 [[files]]
 file = "config/toolswap-client.toml"
 hash = "805939560f500f363f57e8546c8c207091a400ff0162ff568b5e356233fab295"
+
+[[files]]
+file = "config/tumbleweed-common.toml"
+hash = "8da919d5ec927450c66497e2dba34aaa2e1993d017ee7654f3bdde26d09686f2"
 
 [[files]]
 file = "config/voicechat-client.toml"
@@ -962,7 +986,7 @@ hash = "9dfdbceab9095ee7345d9fb9ce5f4665de6b34298214607cea2d504d39e8b23c"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1046,7 +1070,7 @@ hash = "4ad6d51a0232cd0396b11ff9f91b3cecfc07375d868c60ec4476533fb9c1dc29"
 
 [[files]]
 file = "defaultconfigs/tfc-server.toml"
-hash = "5419457d1e6b6140da0014bd3be5e4c07d83ffe0658e508516bc701e8912166b"
+hash = "c528bc1ad4f5bb471e51ce41d50f44adea2519f5d2ff1edc1babfeb63bb113b7"
 
 [[files]]
 file = "icon.png"
@@ -2805,6 +2829,11 @@ hash = "a573fc4b00a9ad5d19d60a8617698d0f41f790fb53a3626ffd3ad493cc13ab15"
 metafile = true
 
 [[files]]
+file = "mods/caelum.pw.toml"
+hash = "0e3f8fb94585f6087c831362037b9aacf6aa5f76527ead4563033ef321970a8d"
+metafile = true
+
+[[files]]
 file = "mods/carpeted-stairs.pw.toml"
 hash = "87c0430acb03c8092df8aa37df9d7cb16bc6895ec3932c72e23a04561faf5896"
 metafile = true
@@ -2922,11 +2951,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "daa66b29e6634b2993fb34cc5075b031e58da3b8a7bc39b672638b72a21ae9ba"
-metafile = true
-
-[[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "387e483d5ed7f5b8cf88288c2824b6159e8a123225222ff171898f1006d84ec7"
 metafile = true
 
 [[files]]
@@ -3185,6 +3209,11 @@ hash = "b5ec7f5b4e8a3f4b368e661627b177d53f344369bf4d6ebc8aac0c02e17049c6"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
 metafile = true
@@ -3430,6 +3459,11 @@ hash = "230780e56b3afd44bd6b37b162193e2c4090a57259bd27b6554e2769837f7482"
 metafile = true
 
 [[files]]
+file = "mods/tfc-caelum.pw.toml"
+hash = "82737c2a4b84fccedb1bf38aeecdaa671ad22afe2ddde34357594dfe54610786"
+metafile = true
+
+[[files]]
 file = "mods/tfc-casting-with-channels.pw.toml"
 hash = "bdaae7f102d199248ef822d1b46ea61a75a953fe50d1baea008d0b2721363813"
 metafile = true
@@ -3445,8 +3479,18 @@ hash = "dd1f59724f674b08399d7ed74b2bfec263f045f78a61ab910bb8652c4e8a46b8"
 metafile = true
 
 [[files]]
+file = "mods/tfc-hot-or-not.pw.toml"
+hash = "9914181fcfc1acbc967b5930e730714ede56f05582e04608722909816173cf7c"
+metafile = true
+
+[[files]]
 file = "mods/tfc-support-indicator.pw.toml"
 hash = "99b7857bcbeb065ac89289bdf97fa0fb7c7cd18699d8c34702d98500614cb809"
+metafile = true
+
+[[files]]
+file = "mods/tfc-tumbleweed.pw.toml"
+hash = "8b6d15770fdfd4c0816e5c671f3d55fff262dc410cb5e323426390ee5a3bc8e1"
 metafile = true
 
 [[files]]
@@ -3467,6 +3511,11 @@ metafile = true
 [[files]]
 file = "mods/treetap.pw.toml"
 hash = "ffc55e1cde6d70e23b732bffeee87d439085d921a20116e1d106e90910317417"
+metafile = true
+
+[[files]]
+file = "mods/tumbleweed.pw.toml"
+hash = "15af8d1b761076f112ac3a81edb2b2d5647688d7e30ea2460fe7841d43323b27"
 metafile = true
 
 [[files]]

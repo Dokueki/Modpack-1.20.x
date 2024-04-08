@@ -122,7 +122,7 @@
 			#Configure Darkness Mode
 			#Each config changes what is considered 'true darkness'
 			#Allowed Values: TOTAL_DARKNESS, PITCH_BLACK, DARK, DIM, OFF
-			mode = "PITCH_BLACK"
+			mode = "DARK"
 			#Toggles if moon phases affects darkness in the overworld
 			affectedByMoonPhase = true
 			#Configure max moon brightness level with darkness

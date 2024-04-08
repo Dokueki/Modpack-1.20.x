@@ -1,0 +1,13 @@
+name = "TFC Caelum"
+filename = "TFCCaelum-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "021550d7f2354dcaa8d1130f92e0927e9faf8cd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5240883
+project-id = 999031

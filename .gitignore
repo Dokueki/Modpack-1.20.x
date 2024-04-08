@@ -9,6 +9,11 @@ config/Discord-Integration.toml
 config/xaerominimap_entities.json
 config/voicechat/username-cache.json
 config/jade/server-plugin-overrides.json
+config/embeddium-fingerprint.json
+config/embeddium-options.json
+config/ftbquests/*
+config/xaerominimap.txt
+config/xaeroworldmap.txt
 
 # .minecraft
 crash-reports/*
@@ -56,4 +61,3 @@ knownkeys.txt
 
 # Server Pack
 .github/buildtools/serverpack/*
-
