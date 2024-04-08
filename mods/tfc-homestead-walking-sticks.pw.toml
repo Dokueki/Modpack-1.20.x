@@ -1,13 +1,13 @@
-name = "TFC Homestead walking sticks"
-filename = "tfccanes-1.20.1.jar"
+name = "TFC Canes"
+filename = "tfccanes-2.0.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "00df362fe76424875a9cf69cb998218a4b2606f0"
+hash = "1fd071335fe9d44c5856daab8719c0802615398e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5229154
+file-id = 5239302
 project-id = 920202

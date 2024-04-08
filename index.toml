@@ -109,6 +109,10 @@ file = "config/balm-common.toml"
 hash = "f24f7cede066400c657af13b1aff84e4920ac531bf24ab18cff1ef32fff72835"
 
 [[files]]
+file = "config/belly_flop-common.toml"
+hash = "369843f065d40c8ad953309d3b93cd054cc3aa97952190efbaebac58c2a9cc16"
+
+[[files]]
 file = "config/bettercombat/client.json5"
 hash = "e8064b014f9e01c27b63877f98410dd166f79b562aabb0d8fc365aeef2616902"
 
@@ -131,6 +135,14 @@ hash = "3cef81480f204e582b4578dc4d8657bc90a814ea79a9d7920e220cd599fdb5b3"
 [[files]]
 file = "config/betterthirdperson-common.toml"
 hash = "1cae9855e777afbbdca5cd858bc66d10069c902fbd1b8d073cbedace3fa71779"
+
+[[files]]
+file = "config/blueprint-client.toml"
+hash = "89ef9f568d793018db983b9f944e85876a4cebd408f8f4d2182b3c38fa44ef7e"
+
+[[files]]
+file = "config/blueprint-common.toml"
+hash = "468c5e98de57915c1fbc04f24934723184bfaff4d08f666ed8a8b4bdce894a25"
 
 [[files]]
 file = "config/blur-client.toml"
@@ -770,11 +782,15 @@ hash = "d3677ed2cee0a1837f12ce661727a7b2eeda9eaad2ff6c5e398ae95b477165a4"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "165c76082879f04a39334b28d629654d442d16842adfee082d031da26b5b3ae4"
+hash = "bb5dcc3ab4231fb7209ee92d1284a69a5aad0bfb26f9a67648c75b9ef1e0aaae"
 
 [[files]]
 file = "config/patchouli-client.toml"
 hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
+
+[[files]]
+file = "config/personality-client.toml"
+hash = "b1f773cc87cd02fc632dd37a1cde0c510076f07a2fac6d2e8c31bcc66cc0bc84"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
@@ -910,15 +926,15 @@ hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
+hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "bd41990acbab402cd32dc0f9767311774a01c1f53ea0be1b03339f1e16af32ad"
+hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "f9ee716d4cb70ebf1878315ead786b8ac8b998abbee4c6bf4600886a3e548713"
+hash = "95a9f787a4f1ff8d963aba0fc86ef222e547768b50103ee895e9c9b649434205"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -942,7 +958,7 @@ hash = "9dfdbceab9095ee7345d9fb9ce5f4665de6b34298214607cea2d504d39e8b23c"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1854,123 +1870,123 @@ hash = "a764cf7c38b8c64c4979d9ddd0b5abf43f36bbe21919d3b01132a5a3624ee942"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/badlands.json"
-hash = "bea5478a4789e0c1b2234f3bc24c6e09c187210b6606dbcef03cedae0ea7f06e"
+hash = "ae187a49651638ec694f9f6a68595127d210a3e6db5f77bf795455e25314688b"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/canyons.json"
-hash = "c123e4b5dfdacb905c053259260ac5e7e595a5ac777e163253d3c15c803c9ddc"
+hash = "892a0bf4690fba39d956286f7e01f0e0b23ddb78122381533625e542a6d195e4"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/deep_ocean.json"
-hash = "6737bddf1a90c2f94f0bc346de4d13fd31e0f46ca05d025d64ba626a0407538d"
+hash = "13e1422fc87b99ee3147de96b479711f7d59e93803fe20c4b0cd42cbf00cef7d"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/deep_ocean_trench.json"
-hash = "c29c5da8fb71ca79851a74824910ad6a73b9107dfae7b2789acf090b5717df0d"
+hash = "2a53c795a3c8d41a254d0b191fc53bbb20aa9b737fd4ebe4738ee827da0dc69e"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/highlands.json"
-hash = "39a30586defc299e3757d77b515abe8f39ef00c0b8bc04c89ed94975aad8ce47"
+hash = "041f6db12fff6024a052f9e2b7911be7dfa2e5adea8bf8884edd60e17c6d7552"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/hills.json"
-hash = "b77f7a2f8bc3f695a258d37145a764796e7bf764fab428da363e4e3b8bf81650"
+hash = "1335de1b48918f2667ae1ec0c66cfbc1a527ef5a7668efa06f1f4a9a1f2268f6"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/inverted_badlands.json"
-hash = "c4e8f2ae84a3358502807deecba37d9bb7678d8c9219181b04577c6211f4de21"
+hash = "275963d3260619d1482f4ab7b78feb455b51c72443d433fe20a4d935fa1d6408"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/lake.json"
-hash = "60f386cf475efc648f2f9748fd6790528bc5daacccee23135e09a195f5b64873"
+hash = "0bcd994e1cd62108150b51dfc92ea6844cfca5e3afa06b9a1d39430e1eddb160"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/low_canyons.json"
-hash = "d77ed5733438de85b4db118240345c0c26c9a3749afb72f0813057b8f29c106a"
+hash = "7476189c761779637924c3d77245a19978fe143397008837236c121586ce6795"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/lowlands.json"
-hash = "6d7d451f61544dcee70dccf021db0e83d740eaf2894dceae72bdaee4098ac881"
+hash = "e31a93262f1508bb27fdd397a0108cf50587f8978a73091304ee447778012760"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/mountain_lake.json"
-hash = "2846bb0988ed93c47e4e223ba0214350d80d042cec0139e74f572f0458150644"
+hash = "f918ba39b738b441da36731dae7a451f0503651a98d8534db0a032688a60b98d"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/mountains.json"
-hash = "ca0199c7d66cc16b6557f4ff00a12c93c98d8402db7c083c7463d277a781715b"
+hash = "d80d67a0cc0cc041ae429fd0ad58745a4e289c43449e6dd0e464f08a632e8496"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/ocean.json"
-hash = "474a0739f5db551553fdddba3e1cad7ef5418cebb5aea8082505e4f6841d3191"
+hash = "04fbc5024de98ee50b6d1b3cba5e42eb7efb38abc2d352cb582510d3623278c6"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/ocean_reef.json"
-hash = "f24c637f3e75a876132c80a8f52478a1c3f3f433dbe772a7f2519069723e1a1b"
+hash = "cb133557608380d1a19d3e82800c2d8530be9a82844c710b8535b70ea78c23ee"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/oceanic_mountain_lake.json"
-hash = "75cfb67e043a8bad6090e51cc6fed5f99b351ce6c16d50233b2fc07b20234d25"
+hash = "046122eef013a9a46ebfb99b9da3f3993034150e97c095c4e7d063eb598a3903"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/oceanic_mountains.json"
-hash = "78722b9e64a91ec0e52dbd060088bca25a33722c7ad0901364d221787c8331c4"
+hash = "3fcc71373f90301825141a79b58091c1245326f7baf778667667b3b83ade66ef"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/old_mountain_lake.json"
-hash = "393613bc0f784b68a764acdd830a1b8fbb3fca5085d917c1168624bf80b9328b"
+hash = "d57e7896411698cc173702b03410e9bebee660796da38e5d35e06f95b1b27b48"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/old_mountains.json"
-hash = "31861f86a1ed66cacb5dbd54e5adc0eaeaca9b8f0306cab63433ee3a7b13d06d"
+hash = "da56013e9f3d241f5cc91f952abd0abf746855cd57aaf46f72589454d28f6c26"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/plains.json"
-hash = "c4d6bb18ebf770e54be063542bc19af825a77fd7bbf6740a68bfd6f7e98e88aa"
+hash = "a65e0c61dd9126ff7071b0721739cc5184912d18bb6fbff0d2069a9312d4dd02"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/plateau.json"
-hash = "863e06854c9ef66ed333eebc78bc297aaf3ea144553df0618ce8ffe632dd59fd"
+hash = "864458a8a59d4a09398e2c6422c3db191a3a3232952966c17f3e860332fe8044"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/plateau_lake.json"
-hash = "808897a882db04335f3706c1c38491cc97db573b2f39501aa2f7a9095ca6e872"
+hash = "822ab59ff4347edc3cd6456bc1756164a4f00a3dfce3de148bdb67fc9be7d9a9"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/river.json"
-hash = "9a13cbe37e538fdb3a407b5dd3a3d2cbe150166922271d350be18db48214ba6e"
+hash = "b56d6198e09e4e8890ec9e60d106ea8c49cbc0a17c98405f3eda5c1ebf2f66df"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/rolling_hills.json"
-hash = "350f728c3c010ff13a4d455042cd863d8d810be9130e6aa1031325d17cf9b815"
+hash = "aa6a9a53faef2bed85e573d750ecde3f42854065d8d45108bd3c04a9e49f1074"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/salt_marsh.json"
-hash = "922b5cfd195a9d57f1dba365539791b161fdba98dfdce4c4969c0a92f32530b9"
+hash = "04204f811e428982169d312c613ed99724c913ef6987d10aa7b8669780da5b41"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/shore.json"
-hash = "484cb93212eea2bf4a17cb15b50cc9fe1f0c03c2c69bcd7399ed6fa3f8a7e236"
+hash = "60b1ed033b1f31d7d74b19c2420835aea0ab9df00fb1102f48a33b0401363dfb"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/tidal_flats.json"
-hash = "ca8ada4f18a206840863e89a1a55fcf49c45f6c7bad74f25cfc3a3c542b2622c"
+hash = "56ba4e1a3633dbc1dc7f105b166aa3023936b95d85e197861e44872a67b2447d"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/volcanic_mountain_lake.json"
-hash = "f3efebc584b7019ffb2db8629a16079199a1e8f422af2b2aff7e66900e3c491c"
+hash = "f1285f83e47e76f7b75de6d6a43c8650cb03363bb149be6886c83eaf616e9aac"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/volcanic_mountains.json"
-hash = "15690bbef3ecf157aff8193546f27e95285e7612f4a5e77955bdee081141a6e2"
+hash = "753cdcd5233d669dc5dbe18b5968d85ce761737a81f28fa8c232f3b4b59e3445"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/volcanic_oceanic_mountain_lake.json"
-hash = "d8aa3a871513b15ed66b34e06b27a9bb57dfbc26fdd7654a1d5e1774123c9b48"
+hash = "9559e857743a745f64d3887b55745a85b4537b6991405f9d1af88744de8f58aa"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/biome/volcanic_oceanic_mountains.json"
-hash = "d9fc19cde31fbb548ab031627a03fdbaf3cb17f6deb35b359a6ea003b9ef5927"
+hash = "2c0eb6782698522e946d8a610192317c83931741a05f3158b97b44d2f0fd00ae"
 
 [[files]]
 file = "kubejs/data/tfc/worldgen/configured_feature/diamond_volcano_fissure.json"
@@ -2745,6 +2761,11 @@ hash = "e3ddb6c3aa1f1f5393ad908b0741f459dd5e0440e383b8a5aa2598122b9f1a39"
 metafile = true
 
 [[files]]
+file = "mods/belly-flop.pw.toml"
+hash = "f6d4193fda83fefd77b843a1a9cc1c196b78aea0dfba0fbd464044a84bb760ca"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "f96d0997b608834038df81602a54d1f219a51a7f96ebc452d06a72f8b4fc9529"
 metafile = true
@@ -2762,6 +2783,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "36cfe23c658f8819d1857769c59829f22f98bc594a65eb97f8df4bdd6c432ec5"
 metafile = true
 
 [[files]]
@@ -3250,6 +3276,11 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
+file = "mods/personality.pw.toml"
+hash = "f463d5b6ddc6bbed508bfad219121d14c6d596ec54c9c7983f0618367be2dbf9"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
 metafile = true
@@ -3321,7 +3352,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1540e5d979657f7e5c4dc5b52a3489786f1f2972054495bc5bb3062354702302"
+hash = "184473d84aaf6618e2c8df25d3b847718b923462c8881212f73a108cb01106f0"
 metafile = true
 
 [[files]]
@@ -3406,7 +3437,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-homestead-walking-sticks.pw.toml"
-hash = "633de06d9043e4355f6b0390bc8cd5b7c8b2fd6ac62801049d3c0c584b0709e9"
+hash = "dd1f59724f674b08399d7ed74b2bfec263f045f78a61ab910bb8652c4e8a46b8"
 metafile = true
 
 [[files]]

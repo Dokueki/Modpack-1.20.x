@@ -1,0 +1,9 @@
+
+[changes]
+	#Damage multiplier for falling in water-like fluids
+	"Surface tension damage multiplier" = 0.7
+	#Damage multiplier for falling in water-like fluids while in a crawling/swimming pose
+	"Belly flop damage multiplier" = 1.5
+	#Only players are affected by falling into fluids from great heights
+	"Surface tension affects players only" = false
+
