@@ -55,14 +55,14 @@
       {
         "type": "minecraft:skeleton",
         "weight": 40,
-        "minCount": 1,
+        "minCount": 2,
         "maxCount": 2
       },
       {
         "type": "minecraft:zombie",
         "weight": 45,
-        "minCount": 2,
-        "maxCount": 6
+        "minCount": 1,
+        "maxCount": 4
       }
     ],
     "creature": [

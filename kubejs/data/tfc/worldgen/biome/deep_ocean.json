@@ -107,18 +107,6 @@
     ],
     "monster": [
       {
-        "type": "minecraft:bat",
-        "weight": 100,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
-        "type": "minecraft:creeper",
-        "weight": 45,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
         "type": "minecraft:spider",
         "weight": 90,
         "minCount": 1,
@@ -132,7 +120,7 @@
       },
       {
         "type": "minecraft:zombie",
-        "weight": 45,
+        "weight": 40,
         "minCount": 2,
         "maxCount": 6
       }

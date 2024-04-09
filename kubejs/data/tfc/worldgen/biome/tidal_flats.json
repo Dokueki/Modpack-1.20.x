@@ -121,14 +121,8 @@
     ],
     "monster": [
       {
-        "type": "minecraft:bat",
-        "weight": 100,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
         "type": "minecraft:creeper",
-        "weight": 45,
+        "weight": 40,
         "minCount": 1,
         "maxCount": 1
       },
