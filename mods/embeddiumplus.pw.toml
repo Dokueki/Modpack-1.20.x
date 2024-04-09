@@ -1,13 +1,13 @@
 name = "Embeddium++"
-filename = "embeddiumplus-1.20.1-v1.2.5.jar"
+filename = "embeddiumplus-1.20.1-v1.2.6.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "d49158df0c6a0cd99c6fdc092c410838908695d3"
+hash = "2e537a6453eeb842f20091408b48dc5ddbd5d936"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5182805
+file-id = 5248239
 project-id = 931925
