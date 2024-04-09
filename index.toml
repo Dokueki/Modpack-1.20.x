@@ -54,7 +54,7 @@ hash = "885a116a6af51711fca9be754f4de1a05d1ecd87aff5399cdfb8fbd8e4410048"
 
 [[files]]
 file = "config/.toolswap"
-hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+hash = "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -790,7 +790,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "73d300b1349340752175b45a0ebe8d262f4fb9987842d8ecf7697e6a8e82f390"
+hash = "3136486bcb13d75f3605e207944579bf9663c632bb5edca1d3f78b6df406f3b7"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,11 +866,11 @@ hash = "2a2cca54dd1a5e0bc51c01f873a66e0173306a31060bbcd64a5084948394c296"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8d8deef0ef4eb2c610fa55300a1cfeaf9cc59da0970a65857858439f072c7a83"
+hash = "eca4a9f763e452576c8753d69ab743c2bda6703b05d172d9d218e0fb9d237ef2"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "81a83b4c83a8cbf958e500815814c2f902980bb7210284e1e3d211abce365d44"
+hash = "0d61b1142e3aea7dd49a8ee814cb48a1234cb3d9eed485e8ec4fd3c45db61f15"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -946,7 +946,7 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
+hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -978,7 +978,7 @@ hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3244,6 +3244,11 @@ metafile = true
 [[files]]
 file = "mods/nan-health-fixer.pw.toml"
 hash = "6784868f7f8cdf15bcae5dadeff2651712e78fe3bb7a699c0664ddff7ebab8b7"
+metafile = true
+
+[[files]]
+file = "mods/no-baby-zombies.pw.toml"
+hash = "aae2556ca3a394da465e98a2dc22d852d97b2857bbfbd3434017aee00e4362d8"
 metafile = true
 
 [[files]]
