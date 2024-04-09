@@ -66,7 +66,7 @@ hash = "6fc0f6bf2f91fbecd709c2a42d3e443b4d30561b902c594027f5479662a533d5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "ffcd62606d70b28a485b63a148bc9d1bec1fd2f4e277cc7cd96af6f8793977b5"
+hash = "9c2c796cfaedc6935d9d424b8d03e150779325a4679a74bacbbf281505418431"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -155,6 +155,10 @@ hash = "988cfbd9a6de8894be0e21fe870a3d3215beab32c8180e629d8922083dfd4e02"
 [[files]]
 file = "config/burninthesun-common.toml"
 hash = "e250672d92c63eba5827a45afcd83b0d0ca30aebd53112e18aa6562e920661d0"
+
+[[files]]
+file = "config/caelum-client.toml"
+hash = "408bae05f9f10384bb7314df9008464430363a9fd45e2005060ede63d3312c68"
 
 [[files]]
 file = "config/carryon-client.toml"
@@ -322,7 +326,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "cbddddb792a836b53c1450396d67a285c524364d236b36661f7431e0690f72a0"
+hash = "9b165fa271c9f70584bea8a230221cd44592885a6d63ced9b3c6f6b7a097d3e5"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -642,7 +646,7 @@ hash = "0de7107881d0628a90da9d84dfb76f46e4e3aa69b823081368af9e099643ce50"
 
 [[files]]
 file = "config/hangglider-server.toml"
-hash = "bc68484c6b4228b95cd62731026531eb00d254afd8b87d99770da92eb7ea9ee8"
+hash = "5461e6a5d55833ac4e7c4147a41661fa77ae4b921e7beae7f1d307416a7c517a"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -682,7 +686,7 @@ hash = "6b000326258730c6337903ff15199fca978cfb8003e797a63a880ce249f72029"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "988b27dfee8c5cded5b3f9932fe220d5871348bb0717d03912cafc42420ed89e"
+hash = "76b760cbec81693d33a089f3f86a8a4fb830fb948722ac983d750185b9453296"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -790,7 +794,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "b32fdeae61950642b99f2bc56dde0c2dd69784ba82620ead3580a0b730b00b79"
+hash = "27031708b33e2c088192b78ce54335a84ca23d0d603cc9a069d8291655329937"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,11 +870,11 @@ hash = "2a2cca54dd1a5e0bc51c01f873a66e0173306a31060bbcd64a5084948394c296"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "3a3389043280c17f9dfe2e99f7758faf9e3ee6c0c6903b4a53e016ce3fc019c4"
+hash = "9355c27fa2830aa3933ca59962afb003006285378a7b9e7c93c915121449a0ad"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "9778206e8f55c81233708257ef60f6b066d7a0428b8fe2e75ceca2bc51d9e2a9"
+hash = "8381779646e22fc2dd879942cc6e2646125f59fe98862ae35da9cafb923f863d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -907,6 +911,10 @@ hash = "a7f04f87913ec608251f13fcf3edf9765ed184a74c3b3984e764d157d77509dc"
 [[files]]
 file = "config/tfcastikorcarts-common.toml"
 hash = "97292825b89e6872f219da4ddd774bfa01e5eaab32c3a9d1d989ce40ebbf5902"
+
+[[files]]
+file = "config/tfccaelum-common.toml"
+hash = "326562756669f215ad4d16268b04d1b4803f5e07fd188c6ea5df80e4f09b1899"
 
 [[files]]
 file = "config/tfcdesirepaths-common.toml"
@@ -978,7 +986,7 @@ hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1062,7 +1070,7 @@ hash = "4ad6d51a0232cd0396b11ff9f91b3cecfc07375d868c60ec4476533fb9c1dc29"
 
 [[files]]
 file = "defaultconfigs/tfc-server.toml"
-hash = "5419457d1e6b6140da0014bd3be5e4c07d83ffe0658e508516bc701e8912166b"
+hash = "c528bc1ad4f5bb471e51ce41d50f44adea2519f5d2ff1edc1babfeb63bb113b7"
 
 [[files]]
 file = "icon.png"
@@ -2817,6 +2825,11 @@ hash = "a573fc4b00a9ad5d19d60a8617698d0f41f790fb53a3626ffd3ad493cc13ab15"
 metafile = true
 
 [[files]]
+file = "mods/caelum.pw.toml"
+hash = "0e3f8fb94585f6087c831362037b9aacf6aa5f76527ead4563033ef321970a8d"
+metafile = true
+
+[[files]]
 file = "mods/carpeted-stairs.pw.toml"
 hash = "87c0430acb03c8092df8aa37df9d7cb16bc6895ec3932c72e23a04561faf5896"
 metafile = true
@@ -3444,6 +3457,11 @@ metafile = true
 [[files]]
 file = "mods/tfc-ambiental-second-edition.pw.toml"
 hash = "230780e56b3afd44bd6b37b162193e2c4090a57259bd27b6554e2769837f7482"
+metafile = true
+
+[[files]]
+file = "mods/tfc-caelum.pw.toml"
+hash = "88382676f4754e1064146778583b68990daec9f553e9d306ce7ea80fdf726ffd"
 metafile = true
 
 [[files]]
