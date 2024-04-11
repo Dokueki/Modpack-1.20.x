@@ -790,7 +790,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "3136486bcb13d75f3605e207944579bf9663c632bb5edca1d3f78b6df406f3b7"
+hash = "1e98408ba0426b39e2216c8fbcaa0eee054f7e0059c8869c1a3d571e43932c0a"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,11 +866,11 @@ hash = "2a2cca54dd1a5e0bc51c01f873a66e0173306a31060bbcd64a5084948394c296"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "eca4a9f763e452576c8753d69ab743c2bda6703b05d172d9d218e0fb9d237ef2"
+hash = "762de3f9eafdacb4426206e20bb5e7dc539167e8d064134e2d420bdca7882a09"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "0d61b1142e3aea7dd49a8ee814cb48a1234cb3d9eed485e8ec4fd3c45db61f15"
+hash = "661c6a179ee08f723a417cd98f800f5372aabb3572a62987dde9f3b6e111a7d8"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -978,7 +978,7 @@ hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2738,7 +2738,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "c6c9689886bfcd5c11658c4bba6721659f2ee35a533dd9e457781a02e5b8503f"
+hash = "65ce57a6ef462c45d74bbe9d6b8b7cfeb7c568e5b67ed9f54771284487e8009b"
 metafile = true
 
 [[files]]
@@ -3023,7 +3023,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmacivilization.pw.toml"
-hash = "6d72c7b2fe2f63b275ab78536ac0b185a2ce24280f0014af2b293153d7cb7585"
+hash = "7ff93bd298f6842c577c65ad92cb4600c9d8bddc27fa6881b7e6ecde7b046811"
 metafile = true
 
 [[files]]
@@ -3088,7 +3088,7 @@ metafile = true
 
 [[files]]
 file = "mods/gcyr.pw.toml"
-hash = "1031da662a9d558116d1f961bbb4b89bd81ce082a548627257d4160d684ab6a5"
+hash = "c4d363a508eefd79fdb46c6dd4f7eeb1a35f0a1a3c0d6b6b00f8e3c3bd64cfd7"
 metafile = true
 
 [[files]]
@@ -3103,7 +3103,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "71f5d559a338d5c9fa58006b437caa23cfbec89cea0de048ea314b5a25bd8d8b"
+hash = "4a0d62c35ae6a3a0345fe6f7bd9c8d24d5fc74b94dd016b46da6ca811903a9a9"
 metafile = true
 
 [[files]]
@@ -3368,7 +3368,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "97fd1d597edf2cbcc76b9cae87acf412670496b198ec6c4823634b87e6955e71"
+hash = "862c11253b402bf560dab86ba0ba72f3b98fcff8466e788dd58eebf98baa9b46"
 metafile = true
 
 [[files]]
