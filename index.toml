@@ -302,7 +302,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
+hash = "295c4e2ef78409b5289217404503313ac94bf71cc9f5768e459d2e7c56aa5476"
 
 [[files]]
 file = "config/emi.css"
@@ -790,7 +790,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c73e504b026e0e1fa458db03986f647ee633a18fe4121d6e939fec6b41dc77bd"
+hash = "1192a0fb5e8bb889dcbd3b39ad17866d1a46dd599010abd0d43996de37876a65"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,11 +866,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "fed7b512da5a4a5b49d48cd55d2b2d2abe8daf3dbd144abd8392a16754355f8a"
+hash = "c57e1492cb4a2b8deefa2c7b57ecf658272d5e0b1ebffefc3949521724dc8d1c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e805f61161f13f96df4e82d6a822e0b4c01ac2aa00a2927f4a794a3f86cf0126"
+hash = "a370dfbcdcf050a4169f161348827df5e5602d385461a82dc34de549ead00fd0"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -946,7 +946,7 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
+hash = "1dd9c9777678a83c463d4a0a0d595c02800ed5e3ed45c4e5c4d02fbc8ef89d01"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -978,7 +978,7 @@ hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2973,7 +2973,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "899f07b43a5d4f5da3691f024c24733f202c50e8e507737c58659af116b26093"
+hash = "78b0d178a46eb65c01d0602332c97ac5ab2cfe165728a0e1d860607b2b1c8d61"
 metafile = true
 
 [[files]]
@@ -3023,7 +3023,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmacivilization.pw.toml"
-hash = "7ff93bd298f6842c577c65ad92cb4600c9d8bddc27fa6881b7e6ecde7b046811"
+hash = "b80143c49fee848cabdda2337d3c0bea080b7482853eb215da3bc47c2b56cae4"
 metafile = true
 
 [[files]]
@@ -3368,7 +3368,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "862c11253b402bf560dab86ba0ba72f3b98fcff8466e788dd58eebf98baa9b46"
+hash = "799778cc92c55c71a87b656c36e91db943629352868a63bb45962aa6cad04c14"
 metafile = true
 
 [[files]]
