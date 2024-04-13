@@ -193,6 +193,10 @@ file = "config/computercraft-client.toml"
 hash = "74a4490a9e22547861cccba0a9cf729be26b2a482ca3fd2c694ea0f4d08e77f2"
 
 [[files]]
+file = "config/configured-client.toml"
+hash = "564e6b7eb80e781e61c79d687b6a506e163d3cad89ede9705a744d3453e02231"
+
+[[files]]
 file = "config/cosmeticarmorreworked-client.toml"
 hash = "1f09257bc11babe19b5e78bce02ed7dcade4efab2a9353008bacb96ddd6bd75f"
 
@@ -290,7 +294,7 @@ hash = "2c58318485b34f88159acb0bb8cf359b61ca80d4b8fd2750f5d596d43121bede"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "472eb65d190616ace4f9d0318a47e9cc5ce89ea43d321413f26daff849d825e8"
+hash = "1c7bbdcea479542ee4be5d72ce1e57f4778b6eee93f6f44db846b59a8ac02f40"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
@@ -681,10 +685,6 @@ file = "config/jade/plugins.json"
 hash = "6b000326258730c6337903ff15199fca978cfb8003e797a63a880ce249f72029"
 
 [[files]]
-file = "config/jade/sort-order.json"
-hash = "988b27dfee8c5cded5b3f9932fe220d5871348bb0717d03912cafc42420ed89e"
-
-[[files]]
 file = "config/jei/blacklist.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -790,7 +790,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "3116d7f182b110f801e2a20bc73ee9a891a5b5e1702f3b2ae4cad3d4414a8f65"
+hash = "9c946540cfea6f81d5a32e09b952ca5dbc28bea3435c1270f7d3040d62ef72e3"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,11 +866,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4a51d13b2c2cf6541c38002e54568d6f4d8411534b14c50a029b1686927a959e"
+hash = "f2a61cbaa3f5b0bdd02420c40270a851603aa992ecd9d308a425f78420801b71"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f0145deccbd2ef166f6fb962c0a35b2676b660c5fc7f7d5ed966f7d1657486e8"
+hash = "e55c0150a3cf9c23d0c6129ed588d4a0d31e5f8e40af0c33ccf225b82d50b2cb"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -949,10 +949,6 @@ file = "config/voicechat/username-cache.json"
 hash = "1dd9c9777678a83c463d4a0a0d595c02800ed5e3ed45c4e5c4d02fbc8ef89d01"
 
 [[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
-
-[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "95a9f787a4f1ff8d963aba0fc86ef222e547768b50103ee895e9c9b649434205"
 
@@ -978,7 +974,7 @@ hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"

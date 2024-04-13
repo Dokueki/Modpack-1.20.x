@@ -9,9 +9,10 @@ config/Discord-Integration.toml
 config/xaerominimap_entities.json
 config/voicechat/username-cache.json
 config/jade/server-plugin-overrides.json
+config/jade/sort-order.json
 config/embeddium-fingerprint.json
 config/embeddium-options.json
-
+config/voicechat/voicechat-client.properties
 config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
 
