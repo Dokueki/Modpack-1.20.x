@@ -2813,6 +2813,11 @@ hash = "a573fc4b00a9ad5d19d60a8617698d0f41f790fb53a3626ffd3ad493cc13ab15"
 metafile = true
 
 [[files]]
+file = "mods/caelum.pw.toml"
+hash = "0e3f8fb94585f6087c831362037b9aacf6aa5f76527ead4563033ef321970a8d"
+metafile = true
+
+[[files]]
 file = "mods/carpeted-stairs.pw.toml"
 hash = "87c0430acb03c8092df8aa37df9d7cb16bc6895ec3932c72e23a04561faf5896"
 metafile = true
@@ -2948,6 +2953,11 @@ hash = "bace9ac545c5db24d350a955565157500cdcedc8db6a8e78ff6118d97748eb2a"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "850837acd5d51a7d3c0f4ffb2d6cf3634194d996179955ae0855f1c064355988"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "a3085decb5b25159bed5030fd302769633970ab3d6951afd1cc375eb36c7cff9"
 metafile = true
@@ -3004,7 +3014,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "52bd643a002437aeaf428c06c6e88a7c9f71431f94e4132a9a36ae2c8817e218"
+hash = "e5be5425528f268d8530243bcadfe17a978930b136cde3d365fdc16d96f5ccce"
 metafile = true
 
 [[files]]
@@ -3024,12 +3034,12 @@ metafile = true
 
 [[files]]
 file = "mods/firmacivilization.pw.toml"
-hash = "b80143c49fee848cabdda2337d3c0bea080b7482853eb215da3bc47c2b56cae4"
+hash = "315d62ccf792e8b556dbbcb3b91297467c6e0a671a140d453b078a4a643b3345"
 metafile = true
 
 [[files]]
 file = "mods/firmalife.pw.toml"
-hash = "89fdf5f2ed3f719d0ac7a9e98a2aad0af41b42c983fb53356645774e500dfe83"
+hash = "076ab31f5a1bbe751d22cbcd42816a5ddda831c229b852f7f2950cb91e1d9017"
 metafile = true
 
 [[files]]
@@ -3089,7 +3099,7 @@ metafile = true
 
 [[files]]
 file = "mods/gcyr.pw.toml"
-hash = "c4d363a508eefd79fdb46c6dd4f7eeb1a35f0a1a3c0d6b6b00f8e3c3bd64cfd7"
+hash = "b2f4a43cfa6f8f360c0abd6266ac91d23256ff15817f06d9c77c851f50348b71"
 metafile = true
 
 [[files]]
@@ -3214,7 +3224,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+hash = "f5f2e45041e4e559e1631cd99eaf273609ca39c0dee3c6030590992968b04620"
 metafile = true
 
 [[files]]
@@ -3453,6 +3463,11 @@ hash = "230780e56b3afd44bd6b37b162193e2c4090a57259bd27b6554e2769837f7482"
 metafile = true
 
 [[files]]
+file = "mods/tfc-caelum.pw.toml"
+hash = "6c5a9d3e31dca77ea3f5b0fe89c63b48131819b804b067d8f815210132e09da5"
+metafile = true
+
+[[files]]
 file = "mods/tfc-casting-with-channels.pw.toml"
 hash = "bdaae7f102d199248ef822d1b46ea61a75a953fe50d1baea008d0b2721363813"
 metafile = true
@@ -3529,7 +3544,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5a95fc8fb25a0a75895b612b44dfdb677bc958972c2b527efbf732ffe48caae7"
+hash = "232027893fcd366f56d465821d883830477641b8cef5871add2bdc998ae2503c"
 metafile = true
 
 [[files]]
