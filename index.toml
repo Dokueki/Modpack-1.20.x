@@ -157,6 +157,10 @@ file = "config/burninthesun-common.toml"
 hash = "e250672d92c63eba5827a45afcd83b0d0ca30aebd53112e18aa6562e920661d0"
 
 [[files]]
+file = "config/caelum-client.toml"
+hash = "408bae05f9f10384bb7314df9008464430363a9fd45e2005060ede63d3312c68"
+
+[[files]]
 file = "config/carryon-client.toml"
 hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
@@ -685,6 +689,10 @@ file = "config/jade/plugins.json"
 hash = "6b000326258730c6337903ff15199fca978cfb8003e797a63a880ce249f72029"
 
 [[files]]
+file = "config/jade/sort-order.json"
+hash = "146ee75f9d6a6b9da66043277abea18f7ad8a32aaa02676867cb97c13b50591c"
+
+[[files]]
 file = "config/jei/blacklist.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -754,7 +762,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "03256977c025f356acab135eb6f634eff75e49216c0502c0005248322f36e162"
+hash = "320343ee701ee70c040b733cd55002499f9ed14431b926911535de1d3b5b496e"
 
 [[files]]
 file = "config/monazite.yaml"
@@ -790,7 +798,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "9c946540cfea6f81d5a32e09b952ca5dbc28bea3435c1270f7d3040d62ef72e3"
+hash = "7df240c94606877a31f1105dc6aa200d464bfa887d2a4c163074affbcdee362e"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,11 +874,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "f2a61cbaa3f5b0bdd02420c40270a851603aa992ecd9d308a425f78420801b71"
+hash = "6267980cecc5003f4b5380546adbdb52c803a7782bf13ebeb324b035159dc30d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e55c0150a3cf9c23d0c6129ed588d4a0d31e5f8e40af0c33ccf225b82d50b2cb"
+hash = "95e87d7200aa16e239a2bba0a186eea0caa930f962204727cc947b2e0fbe0c3a"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -907,6 +915,10 @@ hash = "a7f04f87913ec608251f13fcf3edf9765ed184a74c3b3984e764d157d77509dc"
 [[files]]
 file = "config/tfcastikorcarts-common.toml"
 hash = "97292825b89e6872f219da4ddd774bfa01e5eaab32c3a9d1d989ce40ebbf5902"
+
+[[files]]
+file = "config/tfccaelum-common.toml"
+hash = "326562756669f215ad4d16268b04d1b4803f5e07fd188c6ea5df80e4f09b1899"
 
 [[files]]
 file = "config/tfcdesirepaths-common.toml"
@@ -949,6 +961,10 @@ file = "config/voicechat/username-cache.json"
 hash = "1dd9c9777678a83c463d4a0a0d595c02800ed5e3ed45c4e5c4d02fbc8ef89d01"
 
 [[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "95a9f787a4f1ff8d963aba0fc86ef222e547768b50103ee895e9c9b649434205"
 
@@ -970,11 +986,11 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "01287af2210300abadc0dc14b6e7bdf8fa6c0b328f0c9665a80eca945bb02275"
+hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2939,7 +2955,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "3366d16a4ef50f81ce9c0d6a4bf89ab3d43282174e3c2275f9c3f7b78d44d4ca"
+hash = "a5d03d42de4618036e29be388db3835ca694278e7e4fe31016640f87fc955443"
 metafile = true
 
 [[files]]
