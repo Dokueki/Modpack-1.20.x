@@ -690,7 +690,7 @@ hash = "6b000326258730c6337903ff15199fca978cfb8003e797a63a880ce249f72029"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "146ee75f9d6a6b9da66043277abea18f7ad8a32aaa02676867cb97c13b50591c"
+hash = "13f369bf02b21730b44e606f62c955e7587be4cb72a4c5c4d50205889b538afc"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -798,7 +798,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "7df240c94606877a31f1105dc6aa200d464bfa887d2a4c163074affbcdee362e"
+hash = "fea8a263b3a1af63c7c7b2343e6b3977e62ef47616a4ae07b603dd415dbcc458"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -874,11 +874,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6267980cecc5003f4b5380546adbdb52c803a7782bf13ebeb324b035159dc30d"
+hash = "53ffd82a08128397b005ed4f7a77b95a0a746245253ed283aac5821f566d9fb2"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "95e87d7200aa16e239a2bba0a186eea0caa930f962204727cc947b2e0fbe0c3a"
+hash = "852423c706ce787a2286219082f665b8b3e9df0beadd35691e8a8740ac317448"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -962,7 +962,7 @@ hash = "1dd9c9777678a83c463d4a0a0d595c02800ed5e3ed45c4e5c4d02fbc8ef89d01"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
+hash = "42844353767b39d9644139f7fdb83f25fd183e120dec7d6827cad414812dc1d8"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -990,7 +990,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2795,7 +2795,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "f96d0997b608834038df81602a54d1f219a51a7f96ebc452d06a72f8b4fc9529"
+hash = "c8fc88380a68f5254e7f6cd84b30d83ecd6e621b50e116455800b0d799da144d"
 metafile = true
 
 [[files]]
@@ -2995,7 +2995,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "6cb7ed3da2bab486e066d1d4617ba51b17b1533be847138d40b4b5c1b001f124"
+hash = "48d598e695de97bdfce0eb678c461bf64df8689f92f5301921b87146aa0761bb"
 metafile = true
 
 [[files]]
@@ -3050,7 +3050,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmacivilization.pw.toml"
-hash = "315d62ccf792e8b556dbbcb3b91297467c6e0a671a140d453b078a4a643b3345"
+hash = "e5b795e7672566eb4bca08b83e29cad00a7c9e0df604b96aa3577549580fdd29"
 metafile = true
 
 [[files]]
