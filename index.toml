@@ -798,7 +798,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "fea8a263b3a1af63c7c7b2343e6b3977e62ef47616a4ae07b603dd415dbcc458"
+hash = "2c3393d2bc43e3d4a5f0f0c789f62e989efd92942f50bb6f450c45eb8d60cde6"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -874,11 +874,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "53ffd82a08128397b005ed4f7a77b95a0a746245253ed283aac5821f566d9fb2"
+hash = "5adf297f7d27d3e24f476c57594cfabde860dd1a07d8a9e4ec1640fa34ada64f"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "852423c706ce787a2286219082f665b8b3e9df0beadd35691e8a8740ac317448"
+hash = "3329063c28aaba2d8dfde0c98f74a38ae278eac0ba0b28c0e80c785ddf13b0be"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2935,7 +2935,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "17deebb6eaba8aebeaa7b01e4db476a59351f7b4ce4572ba18fe5dba84b76189"
+hash = "8868782160da967d0aa2f9964596c338bc48388869b983b03c383aca8a9939b7"
 metafile = true
 
 [[files]]
@@ -2955,7 +2955,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "a5d03d42de4618036e29be388db3835ca694278e7e4fe31016640f87fc955443"
+hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
 metafile = true
 
 [[files]]
@@ -3085,7 +3085,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "0d2a80abab32de6a2094520dacb0fbca2d1a66f6c7f3c6f441c07320e2572856"
+hash = "f67244c53dbaeaaed647b3c0ec034959f7e1e0f72c478cebb829818471b5a13e"
 metafile = true
 
 [[files]]
@@ -3105,7 +3105,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "479d003b5d24de8793019d37d2c36a679f3a7e8d9a1604aefcfe61a981fe354d"
+hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
 metafile = true
 
 [[files]]
@@ -3240,7 +3240,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f5f2e45041e4e559e1631cd99eaf273609ca39c0dee3c6030590992968b04620"
+hash = "3a3d19173e6b950959ff15237d2ed404af4885efab829243200a974f544f378a"
 metafile = true
 
 [[files]]
