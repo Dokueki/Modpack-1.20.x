@@ -54,15 +54,11 @@ hash = "885a116a6af51711fca9be754f4de1a05d1ecd87aff5399cdfb8fbd8e4410048"
 
 [[files]]
 file = "config/.toolswap"
-hash = "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
-
-[[files]]
-file = "config/Discord-Integration.toml"
-hash = "6fc0f6bf2f91fbecd709c2a42d3e443b4d30561b902c594027f5479662a533d5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
@@ -302,7 +298,7 @@ hash = "1c7bbdcea479542ee4be5d72ce1e57f4778b6eee93f6f44db846b59a8ac02f40"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "e029d95ca1aa0e83f9c06ab2c84adeb6d8966cf998de48459eb7b6d772c9c3ab"
+hash = "f7343f6bb8ceacfd5df00a3144173cc204edc7e0730d21a4a796758550b239e8"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -310,7 +306,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "295c4e2ef78409b5289217404503313ac94bf71cc9f5768e459d2e7c56aa5476"
+hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
 
 [[files]]
 file = "config/emi.css"
@@ -690,7 +686,7 @@ hash = "6b000326258730c6337903ff15199fca978cfb8003e797a63a880ce249f72029"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "13f369bf02b21730b44e606f62c955e7587be4cb72a4c5c4d50205889b538afc"
+hash = "76b760cbec81693d33a089f3f86a8a4fb830fb948722ac983d750185b9453296"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -798,7 +794,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "2c3393d2bc43e3d4a5f0f0c789f62e989efd92942f50bb6f450c45eb8d60cde6"
+hash = "7d4e7b45113677d8ba7d706cb3c835916f9b6aafa3b6472acd975201fd6edd1b"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -874,11 +870,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "5adf297f7d27d3e24f476c57594cfabde860dd1a07d8a9e4ec1640fa34ada64f"
+hash = "b7937dbbefa43a1a76fbb03cc13f4242dd3748894e371e3a63cc732f55000ff3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "3329063c28aaba2d8dfde0c98f74a38ae278eac0ba0b28c0e80c785ddf13b0be"
+hash = "4c550e65be1ca9cdb72a07e55894425eee3899f0fdc1c1420092ca0f3d26e4c7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -958,11 +954,11 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "1dd9c9777678a83c463d4a0a0d595c02800ed5e3ed45c4e5c4d02fbc8ef89d01"
+hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "42844353767b39d9644139f7fdb83f25fd183e120dec7d6827cad414812dc1d8"
+hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -990,7 +986,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3055,7 +3051,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmalife.pw.toml"
-hash = "1630a953ac4fddc9500cceac3eff82f6e3d394dcfe8ffa4d1bcd1018898ab177"
+hash = "076ab31f5a1bbe751d22cbcd42816a5ddda831c229b852f7f2950cb91e1d9017"
 metafile = true
 
 [[files]]
@@ -3085,12 +3081,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "6c90e1b21123fbeb5c9de9bf020fa30563c1910a489441183b548dfd8ec6b285"
+hash = "f67244c53dbaeaaed647b3c0ec034959f7e1e0f72c478cebb829818471b5a13e"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "d5ccef95f428e293519e95aef7f8f61d3a8253c7ce1339ad3b9b1af2c313cd22"
+hash = "299c70c50b7245898115305bacf0376042ba8c53da0aee87b4e1fb78a59f9bdc"
 metafile = true
 
 [[files]]
@@ -3105,7 +3101,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "112a0c4acc673695652fab0148bd337e57e4ceb9c2622e3a6087c57e94f8942d"
+hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
 metafile = true
 
 [[files]]
@@ -3210,7 +3206,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "1c579abc5087a9fefa92484a76a2c9a7bef46ba14fb431d452aad806be15fd3a"
+hash = "3036c1d17c0ec750c48e97813c51b20b503ba7c5284946f89bb3d34aa5201142"
 metafile = true
 
 [[files]]
@@ -3455,7 +3451,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "7381646b82cc2b5c4c1314391b80be2eb7472f84863fc69fd8f39abce30305e4"
+hash = "ebce344d6cab4c720b07494003eb7c6900790b2e8a26cb58c412c8e6beace095"
 metafile = true
 
 [[files]]
