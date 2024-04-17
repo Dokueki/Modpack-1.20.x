@@ -794,7 +794,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "7d4e7b45113677d8ba7d706cb3c835916f9b6aafa3b6472acd975201fd6edd1b"
+hash = "238698ecc9d71c996daa16bdc10331a15cdc744912b12745beee441ad4d7b4d6"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -870,11 +870,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b7937dbbefa43a1a76fbb03cc13f4242dd3748894e371e3a63cc732f55000ff3"
+hash = "e166b2757e99e4680cb82e86736fefbbb4f2554eb82c58ee2e1506aa62979bfd"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "4c550e65be1ca9cdb72a07e55894425eee3899f0fdc1c1420092ca0f3d26e4c7"
+hash = "b089b0258508a0c402ae584998dab6ea685e167fb998d32a2acc7dc110705996"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -986,7 +986,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1039,6 +1039,10 @@ hash = "fcc70806256e6d9b8532ba5f817108d0efa9ffcf563bb2b0e8aca3306b40dd21"
 [[files]]
 file = "defaultconfigs/ftbessentials.snbt"
 hash = "2016bb60a7a8a6ecaa2743ce3b616b8ba58514bef3c5f4747b86acad8a8b89e8"
+
+[[files]]
+file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
 
 [[files]]
 file = "defaultconfigs/ftbquests/client-config.snbt"
