@@ -3085,7 +3085,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "6c90e1b21123fbeb5c9de9bf020fa30563c1910a489441183b548dfd8ec6b285"
+hash = "f67244c53dbaeaaed647b3c0ec034959f7e1e0f72c478cebb829818471b5a13e"
 metafile = true
 
 [[files]]
@@ -3105,7 +3105,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
+hash = "112a0c4acc673695652fab0148bd337e57e4ceb9c2622e3a6087c57e94f8942d"
 metafile = true
 
 [[files]]
