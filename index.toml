@@ -794,7 +794,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "238698ecc9d71c996daa16bdc10331a15cdc744912b12745beee441ad4d7b4d6"
+hash = "cca04a2bccd99ccfadc722cd613e9a1f8cb3149cd5f5230dd56ce8ba2324ebff"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -870,11 +870,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "e166b2757e99e4680cb82e86736fefbbb4f2554eb82c58ee2e1506aa62979bfd"
+hash = "aacab9b10d2e568915e7abf691892d42f79a1936e34a2c436b297a63fe5e3967"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b089b0258508a0c402ae584998dab6ea685e167fb998d32a2acc7dc110705996"
+hash = "336af251dea6afdb4c0b0659d0eaba44687af606c687f6c0360cea8a7a926e22"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -954,11 +954,11 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
+hash = "1dd9c9777678a83c463d4a0a0d595c02800ed5e3ed45c4e5c4d02fbc8ef89d01"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
+hash = "a9b20bb88e297767fab68b328660d7e2c8d06960bdcd8f91cd27fb29b2d2eecb"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -986,7 +986,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3205,7 +3205,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-tfc.pw.toml"
-hash = "e22fddc9c0bad70262f8a563218cdf592fb20ae1d660eaa466a252e8e4716be6"
+hash = "c90cf95b611660d241e1269d0f3474e52670e723dcd7ab67d550b879ffdafef4"
 metafile = true
 
 [[files]]
@@ -3345,7 +3345,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "3615807aea9dbfee978e6df7445bb79844ef1a0c551e7f16fe8f3952c6fef367"
+hash = "d160b93a38f67c402d66285921433b1f1dfe8fa884e24ab9565f0541ebb44bf8"
 metafile = true
 
 [[files]]
@@ -3455,7 +3455,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "ebce344d6cab4c720b07494003eb7c6900790b2e8a26cb58c412c8e6beace095"
+hash = "97bffec7d1ee2feb8caec69258b3ab3850b566ca6a090ed239fb0c6224d7deac"
 metafile = true
 
 [[files]]
