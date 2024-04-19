@@ -794,7 +794,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "cca04a2bccd99ccfadc722cd613e9a1f8cb3149cd5f5230dd56ce8ba2324ebff"
+hash = "7f032ab31b0caa85df8b04625b99735b0df0eea06bd15c6c1a4880545dafc092"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -870,11 +870,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "aacab9b10d2e568915e7abf691892d42f79a1936e34a2c436b297a63fe5e3967"
+hash = "de0398fad46c4c75fc5d022f52ec0aba2434689a32b8e04ecaf845194b54b9a1"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "336af251dea6afdb4c0b0659d0eaba44687af606c687f6c0360cea8a7a926e22"
+hash = "6641ba4b89405d6afb0358689b79c691efb02ed4ca3e507f206499f855f3a455"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -986,7 +986,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3205,7 +3205,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-tfc.pw.toml"
-hash = "c90cf95b611660d241e1269d0f3474e52670e723dcd7ab67d550b879ffdafef4"
+hash = "0bce4a7bdbfde5d589e04869ea161627cb03703a51ce1d02273ca9cb5d183975"
 metafile = true
 
 [[files]]
