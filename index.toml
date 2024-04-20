@@ -3165,7 +3165,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic-lite.pw.toml"
-hash = "4a589f7514dbcc9adfbc8f9ce8ee69517c88337859c9671444b6f44e62691507"
+hash = "0f2eac034aa9c15e713782b7fd42350b184af44f29b4e995bb6b95faa89b90a8"
 metafile = true
 
 [[files]]
@@ -3455,7 +3455,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "97bffec7d1ee2feb8caec69258b3ab3850b566ca6a090ed239fb0c6224d7deac"
+hash = "7381646b82cc2b5c4c1314391b80be2eb7472f84863fc69fd8f39abce30305e4"
 metafile = true
 
 [[files]]
