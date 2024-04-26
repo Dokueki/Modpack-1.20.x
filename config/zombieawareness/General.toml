@@ -5,7 +5,7 @@
 	#Range: > -2147483648
 	maxPFRangeSense = 64
 	#Prevent non zombies from being attracted to light
-	awareness_Light_OnlyZombies = true
+	awareness_Light_OnlyZombies = false
 	#Custom targetting sight range on top of vanilla sight based targetting
 	#Range: > -2147483648
 	sightRange = 16

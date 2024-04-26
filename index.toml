@@ -334,7 +334,7 @@ hash = "7fe32477e9df310b166205adb9950e0ebad9cb50d5ff6dbfa668573c5a53996b"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
-hash = "1914b2723ebfa8d7f88279976f609f482dce75e37a9b2273d0d5ce450cfcd2da"
+hash = "5cd6a0a3a29814895a4d1aaffd880b5f87473d353c7104d4c057a1f6c51730c6"
 
 [[files]]
 file = "config/enhancedvisuals.json"
@@ -798,7 +798,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "45a39f091e6dba715fab005e5fbe2e7c568a3fd23b65bda4722534894a61ccaf"
+hash = "df7204d922c398da50c9d65bd7e41fb56295ee119c5bddad5a70c496b37a7a8b"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -874,11 +874,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "46e3265352dc414ef9016a03256e5a94272d710ff2eeae661357e0ec255470e0"
+hash = "fa19769103c4d4136379e5e0d1474b7a59632e90c17bf585b2c7946b8642ec08"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b90f57992f34014ccf14444f91af2c70a707ead0d18126f837dd2969c290fbe3"
+hash = "032f0157afd2c59a1c24ccdfe086933eb158dd767c963e7285ca6fb8088aaf89"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -990,7 +990,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1005,20 +1005,24 @@ file = "config/xaeroworldmap.txt"
 hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
 file = "config/zombieawareness/ClientConfig.toml"
 hash = "e3d0e5585b27f8c8e2a2f58d985cec82f2daa86463f33fec7e4029666ab04067"
 
 [[files]]
 file = "config/zombieawareness/Features.toml"
-hash = "3dc7619be0be9a4a42ade3daee9d9a008e331c8140c8869809614097a8d52e4f"
+hash = "27169365e5ac664dc94371e0ae1ece7951101e9c8a5e3933c684e5c543c23401"
 
 [[files]]
 file = "config/zombieawareness/General.toml"
-hash = "07725145b9998ab503bcbf1a4d66e9777a388302370cbe5483273da715a6a394"
+hash = "b763a69c4a92f57838f0d560645f4e890d6969aed7e4ce41767ad6527cf5733b"
 
 [[files]]
 file = "config/zombieawareness/MobLists.toml"
-hash = "287653485297d87dfa03dd9435368f94385965f7ce51f89c08e59134eb475b44"
+hash = "f34ff27a083eac2349c01e7ed9e262ddc235129dc2841a6cbf3e23c0f96a4123"
 
 [[files]]
 file = "config/zombieawareness/PlayerRulesAndLists.toml"
