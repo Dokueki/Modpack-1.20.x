@@ -310,7 +310,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
+hash = "295c4e2ef78409b5289217404503313ac94bf71cc9f5768e459d2e7c56aa5476"
 
 [[files]]
 file = "config/emi.css"
@@ -542,7 +542,7 @@ hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+hash = "ee43331c0db25f2eccfaea4cccc319b3d00fa157326e210a5e6253296173c2eb"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -798,7 +798,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "6181ccd214ffc57c0427825e86ce2706f543a443fc7d8ed8fbed603faf2196f7"
+hash = "482598d9241c2f721306bab7cedd3dfd5e5dcb45bfa7921545e70e4e53f3d529"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -874,11 +874,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "f2ee8efbfee057114bed9397e15b40bf8e453aed4d580a2821bf1cc06b2e48eb"
+hash = "3a2eb141971d3e1fcad2c93eece7dac28234889c401bf33f4861c932442ac657"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "2ccc1cf700a8afb66269175ba0c265a96d1d82596b9bf29f19ef78ddedd376b7"
+hash = "0c700c2adf91e2ec0df5ba4dcffb9cc07d7a1acefc336c6395b99d7884ca9b24"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -990,7 +990,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2898,7 +2898,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c27311a0a8d99024092a7526c7c0c7f0ed0cfbadbb18bd58ed57fcfb653dc28b"
+hash = "0714edca30b6f466444a25754c861cd4c4738ba7346f49ab15b0f0b30781fb12"
 metafile = true
 
 [[files]]
@@ -2968,7 +2968,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
+hash = "f4d41750be3841d73640ba8f4da3ec8e2e8baef4afef7ecb55dd4afd10588d34"
 metafile = true
 
 [[files]]
@@ -3013,7 +3013,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "78b0d178a46eb65c01d0602332c97ac5ab2cfe165728a0e1d860607b2b1c8d61"
+hash = "8d623dbb043eee6a148667c49fdf4988e080de55285959c06351b654dc229e29"
 metafile = true
 
 [[files]]
@@ -3068,7 +3068,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmacivilization.pw.toml"
-hash = "230a6edb2335a8cb6bc07c036078fa61be9aeda88248a33051500b034f27bf74"
+hash = "da4202a5fed7822eecfe8721f03f0ba73e42f25559656d4edd20464f902fca77"
 metafile = true
 
 [[files]]
@@ -3113,7 +3113,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "f0bbf14f91a26d644b0c996506c631960e744115f764470f6c7945b0567f858d"
+hash = "2a900241a4957715b510d890c7190c14e07efd5a2cf4e63f16cefb0636ee7093"
 metafile = true
 
 [[files]]
@@ -3163,7 +3163,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "a851894947ab83a27a642fdfbdbefc1f1bdf545081dbb537f29a70a1dc193cd1"
+hash = "aa5faf9325384962b26dd78b2816dde6530160f7a4ffac46d57eb51ec76af86e"
 metafile = true
 
 [[files]]
@@ -3174,6 +3174,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs-forge.pw.toml"
+hash = "9aa92b179d515841719583f877d0b866648781551fca86bd690a4cdc6571427f"
 metafile = true
 
 [[files]]
@@ -3323,7 +3328,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "fdb31ea5cf8fd4fa22b22d8685cc232d625011c107775a649209259aed8e65ce"
+hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
@@ -3443,12 +3448,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3e7b8ddab50ecf7bbb463731e8ab4d640855842a30ded446ef68cb60f0911388"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e71130c2bd6455b80dc39a9af3c988c5a21295f107803b0266188babdfc5ad75"
+hash = "46a595e8297691a2265ebe21f594125f39fe96482ab6916e748cbdb7f66a6457"
 metafile = true
 
 [[files]]
@@ -3478,7 +3483,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "c1f2a20fde9a4ee12b61f5f5b3099ac92d30d3ed5b8a2e142df64e4e73f2cc54"
+hash = "dc7263c21b58d569ac64baaed3e16c1a19e086e3c86b1471228eae1ed5456e68"
 metafile = true
 
 [[files]]
@@ -3558,7 +3563,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "2218838311f23d29f5450c294a35c915ffa89fb0d9eff521721bbb8ab39931e7"
+hash = "7d7cede1b369b09d748c5e241c2fbb85d35ad3ef06b838f8210bb653c959aa11"
 metafile = true
 
 [[files]]
@@ -3583,7 +3588,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "098ae026bb2afef0708af4dd33373c3a94491714ca749066930b2ef74305334b"
+hash = "84b7bc6315aa63f238a841370f18d66821a46e19ca8b59e046e3730f36e8cba9"
 metafile = true
 
 [[files]]
