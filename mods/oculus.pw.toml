@@ -1,6 +1,6 @@
 name = "Oculus"
 filename = "oculus-mc1.20.1-1.6.15a.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]
