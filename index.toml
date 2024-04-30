@@ -3178,7 +3178,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs-forge.pw.toml"
-hash = "9aa92b179d515841719583f877d0b866648781551fca86bd690a4cdc6571427f"
+hash = "9e947125ac30cbcc741239ddb776cb7d04c2c67be76241cbca109396e446db1f"
 metafile = true
 
 [[files]]
