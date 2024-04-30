@@ -3341,6 +3341,11 @@ hash = "78cacc203857570841308fa2b833f50b5bec688dd326ac2f3be50d3b4c60f3cd"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "5ff68b415d1d9bed64dee45a3ea93471627694fa458e1a9e6b5edf22e40d9529"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "e71fcc6424fd21d3f69aefa611b94e4aef68878665924e1b01a2582b3d84e9ac"
 metafile = true
@@ -3903,6 +3908,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "184473d84aaf6618e2c8df25d3b847718b923462c8881212f73a108cb01106f0"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "bb1029c8ec3c653b977516591ffb47192bb92774488bc031ad30218258e99879"
 metafile = true
 
 [[files]]
