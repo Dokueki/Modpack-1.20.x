@@ -53,10 +53,6 @@ file = "README.md"
 hash = "885a116a6af51711fca9be754f4de1a05d1ecd87aff5399cdfb8fbd8e4410048"
 
 [[files]]
-file = "config/.toolswap"
-hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "c013dc1f7331b247e92c51fbc316aba4cfaa428af07548be83bab2d5c3e12c57"
 
@@ -597,14 +593,6 @@ file = "config/flywheel-client.toml"
 hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
-file = "config/fml.toml"
-hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
-
-[[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "1c3ade413ad1f0c5cf1c477d145bf7e3b733b18fad24c695267faa4ac37fdd31"
 
@@ -873,10 +861,6 @@ file = "config/nyfsspiders.toml"
 hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
-file = "config/oculus.properties"
-hash = "4cc0150942c6b7eed0931200117e0f2564021ed5e268fda93342bd798ab3a3ee"
-
-[[files]]
 file = "config/panorama_screens/settings.json"
 hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
 
@@ -919,10 +903,6 @@ hash = "f1760608b9497fd99841be75d19f98c77d5b180a1b35b5cf64759f987a01c2bc"
 [[files]]
 file = "config/recipeessentials.json"
 hash = "4c9418b330985ebe913236da43dfa461a00519187cfbd04d868a6737b038db4f"
-
-[[files]]
-file = "config/rrls.toml"
-hash = "cdb8f05b7d1f27000afc234dbf868b163ee97707d6daa2d61353111bb864aec7"
 
 [[files]]
 file = "config/saturn-optimizations.toml"
@@ -975,14 +955,6 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "43900e75234a7a252f28aaa0e399949b31ffa3dc9dde1b80137198ad5e3dd1a7"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "60224932b980e38cc56c0214f01416df786ee6fd4270393cdcb0f1f5e25849fe"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7fac043ac9281ff886f730337096d44316900670f45c12c9533aff77ea635687"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1069,14 +1041,6 @@ file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
-file = "config/voicechat/username-cache.json"
-hash = "1dd9c9777678a83c463d4a0a0d595c02800ed5e3ed45c4e5c4d02fbc8ef89d01"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "a9b20bb88e297767fab68b328660d7e2c8d06960bdcd8f91cd27fb29b2d2eecb"
-
-[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "95a9f787a4f1ff8d963aba0fc86ef222e547768b50103ee895e9c9b649434205"
 
@@ -1099,10 +1063,6 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3815,7 +3775,7 @@ metafile = true
 
 [[files]]
 file = "mods/panorama-screens.pw.toml"
-hash = "e0831356237091da1e4e3b6abf95047a1fd7ae1e3f248ac4defa7f730e8e83d3"
+hash = "52e1e0209e0d2bf09e530b2ad9e87289fa2e2b0dfd58b005007a22dd754f3f04"
 metafile = true
 
 [[files]]
