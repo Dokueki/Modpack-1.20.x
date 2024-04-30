@@ -72,6 +72,10 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
+  "monazite": {
+    "recipe_info_item_output": true,
+    "recipe_info_fluid_output": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -172,10 +176,5 @@
   },
   "treetap": {
     "tap": true
-  },
-  "storagedrawers": {
-    "display.stacklimit": true,
-    "display.content": true,
-    "display.status": true
   }
 }
