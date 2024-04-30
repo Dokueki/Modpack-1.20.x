@@ -618,83 +618,83 @@ hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "6891bb2ac21b690fbee86d1db7a6f0db9981abf7e2a9f13e4fdc20ad12677e4f"
+hash = "5a8816f2f927bf3ea47bed13de15b6c02fa24a0707d58584bef27e0bf15bfa26"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
-hash = "3fb2fbb622bbe29a956c43f63579276b68af96ef69eb121d01724136cd98acd0"
+hash = "ed8ba24fd9e7d9567d0ebfb85a7a2cd55dd8488f6f127bb7bc923061d6c20288"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "175754630ef6bbfef56cfb6d24118ce5c7b06ae577f37430766ecec82fa569ed"
+hash = "576ac8f597e6a441f00cb9aa5e0f3a6d81458904535ed6df993e8505b9450cb8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ev__extreme_voltage.snbt"
-hash = "106673e4f12b054f188053ab7263a9024b08acf2c49481280586237f4474b076"
+hash = "6b0472ede1b18ada67d2039f01ea4ea8542601586979d38da4048eaa6e3536eb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hv__high_voltage.snbt"
-hash = "da4c804d814f22ef5e45a1fa26c588b85b1295a4362459c284ffd1e66025b7b2"
+hash = "265cfe9d5e95382d8bc6a22ffed157e6ccc450d9155714a83d1ac0ad87039e1d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iv__insane_voltage.snbt"
-hash = "cdb3437a24d1037fe44175e300df2bd46c969c82a1d0bd978649e26bdf25ea88"
+hash = "0db66c8d4704045f6b3efcbc5ab80edb07443e5f8615f7a12a3c4aeac1526fe0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/luv__ludicrous_voltage.snbt"
-hash = "0c3863e6dba28b42cb73c0f2cacefa30e7125ce93229fb44c6d57b95f51d4ffc"
+hash = "c8f66eaf3975314fb718a346f676b1eecf383a068cf4e36053e3fb600937bcb3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
-hash = "fa204601ee961b5ae3cff6227269365ea3576f4279515675913750bcf3376594"
+hash = "aebd9b2554afad38497c5e5227d9cf923a1cc634ae3a073446af98199fa9eafd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/multiblock_dilemma.snbt"
-hash = "64811aebe610c66543559dab0960b9f07dfdf48ab0ee02e3c357f7c554fc00d9"
+hash = "26b088cf64e89651363bf815152ed18f6abfaebf91106be1779c73d06199e53f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mv__medium_voltage.snbt"
-hash = "22242e756053dea9345c869b045ab95809e443273244ae19741f131dbd55ff17"
+hash = "3cb54341ca2041750c6ce05cd62ba3ccbf42b484bf39360147458c2f547a11fd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "1b846c4b663d166d4b8c4b259bb73cf5b75ad4b123d1e6d21d31f4f30f8f30d4"
+hash = "83383a1c7149311f86babe8dcb4685e3f1dbdc8a0aa4affe6e39285279f25a7b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
-hash = "5a9a11c3959942579a8295c446b4a8421f3354c1f240dce5eb70bde98d724a7d"
+hash = "7b284739b1099328f72b485746b5851ef47d51a1660a6e405994e25614e4b8f3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "cb06721380ac66ea3692c6a8254575591010412e37fad93ccc4c8afd79c35a21"
+hash = "0a4aa04a1b5f5584afbc6db05f13d90edc37daf96cbfe59adb24e062c2e1e150"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/uv__ultimate_voltage.snbt"
-hash = "b4180b6a1df4ee1b6c418314d4970e0cfd6c2d9bf1b35cd120d886281bbb6e1a"
+hash = "ecd2bf04065fbe39db7cd133bc969668983074209fbcd4388a45a1cbccd28cd9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/zpm__zero_point_module.snbt"
-hash = "5119be45f8a0b8b1926f11fa3bb894b44e330d76ca8cfff3bd576de9aefdd801"
+hash = "aa5cf6ea12ddc63a352a5611f9d549e4592fbe8a64be466821d31519658578ec"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "5def5e38011f22ef57341a67640e838bb62b637d48887e1e5a542ef4ed6f6abd"
+hash = "82ee93ba439de9f308e02f02c55cea133e09eb0e6f38433a49549381974e089b"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bronze_age.snbt"
-hash = "a51f509ce2e07a630825ba37103f4bf33360a92343eddb70dc155a6d0379685e"
+hash = "2f244ef5e65a15f5b901c66994ad7b05f02424eed022c6a54f28cd751c1f43b3"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/coke_oven.snbt"
-hash = "9a26008daf07954d3ab466d44b45f7b8d8ca0a32814ab0a87a43a7c864cf3a0f"
+hash = "d457f56308758e7386808345597aec5023dcef1b2ac76b8fe2df8559401ca05c"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/lv_lootbox.snbt"
-hash = "26049f5582650ce2b3e60442455ab6ea5311e5b0f41b2ada2f8ddcd16df07112"
+hash = "e8530bab33296216c18d685b74e4361021bef0bfb7aaab6c69755275194a4db3"
 
 [[files]]
 file = "config/ftbxmodcompat.snbt"
@@ -754,7 +754,7 @@ hash = "f2cfffe18ff03ea308232054e53fb476463ba2e5dcfa89968c12028eed1c695d"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "af8ab53f1087ee6bb8847fa70c9f8aa9c91e4741934af5b6f8d92db749b83883"
+hash = "0c613a0eaf279671c6c0d13bdc3e8575f7c99e2f6d9c11a93ffd99f97680d4c7"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -870,7 +870,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f1b7c1c893a24dafc524d52e59795d4128f548cc686c96d47f1a9a8846b82224"
+hash = "a8c0063cf1cb9663ac872da40c58d802301ef04bc5d524fde1f552b77c512140"
+
+[[files]]
+file = "config/panorama_screens/settings.json"
+hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -966,11 +970,11 @@ hash = "7f09feb34172bbbb9889fa03eb3380a3b4a29f0d4fd54f0312ff775d11b3efee"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a7fdbf159f2b007c5af52955842f099765c553aee1c3551296d82bc95fe4e1b1"
+hash = "6dbd4398573118937081666e6b4c8307f0ad0488ce33afaf11ecd4a1213cb29c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "9334e2c8bb224e8cfb8c1b882f70dd83a592dd7fedcd321cf73785ec8d0d9135"
+hash = "b5d0274cbff194d26c5002f53bef679fa55be70012c799a4851d481469834ed2"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2833,6 +2837,10 @@ file = "kubejs/server_scripts/create_additions/tags.js"
 hash = "2e148e4ac84c2c5fa15578f9c5f77b841b23ba4605d40c683f9bd475e9a3b9b6"
 
 [[files]]
+file = "kubejs/server_scripts/create_big_cannons.js"
+hash = "2d7569fc2b39c0c6ab31e6344f6f09e6ab2c528f76baaeed6dc902fc6f497eb9"
+
+[[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
 hash = "860558f6a899321b94fcccecfb91d9b0d4357c09bf66747f3ac637a067c2d729"
 
@@ -3793,6 +3801,11 @@ hash = "00cf320d6387848629bd3b1573dacfd3d5f966b9dfe0743ea7180bc5ac1991ad"
 metafile = true
 
 [[files]]
+file = "mods/panorama-screens.pw.toml"
+hash = "e0831356237091da1e4e3b6abf95047a1fd7ae1e3f248ac4defa7f730e8e83d3"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
@@ -3865,11 +3878,6 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
-metafile = true
-
-[[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "ec6e34a9c1e1c9d0eae72c32069983d52b94816937fb61a9307ab98620c4375c"
 metafile = true
 
 [[files]]

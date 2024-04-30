@@ -152,6 +152,8 @@
   "expatternprovider:tile_data": null,
   "expatternprovider:jade_wireless": null,
   "expatternprovider:jade_chamber": null,
+  "monazite:recipe_info_item_output": null,
+  "monazite:recipe_info_fluid_output": null,
   "corpse:corpse": null,
   "framedblocks:framed_item_frame": null,
   "create:blaze_burner": null,
