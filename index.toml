@@ -542,7 +542,7 @@ hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "ee43331c0db25f2eccfaea4cccc319b3d00fa157326e210a5e6253296173c2eb"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -798,7 +798,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "482598d9241c2f721306bab7cedd3dfd5e5dcb45bfa7921545e70e4e53f3d529"
+hash = "a9fd03606a72a4a65f03d825d3b406066bafd73517ba00400d5a5a56c9e98e6c"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -874,11 +874,11 @@ hash = "95acaed327eec1856b2fc5af1833b18c0885df2db91ac0d1bcd96564f3ccb699"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "3a2eb141971d3e1fcad2c93eece7dac28234889c401bf33f4861c932442ac657"
+hash = "ee7624861bf141a27134c8be5d0d7879fcb59190e6d9987fcfb17e411ef40d61"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "0c700c2adf91e2ec0df5ba4dcffb9cc07d7a1acefc336c6395b99d7884ca9b24"
+hash = "0a3810b3b7aa72fbb66690b8c2e72514dd607ddd4743a5a5e105828ff09c49a3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -990,7 +990,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3328,7 +3328,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
+hash = "ba0b0c598e8aee69e6973dd4f3c6a7695d91048ee66fb734eee1f20fa8c07a8c"
 metafile = true
 
 [[files]]
@@ -3483,7 +3483,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "dc7263c21b58d569ac64baaed3e16c1a19e086e3c86b1471228eae1ed5456e68"
+hash = "cc7e3c5427dbc560e66e90abca9bdab51fb9410993eb4ca6d900dd3b20286c41"
 metafile = true
 
 [[files]]
