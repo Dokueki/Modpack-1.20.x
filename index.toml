@@ -870,7 +870,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ee94c5fb18ff2a492f7fa4abd32e0e7649de374fa5aa90bef621b2e266430675"
+hash = "f9d2a513feaea7353f9dd1cce65bf00d4fc156e529acb93e0ee22035f3c04197"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -3765,7 +3765,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
+hash = "e151f1e622793b397e294a3314c323a3a03fd942c37dccd86bf5e7e6bbb74ed7"
 metafile = true
 
 [[files]]
