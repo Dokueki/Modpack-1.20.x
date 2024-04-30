@@ -2,55 +2,59 @@
 
 const registerFirmaCivRecipes = (event) => {
     
+    //#region Удаление рецептов
+
     event.remove({ id: '/firmaciv:quern/' })
     event.remove({ id: 'firmaciv:anvil/copper_bolt' })
-    
-    //#region Heating
-
-    // Oarlock
-    event.recipes.tfc.heating('firmaciv:oarlock', 1535)
-        .resultFluid(Fluid.of('gtceu:iron', 288))
-        .id(`firmaciv:heating/oarlock`)
-
-    // Anchor
-    event.recipes.tfc.heating('firmaciv:anchor', 1535)
-        .resultFluid(Fluid.of('gtceu:steel', 288))
-        .id(`firmaciv:heating/anchor`)
-
-    // Cannon Barrel
-    event.recipes.tfc.heating('firmaciv:cannon_barrel', 1535)
-        .resultFluid(Fluid.of('gtceu:iron', 288))
-        .id(`firmaciv:heating/cannon_barrel`)
-
-    // Cannonball
-    event.recipes.tfc.heating('firmaciv:cannonball', 1535)
-        .resultFluid(Fluid.of('gtceu:iron', 288))
-        .id(`firmaciv:heating/cannonball`)
-
-    // Cleat
-    event.recipes.tfc.heating('firmaciv:cleat', 1535)
-        .resultFluid(Fluid.of('gtceu:steel', 288))
-        .id(`firmaciv:heating/cleat`)
+    event.remove({ id: 'firmaciv:crafting/watercraft_frame_angled_2' }) // Как же меня заебал разраб со своими кривыми руками
 
     //#endregion
 
-    // Sextant
+    //#region Unfinished Sextant
+    event.recipes.tfc.heating('firmaciv:unfinished_sextant', 930)
+        .resultFluid(Fluid.of('gtceu:brass', 288))
+        .id(`firmaciv:heating/unfinished_sextant`)
+    //#endregion
+
+    //#region Sextant
     event.recipes.gtceu.assembler('tfg:firmaciv/sextant')             
-        .itemInputs('2x #forge:plates/brass', '2x #forge:rods/brass')
+        .itemInputs('#forge:plates/brass', '2x #forge:rods/brass', '#forge:glass')
         .circuit(10)
         .itemOutputs('firmaciv:sextant')
         .duration(75)
         .EUt(4)
 
-    // Navigator Timepiece
-    event.recipes.gtceu.assembler('tfg:firmaciv/navigator')             
-        .itemInputs('2x #forge:plates/brass', '2x #forge:rods/brass')
+    event.recipes.tfc.heating('firmaciv:sextant', 930)
+        .resultFluid(Fluid.of('gtceu:brass', 288))
+        .id(`firmaciv:heating/sextant`)
+    //#endregion
+
+    //#region Unfinished Navigator Timepiece
+    event.recipes.tfc.heating('firmaciv:unfinished_nav_clock', 930)
+        .resultFluid(Fluid.of('gtceu:brass', 288))
+        .id(`firmaciv:heating/unfinished_nav_clock`)
+    //#endregion
+
+    //#region Navigator Timepiece
+    event.recipes.gtceu.assembler('tfg:firmaciv/nav_clock')             
+        .itemInputs('2x #forge:plates/brass', '4x #forge:rods/brass', '2x #forge:glass')
         .circuit(11)
         .itemOutputs('firmaciv:nav_clock')
         .duration(75)
         .EUt(4)
 
-    // Barometer
+    event.recipes.tfc.heating('firmaciv:nav_clock', 930)
+        .resultFluid(Fluid.of('gtceu:brass', 576))
+        .id(`firmaciv:heating/nav_clock`)
+    //#endregion
+
+    //#region Unfinished Barometer
+    event.recipes.tfc.heating('firmaciv:unfinished_barometer', 930)
+        .resultFluid(Fluid.of('gtceu:brass', 144))
+        .id(`firmaciv:heating/unfinished_barometer`)
+    //#endregion
+
+    //#region Barometer
     event.recipes.gtceu.assembler('tfg:firmaciv/barometer')             
         .itemInputs('2x #forge:plates/brass', '2x #forge:rods/brass', '#forge:glass')
         .inputFluids(Fluid.of('minecraft:water', 1000))
@@ -59,31 +63,21 @@ const registerFirmaCivRecipes = (event) => {
         .duration(75)
         .EUt(4)
 
-    // Anchor
-    event.recipes.gtceu.assembler('tfg:firmaciv/anchor')             
-        .itemInputs('#forge:double_plates/steel')
-        .circuit(10)
-        .itemOutputs('firmaciv:anchor')
-        .duration(75)
-        .EUt(4)
+    event.recipes.tfc.heating('firmaciv:barometer', 930)
+        .resultFluid(Fluid.of('gtceu:brass', 216))
+        .id(`firmaciv:heating/barometer`)
+    //#endregion
 
-    // Cannon Barrel
-    event.recipes.gtceu.assembler('tfg:firmaciv/cannon_barrel')             
-        .itemInputs('#forge:double_plates/wrought_iron')
-        .circuit(11)
-        .itemOutputs('firmaciv:cannon_barrel')
-        .duration(75)
+    //#region Compass
+    event.recipes.gtceu.canner('tfg:firmaciv/compass')             
+        .itemInputs('minecraft:redstone', '#forge:plates/wrought_iron')
+        .circuit(1)
+        .itemOutputs('firmaciv:firmaciv_compass')
+        .duration(100)
         .EUt(4)
-    
-    // Cannonball
-    event.recipes.gtceu.assembler('tfg:firmaciv/cannonball')             
-        .itemInputs('#forge:double_plates/wrought_iron')
-        .circuit(12)
-        .itemOutputs('firmaciv:cannonball')
-        .duration(75)
-        .EUt(4)
-    
-    // Oarlock
+    //#endregion
+
+    //#region Oarlock
     event.recipes.gtceu.assembler('tfg:firmaciv/oarlock')             
         .itemInputs('#forge:double_plates/wrought_iron')
         .circuit(13)
@@ -91,7 +85,12 @@ const registerFirmaCivRecipes = (event) => {
         .duration(75)
         .EUt(4)
 
-    // Cleat
+    event.recipes.tfc.heating('firmaciv:oarlock', 1535)
+        .resultFluid(Fluid.of('gtceu:iron', 288))
+        .id(`firmaciv:heating/oarlock`)
+    //#endregion
+
+    //#region Cleat
     event.recipes.gtceu.assembler('tfg:firmaciv/cleat')             
         .itemInputs('#forge:double_plates/steel')
         .circuit(14)
@@ -99,11 +98,53 @@ const registerFirmaCivRecipes = (event) => {
         .duration(75)
         .EUt(4)
 
-    // Compass
-    event.recipes.gtceu.canner('tfg:firmaciv/compass')             
-        .itemInputs('minecraft:redstone', '#forge:plates/wrought_iron')
-        .circuit(1)
-        .itemOutputs('firmaciv:firmaciv_compass')
-        .duration(100)
+    event.recipes.tfc.heating('firmaciv:cleat', 1535)
+        .resultFluid(Fluid.of('gtceu:steel', 288))
+        .id(`firmaciv:heating/cleat`)
+    //#endregion
+
+    //#region Anchor
+    event.recipes.gtceu.assembler('tfg:firmaciv/anchor')             
+        .itemInputs('#forge:double_plates/steel')
+        .circuit(10)
+        .itemOutputs('firmaciv:anchor')
+        .duration(75)
         .EUt(4)
+
+    event.recipes.tfc.heating('firmaciv:anchor', 1535)
+        .resultFluid(Fluid.of('gtceu:steel', 288))
+        .id(`firmaciv:heating/anchor`)
+    //#endregion
+
+    //#region Cannon Barrel
+    event.recipes.gtceu.assembler('tfg:firmaciv/cannon_barrel')             
+        .itemInputs('#forge:double_plates/wrought_iron')
+        .circuit(11)
+        .itemOutputs('firmaciv:cannon_barrel')
+        .duration(75)
+        .EUt(4)
+
+    event.recipes.tfc.heating('firmaciv:cannon_barrel', 1535)
+        .resultFluid(Fluid.of('gtceu:iron', 288))
+        .id(`firmaciv:heating/cannon_barrel`)
+    //#endregion
+
+    //#region Cannonball
+    event.recipes.gtceu.assembler('tfg:firmaciv/cannonball')             
+        .itemInputs('#forge:double_plates/wrought_iron')
+        .circuit(12)
+        .itemOutputs('firmaciv:cannonball')
+        .duration(75)
+        .EUt(4)
+
+    event.recipes.tfc.heating('firmaciv:cannonball', 1535)
+        .resultFluid(Fluid.of('gtceu:iron', 288))
+        .id(`firmaciv:heating/cannonball`)
+    //#endregion
+
+    //#region Cannon
+    event.recipes.tfc.heating('firmaciv:cannon', 1535)
+        .resultFluid(Fluid.of('gtceu:iron', 1872))
+        .id(`firmaciv:heating/cannon`)
+    //#endregion
 }

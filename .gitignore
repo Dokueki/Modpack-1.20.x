@@ -29,7 +29,8 @@ CustomSkinLoader/*
 screenshots/*
 shaderpacks/*
 chiselsandbits/*
-.vscode/
+.vscode/*
+.new_mods/*
 
 # Extensions
 **/*.log
@@ -40,6 +41,7 @@ chiselsandbits/*
 # Client data
 .idea/
 /.bobby
+/profileImage
 .curseclient
 .sl_password
 patchouli_data.json
@@ -62,3 +64,5 @@ knownkeys.txt
 
 # Server Pack
 .github/buildtools/serverpack/*
+
+

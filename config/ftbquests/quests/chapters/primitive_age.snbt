@@ -363,7 +363,7 @@
 						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:lumber)"
 					}
 				}
-				title: "Любые пиломатериалы"
+				title: "Any Lumber"
 				type: "item"
 			}]
 			x: 8.0d
@@ -2363,54 +2363,8 @@
 				item: "gtceu:treated_wood_planks"
 				type: "item"
 			}]
-			x: 30.5d
-			y: 11.0d
-		}
-		{
-			dependencies: ["41DBE0B47E760DC4"]
-			description: [
-				"The &bPrimitive Water Pump&r is an easy way to automatically generate water for your boilers. It doesn't physically pump water from the world, instead generating it &einternally&r. Therefore, you don't need access to a &3body of water&r to make use of it. However, the humidity of the biome does apply a negligible bonus to its water production."
-				""
-				"It's a multiblock, so &5consult JEI&r for the structure. Multiblocks can be previewed in-world if you sneak right-click the \"&a&ocontroller&r\" block with an empty hand (in this case, the controller block is the &bPrimitive Water Pump&r itself)."
-				""
-				"&6Small tip for you:&r no need to worry about your base's biome for now, as your boilers will need very little water to keep up."
-				"{@pagebreak}"
-				"The &cOutput Hatch&r is where water will be generated. You can make it face up or down to auto-output water into your pipes. When you reach &7LV&r or &bMV&r, you can use an Output Hatch from either tier to further boost the Pump's output."
-				""
-				"&2Reminder:&r Use a Wrench to rotate GregTech blocks (sneak right-click)."
-				""
-				"&l&3Lore:&r&o This Multiblock was ported from GT IMPACT, a classic 1.7.10 GregTech modpack."
-			]
-			id: "1D623D93EEDD3C67"
-			size: 2.0d
-			subtitle: "There's no such thing as \"free\" water"
-			tasks: [
-				{
-					id: "24CCB2BF08C5400A"
-					item: "gtceu:primitive_pump"
-					type: "item"
-				}
-				{
-					id: "1EC1919EF0D22F00"
-					item: "gtceu:pump_hatch"
-					type: "item"
-				}
-				{
-					count: 10L
-					id: "4AA6B1931455F656"
-					item: "gtceu:pump_deck"
-					type: "item"
-				}
-				{
-					count: 10L
-					id: "31D4CB90405080DF"
-					item: "gtceu:treated_wood_frame"
-					type: "item"
-				}
-			]
-			title: "Primitive Water Pump"
-			x: 32.5d
-			y: 11.0d
+			x: 28.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["4504EBE720145441"]
@@ -2616,8 +2570,8 @@
 				item: "minecraft:bowl"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 4.5d
+			x: 10.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["3B2261F507B53EDC"]
@@ -2898,7 +2852,7 @@
 					tag: {
 						fluid: {
 							Amount: 1000
-							FluidName: "gtceu:latex"
+							FluidName: "tfg:latex"
 						}
 					}
 				}
@@ -3011,8 +2965,8 @@
 			dependencies: ["370D5A954DCBFD34"]
 			id: "70814114EF197414"
 			tasks: [{
-				id: "72932B85E4BC9F13"
-				item: "minecraft:compass"
+				id: "152BB23D954315F0"
+				item: "firmaciv:firmaciv_compass"
 				type: "item"
 			}]
 			x: -6.5d
@@ -5120,7 +5074,10 @@
 			y: 22.0d
 		}
 		{
-			dependencies: ["2E3F6613C490E9AD"]
+			dependencies: [
+				"2E3F6613C490E9AD"
+				"09BA130BE1805E05"
+			]
 			icon: "create:large_cogwheel"
 			id: "222A4146EF7750E9"
 			shape: "gear"
@@ -5161,6 +5118,145 @@
 			}]
 			x: 20.5d
 			y: 11.0d
+		}
+		{
+			dependencies: ["41DBE0B47E760DC4"]
+			id: "09BA130BE1805E05"
+			tasks: [{
+				id: "384F4B56E4992764"
+				item: "gtceu:treated_wood_plate"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["365F6F48E0BB2EFC"]
+			id: "23510E30D813C549"
+			tasks: [{
+				id: "09C1DBDEB5A47AB8"
+				item: {
+					Count: 1b
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "or(item_tag(tfchotornot:tongs))"
+					}
+				}
+				title: "Any Tongs"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4F5C883CC5282151"]
+			id: "2A3FEA1A48B598D1"
+			size: 1.5d
+			tasks: [{
+				id: "616E6313036EF00C"
+				item: "framedblocks:framed_cube"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6156D157921CC5A8"]
+			id: "6EB5582F224A7D9E"
+			tasks: [{
+				id: "5C217C7C0FB5DC97"
+				item: "etched:etching_table"
+				type: "item"
+			}]
+			x: 24.5d
+			y: 25.5d
+		}
+		{
+			dependencies: ["6156D157921CC5A8"]
+			id: "3F197DAB22F73BD1"
+			tasks: [{
+				id: "4D6AB30FD04E29E1"
+				item: "etched:album_jukebox"
+				type: "item"
+			}]
+			x: 23.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["6156D157921CC5A8"]
+			id: "7169A1209E35121A"
+			tasks: [{
+				id: "2E6731CF239E5118"
+				item: "etched:radio"
+				type: "item"
+			}]
+			x: 26.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["6156D157921CC5A8"]
+			id: "3FE5DFFD7F79426E"
+			tasks: [{
+				id: "0714CB1F55EC4D1B"
+				item: "etched:jukebox_minecart"
+				type: "item"
+			}]
+			x: 23.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["6156D157921CC5A8"]
+			id: "00DAC3E31BDB0775"
+			tasks: [{
+				id: "07EA44BEC48D43E3"
+				item: "etched:boombox"
+				type: "item"
+			}]
+			x: 26.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["754CA10FD1725EC6"]
+			id: "38469FBD2B7998C1"
+			tasks: [{
+				id: "5B2D048464054ACA"
+				item: {
+					Count: 1b
+					id: "etched:music_label"
+					tag: {
+						Label: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 24.5d
+			y: 23.0d
+		}
+		{
+			dependencies: [
+				"4CDE17A99074ADE2"
+				"2658E7679CD42ACD"
+			]
+			hide_dependency_lines: true
+			id: "754CA10FD1725EC6"
+			tasks: [{
+				id: "1E751F479E4D6B0A"
+				item: "etched:album_cover"
+				type: "item"
+			}]
+			x: 24.5d
+			y: 22.0d
+		}
+		{
+			dependencies: ["38469FBD2B7998C1"]
+			id: "6156D157921CC5A8"
+			tasks: [{
+				id: "09CBD3F693A3CA6C"
+				item: "etched:blank_music_disc"
+				type: "item"
+			}]
+			x: 24.5d
+			y: 24.0d
 		}
 	]
 	title: "Primitive Age"

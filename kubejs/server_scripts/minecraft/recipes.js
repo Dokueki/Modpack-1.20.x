@@ -2174,6 +2174,12 @@ const registerMinecraftRecipes = (event) => {
 
     //#endregion
 
+    //#region Выход: Цепи
+
+    event.remove({ id: 'minecraft:chain' })
+
+    //#endregion
+
     //#region Выход: Светильник адский
 
     event.remove({ id: 'minecraft:soul_lantern' })
@@ -2195,6 +2201,17 @@ const registerMinecraftRecipes = (event) => {
     //#region Выход: Коптильня
 
     event.remove({ id: 'minecraft:blast_furnace' })
+
+    //#endregion
+
+    //#region Выход: Тонированное стекло
+
+    event.recipes.gtceu.chemical_bath('tfg:minecraft/tinted_glass')             
+        .itemInputs('minecraft:glass')
+        .inputFluids(Fluid.of('gtceu:black_dye', 144))
+        .itemOutputs('minecraft:tinted_glass')
+        .duration(260)
+        .EUt(16)
 
     //#endregion
 
@@ -2815,6 +2832,13 @@ const registerMinecraftRecipes = (event) => {
     event.recipes.tfc.welding('minecraft:bucket', 'tfc:metal/bucket/red_steel', 'tfc:metal/bucket/blue_steel', 6)
         .id('tfg:anvil/vanilla_bucket')
 
+    event.recipes.gtceu.assembler('tfg:vanilla/bucket')             
+        .itemInputs('#forge:plates/red_steel', '#forge:plates/blue_steel')
+        .circuit(6)
+        .itemOutputs('minecraft:bucket')
+        .duration(100)
+        .EUt(16)
+
     //#endregion
 
     //#region Выход: Седло
@@ -2832,13 +2856,30 @@ const registerMinecraftRecipes = (event) => {
     //#region Выход: Вагонетка
 
     event.remove({ id: 'minecraft:minecart' })
-    event.remove({ id: 'tfc:crafting/vanilla/redstone/steel_minecart' })
+
+    event.shaped('minecraft:minecart', [
+        'A A',
+        'AAA',
+        'B B'
+    ], {
+        A: 'gtceu:wrought_iron_plate',
+        B: 'gtceu:iron_minecart_wheels'
+    }).id('tfc:crafting/vanilla/redstone/minecart')
+
+    event.shaped('minecraft:minecart', [
+        'A A',
+        'AAA',
+        'B B'
+    ], {
+        A: 'gtceu:wrought_iron_plate',
+        B: 'gtceu:steel_minecart_wheels'
+    }).id('tfc:crafting/vanilla/redstone/steel_minecart')
 
     event.recipes.gtceu.assembler('minecart')             
         .itemInputs('3x #forge:plates/wrought_iron', '3x #forge:rings/wrought_iron')
         .itemOutputs('minecraft:minecart')
         .duration(100)
-        .EUt(1)
+        .EUt(2)
 
     //#endregion
 
@@ -3070,7 +3111,7 @@ const registerMinecraftRecipes = (event) => {
     event.remove({ id: 'minecraft:powered_rail' })
 
     event.recipes.gtceu.assembler('powered_rail')             
-        .itemInputs('6x #forge:rods/gold', '#forge:rods/wooden', '#forge:dusts/redstone')
+        .itemInputs('6x #forge:rods/gold', '2x #forge:rods/wooden', '#forge:dusts/redstone')
         .circuit(1)
         .itemOutputs('16x minecraft:powered_rail')
         .duration(100)

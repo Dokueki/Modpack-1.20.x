@@ -1,7 +1,7 @@
 // priority: 0
 
 const registerTFCRecipes = (event) => {
-    
+    //return; TODO тут баг
     //#region Металлы
     
     // Удаление рецептов руд TFC
@@ -21,12 +21,19 @@ const registerTFCRecipes = (event) => {
     event.remove({ id: /tfc:crafting\/metal\/block\/*_slab/ })
     event.remove({ id: /tfc:heating\/metal\/*_block_slab/ })
 
+    let getFillingNBT = (material, amount) => {
+        return {
+            tank: {
+                FluidName: Fluid.of(material.getFluid()).getId(),
+                Amount: amount
+            }
+        }
+    }
+
     GTMaterialRegistry.getRegisteredMaterials().forEach(material => {
-        
         let tfcProperty = material.getProperty(TFGPropertyKey.TFC_PROPERTY)
 
         if (tfcProperty != null) {
-
             let outputMaterial = (tfcProperty.getOutputMaterial() == null) ? material : tfcProperty.getOutputMaterial()
 
             // Ingots
@@ -48,6 +55,21 @@ const registerTFCRecipes = (event) => {
                     event.recipes.tfc.casting(ingotItem, 'tfc:ceramic/fire_ingot_mold', Fluid.of(outputMaterial.getFluid(), 144), 0.01)
                         .id(`tfc:casting/${material.getName()}_fire_ingot`)
 
+                        event.recipes.create.filling(
+                            Item.of('tfc:ceramic/ingot_mold', getFillingNBT(outputMaterial, 144)), 
+                            [
+                                Fluid.of(outputMaterial.getFluid(), 144), 
+                                Item.of('tfc:ceramic/ingot_mold').strongNBT()
+                            ]
+                        ).id(`tfg:tfc/filling/${material.getName()}_ingot`)
+
+                        event.recipes.create.filling(
+                            Item.of('tfc:ceramic/fire_ingot_mold', getFillingNBT(outputMaterial, 144)), 
+                            [
+                                Fluid.of(outputMaterial.getFluid(), 144), 
+                                Item.of('tfc:ceramic/fire_ingot_mold').strongNBT()
+                            ]
+                        ).id(`tfg:tfc/filling/${material.getName()}_fire_ingot`)
                 }
       
                 // Double Ingots
@@ -273,7 +295,7 @@ const registerTFCRecipes = (event) => {
                         event.remove({ id: `tfc:crafting/metal/sword/${material.getName()}` })
             
                         // Декрафт инструмента в жидкость
-                        let swordItem = $ToolHelper.get(GTToolType.SWORD, material)
+                        let swordItem = ToolHelper.get(GTToolType.SWORD, material)
                         if (!swordItem.isEmpty()) {
                             
                             event.recipes.tfc.heating(swordItem, tfcProperty.getMeltTemp())
@@ -301,7 +323,17 @@ const registerTFCRecipes = (event) => {
                             if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                                 event.recipes.tfc.casting(swordHeadItem, 'tfc:ceramic/sword_blade_mold', Fluid.of(outputMaterial.getFluid(), 288), 1)
                                     .id(`tfc:casting/${material.getName()}_sword_blade`)
+                            
+                                event.recipes.create.filling(
+                                    Item.of('tfc:ceramic/sword_blade_mold', getFillingNBT(outputMaterial, 288)), 
+                                    [
+                                        Fluid.of(outputMaterial.getFluid(), 288), 
+                                        Item.of('tfc:ceramic/sword_blade_mold').strongNBT()
+                                    ]
+                                ).id(`tfg:tfc/filling/${material.getName()}_sword_blade`)
                             }
+
+                            
                             
                         }
             
@@ -319,6 +351,15 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(`tfc:metal/mace_head/${material.getName()}`, 'tfc:ceramic/mace_head_mold', Fluid.of(outputMaterial.getFluid(), 288), 1)
                                 .id(`tfc:casting/${material.getName()}_mace_head`)
+
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/mace_head_mold', getFillingNBT(outputMaterial, 288)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 288), 
+                                    Item.of('tfc:ceramic/mace_head_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_mace_head`)
+                        
                         }
             
                         // Декрафт оголовья в жидкость
@@ -331,7 +372,7 @@ const registerTFCRecipes = (event) => {
                         //#region Мясницкий нож
                     
                         // Декрафт инструмента в жидкость
-                        let butcheryKnifeItem = $ToolHelper.get(GTToolType.BUTCHERY_KNIFE, material)
+                        let butcheryKnifeItem = ToolHelper.get(GTToolType.BUTCHERY_KNIFE, material)
                         if (!butcheryKnifeItem.isEmpty()) {
                             
                             event.recipes.tfc.heating(butcheryKnifeItem, tfcProperty.getMeltTemp())
@@ -362,7 +403,7 @@ const registerTFCRecipes = (event) => {
                         //#region Молот шахтера
                 
                         // Декрафт инструмента в жидкость
-                        let miningHammerItem = $ToolHelper.get(GTToolType.MINING_HAMMER, material)
+                        let miningHammerItem = ToolHelper.get(GTToolType.MINING_HAMMER, material)
                         if (!miningHammerItem.isEmpty()) {
                             
                             event.recipes.tfc.heating(miningHammerItem, tfcProperty.getMeltTemp())
@@ -394,7 +435,7 @@ const registerTFCRecipes = (event) => {
                         //#region Большая лопата
                         
                         // Декрафт инструмента в жидкость
-                        let spadeItem = $ToolHelper.get(GTToolType.SPADE, material)
+                        let spadeItem = ToolHelper.get(GTToolType.SPADE, material)
                         if (!spadeItem.isEmpty()) {
                             
                             event.recipes.tfc.heating(spadeItem, tfcProperty.getMeltTemp())
@@ -461,7 +502,7 @@ const registerTFCRecipes = (event) => {
                         
                         // Болт -> Металл
                         event.recipes.tfc.heating(boltItem, tfcProperty.getMeltTemp())
-                            .resultFluid(Fluid.of(outputMaterial.getFluid(), 36))
+                            .resultFluid(Fluid.of(outputMaterial.getFluid(), 18))
                             .id(`tfc:heating/metal/${material.getName()}_bolt`)
 
                         // Стержень -> Болт
@@ -477,7 +518,7 @@ const registerTFCRecipes = (event) => {
                         
                         // Винт -> Металл
                         event.recipes.tfc.heating(screwItem, tfcProperty.getMeltTemp())
-                            .resultFluid(Fluid.of(outputMaterial.getFluid(), 72))
+                            .resultFluid(Fluid.of(outputMaterial.getFluid(), 16))
                             .id(`tfc:heating/metal/${material.getName()}_screw`)
 
                         // Стержень -> Винт
@@ -492,7 +533,7 @@ const registerTFCRecipes = (event) => {
                         
                         // Кольцо -> Металл
                         event.recipes.tfc.heating(ringItem, tfcProperty.getMeltTemp())
-                            .resultFluid(Fluid.of(outputMaterial.getFluid(), 72))
+                            .resultFluid(Fluid.of(outputMaterial.getFluid(), 36))
                             .id(`tfc:heating/metal/${material.getName()}_ring`)
         
                         // Стержень -> Кольцо
@@ -513,7 +554,7 @@ const registerTFCRecipes = (event) => {
                     event.remove({ id: `tfc:crafting/metal/pickaxe/${material.getName()}` })
         
                     // Декрафт инструмента в жидкость
-                    let pickaxeItem = $ToolHelper.get(GTToolType.PICKAXE, material)
+                    let pickaxeItem = ToolHelper.get(GTToolType.PICKAXE, material)
                     if (!pickaxeItem.isEmpty()) {
 
                         event.recipes.tfc.heating(`gtceu:${material.getName()}_pickaxe`, tfcProperty.getMeltTemp())
@@ -541,6 +582,14 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(pickaxeHeadItem, 'tfc:ceramic/pickaxe_head_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                                 .id(`tfc:casting/${material.getName()}_pickaxe_head`)
+
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/pickaxe_head_mold', getFillingNBT(outputMaterial, 144)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 144), 
+                                    Item.of('tfc:ceramic/pickaxe_head_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_pickaxe_head`)
                         }
         
                     }
@@ -553,7 +602,7 @@ const registerTFCRecipes = (event) => {
                     event.remove({ id: `tfc:crafting/metal/axe/${material.getName()}` })
         
                     // Декрафт инструмента в жидкость
-                    let axeItem = $ToolHelper.get(GTToolType.AXE, material)
+                    let axeItem = ToolHelper.get(GTToolType.AXE, material)
                     if (!axeItem.isEmpty()) {
                         
                         event.recipes.tfc.heating(axeItem, tfcProperty.getMeltTemp())
@@ -580,6 +629,14 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(axeHeadItem, 'tfc:ceramic/axe_head_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                                 .id(`tfc:casting/${material.getName()}_axe_head`)
+
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/axe_head_mold', getFillingNBT(outputMaterial, 144)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 144), 
+                                    Item.of('tfc:ceramic/axe_head_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_axe_head`)
                         }
                     }
 
@@ -591,7 +648,7 @@ const registerTFCRecipes = (event) => {
                     event.remove({ id: `tfc:crafting/metal/shovel/${material.getName()}` })
         
                     // Декрафт инструмента в жидкость
-                    let shovelItem = $ToolHelper.get(GTToolType.SHOVEL, material)
+                    let shovelItem = ToolHelper.get(GTToolType.SHOVEL, material)
                     if (!shovelItem.isEmpty()) {
                         
                         event.recipes.tfc.heating(shovelItem, tfcProperty.getMeltTemp())
@@ -619,6 +676,14 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(shovelHeadItem, 'tfc:ceramic/shovel_head_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                                 .id(`tfc:casting/${material.getName()}_shovel_head`)
+
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/shovel_head_mold', getFillingNBT(outputMaterial, 144)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 144), 
+                                    Item.of('tfc:ceramic/shovel_head_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_shovel_head_mold`)
                         }
         
                     }
@@ -631,7 +696,7 @@ const registerTFCRecipes = (event) => {
                     event.remove({ id: `tfc:crafting/metal/hoe/${material.getName()}` })
         
                     // Декрафт инструмента в жидкость
-                    let hoeItem = $ToolHelper.get(GTToolType.HOE, material)
+                    let hoeItem = ToolHelper.get(GTToolType.HOE, material)
                     if (!hoeItem.isEmpty()) {
                         event.recipes.tfc.heating(hoeItem, tfcProperty.getMeltTemp())
                             .resultFluid(Fluid.of(outputMaterial.getFluid(), 144))
@@ -657,6 +722,14 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(hoeHeadItem, 'tfc:ceramic/hoe_head_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                                 .id(`tfc:casting/${material.getName()}_hoe_head`)
+
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/hoe_head_mold', getFillingNBT(outputMaterial, 144)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 144), 
+                                    Item.of('tfc:ceramic/hoe_head_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_hoe_head_mold`)
                         }
                         
                     }
@@ -669,7 +742,7 @@ const registerTFCRecipes = (event) => {
                     event.remove({ id: `tfc:crafting/metal/hammer/${material.getName()}` })
         
                     // Декрафт инструмента в жидкость
-                    let hammerItem = $ToolHelper.get(GTToolType.HARD_HAMMER, material)
+                    let hammerItem = ToolHelper.get(GTToolType.HARD_HAMMER, material)
                     if (!hammerItem.isEmpty()) {
                        
                         event.recipes.tfc.heating(hammerItem, tfcProperty.getMeltTemp())
@@ -697,6 +770,14 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(hammerHeadItem, 'tfc:ceramic/hammer_head_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                                 .id(`tfc:casting/${material.getName()}_hammer_head`)
+                        
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/hammer_head_mold', getFillingNBT(outputMaterial, 144)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 144), 
+                                    Item.of('tfc:ceramic/hammer_head_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_hammer_head_mold`)
                         }
                     
                     }
@@ -709,7 +790,7 @@ const registerTFCRecipes = (event) => {
                     event.remove({ id: `tfc:crafting/metal/saw/${material.getName()}` })
         
                     // Декрафт инструмента в жидкость
-                    let sawItem = $ToolHelper.get(GTToolType.SAW, material)
+                    let sawItem = ToolHelper.get(GTToolType.SAW, material)
                     if (!sawItem.isEmpty()) {
                         
                         event.recipes.tfc.heating(sawItem, tfcProperty.getMeltTemp())
@@ -737,6 +818,14 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(sawHeadItem, 'tfc:ceramic/saw_blade_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                                 .id(`tfc:casting/${material.getName()}_saw_blade`)
+
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/saw_blade_mold', getFillingNBT(outputMaterial, 144)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 144), 
+                                    Item.of('tfc:ceramic/saw_blade_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_saw_blade_mold`)
                         }
     
                     }
@@ -749,7 +838,7 @@ const registerTFCRecipes = (event) => {
                     event.remove({ id: `tfc:crafting/metal/scythe/${material.getName()}` })
         
                     // Декрафт инструмента в жидкость
-                    let scytheItem = $ToolHelper.get(GTToolType.SCYTHE, material)
+                    let scytheItem = ToolHelper.get(GTToolType.SCYTHE, material)
                     if (!scytheItem.isEmpty()) {
                         event.recipes.tfc.heating(scytheItem, tfcProperty.getMeltTemp())
                             .resultFluid(Fluid.of(outputMaterial.getFluid(), 144))
@@ -775,6 +864,14 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(scytheHeadItem, 'tfc:ceramic/scythe_blade_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                                 .id(`tfc:casting/${material.getName()}_scythe_blade`)
+
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/scythe_blade_mold', getFillingNBT(outputMaterial, 144)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 144), 
+                                    Item.of('tfc:ceramic/scythe_blade_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_scythe_blade_mold`)
                         }
                     
                     }
@@ -784,7 +881,7 @@ const registerTFCRecipes = (event) => {
                     //#region Напильник
                     
                     // Декрафт инструмента в жидкость
-                    let fileItem = $ToolHelper.get(GTToolType.FILE, material)
+                    let fileItem = ToolHelper.get(GTToolType.FILE, material)
                     if (!fileItem.isEmpty()) {
                         event.recipes.tfc.heating(fileItem, tfcProperty.getMeltTemp())
                             .resultFluid(Fluid.of(outputMaterial.getFluid(), 144))
@@ -816,7 +913,7 @@ const registerTFCRecipes = (event) => {
                     event.remove({ id: `tfc:crafting/metal/knife/${material.getName()}` })
         
                     // Декрафт инструмента в жидкость
-                    let knifeItem = $ToolHelper.get(GTToolType.KNIFE, material)
+                    let knifeItem = ToolHelper.get(GTToolType.KNIFE, material)
                     if (!knifeItem.isEmpty()) {
                         event.recipes.tfc.heating(knifeItem, tfcProperty.getMeltTemp())
                             .resultFluid(Fluid.of(outputMaterial.getFluid(), 144))
@@ -842,6 +939,14 @@ const registerTFCRecipes = (event) => {
                         if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                             event.recipes.tfc.casting(knifeHeadItem, 'tfc:ceramic/knife_blade_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                                 .id(`tfc:casting/${material.getName()}_knife_blade`)
+
+                            event.recipes.create.filling(
+                                Item.of('tfc:ceramic/knife_blade_mold', getFillingNBT(outputMaterial, 144)), 
+                                [
+                                    Fluid.of(outputMaterial.getFluid(), 144), 
+                                    Item.of('tfc:ceramic/knife_blade_mold').strongNBT()
+                                ]
+                            ).id(`tfg:tfc/filling/${material.getName()}_knife_blade_mold`)
                         }
 
                         //#region Ножницы 
@@ -879,6 +984,14 @@ const registerTFCRecipes = (event) => {
                     if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                         event.recipes.tfc.casting(`tfc:metal/propick_head/${material.getName()}`, 'tfc:ceramic/propick_head_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                             .id(`tfc:casting/${material.getName()}_propick_head`)
+
+                        event.recipes.create.filling(
+                            Item.of('tfc:ceramic/propick_head_mold', getFillingNBT(outputMaterial, 144)), 
+                            [
+                                Fluid.of(outputMaterial.getFluid(), 144), 
+                                Item.of('tfc:ceramic/propick_head_mold').strongNBT()
+                            ]
+                        ).id(`tfg:tfc/filling/${material.getName()}_propick_head_mold`)
                     }
         
                     //#endregion
@@ -900,6 +1013,14 @@ const registerTFCRecipes = (event) => {
                     if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                         event.recipes.tfc.casting(`tfc:metal/chisel_head/${material.getName()}`, 'tfc:ceramic/chisel_head_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                             .id(`tfc:casting/${material.getName()}_chisel_head`)
+
+                        event.recipes.create.filling(
+                            Item.of('tfc:ceramic/chisel_head_mold', getFillingNBT(outputMaterial, 144)), 
+                            [
+                                Fluid.of(outputMaterial.getFluid(), 144), 
+                                Item.of('tfc:ceramic/chisel_head_mold').strongNBT()
+                            ]
+                        ).id(`tfg:tfc/filling/${material.getName()}_chisel_head_mold`)
                     }
         
                     //#endregion
@@ -921,10 +1042,17 @@ const registerTFCRecipes = (event) => {
                     if (material.hasFlag(TFGMaterialFlags.CAN_BE_UNMOLDED)) {
                         event.recipes.tfc.casting(`tfc:metal/javelin_head/${material.getName()}`, 'tfc:ceramic/javelin_head_mold', Fluid.of(outputMaterial.getFluid(), 144), 1)
                             .id(`tfc:casting/${material.getName()}_javelin_head`)
+
+                        event.recipes.create.filling(
+                            Item.of('tfc:ceramic/javelin_head_mold', getFillingNBT(outputMaterial, 144)), 
+                            [
+                                Fluid.of(outputMaterial.getFluid(), 144), 
+                                Item.of('tfc:ceramic/javelin_head_mold').strongNBT()
+                            ]
+                        ).id(`tfg:tfc/filling/${material.getName()}_javelin_head_mold`)
                     }
         
                     //#endregion
-        
                 }
                 
             }
@@ -987,23 +1115,25 @@ const registerTFCRecipes = (event) => {
                 event.recipes.tfc.heating(`tfc:metal/anvil/${material.getName()}`, tfcProperty.getMeltTemp())
                     .resultFluid(Fluid.of(outputMaterial.getFluid(), 2016))
                     .id(`tfc:heating/metal/${material.getName()}_anvil`)
-                
-                // Наковальня из слитков
-                event.recipes.gtceu.alloy_smelter(`ingots_to_${material.getName()}_anvil`)             
-                    .itemInputs(`14x #forge:ingots/${material.getName()}`)
-                    .notConsumable('gtceu:anvil_casting_mold')
-                    .itemOutputs(`tfc:metal/anvil/${material.getName()}`)
-                    .duration(1680)
-                    .EUt(16)
-    
-                // Наковальня из жидкости
-                event.recipes.gtceu.fluid_solidifier(`solidify_${material.getName()}_anvil`)             
-                    .inputFluids(Fluid.of(outputMaterial.getFluid(), 2016))
-                    .notConsumable('gtceu:anvil_casting_mold')
-                    .itemOutputs(`tfc:metal/anvil/${material.getName()}`)
-                    .duration(1680)
-                    .EUt(16)
             }
+
+            //#region Щипцы
+            let tongsStack = Item.of(`tfchotornot:tongs/${material.getName()}`)
+            let tongPartStack = Item.of(`tfchotornot:tong_part/${material.getName()}`)
+
+            if (!tongsStack.isEmpty() && !tongPartStack.isEmpty()) {
+                // Ручка щипцов
+                event.recipes.tfc.heating(tongPartStack, tfcProperty.getMeltTemp())
+                    .resultFluid(Fluid.of(outputMaterial.getFluid(), 144))
+                    .id(`tfchotornot:heating/tong_part/${material.getName()}`)
+                
+                // Щипцы
+                event.recipes.tfc.heating(tongsStack, tfcProperty.getMeltTemp())
+                    .resultFluid(Fluid.of(outputMaterial.getFluid(), 288))
+                    .useDurability(true)
+                    .id(`tfchotornot:heating/tongs/${material.getName()}`)
+            }
+            //#endregion
     
             // Small TFC Ores
             if (material.hasFlag(TFGMaterialFlags.HAS_SMALL_TFC_ORE)) {
@@ -1152,6 +1282,7 @@ const registerTFCRecipes = (event) => {
         }
     })
 
+
     //#region Рецепты для новых сплавов
 
     event.recipes.tfc.alloy('tfg:red_alloy', [
@@ -1228,6 +1359,14 @@ const registerTFCRecipes = (event) => {
         .resultFluid(Fluid.of('gtceu:gold', 144))
         .id(`tfc:heating/gold_bell`)
 
+    event.recipes.create.filling(
+        Item.of('tfc:ceramic/bell_mold', getFillingNBT(GTMaterials.Gold, 144)), 
+        [
+            Fluid.of(GTMaterials.Gold.getFluid(), 144), 
+            Item.of('tfc:ceramic/bell_mold').strongNBT()
+        ]
+    ).id(`tfg:tfc/filling/${GTMaterials.Gold.getName()}_bell_mold`)
+
     //#endregion
 
     //#region Из латуни
@@ -1238,6 +1377,14 @@ const registerTFCRecipes = (event) => {
     event.recipes.tfc.heating(`tfc:brass_bell`, 930)
         .resultFluid(Fluid.of('gtceu:brass', 144))
         .id(`tfc:heating/brass_bell`)
+
+    event.recipes.create.filling(
+        Item.of('tfc:ceramic/bell_mold', getFillingNBT(GTMaterials.Brass, 144)), 
+        [
+            Fluid.of(GTMaterials.Brass.getFluid(), 144), 
+            Item.of('tfc:ceramic/bell_mold').strongNBT()
+        ]
+    ).id(`tfg:tfc/filling/${GTMaterials.Brass.getName()}_bell_mold`)
     
     //#endregion
 
@@ -1249,6 +1396,14 @@ const registerTFCRecipes = (event) => {
     event.recipes.tfc.heating(`tfc:bronze_bell`, 930)
         .resultFluid(Fluid.of('gtceu:bronze', 144))
         .id(`tfc:heating/bronze_bell`)
+
+    event.recipes.create.filling(
+        Item.of('tfc:ceramic/bell_mold', getFillingNBT(GTMaterials.Bronze, 144)), 
+        [
+            Fluid.of(GTMaterials.Bronze.getFluid(), 144), 
+            Item.of('tfc:ceramic/bell_mold').strongNBT()
+        ]
+    ).id(`tfg:tfc/filling/${GTMaterials.Bronze.getName()}_bell_mold`)
 
     //#endregion
 
@@ -1361,7 +1516,7 @@ const registerTFCRecipes = (event) => {
 
     // Ванильная дверь декрафт
     event.recipes.tfc.heating('minecraft:iron_door', 1535)
-        .resultFluid(Fluid.of('gtceu:iron', 288))
+        .resultFluid(Fluid.of('gtceu:iron', 144))
         .id(`tfc:heating/iron_door`)
     
     // Ванильная дверь на наковальне
@@ -1394,13 +1549,13 @@ const registerTFCRecipes = (event) => {
         .id('tfc:bloomery/raw_iron_bloom')
 
     // Cast Iron -> Pig Iron
-    event.recipes.tfc.blast_furnace(Fluid.of('gtceu:pig_iron', 1), '#tfc:flux', Fluid.of('gtceu:iron', 1))
+    event.recipes.tfc.blast_furnace(Fluid.of('tfg:pig_iron', 1), '#tfc:flux', Fluid.of('gtceu:iron', 1))
         .id('tfc:blast_furnace/pig_iron')
 
     //#endregion
 
     //#endregion
-
+    
     //#region Земля
 
     // Loam + Silt -> Silty Loam (Миксер)
@@ -1536,8 +1691,9 @@ const registerTFCRecipes = (event) => {
 
     global.TFC_STONE_TYPES.forEach(stone => {
     
-        let stoneMaterial = GTMaterials.get(stone);
+        let stoneMaterial = TFGHelpers.getMaterial(stone);
         let stoneDust = ChemicalHelper.get(TagPrefix.dust, stoneMaterial, 1)
+        let smallStoneDust = ChemicalHelper.get(TagPrefix.dustSmall, stoneMaterial, 1)
 
         // Кирпич (предмет)
         event.recipes.gtceu.assembler(`tfg:tfc/${stone}_loose_to_brick`)             
@@ -1860,49 +2016,49 @@ const registerTFCRecipes = (event) => {
         // Сырой
         event.recipes.gtceu.macerator(`raw_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/raw/${stone}`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Булыжник
         event.recipes.gtceu.macerator(`cobble_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/cobble/${stone}`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Гладкий
         event.recipes.gtceu.macerator(`smooth_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/smooth/${stone}`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Кирпичи
         event.recipes.gtceu.macerator(`bricks_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/bricks/${stone}`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Потрескавшиеся кирпичи
         event.recipes.gtceu.macerator(`cracked_bricks_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/cracked_bricks/${stone}`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Замшелый булыжник
         event.recipes.gtceu.macerator(`mossy_cobble_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/mossy_cobble/${stone}`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Замшелый кирпич
         event.recipes.gtceu.macerator(`mossy_bricks_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/mossy_bricks/${stone}`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
@@ -1913,49 +2069,49 @@ const registerTFCRecipes = (event) => {
         // Сырой
         event.recipes.gtceu.macerator(`raw_stairs_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/raw/${stone}_stairs`)
-            .itemOutputs(`6x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(6))
             .duration(4)
             .EUt(75)
 
         // Булыжник
         event.recipes.gtceu.macerator(`cobble_stairs_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/cobble/${stone}_stairs`)
-            .itemOutputs(`6x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(6))
             .duration(4)
             .EUt(75)
 
         // Гладкий
         event.recipes.gtceu.macerator(`smooth_stairs_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/smooth/${stone}_stairs`)
-            .itemOutputs(`6x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(6))
             .duration(4)
             .EUt(75)
 
         // Кирпичи
         event.recipes.gtceu.macerator(`bricks_stairs_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/bricks/${stone}_stairs`)
-            .itemOutputs(`6x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(6))
             .duration(4)
             .EUt(75)
 
         // Потрескавшиеся кирпичи
         event.recipes.gtceu.macerator(`cracked_bricks_stairs_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/cracked_bricks/${stone}_stairs`)
-            .itemOutputs(`6x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(6))
             .duration(4)
             .EUt(75)
 
         // Замшелый булыжник
         event.recipes.gtceu.macerator(`mossy_cobble_stairs_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/mossy_cobble/${stone}_stairs`)
-            .itemOutputs(`6x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(6))
             .duration(4)
             .EUt(75)
 
         // Замшелый кирпич
         event.recipes.gtceu.macerator(`mossy_bricks_stairs_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/mossy_bricks/${stone}_stairs`)
-            .itemOutputs(`6x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(6))
             .duration(4)
             .EUt(75)
 
@@ -1966,49 +2122,49 @@ const registerTFCRecipes = (event) => {
         // Сырой
         event.recipes.gtceu.macerator(`raw_slab_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/raw/${stone}_slab`)
-            .itemOutputs(`2x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(2))
             .duration(4)
             .EUt(75)
 
         // Булыжник
         event.recipes.gtceu.macerator(`cobble_slab_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/cobble/${stone}_slab`)
-            .itemOutputs(`2x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(2))
             .duration(4)
             .EUt(75)
 
         // Гладкий
         event.recipes.gtceu.macerator(`smooth_slab_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/smooth/${stone}_slab`)
-            .itemOutputs(`2x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(2))
             .duration(4)
             .EUt(75)
 
         // Кирпичи
         event.recipes.gtceu.macerator(`bricks_slab_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/bricks/${stone}_slab`)
-            .itemOutputs(`2x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(2))
             .duration(4)
             .EUt(75)
 
         // Потрескавшиеся кирпичи
         event.recipes.gtceu.macerator(`cracked_bricks_slab_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/cracked_bricks/${stone}_slab`)
-            .itemOutputs(`2x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(2))
             .duration(4)
             .EUt(75)
 
         // Замшелый булыжник
         event.recipes.gtceu.macerator(`mossy_cobble_slab_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/mossy_cobble/${stone}_slab`)
-            .itemOutputs(`2x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(2))
             .duration(4)
             .EUt(75)
 
         // Замшелый кирпич
         event.recipes.gtceu.macerator(`mossy_bricks_slab_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/mossy_bricks/${stone}_slab`)
-            .itemOutputs(`2x gtceu:small_${stone}_dust`)
+            .itemOutputs(smallStoneDust.withCount(2))
             .duration(4)
             .EUt(75)
 
@@ -2019,49 +2175,49 @@ const registerTFCRecipes = (event) => {
         // Сырой
         event.recipes.gtceu.macerator(`raw_wall_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/raw/${stone}_wall`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Булыжник
         event.recipes.gtceu.macerator(`cobble_wall_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/cobble/${stone}_wall`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Гладкий
         event.recipes.gtceu.macerator(`smooth_wall_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/smooth/${stone}_wall`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Кирпичи
         event.recipes.gtceu.macerator(`bricks_wall_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/bricks/${stone}_wall`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Потрескавшиеся кирпичи
         event.recipes.gtceu.macerator(`cracked_bricks_wall_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/cracked_bricks/${stone}_wall`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Замшелый булыжник
         event.recipes.gtceu.macerator(`mossy_cobble_wall_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/mossy_cobble/${stone}_wall`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Замшелый кирпич
         event.recipes.gtceu.macerator(`mossy_bricks_wall_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/mossy_bricks/${stone}_wall`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
@@ -2070,14 +2226,14 @@ const registerTFCRecipes = (event) => {
         // Резной кирпич
         event.recipes.gtceu.macerator(`chiseled_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/chiseled/${stone}`)
-            .itemOutputs(`gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust)
             .duration(4)
             .EUt(75)
 
         // Укрепленный
         event.recipes.gtceu.macerator(`hardened_${stone}_to_dust`)             
             .itemInputs(`tfc:rock/hardened/${stone}`)
-            .itemOutputs(`2x gtceu:${stone}_dust`)
+            .itemOutputs(stoneDust.withCount(2))
             .duration(8)
             .EUt(150)
 
@@ -2290,22 +2446,10 @@ const registerTFCRecipes = (event) => {
         .EUt(2)
 
     //#endregion
-
+    
     //#region Дерево
     
-    // Декрафт деревянной херни в деревянную пыль
-    Object.entries(global.TFC_WOOD_ITEM_TYPES_TO_WOOD_DUST).forEach(pair => {
-        
-        let typeName = pair[1].name
-        let typeOutput = pair[1].output
-        
-        event.recipes.gtceu.macerator(`tfg/macerate_${typeName}`)             
-            .itemInputs(pair[0])
-            .itemOutputs(typeOutput)
-            .duration(600)
-            .EUt(2)
-    })
-
+    // Какие то рецепты дерева
     global.TFC_WOOD_TYPES.forEach(wood => {
         event.remove({ id: `tfc:crafting/wood/${wood}_axle` })
         event.remove({ id: `tfc:crafting/wood/${wood}_bladed_axle` })
@@ -2355,7 +2499,7 @@ const registerTFCRecipes = (event) => {
     })
 
     //#endregion
-
+    
     //#region Рецепты порошков
     
     // Удаление рецептов
@@ -2883,7 +3027,7 @@ const registerTFCRecipes = (event) => {
         .id(`tfg:milling/tfc/olive_paste`)
 
     //#endregion
-
+    
     //#region Рецепты бочки в миксере
     // А где?
     //#endregion
@@ -2925,6 +3069,25 @@ const registerTFCRecipes = (event) => {
     // Fire Brick
     event.smelting('tfc:ceramic/fire_brick', 'gtceu:compressed_fireclay')
         .id('tfg:smelting/fireclay_brick')
+
+    // Выпаривание соли
+    event.recipes.tfc.pot([], Fluid.of('tfc:salt_water', 625), 300, 1000)
+        .itemOutput('gtceu:small_salt_dust')
+        .id('tfg:tfc/pot/salt')
+
+    // Salt Water
+    generateMixerRecipe(
+        event, 
+        ['#forge:dusts/salt'], 
+        Fluid.of('minecraft:water', 1000),
+        [],
+        null,
+        Fluid.of('tfc:salt_water', 1000),
+        40,
+        7,
+        64,
+        'tfg:tfc/salt_water'
+    )
 
     // Lamp Glass
     event.recipes.gtceu.alloy_smelter(`tfg:tfc/lamp_glass`)             
@@ -2972,7 +3135,7 @@ const registerTFCRecipes = (event) => {
     event.recipes.gtceu.assembler('tfg:tfc/brass_mechanism')             
         .itemInputs('#forge:plates/brass')
         .circuit(10)
-        .itemOutputs('tfc:brass_mechanisms')
+        .itemOutputs('2x tfc:brass_mechanisms')
         .duration(100)
         .EUt(4)
 

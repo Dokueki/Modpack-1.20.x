@@ -1,7 +1,6 @@
 // priority: 0
 
 const registerGTCEURecipes = (event) => {
-    
     //#region Выход: Удобрение
 
     // В обычном миксере
@@ -67,7 +66,7 @@ const registerGTCEURecipes = (event) => {
     event.recipes.gtceu.centrifuge('centrifuging_tfc_salt_water')             
         .inputFluids(Fluid.of('tfc:salt_water', 1000))
         .itemOutputs('1x gtceu:salt_dust')
-        .outputFluids(Fluid.of('minecraft:water', 500))
+        .outputFluids(Fluid.of('minecraft:water', 1000))
         .duration(51)
         .EUt(30)
 
@@ -178,7 +177,7 @@ const registerGTCEURecipes = (event) => {
     //#region Выход: Капля резины
 
     // Из латекса
-    event.recipes.tfc.pot('tfc:powder/sulfur', Fluid.of('gtceu:latex', 1000), 5000, 300)
+    event.recipes.tfc.pot('tfc:powder/sulfur', Fluid.of('tfg:latex', 1000), 5000, 300)
         .itemOutput('gtceu:sticky_resin')
         .id('tfg:pot/sticky_resin')
 
@@ -548,7 +547,6 @@ const registerGTCEURecipes = (event) => {
     event.remove({ id: 'gtceu:arc_furnace/arc_chipped_anvil' })
     event.remove({ id: 'gtceu:arc_furnace/arc_anvil' })
     event.remove({ id: 'gtceu:arc_furnace/arc_furnace_minecart' })
-    event.remove({ id: 'gtceu:arc_furnace/arc_bucket' })
     event.remove({ id: 'gtceu:arc_furnace/arc_compass' })
     
     //#endregion
@@ -556,18 +554,6 @@ const registerGTCEURecipes = (event) => {
     //#region Выход: Кованные самородки
 
     event.remove({ id: 'gtceu:arc_furnace/arc_iron_bars' })
-
-    event.recipes.gtceu.arc_furnace('arc_iron_door')             
-        .itemInputs('minecraft:iron_door')
-        .itemOutputs('9x gtceu:wrought_iron_dust', 'gtceu:steel_nugget')
-        .duration(200)
-        .EUt(30)
-
-    //#endregion
-
-    //#region Выход: Пыль кованного железа
-
-    event.remove({ id: 'gtceu:arc_furnace/arc_iron_door' })
 
     //#endregion
 
@@ -586,12 +572,6 @@ const registerGTCEURecipes = (event) => {
     //#region Выход: Крошечная железная пыль
 
     event.remove({ id: 'gtceu:macerator/macerate_iron_bars' })
-
-    event.recipes.gtceu.macerator('macerate_iron_door')             
-        .itemInputs('minecraft:iron_door')
-        .itemOutputs('gtceu:iron_dust', 'gtceu:tiny_steel_dust')
-        .duration(200)
-        .EUt(8)
 
     //#endregion
 
@@ -845,54 +825,6 @@ const registerGTCEURecipes = (event) => {
 
     //#endregion
 
-    //#region Primitive Pump
-
-    // Pump Deck
-    event.shaped('gtceu:pump_deck', [
-        'ABA', 
-        'CDE'  
-    ], {
-        A: '#forge:screws/wrought_iron',
-        B: 'gtceu:treated_wood_planks',  
-        C: '#forge:tools/hammers',
-        D: '#tfg:rock_slabs',
-        E: '#forge:tools/screwdrivers'
-    }).id('gtceu:shaped/pump_deck')
-
-    // Pump Hatch
-    event.shaped('gtceu:pump_hatch', [
-        'ABC', 
-        'DED',
-        'FBF'  
-    ], {
-        A: '#forge:screws/wrought_iron',
-        B: '#forge:rings/wrought_iron',
-        C: '#forge:tools/screwdrivers',
-        D: 'gtceu:treated_wood_planks',
-        E: 'gtceu:wood_large_fluid_pipe',
-        F: '#tfg:rock_slabs'
-
-    }).id('gtceu:shaped/pump_hatch')
-
-    // Primitive Pump
-    event.shaped('gtceu:primitive_pump', [
-        'ABC', 
-        'DEF',
-        'GHG'  
-    ], {
-        A: '#forge:rings/wrought_iron',
-        B: 'gtceu:wood_normal_fluid_pipe',
-        C: '#forge:screws/wrought_iron',
-        D: '#forge:rotors/wrought_iron',
-        E: 'gtceu:treated_wood_planks',
-        F: '#forge:tools/screwdrivers',
-        G: '#tfg:rock_slabs',
-        H: 'gtceu:wood_large_fluid_pipe'
-
-    }).id('gtceu:shaped/primitive_pump')
-
-    //#endregion
-
     //#region CokeOven
 
     // Coke Oven
@@ -1091,6 +1023,14 @@ const registerGTCEURecipes = (event) => {
     event.remove({ id: 'gtceu:arc_furnace/arc_primitive_blast_furnace' })
     event.remove({ id: 'gtceu:macerator/macerate_primitive_blast_furnace' })
 
+    // Удаление рецепта беск. воды кавера
+    event.remove('gtceu:assembler/cover_infinite_water')
+
+    // Удаление рецептов помпы
+    event.remove('gtceu:shaped/pump_deck')
+    event.remove('gtceu:shaped/pump_hatch')
+    event.remove('gtceu:shaped/primitive_pump')
+
     // Удаление рецептов связанных с Barrel
     event.remove({ id: 'gtceu:shaped/wooden_barrel' })
     event.remove({ id: 'gtceu:assembler/wood_barrel' })
@@ -1118,6 +1058,13 @@ const registerGTCEURecipes = (event) => {
         .inputFluids(Fluid.of('gtceu:sulfur_dioxide', 6000), Fluid.of('gtceu:carbon_monoxide', 8000))
         .duration(700)
         .EUt(2720)
+
+    // Creosote-Treated Wood Planks -> Treated Wood Pulp
+    event.recipes.gtceu.macerator('tfg:gtceu/macerate_treated_wood_planks')             
+        .itemInputs('gtceu:treated_wood_planks')
+        .itemOutputs('gtceu:treated_wood_dust')
+        .duration(120)
+        .EUt(4)
 
     // Empty Wooden Form
     event.shaped('gtceu:empty_wooden_form', [
@@ -1235,39 +1182,6 @@ const registerGTCEURecipes = (event) => {
     // Исправление рецепта пыли розовой бронзы
     generateMixerRecipe(event, ['#forge:dusts/copper', '4x #forge:dusts/gold'], [], '5x gtceu:rose_gold_dust', 3, [], 500, 24, 64, 'rose_gold')
 
-    //#region LV Casing
-
-    event.shaped('gtceu:lv_machine_casing', [
-        'ABA', 
-        'BCB',
-        'ABA'
-    ], {
-        A: '#forge:plates/red_steel',
-        B: '#forge:plates/blue_steel',
-        C: '#forge:tools/wrenches'
-    }).id('gtceu:shaped/casing_lv')
-
-    event.recipes.gtceu.assembler('casing_lv')             
-        .itemInputs('4x #forge:plates/red_steel', '4x #forge:plates/blue_steel')
-        .circuit(8)
-        .itemOutputs('gtceu:lv_machine_casing')
-        .duration(50)
-        .EUt(16)
-
-    event.recipes.gtceu.macerator('macerate_lv_machine_casing')             
-        .itemInputs('gtceu:lv_machine_casing')
-        .itemOutputs('4x gtceu:red_steel_dust', '4x gtceu:blue_steel_dust')
-        .duration(448)
-        .EUt(8)
-
-    event.recipes.gtceu.arc_furnace('arc_lv_machine_casing')             
-        .itemInputs('gtceu:lv_machine_casing')
-        .itemOutputs('4x gtceu:red_steel_ingot', '4x gtceu:blue_steel_ingot')
-        .duration(448)
-        .EUt(8)
-
-    //#endregion
-
     //#region Рецепт ULV микросхемы
 
     event.remove({ id: 'gtceu:shaped/vacuum_tube' })
@@ -1342,12 +1256,11 @@ const registerGTCEURecipes = (event) => {
     //#region Рецепты, которые итерируются по всем материалам
 
     GTMaterialRegistry.getRegisteredMaterials().forEach(material => {
-        
         //#region Рецепты инструментов
         
         if (material.hasFlag(TFGMaterialFlags.HAS_TFC_TOOL)) {
             global.GTCEU_ANVIL_TOOL_TYPES.forEach(toolType => {
-                let toolStack = $ToolHelper.get(toolType, material)
+                let toolStack = ToolHelper.get(toolType, material)
 
                 event.recipes.tfc.advanced_shaped_crafting(TFC.itemStackProvider.of(toolStack).copyForgingBonus(), [
                     'A',
@@ -1443,7 +1356,7 @@ const registerGTCEURecipes = (event) => {
 
         let ingotStack = ChemicalHelper.get(TagPrefix.ingot, material, 1)
 
-        if (material.hasFlag($MaterialFlags.GENERATE_PLATE) && material != GTMaterials.Wood && material != GTMaterials.TreatedWood && !material.hasProperty(PropertyKey.POLYMER)) 
+        if (material.hasFlag(MaterialFlags.GENERATE_PLATE) && material != GTMaterials.Wood && material != GTMaterials.TreatedWood && !material.hasProperty(PropertyKey.POLYMER)) 
         {
             let plateStack = ChemicalHelper.get(TagPrefix.plate, material, 1)
             let blockStack = ChemicalHelper.get(TagPrefix.block, material, 1)
@@ -1479,7 +1392,7 @@ const registerGTCEURecipes = (event) => {
         }
 
         // Прокатка стержней
-        if (material.hasFlag($MaterialFlags.GENERATE_ROD) && material != GTMaterials.Wood)
+        if (material.hasFlag(MaterialFlags.GENERATE_ROD) && material != GTMaterials.Wood)
         {
             let rodStack = ChemicalHelper.get(TagPrefix.rod, material, 2)
 
