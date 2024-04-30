@@ -53,6 +53,10 @@ file = "README.md"
 hash = "885a116a6af51711fca9be754f4de1a05d1ecd87aff5399cdfb8fbd8e4410048"
 
 [[files]]
+file = "config/.toolswap"
+hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+
+[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "c013dc1f7331b247e92c51fbc316aba4cfaa428af07548be83bab2d5c3e12c57"
 
@@ -593,6 +597,14 @@ file = "config/flywheel-client.toml"
 hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
+file = "config/fml.toml"
+hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "1c3ade413ad1f0c5cf1c477d145bf7e3b733b18fad24c695267faa4ac37fdd31"
 
@@ -861,6 +873,10 @@ file = "config/nyfsspiders.toml"
 hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
+file = "config/oculus.properties"
+hash = "adeb8a9636be001153fef24566c280262f432b118e09bb29ada3f505c008e2c7"
+
+[[files]]
 file = "config/panorama_screens/settings.json"
 hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
 
@@ -957,6 +973,14 @@ file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "43900e75234a7a252f28aaa0e399949b31ffa3dc9dde1b80137198ad5e3dd1a7"
 
 [[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "852b51188dc9a4df6342eaa5c926513be366a6ecd7a525470e834c46bd257b97"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "52bdaef984356844a8405d33e97a63c09fb4012a0e40a91a0994e7443861dcd7"
+
+[[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
 
@@ -1041,6 +1065,14 @@ file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
+file = "config/voicechat/username-cache.json"
+hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "95a9f787a4f1ff8d963aba0fc86ef222e547768b50103ee895e9c9b649434205"
 
@@ -1063,6 +1095,10 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3516,11 +3552,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "0de41e99ee98e3158f4a3ffef47862bdd4c0334edf1e424a55261d087417a931"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "0b11a0c831ae78ea63491198bd04c6adfc92a4d3c9292cb27243edd4f1a23716"
 metafile = true
 
 [[files]]
