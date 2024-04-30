@@ -253,6 +253,10 @@ file = "config/createaddition-common.toml"
 hash = "97d4858e0b7612ff5926755455d9e0c5b1b91b566e0b576027d16dd4b23d2891"
 
 [[files]]
+file = "config/createbigcannons-client.toml"
+hash = "6194ef9262a8fc45f8e7e641f4a5dbdabf12294cbf7d0c54c9f9db64bc9b4e09"
+
+[[files]]
 file = "config/cucumber-client.toml"
 hash = "8728108be29b34595d998261b40bba3ffb58f0def0dbe3b5c0e48c4fb708a3bc"
 
@@ -870,7 +874,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a8c0063cf1cb9663ac872da40c58d802301ef04bc5d524fde1f552b77c512140"
+hash = "4cc0150942c6b7eed0931200117e0f2564021ed5e268fda93342bd798ab3a3ee"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -937,6 +941,10 @@ file = "config/sidebar_buttons.json"
 hash = "f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d"
 
 [[files]]
+file = "config/simpleradio-server.toml"
+hash = "4db317c6ce6dc33e09f145a5e4e09a1120fe83bc5376fab205830dea12d176d0"
+
+[[files]]
 file = "config/smoothboot.json"
 hash = "780cbbe638e0a8a6d5e4dd4b606b4250ababa3bfa6aed0df58eec97fa333ef2a"
 
@@ -966,15 +974,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "7f09feb34172bbbb9889fa03eb3380a3b4a29f0d4fd54f0312ff775d11b3efee"
+hash = "43900e75234a7a252f28aaa0e399949b31ffa3dc9dde1b80137198ad5e3dd1a7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6dbd4398573118937081666e6b4c8307f0ad0488ce33afaf11ecd4a1213cb29c"
+hash = "60224932b980e38cc56c0214f01416df786ee6fd4270393cdcb0f1f5e25849fe"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b5d0274cbff194d26c5002f53bef679fa55be70012c799a4851d481469834ed2"
+hash = "7fac043ac9281ff886f730337096d44316900670f45c12c9533aff77ea635687"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1094,7 +1102,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3873,11 +3881,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "19d21b037fcdcc6c8a4beb1b586ab0db36cc94f9287a42e32daffe66eddc52f9"
 metafile = true
 
 [[files]]
