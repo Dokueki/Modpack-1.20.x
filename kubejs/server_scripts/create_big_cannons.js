@@ -84,6 +84,21 @@ ServerEvents.recipes(event => {
         'minecraft:leather'
     )
 
+    event.replaceInput({ output: '/createbigcannons:wrought_iron_.*/' },
+        'minecraft:iron_ingot',
+        '#forge:ingots/wrought_iron'
+    )
+
+    event.replaceInput({ output: '/createbigcannons:wrought_iron_.*/' },
+        'gtceu:iron_plate',
+        '#forge:plates/wrought_iron'
+    )
+
+    event.replaceInput({ output: '/createbigcannons:wrought_iron_.*/' },
+        'minecraft:iron_bars',
+        '#forge:rods/wrought_iron'
+    )
+
     event.replaceInput({ output: 'createbigcannons:yaw_controller' },
         'minecraft:gunpowder',
         'minecraft:leather'
