@@ -118,6 +118,16 @@ ServerEvents.recipes(event => {
 
     //
 
+    event.remove({ output: 'minecraft:slime_block' })
+    
+    event.shaped('minecraft:slime_block', [
+        'AAA',
+        'AAA',
+        'AAA'
+    ], {
+        A: 'tfc:glue'
+    })
+
     event.shapeless('minecraft:slime_ball', [
         'tfc:glue',
         '#forge:dyes/green'
