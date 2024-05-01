@@ -116,6 +116,11 @@ ServerEvents.recipes(event => {
         'gtceu:quartzite_gem'
     )
 
+    event.replaceInput({ mod: 'createbigcannons' },
+        'create:blaze_burner',
+        'minecraft:blaze_powder'
+    )
+
     //
 
     event.remove({ output: 'minecraft:slime_block' })
