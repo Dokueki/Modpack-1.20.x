@@ -81,10 +81,6 @@ file = "config/EmiLootConfig_v1.json"
 hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
-file = "config/InventoryHUD/curios.json"
-hash = "9c2c796cfaedc6935d9d424b8d03e150779325a4679a74bacbbf281505418431"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -334,7 +330,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "c08962afdb7b669f7e36a74d10fd62bf13b4d3ed7255778ed9b908e505e6775a"
+hash = "9ac6af40effc4ad8b88b3c4fe85fc6e7b24ff18dc8d72a05709daf4c17af0a09"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -874,7 +870,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "aa64b397815a0ada4a2f3fd49f9e64e7f4d23d37b7477228a2623a8dc42828a5"
+hash = "08f982818e6ba709ef944f690a5318b8d93b24e12c71827325947bf156214cd9"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -898,7 +894,7 @@ hash = "409036c8a451edc8079b433254ebfa44176e6aa528326ed49f9b732d65ab5ff8"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
-hash = "1c57bd55f8c2c78f8e71a3de305c700c9a3672a3e7edabec99754a6e7c8381d5"
+hash = "a185e65c940a545ae1a1398731687e365f10030f2ab2397c39a62df8b1c8a337"
 
 [[files]]
 file = "config/physicsmod/physics_cloth_config.json"
@@ -1002,11 +998,11 @@ hash = "43900e75234a7a252f28aaa0e399949b31ffa3dc9dde1b80137198ad5e3dd1a7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8da2924f922e922f48c4319f0c6544b6c6ca12e11a51866023bf5ebce78cb487"
+hash = "78796e951d1daca496401d2ccde5fbc0ead3881bdd0ef0d3a3562ed014a36e14"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "0fc135e643ff608030c84d3a40af43df210074536b39ede3ade565344db5ed16"
+hash = "0ab9dc0ea26ecc685157105e6a60caba2855134dac5fc57ae87f78a654548f0c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1094,7 +1090,7 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
+hash = "62ee4526ae47497e1290071fc6e63b6ae7c7b1598a61d77abd1fe709132beabd"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -1126,7 +1122,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2870,7 +2866,7 @@ hash = "2e148e4ac84c2c5fa15578f9c5f77b841b23ba4605d40c683f9bd475e9a3b9b6"
 
 [[files]]
 file = "kubejs/server_scripts/create_big_cannons.js"
-hash = "5e8487bae239e3b0c7c9888cee7faa6ddfc14a260cbe279e9971a02354162d58"
+hash = "280b33553fd45d770bc40753969db4fcb77c8bf1cf682b4d8a24ea1aeefe99b8"
 
 [[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
