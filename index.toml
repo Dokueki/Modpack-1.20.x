@@ -342,7 +342,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "3edff8052a494dcef43b0b7dee2e87e553eb07706cc130e025d32b120a8de82e"
+hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
 
 [[files]]
 file = "config/emi.css"
@@ -362,7 +362,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "7fe32477e9df310b166205adb9950e0ebad9cb50d5ff6dbfa668573c5a53996b"
+hash = "9b165fa271c9f70584bea8a230221cd44592885a6d63ced9b3c6f6b7a097d3e5"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -874,7 +874,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ff17b6b251b5d39af63a73fb2c0351e017e991229eec6e4207b175753761feed"
+hash = "aa64b397815a0ada4a2f3fd49f9e64e7f4d23d37b7477228a2623a8dc42828a5"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -887,6 +887,34 @@ hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 [[files]]
 file = "config/personality-client.toml"
 hash = "b1f773cc87cd02fc632dd37a1cde0c510076f07a2fac6d2e8c31bcc66cc0bc84"
+
+[[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "409036c8a451edc8079b433254ebfa44176e6aa528326ed49f9b732d65ab5ff8"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "1c57bd55f8c2c78f8e71a3de305c700c9a3672a3e7edabec99754a6e7c8381d5"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "9b8b5823b12adc867e11563cdd3672fe4ca1842183c7ff5d481bd6731daa0ac0"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
@@ -974,11 +1002,11 @@ hash = "43900e75234a7a252f28aaa0e399949b31ffa3dc9dde1b80137198ad5e3dd1a7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "2ba6f138a7c27ee8637d5795145055534898b7d3f46f06359c75e93f04d2da86"
+hash = "8da2924f922e922f48c4319f0c6544b6c6ca12e11a51866023bf5ebce78cb487"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "6dd819ec92be4aa907df85d9e9b51d606023890ce5263e4cd6e68fb1a890b1f9"
+hash = "0fc135e643ff608030c84d3a40af43df210074536b39ede3ade565344db5ed16"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1098,7 +1126,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
