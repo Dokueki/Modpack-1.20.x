@@ -62,7 +62,7 @@ ServerEvents.recipes(event => {
         B: 'minecraft:iron_ingot'
     })
 
-    event.shaped('createbigcannons:impact_fuse', [
+    event.shaped('4x createbigcannons:impact_fuse', [
         ' A ',
         ' B ',
         '   '
