@@ -96,7 +96,7 @@ ServerEvents.recipes(event => {
         '#forge:plates/wrought_iron'
     )
 
-    event.replaceInput({ output: '/createbigcannons:wrought_iron_.*/' },
+    event.replaceInput({ output: 'createbigcannons' },
         'minecraft:iron_bars',
         '#forge:rods/wrought_iron'
     )
@@ -104,11 +104,6 @@ ServerEvents.recipes(event => {
     event.replaceInput({ output: 'createbigcannons:yaw_controller' },
         'minecraft:gunpowder',
         'minecraft:leather'
-    )
-
-    event.replaceInput({ mod: 'createbigcannons' },
-        'minecraft:iron_bars',
-        '#forge:rods/iron'
     )
 
     event.replaceInput({ mod: 'createbigcannons' },
