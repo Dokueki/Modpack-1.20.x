@@ -334,7 +334,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "6b9bd096da969c7e9c174248f44241c10e3e9a6e6e47099da95690469fb33d3a"
+hash = "310af797494cca4e22f0c94b37329504c2d83ac0c7a0ffba01e78d57467d44b4"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -861,6 +861,10 @@ file = "config/multimine.cfg"
 hash = "f680ddb6964cfe83f419fb31ed8ecc9f15408e998d5c7c6b8e38f025d741f00a"
 
 [[files]]
+file = "config/musicplayer-client.toml"
+hash = "0808db0a9b292ef35edbd9814f3ce108b8bc1c134f4645afbab0e609d5a1b7b7"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
@@ -874,7 +878,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "4c51622eba742d8724ba6f291ea327c334f9a849f882eb8d83f9a653533c85fe"
+hash = "d8568e5a4a8bb2ee7993ff5f940fb8f10fef02283181ab394027a394391653fb"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -998,15 +1002,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "43900e75234a7a252f28aaa0e399949b31ffa3dc9dde1b80137198ad5e3dd1a7"
+hash = "f3f6a6e03120b00a3f6e167d8a44b7185992cdf494e81b4264be1ffabeaea195"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a89a53a6f769ebd3c1464c068809c259e76c9bbc6203046847e83d0990b72ffe"
+hash = "64b4c328964258590a2bbac4424c4822513adc224e02ce7c201fe7d980081555"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "37c5062b65fc61aea80ddc73308fd5cd62e588d946c7cc733c52f88e1cefd7b7"
+hash = "7651b0f1f97781337c23e4791a273321a79b0e3c9284ff4aba5b4596e8b2a862"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
