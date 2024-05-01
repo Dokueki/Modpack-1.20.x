@@ -3452,11 +3452,6 @@ hash = "74c40fc8aa5136a0a620497d391cc503c0602ce27620642dde8b7a44ff188905"
 metafile = true
 
 [[files]]
-file = "mods/do-api.pw.toml"
-hash = "5140f31eb89561edb7250136f74b801f738d77ac64910b65951ce561f79f4d41"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "6a4ec75e87bb2937918fadf7585565cd8bed1ae61d50172fd5610f0158c5e58b"
 metafile = true
@@ -3677,11 +3672,6 @@ hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
-hash = "f72e86e2a03aa650c7baae3ef59e16d779150bf3a21de736752762846c76f992"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "76912625f54e81a9f3af633d6fab017759f20204c6bcd67aa6c97e9bb1a4cb62"
 metafile = true
@@ -3717,11 +3707,6 @@ hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-vinery.pw.toml"
-hash = "52a1942138bc3685109d477557c0a24038d787b953dd1585d85eaf60b9246699"
-metafile = true
-
-[[files]]
 file = "mods/lithic-addon-mod.pw.toml"
 hash = "27705a8d75bcbd6755baacb1bdf225d39a44d19f6425ed002f45246031297e6f"
 metafile = true
@@ -3734,11 +3719,6 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
-metafile = true
-
-[[files]]
-file = "mods/lychee.pw.toml"
-hash = "00148f2a701d3b809fd9cdddf340ed3fa53ed4a9fde8d557a43ca16051a57fce"
 metafile = true
 
 [[files]]
@@ -4095,10 +4075,6 @@ metafile = true
 file = "mods/tfc-vessel-tooltip.pw.toml"
 hash = "af66bb9d1a92d5ec150d57402bd4734d8bce5b5e8c9d58cfc154b5209b46f807"
 metafile = true
-
-[[files]]
-file = "mods/tfc-vinery-1.20.1-forge-1.0.0.jar"
-hash = "fd9baab7291ed77ebdb3fd9c5ca3700b8f5b6c7369773c190327fafdf2cdd4e0"
 
 [[files]]
 file = "mods/too-fast.pw.toml"
