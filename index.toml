@@ -186,7 +186,7 @@ hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "1f1267f3ed67f97809a6f9a8cb86527fd586d5a4b32ef8923ff1ff210b8e1b64"
+hash = "60d94bf95e04b22c4213c839597f6669a76003a28d5bee0e3fde6103842e90ad"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -331,6 +331,10 @@ hash = "2c58318485b34f88159acb0bb8cf359b61ca80d4b8fd2750f5d596d43121bede"
 [[files]]
 file = "config/embeddium++.toml"
 hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "c08962afdb7b669f7e36a74d10fd62bf13b4d3ed7255778ed9b908e505e6775a"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -870,7 +874,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "dac0afd222b565c9cf35f9ef487a33a1b544d552401dc9ab21d8ede635679f33"
+hash = "ff17b6b251b5d39af63a73fb2c0351e017e991229eec6e4207b175753761feed"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -970,11 +974,11 @@ hash = "43900e75234a7a252f28aaa0e399949b31ffa3dc9dde1b80137198ad5e3dd1a7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "47578302bb61cd7228928402bd16e39c256164cfca03f73732e3088243dd3d60"
+hash = "2ba6f138a7c27ee8637d5795145055534898b7d3f46f06359c75e93f04d2da86"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "91e5cdd34cf8bdeac91496b2359a02ebc4a6300c409f74c8ec747df931de413a"
+hash = "6dd819ec92be4aa907df85d9e9b51d606023890ce5263e4cd6e68fb1a890b1f9"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -3507,11 +3511,6 @@ metafile = true
 [[files]]
 file = "mods/firmalife.pw.toml"
 hash = "e49702af1092364bb40f82b149c783e7d703c711eb6feabb84aeeb46f05fa127"
-metafile = true
-
-[[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "ef4998d11cbc5183ab64969ff6328a19f32116d620147a82935c6e63dd15e412"
 metafile = true
 
 [[files]]

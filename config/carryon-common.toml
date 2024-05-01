@@ -32,9 +32,9 @@
 	#Allow babies to be carried even when adult mob is blacklisted (or not whitelisted)
 	allowBabies = false
 	#Use Whitelist instead of Blacklist for Blocks
-	useWhitelistBlocks = true
+	useWhitelistBlocks = false
 	#Use Whitelist instead of Blacklist for Entities
-	useWhitelistEntities = true
+	useWhitelistEntities = false
 	#Use Whitelist instead of Blacklist for Stacking
 	useWhitelistStacking = true
 	#Whether the player can hit blocks and entities while carrying or not
