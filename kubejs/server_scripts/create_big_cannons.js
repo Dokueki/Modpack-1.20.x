@@ -62,6 +62,15 @@ ServerEvents.recipes(event => {
         B: 'minecraft:iron_ingot'
     })
 
+    event.shaped('createbigcannons:impact_fuse', [
+            ' A ',
+            ' B ',
+            '   '
+        ], {
+        A: '#minecraft:stone_buttons',
+        B: 'minecraft:redstone'
+    })
+
     event.shapeless('createbigcannons:casting_sand', [
         '#forge:sand',
         '#forge:sand',
@@ -101,11 +110,6 @@ ServerEvents.recipes(event => {
     event.replaceInput({ output: '/createbigcannons:wrought_iron_.*/' },
         'gtceu:iron_plate',
         '#forge:plates/wrought_iron'
-    )
-
-    event.replaceInput({ output: 'createbigcannons:impact_fuse' },
-        '#createbigcannons:impact_fuze_head',
-        '#minecraft:stone_buttons'
     )
 
     event.replaceInput({ mod: 'createbigcannons' },
