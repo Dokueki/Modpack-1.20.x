@@ -1,13 +1,13 @@
 name = "TerraFirmaGreg Core"
-filename = "TerraFirmaGreg-Core-1.20.1-0.5.1.jar"
+filename = "TerraFirmaGreg-Core-1.20.1-0.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "06765c625f62370633d3a1bff7d61afbf39d927d"
+hash = "d29fcb2a73a71171b5138d75e0879b57f98b7e73"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5303811
+file-id = 5306963
 project-id = 513402

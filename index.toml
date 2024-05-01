@@ -42,7 +42,7 @@ hash = "92102e63d4ec84597d5edd0c67b7100a359eef8a078cd46d26b76694fa7044db"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "a5df835a6d9972d07ecbbb02e3d167152757376893cdad8bf73deb514130d164"
+hash = "bc0d8c51ae4d7872ff30ac615ac7bcd44bd640efb83376c5c8bc930c3b9590f7"
 
 [[files]]
 file = "LICENSE"
@@ -4003,7 +4003,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "40405fb2e89f721efff864ac96117d3a65fc90a632e666d0b558e30d0a2e52c6"
+hash = "228d3a3c3501f747ae7f8bd4ffbcef3cfedd37874e28d1449bce63b5801033c8"
 metafile = true
 
 [[files]]
