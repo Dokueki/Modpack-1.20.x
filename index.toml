@@ -4097,6 +4097,10 @@ hash = "af66bb9d1a92d5ec150d57402bd4734d8bce5b5e8c9d58cfc154b5209b46f807"
 metafile = true
 
 [[files]]
+file = "mods/tfc-vinery-1.20.1-forge-1.0.0.jar"
+hash = "fd9baab7291ed77ebdb3fd9c5ca3700b8f5b6c7369773c190327fafdf2cdd4e0"
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
@@ -4119,11 +4123,6 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "7d7cede1b369b09d748c5e241c2fbb85d35ad3ef06b838f8210bb653c959aa11"
-metafile = true
-
-[[files]]
-file = "mods/vinery-tfc.pw.toml"
-hash = "eef6c3d766ec263d7364c615b2a3ee9280006791e66ecf87a6211f3a136cfeff"
 metafile = true
 
 [[files]]
