@@ -3886,6 +3886,11 @@ hash = "78287a685bb66b0b924ba9c6c13e6559233c829d754f7f62a0617d001c999db9"
 metafile = true
 
 [[files]]
+file = "mods/precision-prospecting.pw.toml"
+hash = "fef154179a8323cd7d55c1e273c66bafc0c4f68d4a08270dca080d060a567f8c"
+metafile = true
+
+[[files]]
 file = "mods/protect-mobs-from-daylight.pw.toml"
 hash = "30625235b35bbd072c06603994de8f4c97d7b805cd7ed74816d87cbb6c908ac6"
 metafile = true
@@ -4017,7 +4022,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "228d3a3c3501f747ae7f8bd4ffbcef3cfedd37874e28d1449bce63b5801033c8"
+hash = "ac4d97d18169aebd84fd07443afefc3e71eed03b8901565996ff71f2578cc1eb"
 metafile = true
 
 [[files]]
@@ -4037,7 +4042,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-caelum.pw.toml"
-hash = "6c5a9d3e31dca77ea3f5b0fe89c63b48131819b804b067d8f815210132e09da5"
+hash = "f75bd11036c9d133785a8d967ac3c26fd9f1234feb4d0cb61feaf2d764871bd2"
 metafile = true
 
 [[files]]
