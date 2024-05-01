@@ -74,9 +74,14 @@ ServerEvents.recipes(event => {
 
     //
 
-    event.replaceInput({ output: '/createbigcannons:.*_cannon_.*/' },
+    event.replaceInput({ output: '/createbigcannons:log_cannon_.*/' },
         'minecraft:gunpowder',
         'tfc:glue'
+    )
+
+    event.replaceInput({ output: '/createbigcannons:wrought_iron_cannon_.*/' },
+        'minecraft:gunpowder',
+        '#forge:tools/hammers'
     )
 
     event.replaceInput({ output: '/createbigcannons:cannon_.*/' },
