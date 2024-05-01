@@ -62,15 +62,12 @@ ServerEvents.recipes(event => {
         B: 'minecraft:iron_ingot'
     })
 
-    event.shaped('createbigcannons:casting_sand', [
-        'AAB',
-        'C  ',
-        '   '
-    ], {
-        A: '#forge:sand',
-        B: '#tfc:dirt',
-        C: 'minecraft:clay_ball'
-    })
+    event.shapeless('createbigcannons:casting_sand', [
+        '#forge:sand',
+        '#forge:sand',
+        '#tfc:dirt',
+        'minecraft:clay_ball'
+    ])
 
     //
 
@@ -118,4 +115,15 @@ ServerEvents.recipes(event => {
         'minecraft:nether_quartz',
         'gtceu:quartzite_gem'
     )
+
+    //
+
+    event.shapeless('minecraft:slime_ball', [
+        'tfc:glue',
+        '#forge:dyes/green'
+    ])
+
+    event.recipes.createSplashing([
+        'tfc:glue',
+    ], 'minecraft:slime_ball')
 })
