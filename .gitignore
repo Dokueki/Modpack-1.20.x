@@ -17,6 +17,7 @@ config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
 config/embeddium-fingerprint.json
 config/embeddium-options.json
+config/InventoryHUD/curios.json
 
 # .minecraft
 crash-reports/*
@@ -66,5 +67,4 @@ knownkeys.txt
 
 # Server Pack
 .github/buildtools/serverpack/*
-
 
