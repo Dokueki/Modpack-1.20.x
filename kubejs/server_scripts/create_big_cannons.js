@@ -96,7 +96,7 @@ ServerEvents.recipes(event => {
         '#forge:plates/wrought_iron'
     )
 
-    event.replaceInput({ output: 'createbigcannons' },
+    event.replaceInput({ mod: 'createbigcannons' },
         'minecraft:iron_bars',
         '#forge:rods/wrought_iron'
     )
