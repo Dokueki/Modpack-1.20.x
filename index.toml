@@ -81,6 +81,10 @@ file = "config/EmiLootConfig_v1.json"
 hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "284e48b14e60090341b57a818b9d989783850074b6e10c0f86742af4a7ded134"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -842,7 +846,7 @@ hash = "18ab6355268729137d86f6aad05b35d9fc2aa5c1dd0ab2c4aaa3ea2149a52edd"
 
 [[files]]
 file = "config/moonlight-client.toml"
-hash = "30e8f98a4dae479b465198fd67c14f2631f0f2691c188852a09e780e1ae99156"
+hash = "c3ad1b706da2f2111160e8ae7b804867e3169052371ab839fafda67b25f91109"
 
 [[files]]
 file = "config/moonlight-common.toml"
@@ -870,7 +874,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "08f982818e6ba709ef944f690a5318b8d93b24e12c71827325947bf156214cd9"
+hash = "4c51622eba742d8724ba6f291ea327c334f9a849f882eb8d83f9a653533c85fe"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -998,11 +1002,11 @@ hash = "43900e75234a7a252f28aaa0e399949b31ffa3dc9dde1b80137198ad5e3dd1a7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "78796e951d1daca496401d2ccde5fbc0ead3881bdd0ef0d3a3562ed014a36e14"
+hash = "a89a53a6f769ebd3c1464c068809c259e76c9bbc6203046847e83d0990b72ffe"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "0ab9dc0ea26ecc685157105e6a60caba2855134dac5fc57ae87f78a654548f0c"
+hash = "37c5062b65fc61aea80ddc73308fd5cd62e588d946c7cc733c52f88e1cefd7b7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1090,7 +1094,7 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "62ee4526ae47497e1290071fc6e63b6ae7c7b1598a61d77abd1fe709132beabd"
+hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -2866,7 +2870,7 @@ hash = "2e148e4ac84c2c5fa15578f9c5f77b841b23ba4605d40c683f9bd475e9a3b9b6"
 
 [[files]]
 file = "kubejs/server_scripts/create_big_cannons.js"
-hash = "e765793ad6b39efc4b87cc1c139f5437d81b742927c478850b49a6e94db8c272"
+hash = "03b321f5c470cfe3ecb562738de6c24fb4237a4946b49e9ed131995931f4a97e"
 
 [[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"

@@ -62,15 +62,6 @@ ServerEvents.recipes(event => {
         B: 'minecraft:iron_ingot'
     })
 
-    event.shaped('4x createbigcannons:impact_fuse', [
-        ' A ',
-        ' B ',
-        '   '
-    ], {
-        A: '#minecraft:stone_buttons',
-        B: 'minecraft:redstone'
-    })
-
     event.shapeless('createbigcannons:casting_sand', [
         '#forge:sand',
         '#forge:sand',
