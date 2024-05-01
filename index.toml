@@ -82,7 +82,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "284e48b14e60090341b57a818b9d989783850074b6e10c0f86742af4a7ded134"
+hash = "20de4ca7c8988e627ee2bb5832fb89694d0cc2847f052893b391023852ce7398"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -334,7 +334,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "9ac6af40effc4ad8b88b3c4fe85fc6e7b24ff18dc8d72a05709daf4c17af0a09"
+hash = "6b9bd096da969c7e9c174248f44241c10e3e9a6e6e47099da95690469fb33d3a"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -3452,6 +3452,11 @@ hash = "74c40fc8aa5136a0a620497d391cc503c0602ce27620642dde8b7a44ff188905"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "5140f31eb89561edb7250136f74b801f738d77ac64910b65951ce561f79f4d41"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "6a4ec75e87bb2937918fadf7585565cd8bed1ae61d50172fd5610f0158c5e58b"
 metafile = true
@@ -3463,7 +3468,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "48d598e695de97bdfce0eb678c461bf64df8689f92f5301921b87146aa0761bb"
+hash = "fb10eba0af96beca68747915fd7b4ff8a20bd65c773797371beb7d6445791a57"
 metafile = true
 
 [[files]]
@@ -3672,6 +3677,11 @@ hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "f72e86e2a03aa650c7baae3ef59e16d779150bf3a21de736752762846c76f992"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "76912625f54e81a9f3af633d6fab017759f20204c6bcd67aa6c97e9bb1a4cb62"
 metafile = true
@@ -3707,6 +3717,16 @@ hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "52a1942138bc3685109d477557c0a24038d787b953dd1585d85eaf60b9246699"
+metafile = true
+
+[[files]]
+file = "mods/lithic-addon-mod.pw.toml"
+hash = "27705a8d75bcbd6755baacb1bdf225d39a44d19f6425ed002f45246031297e6f"
+metafile = true
+
+[[files]]
 file = "mods/lithic-coins.pw.toml"
 hash = "b5ec7f5b4e8a3f4b368e661627b177d53f344369bf4d6ebc8aac0c02e17049c6"
 metafile = true
@@ -3714,6 +3734,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
+metafile = true
+
+[[files]]
+file = "mods/lychee.pw.toml"
+hash = "00148f2a701d3b809fd9cdddf340ed3fa53ed4a9fde8d557a43ca16051a57fce"
 metafile = true
 
 [[files]]
@@ -3759,6 +3784,11 @@ metafile = true
 [[files]]
 file = "mods/multi-mine.pw.toml"
 hash = "98390da2b808aa9707491b52b8bd567c8bf9ab030468383247f9facdde05c1db"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "5a889a1758ca81669eb6bc1362af16f059a2f61a328c7a8d7fda98658415b434"
 metafile = true
 
 [[files]]
@@ -4089,6 +4119,11 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "7d7cede1b369b09d748c5e241c2fbb85d35ad3ef06b838f8210bb653c959aa11"
+metafile = true
+
+[[files]]
+file = "mods/vinery-tfc.pw.toml"
+hash = "eef6c3d766ec263d7364c615b2a3ee9280006791e66ecf87a6211f3a136cfeff"
 metafile = true
 
 [[files]]
