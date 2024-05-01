@@ -3474,7 +3474,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "42bfada2baf1893cb8ee06748b968e946a3fd7bc2b98f58dcfd4879eb939b631"
+hash = "a6bf29169dfacc510ecde7eddab3099746a4f4024834c36993687fe622a1b6c3"
 metafile = true
 
 [[files]]
@@ -3909,7 +3909,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "799778cc92c55c71a87b656c36e91db943629352868a63bb45962aa6cad04c14"
+hash = "98858ba72e805092a6c920d3eee6e5f8f1af7319e5b3feb71b5e643d1c2fbc55"
 metafile = true
 
 [[files]]
@@ -4123,7 +4123,7 @@ hash = "0a5c2bd33b04616913f071080da2b618e860b70d4d8cc686c4186d963944b2cb"
 
 [[files]]
 file = "resourcepacks/gregtech-revival-32x.pw.toml"
-hash = "6c3735711699d62632f07bc2d255572b66ab24361f12ebcb853060251fb0e648"
+hash = "8f8ce3f2108fd25d28b27cea289a01103e3e4686131dd28788469b8148a29785"
 metafile = true
 
 [[files]]
