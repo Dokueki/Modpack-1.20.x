@@ -104,7 +104,7 @@ ServerEvents.recipes(event => {
     )
 
     event.replaceInput({ output: 'createbigcannons:impact_fuse' },
-        'minecraft:barrier',
+        'createbigcannons:impact_fuze_head',
         '#minecraft:stone_buttons'
     )
 
