@@ -186,7 +186,7 @@ hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "60d94bf95e04b22c4213c839597f6669a76003a28d5bee0e3fde6103842e90ad"
+hash = "0fdeb3f897a9131b8c07fc7bc0c37163208c11998b7ab0870a4c0dae5498c941"
 
 [[files]]
 file = "config/chat_heads.json5"
