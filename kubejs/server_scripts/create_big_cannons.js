@@ -63,10 +63,10 @@ ServerEvents.recipes(event => {
     })
 
     event.shaped('createbigcannons:impact_fuse', [
-            ' A ',
-            ' B ',
-            '   '
-        ], {
+        ' A ',
+        ' B ',
+        '   '
+    ], {
         A: '#minecraft:stone_buttons',
         B: 'minecraft:redstone'
     })
@@ -125,7 +125,7 @@ ServerEvents.recipes(event => {
     //
 
     event.remove({ output: 'minecraft:slime_block' })
-    
+
     event.shaped('minecraft:slime_block', [
         'AAA',
         'AAA',

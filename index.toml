@@ -2866,7 +2866,7 @@ hash = "2e148e4ac84c2c5fa15578f9c5f77b841b23ba4605d40c683f9bd475e9a3b9b6"
 
 [[files]]
 file = "kubejs/server_scripts/create_big_cannons.js"
-hash = "5d882feb0cd7e7f7beabf2499c66a16d4dec117b7af99e367ba1d3b0ad321951"
+hash = "3c6ddc83a55b41be28042b364122a8039d76a76d6e644a6650e7607d50092c4c"
 
 [[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
