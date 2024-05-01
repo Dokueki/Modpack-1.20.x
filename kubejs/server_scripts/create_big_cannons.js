@@ -32,6 +32,7 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'createbigcannons:basin_foundry_lid' })
     event.remove({ output: 'createbigcannons:ap_shot' })
     event.remove({ output: 'createbigcannons:ap_autocannon_round' })
+    event.remove({ output: 'createbigcannons:casting_sand' })
 
     event.shaped('createbigcannons:basin_foundry_lid', [
         ' B ',
@@ -59,6 +60,16 @@ ServerEvents.recipes(event => {
     ], {
         A: 'gtceu:wrought_iron_ingot',
         B: 'minecraft:iron_ingot'
+    })
+
+    event.shaped('createbigcannons:casting_sand', [
+        'AAB',
+        'C  ',
+        '   '
+    ], {
+        A: '#forge:sand',
+        B: '#tfc:dirt',
+        C: 'minecraft:clay_ball'
     })
 
     //
