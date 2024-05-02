@@ -1,13 +1,13 @@
 name = "Lithic TFC Addon"
-filename = "lithicaddon-0.0.2.jar"
+filename = "lithicaddon-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "95a9345be37096f5497b2b642e81209f79ab2489"
+hash = "242ee2507d1237ed96f646248cfecc1aa6bbbada"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5280877
+file-id = 5309026
 project-id = 1006182

@@ -3342,7 +3342,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0714edca30b6f466444a25754c861cd4c4738ba7346f49ab15b0f0b30781fb12"
+hash = "9cc335e136843f168134c5b5da40f95260da3f33340de437ea2c1a6caa24404a"
 metafile = true
 
 [[files]]
@@ -3712,7 +3712,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithic-addon-mod.pw.toml"
-hash = "27705a8d75bcbd6755baacb1bdf225d39a44d19f6425ed002f45246031297e6f"
+hash = "35d67190de131ee49f432ba922d4a8317a37da8d056d5350947b2306f0d4cc77"
 metafile = true
 
 [[files]]
@@ -3802,7 +3802,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7afafccec842ffdc2cb98052f7bc90bfa7ef9a0b307d96b409fb13e892ef86d1"
+hash = "26ca76ce6d17ce793960ef92cf1933f0e2330a425ff4f048d7d094f2a133f508"
 metafile = true
 
 [[files]]
@@ -3932,7 +3932,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "98858ba72e805092a6c920d3eee6e5f8f1af7319e5b3feb71b5e643d1c2fbc55"
+hash = "3c67f578d6e432d9724d227569fde6a476a3b17106e846208f083e427c51b6cf"
 metafile = true
 
 [[files]]
@@ -3947,7 +3947,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "184473d84aaf6618e2c8df25d3b847718b923462c8881212f73a108cb01106f0"
+hash = "b3836e7d6346f9308f15f8e3085118c1b3b91816b9e6db472a94da431cac3011"
 metafile = true
 
 [[files]]
