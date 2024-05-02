@@ -42,7 +42,7 @@ hash = "92102e63d4ec84597d5edd0c67b7100a359eef8a078cd46d26b76694fa7044db"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "bc0d8c51ae4d7872ff30ac615ac7bcd44bd640efb83376c5c8bc930c3b9590f7"
+hash = "eb339a7935b720514030703a11131291ed410b567c717acba52d185154c83bfb"
 
 [[files]]
 file = "LICENSE"
@@ -82,7 +82,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "20de4ca7c8988e627ee2bb5832fb89694d0cc2847f052893b391023852ce7398"
+hash = "9c2c796cfaedc6935d9d424b8d03e150779325a4679a74bacbbf281505418431"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -334,7 +334,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "310af797494cca4e22f0c94b37329504c2d83ac0c7a0ffba01e78d57467d44b4"
+hash = "a42c8350d9be6bfc96d589cc327ae673ab55549fdad1b286b1e505c1ac0b1855"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -342,7 +342,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
+hash = "9fc69bbce5b2811a67b86fba53d02c763e8fd05116d0b84c697fc47ab05d78a2"
 
 [[files]]
 file = "config/emi.css"
@@ -846,7 +846,7 @@ hash = "18ab6355268729137d86f6aad05b35d9fc2aa5c1dd0ab2c4aaa3ea2149a52edd"
 
 [[files]]
 file = "config/moonlight-client.toml"
-hash = "c3ad1b706da2f2111160e8ae7b804867e3169052371ab839fafda67b25f91109"
+hash = "5296e077f2cd999a4d0d4b0adfb1d2fbdec62c89d685dba4e528081d8c949a59"
 
 [[files]]
 file = "config/moonlight-common.toml"
@@ -878,7 +878,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "d8568e5a4a8bb2ee7993ff5f940fb8f10fef02283181ab394027a394391653fb"
+hash = "528c378ac19bacc6f7c06b6644ab27aabb6b77cece800b38b23a8e723d8e1165"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,11 +1006,11 @@ hash = "f3f6a6e03120b00a3f6e167d8a44b7185992cdf494e81b4264be1ffabeaea195"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "64b4c328964258590a2bbac4424c4822513adc224e02ce7c201fe7d980081555"
+hash = "2102422d1cce56534e6760b5fd2f30f0d13f385b0c61e5b96ebf71f7fe66495b"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7651b0f1f97781337c23e4791a273321a79b0e3c9284ff4aba5b4596e8b2a862"
+hash = "57c5132f2a5ab6103ea753676f3cd2d767950e37f7b0d81e49e4169436cd9087"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1098,11 +1098,11 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
+hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
+hash = "4c20f976e1bc8c7a5da4e6cb3e47bd73dd01bfd3cff53e287e8ae4d7c25f1b22"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -1130,7 +1130,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2970,7 +2970,7 @@ hash = "d2acc720e165e4a8c0131fb4905e862c0577bd6e71d63aec1d5d3fd4ef402cb0"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "2b08141583be46154dfdb5a7c16017b4c98b9fea746f610d80f41a21e63b0d6a"
+hash = "7a74538b74383cf7c53a7d62fa20620d65cc489a7bb41fa5bdd2f5ff61d19fe0"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
@@ -3030,7 +3030,11 @@ hash = "d9efd8b51e41de34929b2419ce9da29e344dac4bdfcbcd4e468bc5c10e8bfc82"
 
 [[files]]
 file = "kubejs/server_scripts/tfc/tags.js"
-hash = "17a78ffb571ec323d939996f7877bf52c84c3dd707d3e41858249ad00aa43ddb"
+hash = "dd947d4714430c173edbcbe939f840c11430634581a53a4d196d2ff7fdc1bbd8"
+
+[[files]]
+file = "kubejs/server_scripts/tfc_grooming_station/recipes.js"
+hash = "251ff16614a520d32aa4be917b023570a27e5e991b2115a6a638a7ef690af019"
 
 [[files]]
 file = "kubejs/server_scripts/toolbelt/recipes.js"
@@ -4022,7 +4026,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "ac4d97d18169aebd84fd07443afefc3e71eed03b8901565996ff71f2578cc1eb"
+hash = "b4efe0de3c42845e634236b25ffed479ba83c4ffa4f4c3d54d17ca912375abdd"
 metafile = true
 
 [[files]]
@@ -4057,7 +4061,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-grooming-station.pw.toml"
-hash = "4dff962cae3ec93a801e90792bc7bb0ddfd4ae94a72d7a60553ff76851696b87"
+hash = "4c8e06a03096b7fffc33a25a1f3d3c59f7addc8f13e65deaaa8cbee6d6af2329"
 metafile = true
 
 [[files]]
