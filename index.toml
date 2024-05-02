@@ -362,7 +362,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "9b165fa271c9f70584bea8a230221cd44592885a6d63ced9b3c6f6b7a097d3e5"
+hash = "7fe32477e9df310b166205adb9950e0ebad9cb50d5ff6dbfa668573c5a53996b"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -878,7 +878,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "b9fd3b6e9ab5f0ce7e7ff8abbb97085a248b90f12362cd00a688c06a2dc9fa72"
+hash = "a1af3461303972781c5636e4e6dc048b498603a68f0fb173ad789fe6cf369bac"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,11 +1006,11 @@ hash = "f3f6a6e03120b00a3f6e167d8a44b7185992cdf494e81b4264be1ffabeaea195"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "5296b272f8787df8e787966ab2b57ebc358dddcff6fc754d324fa285fd215ea7"
+hash = "7e26dcc77ffa04ae16eb434c2bf3372073cdb6dbe972336ffee37867b7f27288"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7911e475b0ce32cbe2885cac9f4d345999032a07a5be1471ad20588952a3ef04"
+hash = "96f1d76f342ef7a25c3a39f399fd7cf1139b520244f44318ffb9446907190632"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -3521,7 +3521,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8cf9442f38e926529549e4adfc8cea7a7e74b4a7a2571b97d2f8994b24aa82dc"
+hash = "61c48c2d812ceb84a349ad02301d7bad62484779eaae004f2a0be37308f6e7a0"
 metafile = true
 
 [[files]]
@@ -3731,7 +3731,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega-cells.pw.toml"
-hash = "702d6c190db828a1c76d8ead5b937691abc6a8c92046ec1c65f09dc557f27cb6"
+hash = "c288e2875ec908b02d06fde0a0302860a44138b8cfbdada1066a0c7138db1dcb"
 metafile = true
 
 [[files]]
