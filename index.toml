@@ -334,7 +334,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "a42c8350d9be6bfc96d589cc327ae673ab55549fdad1b286b1e505c1ac0b1855"
+hash = "f8914e01837d2bbf933327efdac8cddcd643dfce9b3b37c862672141b82aff6a"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -510,7 +510,7 @@ hash = "514e36e0b73d0796fc031a1e75c5b825186022b607fbdf8cef561db0842fbb8b"
 
 [[files]]
 file = "config/fancymenu/customization/gui_main_menu.txt"
-hash = "3b5c14e332fc5cd039ff2fdb0b3a7138c4c65d35263fcc4811164828814a67f5"
+hash = "a9f80348de4baafcca2a65ea0d1a210af06e7eea6af7c90a9843090713bfa80c"
 
 [[files]]
 file = "config/fancymenu/customization/gui_pause_menu.txt"
@@ -846,7 +846,7 @@ hash = "18ab6355268729137d86f6aad05b35d9fc2aa5c1dd0ab2c4aaa3ea2149a52edd"
 
 [[files]]
 file = "config/moonlight-client.toml"
-hash = "5296e077f2cd999a4d0d4b0adfb1d2fbdec62c89d685dba4e528081d8c949a59"
+hash = "c3ad1b706da2f2111160e8ae7b804867e3169052371ab839fafda67b25f91109"
 
 [[files]]
 file = "config/moonlight-common.toml"
@@ -878,7 +878,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "528c378ac19bacc6f7c06b6644ab27aabb6b77cece800b38b23a8e723d8e1165"
+hash = "b9fd3b6e9ab5f0ce7e7ff8abbb97085a248b90f12362cd00a688c06a2dc9fa72"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,11 +1006,11 @@ hash = "f3f6a6e03120b00a3f6e167d8a44b7185992cdf494e81b4264be1ffabeaea195"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "2102422d1cce56534e6760b5fd2f30f0d13f385b0c61e5b96ebf71f7fe66495b"
+hash = "5296b272f8787df8e787966ab2b57ebc358dddcff6fc754d324fa285fd215ea7"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "57c5132f2a5ab6103ea753676f3cd2d767950e37f7b0d81e49e4169436cd9087"
+hash = "7911e475b0ce32cbe2885cac9f4d345999032a07a5be1471ad20588952a3ef04"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1058,7 +1058,7 @@ hash = "97292825b89e6872f219da4ddd774bfa01e5eaab32c3a9d1d989ce40ebbf5902"
 
 [[files]]
 file = "config/tfccaelum-common.toml"
-hash = "326562756669f215ad4d16268b04d1b4803f5e07fd188c6ea5df80e4f09b1899"
+hash = "b91dde077dd2bdbcf6fee0155c1bffd685962976a4926c8cbed3cbd00a42a0e6"
 
 [[files]]
 file = "config/tfcdesirepaths-common.toml"
@@ -1102,11 +1102,11 @@ hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "4c20f976e1bc8c7a5da4e6cb3e47bd73dd01bfd3cff53e287e8ae4d7c25f1b22"
+hash = "b8fd073b22deb3b538cd955fd8d5c5162cc3a9b67ee2edfe88c6c02593316ddf"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "896995a85e68fdb0599440e878d1c53f57250e9a3c86a538a51cd47cf14f9683"
+hash = "d59d1d3df78d94b21061df2a3ce703e80a031480764dff126afeda9f9198ed40"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -1130,7 +1130,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
