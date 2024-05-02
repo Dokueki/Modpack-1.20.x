@@ -1,4 +1,32 @@
 # Changelog
+
+## [0.7.8] - ?
+### Fixes
+- Исправлен баг, когда использование инструментов GTCEu в плуге AstikoCarts вызывал краш игры (В работе).
+- Исправлен баг, когда нельзя было сделать кормушки из TFC: Grooming Station.
+- Исправлен баг, когда при ходьбе по лежащим блокам они могли выпасть.
+- Исправлен баг, когда бойлер не мог принимать речную воду.
+- Исправлен баг, когда в EMI неправильно отображались рецепты. (Понижена версия EMI)
+### Updated mods
+- EMI 1.1.5 -> 1.1.4
+
+## [0.7.7] - 01.05.2024
+### Fixes
+- Rolled back the Embeddium version, freezes when loading the world
+### Updated mods
+- Embeddium -> 0.3.15
+### New Mods
+- Textrues_embeddium_options
+
+## [0.7.6] - 01.05.2024
+### Fixes
+- Fixed shit with axe / saw behaviors.
+### Updated mods
+- TerraFirmaGreg-Core -> 0.5.3
+- Embeddium -> 0.3.16
+### Removed mods
+- Textrues_embeddium_options
+
 ## [0.7.5] - 01.05.2024
 ### Fixes
 - Fixed a crash on servers when opening interfaces GT.
