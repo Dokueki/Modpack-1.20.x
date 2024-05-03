@@ -362,7 +362,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "7fe32477e9df310b166205adb9950e0ebad9cb50d5ff6dbfa668573c5a53996b"
+hash = "9b165fa271c9f70584bea8a230221cd44592885a6d63ced9b3c6f6b7a097d3e5"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -710,7 +710,7 @@ hash = "37972c94fa417ae8ebb36133856489a73d92f4e745729132be584ccdf452f1ee"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "e4e72ac824f435b18622c0fe79bba0216a59f9c31baa2c88e2f912d69f372c80"
+hash = "2ab9565dcdb24eacc1dd377befbc4aee365fc7c97fdfc81507034fceebf37e2e"
 
 [[files]]
 file = "config/hangglider-client.toml"
@@ -878,7 +878,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a1af3461303972781c5636e4e6dc048b498603a68f0fb173ad789fe6cf369bac"
+hash = "30ad523494b39bb0048f9b6846a90b0c432aa1c17ebe2de19ed45cb508eb976d"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,11 +1006,11 @@ hash = "f3f6a6e03120b00a3f6e167d8a44b7185992cdf494e81b4264be1ffabeaea195"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "7e26dcc77ffa04ae16eb434c2bf3372073cdb6dbe972336ffee37867b7f27288"
+hash = "98cd720a5fb948dd5f8b77e7dd8c4cb87a0b55e76c12f0a5f087fc31b2167092"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "96f1d76f342ef7a25c3a39f399fd7cf1139b520244f44318ffb9446907190632"
+hash = "2ce2e5b072800ef4acedae26b24a2c43ae508ea7ef28329a0cefadccd1dcab5c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1130,7 +1130,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2970,7 +2970,7 @@ hash = "d2acc720e165e4a8c0131fb4905e862c0577bd6e71d63aec1d5d3fd4ef402cb0"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "7a74538b74383cf7c53a7d62fa20620d65cc489a7bb41fa5bdd2f5ff61d19fe0"
+hash = "5da7ca28eeec1fcb271b94d72e56f357b669ff9447cd01bee0ee8b70fb1f55cf"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
@@ -3316,7 +3316,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8820426c4fe307fde61c56679fc91736bbda50e331bfd64f0f718e3b172afacd"
+hash = "9f5fd7599367191ec28b58b6a6956341f41bbeca15b0b3a7d641f37b1b884d0d"
 metafile = true
 
 [[files]]
@@ -3486,7 +3486,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a6bf29169dfacc510ecde7eddab3099746a4f4024834c36993687fe622a1b6c3"
+hash = "9c40d93faafec73d656e5ddbc89a63add1777baccbeb839be1a5fb1247430ae8"
 metafile = true
 
 [[files]]
@@ -3606,7 +3606,7 @@ metafile = true
 
 [[files]]
 file = "mods/gcyr.pw.toml"
-hash = "b2f4a43cfa6f8f360c0abd6266ac91d23256ff15817f06d9c77c851f50348b71"
+hash = "172f90ef9c04beb295d4b289cfbc533016be1d86e5b5ab8ea726b7ec0b80c3a0"
 metafile = true
 
 [[files]]
@@ -3626,7 +3626,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "4a0d62c35ae6a3a0345fe6f7bd9c8d24d5fc74b94dd016b46da6ca811903a9a9"
+hash = "ddc2a1986274dfe270f40ce01eaab43f0bdab21fa3b06f52c95581f467f7decd"
 metafile = true
 
 [[files]]
@@ -4026,7 +4026,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "b4efe0de3c42845e634236b25ffed479ba83c4ffa4f4c3d54d17ca912375abdd"
+hash = "8081fea86970399112783bf36847410013f9b65c5cc6b20f14ea891ec6aa938b"
 metafile = true
 
 [[files]]
@@ -4150,7 +4150,7 @@ hash = "0a5c2bd33b04616913f071080da2b618e860b70d4d8cc686c4186d963944b2cb"
 
 [[files]]
 file = "resourcepacks/gregtech-revival-32x.pw.toml"
-hash = "8f8ce3f2108fd25d28b27cea289a01103e3e4686131dd28788469b8148a29785"
+hash = "c0ae9959ba1dcca2facdb5efde3dbf972bc4f09d1884ba93c7998f18d0bd2c3e"
 metafile = true
 
 [[files]]
