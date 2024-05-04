@@ -4075,11 +4075,6 @@ hash = "239c6fda6607f70d3122c47de2ff65cf1243719940bf20b2cedebb496cadb3dc"
 metafile = true
 
 [[files]]
-file = "mods/tfc-hot-or-not.pw.toml"
-hash = "9914181fcfc1acbc967b5930e730714ede56f05582e04608722909816173cf7c"
-metafile = true
-
-[[files]]
 file = "mods/tfc-support-indicator.pw.toml"
 hash = "99b7857bcbeb065ac89289bdf97fa0fb7c7cd18699d8c34702d98500614cb809"
 metafile = true
