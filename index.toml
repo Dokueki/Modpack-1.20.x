@@ -42,7 +42,7 @@ hash = "92102e63d4ec84597d5edd0c67b7100a359eef8a078cd46d26b76694fa7044db"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "2c96620b2d9585ff9ae2b1f31766bc7d338e96d69e7f8fdb1b0be4dd9f0759c3"
+hash = "7b2de1f658a0547d7c5569bd3ee1e784cb09a8310dd3a3d64b7e65303a9a57cc"
 
 [[files]]
 file = "LICENSE"
@@ -3030,7 +3030,7 @@ hash = "d9efd8b51e41de34929b2419ce9da29e344dac4bdfcbcd4e468bc5c10e8bfc82"
 
 [[files]]
 file = "kubejs/server_scripts/tfc/tags.js"
-hash = "dd947d4714430c173edbcbe939f840c11430634581a53a4d196d2ff7fdc1bbd8"
+hash = "f150e71a73dd3dd1193f4b93c79db43ac6e3e52a925229401ade5229c97b5384"
 
 [[files]]
 file = "kubejs/server_scripts/tfc_grooming_station/recipes.js"
