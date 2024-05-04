@@ -42,7 +42,7 @@ hash = "92102e63d4ec84597d5edd0c67b7100a359eef8a078cd46d26b76694fa7044db"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "eb339a7935b720514030703a11131291ed410b567c717acba52d185154c83bfb"
+hash = "2c96620b2d9585ff9ae2b1f31766bc7d338e96d69e7f8fdb1b0be4dd9f0759c3"
 
 [[files]]
 file = "LICENSE"
@@ -878,7 +878,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "30ad523494b39bb0048f9b6846a90b0c432aa1c17ebe2de19ed45cb508eb976d"
+hash = "60356f48327c2cf29734252d0648c47bdc33b8df7b004569752194788e0991ab"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,11 +1006,11 @@ hash = "f3f6a6e03120b00a3f6e167d8a44b7185992cdf494e81b4264be1ffabeaea195"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "98cd720a5fb948dd5f8b77e7dd8c4cb87a0b55e76c12f0a5f087fc31b2167092"
+hash = "d78a1178ca44f67fa23d45a3b71d81e0a13b0582981d895192429b282abe03c3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "2ce2e5b072800ef4acedae26b24a2c43ae508ea7ef28329a0cefadccd1dcab5c"
+hash = "7253c7413d204ab241fb09e76db8efc3f2da03d4eea8b781c45eef6421f8a622"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -3745,6 +3745,11 @@ hash = "f185653c659514dd5aa81a0ab175e2b777d20e7213ff6014db1ecb64f5f9f5d1"
 metafile = true
 
 [[files]]
+file = "mods/mixin-in-heaven.pw.toml"
+hash = "66f8d30e72ccea2a28885f53122ed13af24515cb93b770e223551bfde3a8c841"
+metafile = true
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "cd3140db1982e4e1b17c60b71e436fc92c22b1a6ce189e6b8197d1275487679c"
 metafile = true
@@ -4041,7 +4046,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-ambiental-second-edition.pw.toml"
-hash = "370a06aa31277eb1ac1cfa9492b4fc6a2e897c1045efc0629177ada8e0a39940"
+hash = "799bd5e36db262fef97525ca39f0b07dcc6284c9d3fb75d61a9606516f935da8"
 metafile = true
 
 [[files]]
