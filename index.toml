@@ -42,7 +42,7 @@ hash = "92102e63d4ec84597d5edd0c67b7100a359eef8a078cd46d26b76694fa7044db"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "7b2de1f658a0547d7c5569bd3ee1e784cb09a8310dd3a3d64b7e65303a9a57cc"
+hash = "d77039606a79e8f7a728150387a461daff565987d52d59ec683c8988622ff83b"
 
 [[files]]
 file = "LICENSE"
@@ -510,7 +510,7 @@ hash = "514e36e0b73d0796fc031a1e75c5b825186022b607fbdf8cef561db0842fbb8b"
 
 [[files]]
 file = "config/fancymenu/customization/gui_main_menu.txt"
-hash = "a9f80348de4baafcca2a65ea0d1a210af06e7eea6af7c90a9843090713bfa80c"
+hash = "ec800eb1f56fb5444cb6ff2b6a0530325ac46b387c63bacf40c61b10c5380fa0"
 
 [[files]]
 file = "config/fancymenu/customization/gui_pause_menu.txt"
@@ -634,7 +634,7 @@ hash = "ed8ba24fd9e7d9567d0ebfb85a7a2cd55dd8488f6f127bb7bc923061d6c20288"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "576ac8f597e6a441f00cb9aa5e0f3a6d81458904535ed6df993e8505b9450cb8"
+hash = "aaf5754e9d0c720ebf2817fc2a12cce6841d40ea484d1ba4831fda396cb1f698"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ev__extreme_voltage.snbt"
@@ -666,7 +666,7 @@ hash = "3cb54341ca2041750c6ce05cd62ba3ccbf42b484bf39360147458c2f547a11fd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "83383a1c7149311f86babe8dcb4685e3f1dbdc8a0aa4affe6e39285279f25a7b"
+hash = "a205879d5f3773320bc829f0d21e6033ad79fb82c370a6b71cc49f1f4cc5e808"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -674,7 +674,7 @@ hash = "7b284739b1099328f72b485746b5851ef47d51a1660a6e405994e25614e4b8f3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "0a4aa04a1b5f5584afbc6db05f13d90edc37daf96cbfe59adb24e062c2e1e150"
+hash = "c6580013cd5dc7c87d9d46669a0d8c86828eb37d02a3c5083aa7ca4c89939c33"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/uv__ultimate_voltage.snbt"
