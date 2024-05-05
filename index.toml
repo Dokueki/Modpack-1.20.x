@@ -3680,6 +3680,11 @@ hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
 metafile = true
 
 [[files]]
+file = "mods/keep-xp-percentage.pw.toml"
+hash = "fc631ded73248d8b7fccd4813ae6e83b21ffaa9fef3167d93cc8cd7830f6b4cd"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "76912625f54e81a9f3af633d6fab017759f20204c6bcd67aa6c97e9bb1a4cb62"
 metafile = true
