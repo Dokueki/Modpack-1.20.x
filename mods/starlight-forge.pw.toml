@@ -1,6 +1,6 @@
 name = "Starlight (Forge)"
 filename = "starlight-1.1.2+forge.1cda73c.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

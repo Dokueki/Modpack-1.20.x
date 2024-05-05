@@ -1,6 +1,5 @@
 
 # Configs
-config/.toolswap
 config/jei/world/*
 config/oculus.properties
 config/fml.toml
