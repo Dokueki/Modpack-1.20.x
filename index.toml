@@ -169,6 +169,10 @@ file = "config/blur.json"
 hash = "988cfbd9a6de8894be0e21fe870a3d3215beab32c8180e629d8922083dfd4e02"
 
 [[files]]
+file = "config/bobby.toml"
+hash = "487262a2b15fa2df03223cae800ce27116c699b6730aaabfe5925f364121dba0"
+
+[[files]]
 file = "config/burninthesun-common.toml"
 hash = "e250672d92c63eba5827a45afcd83b0d0ca30aebd53112e18aa6562e920661d0"
 
@@ -3269,6 +3273,11 @@ metafile = true
 [[files]]
 file = "mods/blur-forge.pw.toml"
 hash = "6d120e37e9bce55fdd8b209265863dfcc6b64ac9cdf4e3afaa7dc9be08db2978"
+metafile = true
+
+[[files]]
+file = "mods/bobby-reforged.pw.toml"
+hash = "c91d2c1a31238bbff9a84b119ecdb77f7673d578c6b68ea324e72c4e65b016a4"
 metafile = true
 
 [[files]]
