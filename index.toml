@@ -3726,6 +3726,11 @@ hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
 metafile = true
 
 [[files]]
+file = "mods/macaws-for-terrafirmacraft.pw.toml"
+hash = "b81319dd25c33d8307038930c94454bba715aac2d6593786e5c750dd9dcc6812"
+metafile = true
+
+[[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "6265497d21d1f0d30f25c8ee081789c333bf43c693f7ac7878036678d9d356e0"
 metafile = true
