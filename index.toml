@@ -53,10 +53,6 @@ file = "README.md"
 hash = "885a116a6af51711fca9be754f4de1a05d1ecd87aff5399cdfb8fbd8e4410048"
 
 [[files]]
-file = "config/.toolswap"
-hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "c013dc1f7331b247e92c51fbc316aba4cfaa428af07548be83bab2d5c3e12c57"
 
@@ -82,7 +78,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "9c2c796cfaedc6935d9d424b8d03e150779325a4679a74bacbbf281505418431"
+hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -334,7 +330,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "6e60f90336a973e183a7ecc09b56b2de5c4b9074cb29e5a964a14d5445c12632"
+hash = "607d1253e0dcced70e2b19169aba4a75dc45cf87af0644ef9a01e028dc27fef7"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -526,7 +522,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9b2c617eccae61851f6ea4ac833de2c6a25b9f6cef38c22ecfe4f796a316c026"
+hash = "820ef497fc473960aa6d95f7c1425cfa4fc08b1c8748f92382ba2fa3210164b2"
 
 [[files]]
 file = "config/fancymenu/slideshows/main_menu/images/image_1.png"
@@ -878,7 +874,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "18cbd8eb5a94fb5e48d12714f89ac192e6d19ce939b32b976f9de1b10faa6f86"
+hash = "dbd33986f5ef69997e71b96d2c94b8e7dceb56d98ece1e6a0445f9ec7ad82835"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,11 +1002,11 @@ hash = "ff6b396f638529086efe27bffc429190bbcd6d0711d47ed95b46ae20f08b63e7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4f3196d8d7031935ad73666ba4f43807fa98b5fc9ac373a22d456dd5bfe239e6"
+hash = "f707696d4b249bbd7375a21b8ad88b9e0762d72418e88db5f9342ce31b5a9512"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "cdae9055cb7095ef329ef90eb75a375436258739cada94adce385de3167ded10"
+hash = "80b81745990b92d5cddf5e96005948e6062f9697a551b5e33626a6a5eb10863c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1081,10 +1077,6 @@ file = "config/toolbelt-common.toml"
 hash = "b2e66325535b673063f023e6b99d9ba072a202ef3823b0543f446e0730ec62b9"
 
 [[files]]
-file = "config/toolswap-client.toml"
-hash = "805939560f500f363f57e8546c8c207091a400ff0162ff568b5e356233fab295"
-
-[[files]]
 file = "config/tumbleweed-common.toml"
 hash = "8da919d5ec927450c66497e2dba34aaa2e1993d017ee7654f3bdde26d09686f2"
 
@@ -1118,7 +1110,7 @@ hash = "d1738bf5a0dd5a6edfbe451012a31c4a525fdb53bc60fa62dda1e1c68c9c2fb5"
 
 [[files]]
 file = "config/weakerspiderwebs.json5"
-hash = "9118e92a075f8832ac740bb264337df82ba5789a8c42ad51fa5c55631aac755e"
+hash = "7fef179938e21962eb2968f0dd06fc96c2397738a3d6c068fd1b8ce17835a312"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -1130,7 +1122,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3225,11 +3217,6 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
-file = "mods/automatic-tool-swap.pw.toml"
-hash = "34771aa51acddf716d5956aa580538273bdab7b0905d11c56e357086e742cf15"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
@@ -3655,11 +3642,6 @@ hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "1d9a71087f31f02b44f58856edc97880c1e490de46f54df18829005f640b343b"
-metafile = true
-
-[[files]]
 file = "mods/itemphysic-lite.pw.toml"
 hash = "0f2eac034aa9c15e713782b7fd42350b184af44f29b4e995bb6b95faa89b90a8"
 metafile = true
@@ -4016,7 +3998,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
-hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
+hash = "cdc10d50e62957f26a3ea5e0c28aaba4c26a893cfd9eb7e28bf7e681700ca0cb"
 metafile = true
 
 [[files]]
