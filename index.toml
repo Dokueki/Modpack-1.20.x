@@ -3487,7 +3487,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "b5384287a96a57e49c6b77590379c98ab0aa90757a4c4b19fd6f447210ae03f5"
+hash = "9f91219f6d5704a6998f4e49956d4e007922f7402c5480ea6cdb616eb459c740"
 metafile = true
 
 [[files]]
@@ -3502,7 +3502,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "73c0af900cea34a2b583b31b3189e11a2c85a294a4bc230ce0e3a7ff21da424e"
+hash = "4d2020bd1b2ec88ee90d9931d514c745bc2a9293d19b6d7e158442f67116f35c"
 metafile = true
 
 [[files]]
@@ -3517,7 +3517,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "61c48c2d812ceb84a349ad02301d7bad62484779eaae004f2a0be37308f6e7a0"
+hash = "cb293c3be60e3f1c3e424df6f39e19b97279c716ba9eea416ee1e3f94f31dc66"
 metafile = true
 
 [[files]]
@@ -3537,7 +3537,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmacivilization.pw.toml"
-hash = "da4202a5fed7822eecfe8721f03f0ba73e42f25559656d4edd20464f902fca77"
+hash = "3dc88d6a8529d2485007d9c90eb404b3f62a8930414dcb0a61b62ff32aa7641e"
 metafile = true
 
 [[files]]
@@ -3582,7 +3582,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "0de41e99ee98e3158f4a3ffef47862bdd4c0334edf1e424a55261d087417a931"
+hash = "a2c0b49d8753555d8b79d1a931488e1cf5b9591300fea0a46ebeba22d4aea4a4"
 metafile = true
 
 [[files]]
@@ -3602,7 +3602,7 @@ metafile = true
 
 [[files]]
 file = "mods/gcyr.pw.toml"
-hash = "172f90ef9c04beb295d4b289cfbc533016be1d86e5b5ab8ea726b7ec0b80c3a0"
+hash = "d4ceedf62cf67afa92528e28ed9bd59bff30bbf7a259dc021652e05319ccb168"
 metafile = true
 
 [[files]]
@@ -3632,7 +3632,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "730ba89a17d690389a748e3d8fdf9ed593926c05d535f240bef34b68314d528a"
+hash = "3c681e8bf56f772ee190fff3c1bca83d1bd8b8d5885e20bcff2b365305a8a2d0"
 metafile = true
 
 [[files]]
@@ -3727,7 +3727,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega-cells.pw.toml"
-hash = "c288e2875ec908b02d06fde0a0302860a44138b8cfbdada1066a0c7138db1dcb"
+hash = "6265497d21d1f0d30f25c8ee081789c333bf43c693f7ac7878036678d9d356e0"
 metafile = true
 
 [[files]]
@@ -3937,7 +3937,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3c67f578d6e432d9724d227569fde6a476a3b17106e846208f083e427c51b6cf"
+hash = "9d18098db00132902e2bd48fbff3354373e6ece91eaeba5ed17adc00b92207cb"
 metafile = true
 
 [[files]]
