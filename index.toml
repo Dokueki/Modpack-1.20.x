@@ -526,7 +526,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "820ef497fc473960aa6d95f7c1425cfa4fc08b1c8748f92382ba2fa3210164b2"
+hash = "9b2c617eccae61851f6ea4ac833de2c6a25b9f6cef38c22ecfe4f796a316c026"
 
 [[files]]
 file = "config/fancymenu/slideshows/main_menu/images/image_1.png"
@@ -878,7 +878,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "60356f48327c2cf29734252d0648c47bdc33b8df7b004569752194788e0991ab"
+hash = "8a202c90532c034fd05cc87b906e46ec5e74d5a124e7ffd77831de8f436d243c"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1002,15 +1002,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "f3f6a6e03120b00a3f6e167d8a44b7185992cdf494e81b4264be1ffabeaea195"
+hash = "ff6b396f638529086efe27bffc429190bbcd6d0711d47ed95b46ae20f08b63e7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "d78a1178ca44f67fa23d45a3b71d81e0a13b0582981d895192429b282abe03c3"
+hash = "a23db1d2936e86adad96a9b1fc24b652abfa941658a52923780cfbf4455ceb10"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7253c7413d204ab241fb09e76db8efc3f2da03d4eea8b781c45eef6421f8a622"
+hash = "20c49f13dbed77464b876eab8996974541765877513192e7330707d3e94544d1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1130,7 +1130,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3902,11 +3902,6 @@ metafile = true
 [[files]]
 file = "mods/precision-prospecting.pw.toml"
 hash = "fef154179a8323cd7d55c1e273c66bafc0c4f68d4a08270dca080d060a567f8c"
-metafile = true
-
-[[files]]
-file = "mods/probejs.pw.toml"
-hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
 metafile = true
 
 [[files]]
