@@ -334,7 +334,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "f8914e01837d2bbf933327efdac8cddcd643dfce9b3b37c862672141b82aff6a"
+hash = "6e60f90336a973e183a7ecc09b56b2de5c4b9074cb29e5a964a14d5445c12632"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -3836,7 +3836,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "1d88c728bc36396db0bf5f9b769d6a9ed8b362db4fee2b52dae492e0bf1e47b4"
+hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
@@ -4036,7 +4036,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "8081fea86970399112783bf36847410013f9b65c5cc6b20f14ea891ec6aa938b"
+hash = "fa31382047a57879679ba22cdca4eefc7c079088a7e9f327aa40fa8c7e9bcc0a"
 metafile = true
 
 [[files]]
