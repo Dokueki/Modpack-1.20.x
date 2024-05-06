@@ -3386,6 +3386,11 @@ hash = "5ff68b415d1d9bed64dee45a3ea93471627694fa458e1a9e6b5edf22e40d9529"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "9b9494ddf3d98305013d85c7081c6e172c26d75b90cc01393332db45f8423c89"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "e71fcc6424fd21d3f69aefa611b94e4aef68878665924e1b01a2582b3d84e9ac"
 metafile = true
