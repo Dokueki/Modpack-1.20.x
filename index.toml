@@ -3641,6 +3641,11 @@ hash = "aa5faf9325384962b26dd78b2816dde6530160f7a4ffac46d57eb51ec76af86e"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
+metafile = true
+
+[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "cd65b34238623e1f7d8e99d7a0b11422480a7c21714f0bb492dd8a52f122767f"
 metafile = true
@@ -3678,6 +3683,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "76912625f54e81a9f3af633d6fab017759f20204c6bcd67aa6c97e9bb1a4cb62"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
@@ -4109,6 +4119,10 @@ metafile = true
 file = "mods/u-team-core.pw.toml"
 hash = "7d7cede1b369b09d748c5e241c2fbb85d35ad3ef06b838f8210bb653c959aa11"
 metafile = true
+
+[[files]]
+file = "mods/valkyrienskies-120-2.3.0-beta.5+682a6e853c.jar"
+hash = "d1b4fdc54dd1a790eb0fec9ce4d34608d79c83d3e6956b9321464d4f374c76ce"
 
 [[files]]
 file = "mods/water-flasks.pw.toml"
