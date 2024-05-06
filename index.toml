@@ -4145,11 +4145,6 @@ file = "mods/valkyrienskies-120-2.3.0-beta.5+682a6e853c.jar"
 hash = "d1b4fdc54dd1a790eb0fec9ce4d34608d79c83d3e6956b9321464d4f374c76ce"
 
 [[files]]
-file = "mods/vmod.pw.toml"
-hash = "780407fe90037282086f4a9c57482cf1ca8b4a9b788b0a6160b12e3071a86c77"
-metafile = true
-
-[[files]]
 file = "mods/water-flasks.pw.toml"
 hash = "8eef3bfcaf11d312fde6f3e084aff0ce3266f4d4adfcfa4617f0c7bbfaeeee2b"
 metafile = true
