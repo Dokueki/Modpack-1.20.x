@@ -3506,6 +3506,11 @@ hash = "f78a9b706f9cc45b8f33768032475b8151a5e3336475762385e8aa804dcf8b92"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "88363abd49fb7e7649487f36fac005c798cb1879d02edae38eef618bb7d5fa49"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "4d2020bd1b2ec88ee90d9931d514c745bc2a9293d19b6d7e158442f67116f35c"
 metafile = true
