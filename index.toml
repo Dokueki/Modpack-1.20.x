@@ -3311,6 +3311,11 @@ hash = "e20c65099b272ff1848676dcc4d9e6025722ab35c60d9e1dfd1d36f44457cdea"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "569424f5e649626c5d74fb1826d4f174c6f6daa80c6b1a85219e2fb113f407ff"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "9f5fd7599367191ec28b58b6a6956341f41bbeca15b0b3a7d641f37b1b884d0d"
 metafile = true
