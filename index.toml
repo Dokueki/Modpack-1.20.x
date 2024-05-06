@@ -3477,7 +3477,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "0e38f08a62ef9f8a1928007271945fb9f6a0e0a66060ec832e1e2cbc6e04ea1c"
+hash = "208990099594d552abb86748271b83d48d17cfd9c9aee58cef2dde2736a2e5e1"
 metafile = true
 
 [[files]]
@@ -3512,7 +3512,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka-ships.pw.toml"
-hash = "88363abd49fb7e7649487f36fac005c798cb1879d02edae38eef618bb7d5fa49"
+hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
 
 [[files]]
@@ -3757,7 +3757,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega-cells.pw.toml"
-hash = "790e67b0ffcc5ed6fb5d68a3e6d74740b3bdf6431a554cb6f6d1bdaa44993b73"
+hash = "8dcded48817b3313cc796df6e3e193c399f17d19377ff6bc6b4a97b5f18bd75c"
 metafile = true
 
 [[files]]
