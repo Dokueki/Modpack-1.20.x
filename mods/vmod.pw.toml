@@ -1,0 +1,13 @@
+name = "VMod"
+filename = "VMod-Forge-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qS1ot7R2/versions/V1gHiDEr/VMod-Forge-0.0.4.jar"
+hash-format = "sha1"
+hash = "bc63cedc202e682ebbd69d7af0bf1a0c2dd78964"
+
+[update]
+[update.modrinth]
+mod-id = "qS1ot7R2"
+version = "V1gHiDEr"
