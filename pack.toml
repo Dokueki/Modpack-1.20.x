@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "f31257259f30110f9b3887ee91c08e26c4768abd73bf365b2910923a181a381a"
-=======
-hash = "5c6a2ebdbab185bf1b3f244e14b9ed83ed3cd4142a2b8a50a73ff1438c4877f9"
->>>>>>> parent of 9fb34ac6 (add vmod)
+hash = "2a17db546d37bd510eb1cbfc3c2c2bea9837d24024ae4742940102e9a4599ea5"
 
 [versions]
 forge = "47.2.6"
