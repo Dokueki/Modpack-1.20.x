@@ -4136,6 +4136,11 @@ hash = "7d7cede1b369b09d748c5e241c2fbb85d35ad3ef06b838f8210bb653c959aa11"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "b51764dfda49b522a09c75a3cf93624bf44611aa450f0124808f0d6dbdd68945"
+metafile = true
+
+[[files]]
 file = "mods/valkyrienskies-120-2.3.0-beta.5+682a6e853c.jar"
 hash = "d1b4fdc54dd1a790eb0fec9ce4d34608d79c83d3e6956b9321464d4f374c76ce"
 
