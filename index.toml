@@ -3482,7 +3482,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "8d623dbb043eee6a148667c49fdf4988e080de55285959c06351b654dc229e29"
+hash = "9318dc459fb0645ad407d5942b30cff02998f2590b337b953cf856266b8f1cde"
 metafile = true
 
 [[files]]
@@ -3757,7 +3757,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega-cells.pw.toml"
-hash = "6265497d21d1f0d30f25c8ee081789c333bf43c693f7ac7878036678d9d356e0"
+hash = "790e67b0ffcc5ed6fb5d68a3e6d74740b3bdf6431a554cb6f6d1bdaa44993b73"
 metafile = true
 
 [[files]]
