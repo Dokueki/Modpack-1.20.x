@@ -78,7 +78,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
+hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -882,7 +882,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "88312b55a201ef0e583bc920d9587de84443d418907698ec63c8ec51cd4456c1"
+hash = "0a88e68553573067c8865c846efa582396ec90dc825fcbd89917cee714cdfe46"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1010,11 +1010,11 @@ hash = "e8465b8ca0f2517251c0c1af3cdcb18f7053867613b74f1c72e150b7e6fbfe29"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "d295cdc8c1b5eedc8355838d05ec4651277fd0a9805c5f53ed9723910141cd68"
+hash = "2f51ed400196354ddf8cb9f9ac947c0fd7f3721f3de10d6e410c0acd33b4c858"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "10f196932cde962c529e666972689b3266c4012514db3c3e49240969126cda3c"
+hash = "c939dd62836d411fe49e2027a040b46149da98137644d1eeab0deb5a61a65c65"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1166,7 +1166,7 @@ hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "b8fd073b22deb3b538cd955fd8d5c5162cc3a9b67ee2edfe88c6c02593316ddf"
+hash = "4c20f976e1bc8c7a5da4e6cb3e47bd73dd01bfd3cff53e287e8ae4d7c25f1b22"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -3315,7 +3315,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-foliage-renewed.pw.toml"
-hash = "e65895da85cfabf53c1cca6eb26d39bac71d3628cfd1675c7cbf84395d8a2466"
+hash = "940b2dd5d9c3b42ea24c43b5fe7f25485b835fef8a0c06b3b2fd2be6489d2d1b"
 metafile = true
 
 [[files]]

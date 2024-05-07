@@ -1,6 +1,6 @@
 name = "Better Foliage Renewed"
 filename = "betterfoliage-5.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4923669
 project-id = 470013
+
+[option]
+optional = true
+default = true
+description = "The Better Foliage mod enhances the look of Minecraft's vegetation by adding denser leaves, more grass variations, and other visual improvements."
