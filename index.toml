@@ -3229,11 +3229,6 @@ file = "mods/AnimalTrapTFC-1.20.1-forge-1.0.1-custom.jar"
 hash = "443ae06814b81f9a28ae3041edf5b2fb0c0f86087b5b32f66b5bbf937e039891"
 
 [[files]]
-file = "mods/additional-placements.pw.toml"
-hash = "d45973beb5a6fb30e74cb249bf66e7906005310706d154157f8ba69819444378"
-metafile = true
-
-[[files]]
 file = "mods/ae2-insert-export-card.pw.toml"
 hash = "ac048ce5e893b3971be9850ac099db0a932cccf9dde472f87d18d672e8123171"
 metafile = true
