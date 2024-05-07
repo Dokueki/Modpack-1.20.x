@@ -189,6 +189,10 @@ file = "config/carryon-common.toml"
 hash = "0fdeb3f897a9131b8c07fc7bc0c37163208c11998b7ab0870a4c0dae5498c941"
 
 [[files]]
+file = "config/cc_vs-config.toml"
+hash = "1a2d94df6be17da13d87f56ac10b802982768bf9fee5d8feca7a2b209a1a240b"
+
+[[files]]
 file = "config/chat_heads.json5"
 hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
@@ -526,7 +530,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "820ef497fc473960aa6d95f7c1425cfa4fc08b1c8748f92382ba2fa3210164b2"
+hash = "9b2c617eccae61851f6ea4ac833de2c6a25b9f6cef38c22ecfe4f796a316c026"
 
 [[files]]
 file = "config/fancymenu/slideshows/main_menu/images/image_1.png"
@@ -634,7 +638,7 @@ hash = "ed8ba24fd9e7d9567d0ebfb85a7a2cd55dd8488f6f127bb7bc923061d6c20288"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "aaf5754e9d0c720ebf2817fc2a12cce6841d40ea484d1ba4831fda396cb1f698"
+hash = "7f4c97c6fedc3817752b160439cdfc81d2e42a93cf26e955edbbcbb9df9825d5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ev__extreme_voltage.snbt"
@@ -674,7 +678,7 @@ hash = "7b284739b1099328f72b485746b5851ef47d51a1660a6e405994e25614e4b8f3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "c6580013cd5dc7c87d9d46669a0d8c86828eb37d02a3c5083aa7ca4c89939c33"
+hash = "f8d9e0a33b3cd92a20f9b6624f5da7aa270ed1e4d24be836c056c605159c16d1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/uv__ultimate_voltage.snbt"
@@ -878,7 +882,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "dbd33986f5ef69997e71b96d2c94b8e7dceb56d98ece1e6a0445f9ec7ad82835"
+hash = "88312b55a201ef0e583bc920d9587de84443d418907698ec63c8ec51cd4456c1"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1002,15 +1006,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "ff6b396f638529086efe27bffc429190bbcd6d0711d47ed95b46ae20f08b63e7"
+hash = "e8465b8ca0f2517251c0c1af3cdcb18f7053867613b74f1c72e150b7e6fbfe29"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "f707696d4b249bbd7375a21b8ad88b9e0762d72418e88db5f9342ce31b5a9512"
+hash = "d295cdc8c1b5eedc8355838d05ec4651277fd0a9805c5f53ed9723910141cd68"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "80b81745990b92d5cddf5e96005948e6062f9697a551b5e33626a6a5eb10863c"
+hash = "10f196932cde962c529e666972689b3266c4012514db3c3e49240969126cda3c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1085,6 +1089,70 @@ file = "config/tumbleweed-common.toml"
 hash = "8da919d5ec927450c66497e2dba34aaa2e1993d017ee7654f3bdde26d09686f2"
 
 [[files]]
+file = "config/valkyrienskies/schemas/vs_client.schema.json"
+hash = "48356047aa354b0e9aca95954700dbf09530fa0e1a147a10d29fc4ca96c353c0"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_clockwork_client.schema.json"
+hash = "c335d926a3d773484252e6460257f513e58bb62e470fe059a14a69a09b90d5bd"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_clockwork_server.schema.json"
+hash = "966ead7c793e4c459533ac838161ba0e28103e86ba18d38241482e3e0425d2cf"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_common.schema.json"
+hash = "6d80484f70f383c02f4c8318d54056767c9a3fe0a22e3fa03ff1f30370a2ce95"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_core_server.schema.json"
+hash = "469995a2897fdb65b825f4eb6cd550f35d3ba28c9a796dd91de0a7f8d436fb48"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_eureka_client.schema.json"
+hash = "c335d926a3d773484252e6460257f513e58bb62e470fe059a14a69a09b90d5bd"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_eureka_server.schema.json"
+hash = "b77f59b34f82a6e24afe52db473d78c7e2502d91816a11aa83473f80c0142bfd"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_server.schema.json"
+hash = "a341bb0adb20cc6127d3a6d10fb4e1627b5a20fcd4c0810a30751415b35d9be3"
+
+[[files]]
+file = "config/valkyrienskies/vs_client.json"
+hash = "cf01bce7e3e7e4e2b132b2864a526ee301269c35eca44a690cf7f9f54760ead4"
+
+[[files]]
+file = "config/valkyrienskies/vs_clockwork_client.json"
+hash = "758e008bd83ca2cfad311897ee0d4944170429112b097287dbbb7e95990b692d"
+
+[[files]]
+file = "config/valkyrienskies/vs_clockwork_server.json"
+hash = "319eaec2a18e3e4b1cf170ccd93a59c6b3e8803109ba645833952deda2707bc6"
+
+[[files]]
+file = "config/valkyrienskies/vs_common.json"
+hash = "80b0161bbd450eb2e8c64fcd3e643694c052bf43e9e79a985fb639b7a4782466"
+
+[[files]]
+file = "config/valkyrienskies/vs_core_server.json"
+hash = "4cce977a70bc4b21f61cd1c81e802971ac0d016e991574d41867222665b78455"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_client.json"
+hash = "0a7d294b51f259b447a92e368da137f612bb9ff33ed8d390b49149aed3ca2a03"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_server.json"
+hash = "56cc120de707f4f3c6321096455265886eaa478ca915d1aafebe4c9e66cb632f"
+
+[[files]]
+file = "config/valkyrienskies/vs_server.json"
+hash = "3001b184297897ae6048e4db7428b9758775c253be1156237266039a350e5d0b"
+
+[[files]]
 file = "config/voicechat-client.toml"
 hash = "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5"
 
@@ -1126,7 +1194,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
