@@ -1,13 +1,13 @@
 name = "Monazite"
-filename = "monazite-1.20.1-1.0.0.jar"
+filename = "monazite-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KvSy350p/versions/qcg51uWG/monazite-1.20.1-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/KvSy350p/versions/9hdaKTsn/monazite-1.20.1-1.1.1.jar"
 hash-format = "sha1"
-hash = "cf425b493980db04593120b70f1914b182c30e6a"
+hash = "129b55deac11417b7528a08b68c8cae994b77407"
 
 [update]
 [update.modrinth]
 mod-id = "KvSy350p"
-version = "qcg51uWG"
+version = "9hdaKTsn"

@@ -78,7 +78,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
+hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -366,7 +366,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "7fe32477e9df310b166205adb9950e0ebad9cb50d5ff6dbfa668573c5a53996b"
+hash = "9b165fa271c9f70584bea8a230221cd44592885a6d63ced9b3c6f6b7a097d3e5"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -882,7 +882,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "7139f1e8e8343b5ae92f8f8f025ed8bd424c4a9ddc6cb7e7c337271a26c721bc"
+hash = "9dc85f6fc5fffa1b09cee4ac6dec41d9a794e56c12a967d4e03068211af383b8"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,15 +1006,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "f15f7c31c9b7a5c876755f4bec9336a0c06fb9a49bb4e0728ab410a2862baec1"
+hash = "e8465b8ca0f2517251c0c1af3cdcb18f7053867613b74f1c72e150b7e6fbfe29"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a0a92e1d702d290a20dc594a3208f8759b85f5f6bcb5da04e532bef9368ec447"
+hash = "58b90ddd1934fae2547a56e9648b870ca43cfbb2940b0663e607a7f4cfe92f01"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "318a5686b43a333db4e70cfaf52b26463105a5fa61ed6e727f861f9f3371d5f0"
+hash = "332a6ce2c641230f76628c2e3c8abaea9d48e0ca1d7046f9f7ece92cb66aa146"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1194,7 +1194,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3410,7 +3410,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9cc335e136843f168134c5b5da40f95260da3f33340de437ea2c1a6caa24404a"
+hash = "14e2b2f26aff8192baac5ba50948aa131bd7b70ce0c1bf703804a0b08ead7dd0"
 metafile = true
 
 [[files]]
@@ -3525,7 +3525,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "74c40fc8aa5136a0a620497d391cc503c0602ce27620642dde8b7a44ff188905"
+hash = "400396918f6581f7157a25c5dda75fd620d16fd8565201a5e7aee30f6c7df8b0"
 metafile = true
 
 [[files]]
@@ -3595,7 +3595,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "cb293c3be60e3f1c3e424df6f39e19b97279c716ba9eea416ee1e3f94f31dc66"
+hash = "957dc7639012678ad2e87ff964b0d052b145127ced92e6ab90a9513140d6023f"
 metafile = true
 
 [[files]]
@@ -3800,7 +3800,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithic-addon-mod.pw.toml"
-hash = "ee08a7818f5f9ce5fc782de6a8aa31c7f0f5e3bb7b482ea993e3e6db7b1a0c5c"
+hash = "6951f7cbc28d15779e3364cb7ddd89615f3f4390a9eecc8d9d687784c892cc21"
 metafile = true
 
 [[files]]
@@ -3845,7 +3845,7 @@ metafile = true
 
 [[files]]
 file = "mods/monazite.pw.toml"
-hash = "f6fcd9ce9b040e7f2d64a3353747d541c7bf3436fbd7ab74e7e0eee49fbce5db"
+hash = "aa6a6701649b0011c8c9ece14fadedadf7b7fe131019206a8968013b8bec5f04"
 metafile = true
 
 [[files]]
@@ -4075,7 +4075,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "46a595e8297691a2265ebe21f594125f39fe96482ab6916e748cbdb7f66a6457"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
 metafile = true
 
 [[files]]
