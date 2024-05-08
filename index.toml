@@ -366,7 +366,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "9b165fa271c9f70584bea8a230221cd44592885a6d63ced9b3c6f6b7a097d3e5"
+hash = "7fe32477e9df310b166205adb9950e0ebad9cb50d5ff6dbfa668573c5a53996b"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -882,7 +882,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "0a88e68553573067c8865c846efa582396ec90dc825fcbd89917cee714cdfe46"
+hash = "7139f1e8e8343b5ae92f8f8f025ed8bd424c4a9ddc6cb7e7c337271a26c721bc"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,15 +1006,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "e8465b8ca0f2517251c0c1af3cdcb18f7053867613b74f1c72e150b7e6fbfe29"
+hash = "f15f7c31c9b7a5c876755f4bec9336a0c06fb9a49bb4e0728ab410a2862baec1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "2f51ed400196354ddf8cb9f9ac947c0fd7f3721f3de10d6e410c0acd33b4c858"
+hash = "a0a92e1d702d290a20dc594a3208f8759b85f5f6bcb5da04e532bef9368ec447"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "c939dd62836d411fe49e2027a040b46149da98137644d1eeab0deb5a61a65c65"
+hash = "318a5686b43a333db4e70cfaf52b26463105a5fa61ed6e727f861f9f3371d5f0"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1166,7 +1166,7 @@ hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "4c20f976e1bc8c7a5da4e6cb3e47bd73dd01bfd3cff53e287e8ae4d7c25f1b22"
+hash = "b8fd073b22deb3b538cd955fd8d5c5162cc3a9b67ee2edfe88c6c02593316ddf"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -1194,7 +1194,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3800,7 +3800,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithic-addon-mod.pw.toml"
-hash = "35d67190de131ee49f432ba922d4a8317a37da8d056d5350947b2306f0d4cc77"
+hash = "ee08a7818f5f9ce5fc782de6a8aa31c7f0f5e3bb7b482ea993e3e6db7b1a0c5c"
 metafile = true
 
 [[files]]
