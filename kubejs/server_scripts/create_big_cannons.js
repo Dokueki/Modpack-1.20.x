@@ -7,6 +7,7 @@ ServerEvents.tags('item', event => {
 ServerEvents.recipes(event => {
     event.remove({ output: '/.*cast_iron.*/' })
     event.remove({ output: '/.*nethersteel.*/' })
+    event.remove({ mod: 'createbigcannons', input: 'minecraft:redstone' })
 
     //
 
@@ -18,7 +19,21 @@ ServerEvents.recipes(event => {
     ], '#forge:springs/iron', [
         event.recipes.createPressing('createbigcannons:partial_recoil_spring', 'createbigcannons:partial_recoil_spring'),
     ]).transitionalItem('createbigcannons:partial_recoil_spring').loops(3)
-
+    event.shaped('4x createbigcannons:impact_fuze', [
+        'A',
+        'B'
+    ], {
+        A: '#minecraft:buttons',
+        B: 'gtceu:wrought_iron_plate'
+    })
+    event.shaped('4x createbigcannons:proximity_fuze', [
+        ' A ',
+        'BCB'
+    ], {
+        A: '#forge:springs',
+        B: '#mcw_tfc_aio:metal_rods',
+        C: 'gtceu:wrought_iron_plate'
+    })
     event.recipes.createCutting('3x createbigcannons:partial_recoil_spring', '#forge:springs/steel')
 
     event.recipes.createSequencedAssembly([
