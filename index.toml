@@ -78,7 +78,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
+hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -882,7 +882,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "9dc85f6fc5fffa1b09cee4ac6dec41d9a794e56c12a967d4e03068211af383b8"
+hash = "7d82590b605ba3232e6d6dd95b70e1ff35934152207eb39c168e0363b46f8146"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1010,11 +1010,11 @@ hash = "e8465b8ca0f2517251c0c1af3cdcb18f7053867613b74f1c72e150b7e6fbfe29"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "58b90ddd1934fae2547a56e9648b870ca43cfbb2940b0663e607a7f4cfe92f01"
+hash = "4fd44839daa41ba0653f87eb590d23d8e8ba626ef0a28daa666e19b709428e49"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "332a6ce2c641230f76628c2e3c8abaea9d48e0ca1d7046f9f7ece92cb66aa146"
+hash = "65ab89f5f5d43c734aa34c68c618d3fb636a95c24e0e0add4340f15d41fd1eb8"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -3260,7 +3260,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "65ce57a6ef462c45d74bbe9d6b8b7cfeb7c568e5b67ed9f54771284487e8009b"
+hash = "9b282cfc340faa37fe001a0069a5c7d12fad5c3285c49f30dc2e5a6346c5810c"
 metafile = true
 
 [[files]]
@@ -3745,7 +3745,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
+hash = "6c55d62a19881830ac4c424feb35714954dafc338e9c2ab8564da70f7e092306"
 metafile = true
 
 [[files]]
@@ -3845,7 +3845,7 @@ metafile = true
 
 [[files]]
 file = "mods/monazite.pw.toml"
-hash = "aa6a6701649b0011c8c9ece14fadedadf7b7fe131019206a8968013b8bec5f04"
+hash = "5afcae375f6fa886a0a25bd55cf95fcff6e107bb69179b45373a76ca21d4a60c"
 metafile = true
 
 [[files]]
@@ -3990,7 +3990,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b7051b4c2310e1566a96e72b525469b460ed1132e393f3865b798bc3d80386f0"
+hash = "26bdb83bbbf415d54995cf1c2a32c76901d4c00811704b420cc8de99a919a5ec"
 metafile = true
 
 [[files]]
@@ -4040,7 +4040,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b3836e7d6346f9308f15f8e3085118c1b3b91816b9e6db472a94da431cac3011"
+hash = "447e17765912159a7f6d6ac26e1b4402d923c25589f60d5efc187745cfc27fa8"
 metafile = true
 
 [[files]]
