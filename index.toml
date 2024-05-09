@@ -2938,7 +2938,7 @@ hash = "2e148e4ac84c2c5fa15578f9c5f77b841b23ba4605d40c683f9bd475e9a3b9b6"
 
 [[files]]
 file = "kubejs/server_scripts/create_big_cannons.js"
-hash = "03b321f5c470cfe3ecb562738de6c24fb4237a4946b49e9ed131995931f4a97e"
+hash = "be170b5a5bed8f7c604cbe3278cd5d72a1d43b3b54f5771125339536a90ac2e2"
 
 [[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
@@ -3260,7 +3260,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "9b282cfc340faa37fe001a0069a5c7d12fad5c3285c49f30dc2e5a6346c5810c"
+hash = "1ccdc223317e3c8da5594e56d66a0da5dd9b8a7caa43bbc03d517309321193b6"
 metafile = true
 
 [[files]]
@@ -3465,7 +3465,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "ed7e3efbf1158f9294921bff70f427b7cf87af4b6e95ccb8206d33152ad3fb6a"
+hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
 metafile = true
 
 [[files]]
