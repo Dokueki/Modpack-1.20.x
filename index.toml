@@ -78,7 +78,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
+hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -758,11 +758,11 @@ hash = "3c063cc05aa131779252e096360242fc7cf23c382003032f264c0c3a27821891"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "f2cfffe18ff03ea308232054e53fb476463ba2e5dcfa89968c12028eed1c695d"
+hash = "99b45ef9432b03c8052f805f7a7601a9788200c572409af5a2680fc7fd75bdda"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "0c613a0eaf279671c6c0d13bdc3e8575f7c99e2f6d9c11a93ffd99f97680d4c7"
+hash = "67de32810be9a0fd3370452afb49deb5d6eb0c4c592fbf0f2c0febab88014b60"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -846,7 +846,7 @@ hash = "320343ee701ee70c040b733cd55002499f9ed14431b926911535de1d3b5b496e"
 
 [[files]]
 file = "config/monazite.yaml"
-hash = "18ab6355268729137d86f6aad05b35d9fc2aa5c1dd0ab2c4aaa3ea2149a52edd"
+hash = "511ebb2927870877e0f9c2f10888779d21b9b547bd5293031785789b93f5a789"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -882,7 +882,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "7d82590b605ba3232e6d6dd95b70e1ff35934152207eb39c168e0363b46f8146"
+hash = "9f1f393e40543169c992194bc90783b8dd4cc03e67841e4699a1498d6a374f75"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,15 +1006,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "e8465b8ca0f2517251c0c1af3cdcb18f7053867613b74f1c72e150b7e6fbfe29"
+hash = "f15f7c31c9b7a5c876755f4bec9336a0c06fb9a49bb4e0728ab410a2862baec1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4fd44839daa41ba0653f87eb590d23d8e8ba626ef0a28daa666e19b709428e49"
+hash = "1b956fbd8199f1fd73dec35705158423339c51854e3c03f6804920369e60408e"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "65ab89f5f5d43c734aa34c68c618d3fb636a95c24e0e0add4340f15d41fd1eb8"
+hash = "e39bde6818427816217ff5b3791e58b111bf3b639fac154e4b851c5ab9bf36b0"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1166,11 +1166,11 @@ hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "b8fd073b22deb3b538cd955fd8d5c5162cc3a9b67ee2edfe88c6c02593316ddf"
+hash = "1e2e733aaaafb242ec3992463c0c57e37e852968e4797c2d7b983489a19e4747"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "d59d1d3df78d94b21061df2a3ce703e80a031480764dff126afeda9f9198ed40"
+hash = "7d9377d6fd4c01abb679b24b76e88882f67fdb5c191d24e2474fa8aa3618d070"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -1194,7 +1194,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"

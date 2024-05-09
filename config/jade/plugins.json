@@ -7,7 +7,6 @@
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
-    "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
     "item_storage": true,
     "item_storage.normal_amount": 9,
@@ -73,8 +72,11 @@
     "jade_wireless": true
   },
   "monazite": {
-    "recipe_info_item_output": true,
-    "recipe_info_fluid_output": true
+    "maintenance_info": true,
+    "auto_output_info": true,
+    "recipe_output_info": true,
+    "exhaust_vent_info": true,
+    "cable_info": true
   },
   "ae2": {
     "part_icon": true,
