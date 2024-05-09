@@ -78,7 +78,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
+hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -882,7 +882,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "9f1f393e40543169c992194bc90783b8dd4cc03e67841e4699a1498d6a374f75"
+hash = "754bf396ae0c997cf66b496c2586f503d4c149c846d4aa9257a848b658e0eaa9"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -942,7 +942,7 @@ hash = "598286f6b48c635ebaf4c649f6ebcd5a0dcfb9e9e7bb7a49a29ba71d59ed3de1"
 
 [[files]]
 file = "config/railways-client.toml"
-hash = "928692574c2400755f14317205bbc915e76f31cdd3cda66ff0604be7f3f5c238"
+hash = "f8123939190b704403ec8acdfb72be0c21398414c372038c8ee7b7ef60af9e6c"
 
 [[files]]
 file = "config/railways-common.toml"
@@ -1010,11 +1010,11 @@ hash = "f15f7c31c9b7a5c876755f4bec9336a0c06fb9a49bb4e0728ab410a2862baec1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "1b956fbd8199f1fd73dec35705158423339c51854e3c03f6804920369e60408e"
+hash = "deabc776c1edb989c15643dd47f8e67972778395292d8fe982727a3f0761e7ac"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e39bde6818427816217ff5b3791e58b111bf3b639fac154e4b851c5ab9bf36b0"
+hash = "d56912d95c73ea4f96eec8b8d47de113a49e0c263ff6b80c36fc30c22c382f35"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1194,7 +1194,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
