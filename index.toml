@@ -2869,6 +2869,46 @@ file = "kubejs/data/tfg/worldgen/placed_feature/vein/surface_tetrahedrite.json"
 hash = "259fcd216af77adb6c46e2afda7a713b64777cee8e0d4167688d33807e4f78f6"
 
 [[files]]
+file = "kubejs/server_scripts/_dokurai/create_big_cannons.js"
+hash = "7f84cdf3f69a15d2a60f0fd4e948c298b2a70be927c5c27a10da2d5ac476520a"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/create_clockwork.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/create_diesel_generators.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/create_interactive.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/create_railways_navigator.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/eureka_ships.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/lithic_coins.js"
+hash = "d2acc720e165e4a8c0131fb4905e862c0577bd6e71d63aec1d5d3fd4ef402cb0"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/macaws_tfc.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/music_maker.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/simple_voice_radio.js"
+hash = "fcf31466d4f277d4da3800abbd4c01d89f1f9cb75d39a9d42f24aa75da3b8cd1"
+
+[[files]]
 file = "kubejs/server_scripts/ae2/recipes.js"
 hash = "693b80caddc1e292aaf6593425efff6d6804a8134fc4946086c1f46377616c62"
 
@@ -2935,10 +2975,6 @@ hash = "f753c1fabde94c7fef9bf6cf8cc0e0ed65ee2066e7ef2823098c37a261b16ef2"
 [[files]]
 file = "kubejs/server_scripts/create_additions/tags.js"
 hash = "2e148e4ac84c2c5fa15578f9c5f77b841b23ba4605d40c683f9bd475e9a3b9b6"
-
-[[files]]
-file = "kubejs/server_scripts/create_big_cannons.js"
-hash = "7f84cdf3f69a15d2a60f0fd4e948c298b2a70be927c5c27a10da2d5ac476520a"
 
 [[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
@@ -3029,10 +3065,6 @@ file = "kubejs/server_scripts/hotornot/tags.js"
 hash = "23cd0aa9733e2fa27630521a2b37655eb8be25c950bbf27b353da701b5b64571"
 
 [[files]]
-file = "kubejs/server_scripts/lithic_coins.js"
-hash = "d2acc720e165e4a8c0131fb4905e862c0577bd6e71d63aec1d5d3fd4ef402cb0"
-
-[[files]]
 file = "kubejs/server_scripts/main_server_script.js"
 hash = "5da7ca28eeec1fcb271b94d72e56f357b669ff9447cd01bee0ee8b70fb1f55cf"
 
@@ -3071,10 +3103,6 @@ hash = "5fabebec04ce86d77d973529a462b7440f25c2d1af7d16d4799f09afa02247b0"
 [[files]]
 file = "kubejs/server_scripts/railways/tags.js"
 hash = "d35e5628394249fcb6225f9d5dbc36a1c4354b4bdad9f37678ddf861e7dddec8"
-
-[[files]]
-file = "kubejs/server_scripts/simple_voice_radio.js"
-hash = "fcf31466d4f277d4da3800abbd4c01d89f1f9cb75d39a9d42f24aa75da3b8cd1"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated_backpacks/recipes.js"
