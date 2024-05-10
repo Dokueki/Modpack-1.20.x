@@ -1458,7 +1458,7 @@ hash = "a38f7eea7d04259dbaaad14276cc04171755d7bef4cc2c163e9394f75b6a83b6"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "90da61a76b236c18ea8e7772dd9ab437749ad3e5fb0f4b58146a3a5f8b38b9ab"
+hash = "a84aac98dd523f828a9792ec1823e4dccd1e475c37fc9d92253d4ac29a279f0c"
 
 [[files]]
 file = "kubejs/data/firmaciv/loot_tables/blocks/wood/watercraft_frame_angled/acacia.json"
