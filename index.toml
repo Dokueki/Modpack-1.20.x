@@ -3464,6 +3464,16 @@ hash = "e71fcc6424fd21d3f69aefa611b94e4aef68878665924e1b01a2582b3d84e9ac"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "8f7276811d29b0163676111f2b1e486b0b335fea6820b8c6e5b6d7375a9589ed"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "02889994fc7415a9062547fb8865689491839bfc4ffaeabd870d76c79ae6956a"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
 metafile = true
