@@ -5,7 +5,7 @@
 	#Enable planets
 	enablePlanets = true
 	#Enable monsters spawning on the surface during a blood moon event? Overwrites TFC's config for surface monsters
-	enableBloodmoonSurfaceMonsters = true
+	enableBloodmoonSurfaceMonsters = false
 	#Amount of days per real Earth month
 	#Range: 0.0 ~ 1.7976931348623157E308
 	averageDaysPerMonth = 30.436875
