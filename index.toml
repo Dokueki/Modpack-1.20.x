@@ -3580,7 +3580,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "4d2020bd1b2ec88ee90d9931d514c745bc2a9293d19b6d7e158442f67116f35c"
+hash = "fa93d3dde5c116b85cfda163d70af46353279d9411a2d68e55560d11afc92502"
 metafile = true
 
 [[files]]
@@ -3845,7 +3845,7 @@ metafile = true
 
 [[files]]
 file = "mods/monazite.pw.toml"
-hash = "5afcae375f6fa886a0a25bd55cf95fcff6e107bb69179b45373a76ca21d4a60c"
+hash = "8728373f9115176b09168cbb9465fc73bafdabd74cabe0da086d9fccba6a1608"
 metafile = true
 
 [[files]]
@@ -4120,7 +4120,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-aged-alcohol.pw.toml"
-hash = "14893bb2f441bc2c3f317e37e8c8a499ec7469712e1150c3f1b66907c25b9d1b"
+hash = "b072e3e60e21566afb77fcd6296f402c265e4657cdbb6429518be73baf9c39da"
 metafile = true
 
 [[files]]
