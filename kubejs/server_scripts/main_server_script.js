@@ -128,6 +128,7 @@ ServerEvents.recipes(event => {
     registerGTCEURecipes(event)
     registerHandGliderRecipes(event)
     registerHotOrNotRecipes(event)
+    registerLithicCoinsRecipes(event)
     registerMegaCellsRecipes(event)
     registerMERequesterRecipes(event)
     registerMinecraftRecipes(event)

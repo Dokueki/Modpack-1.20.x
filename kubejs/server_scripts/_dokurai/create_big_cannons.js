@@ -7,9 +7,8 @@ ServerEvents.tags('item', event => {
 ServerEvents.recipes(event => {
     event.remove({ output: '/.*cast_iron.*/' })
     event.remove({ output: '/.*nethersteel.*/' })
-    event.remove({ mod: 'createbigcannons', input: 'minecraft:redstone' })
 
-    //
+    // Пружины для пушек
 
     event.remove({ output: 'createbigcannons:spring_wire' })
     event.remove({ output: 'createbigcannons:recoil_spring' })
@@ -31,9 +30,6 @@ ServerEvents.recipes(event => {
     //
 
     event.remove({ output: 'createbigcannons:basin_foundry_lid' })
-    event.remove({ output: 'createbigcannons:ap_shot' })
-    event.remove({ output: 'createbigcannons:ap_autocannon_round' })
-    event.remove({ output: 'createbigcannons:casting_sand' })
 
     event.shaped('createbigcannons:basin_foundry_lid', [
         ' B ',
@@ -43,6 +39,10 @@ ServerEvents.recipes(event => {
         A: '#forge:plates/wrought_iron',
         B: '#forge:ingots/wrought_iron'
     })
+
+    //
+
+    event.remove({ output: 'createbigcannons:ap_shot' })
 
     event.shaped('createbigcannons:ap_shot', [
         ' A ',
@@ -54,6 +54,10 @@ ServerEvents.recipes(event => {
         C: '#minecraft:wooden_slabs'
     })
 
+    //
+
+    event.remove({ output: 'createbigcannons:ap_autocannon_round' })
+
     event.shaped('createbigcannons:ap_autocannon_round', [
         'A',
         'B'
@@ -62,6 +66,21 @@ ServerEvents.recipes(event => {
         B: 'minecraft:iron_ingot'
     })
 
+    //
+
+    event.remove({ output: 'createbigcannons:casting_sand' })
+
+    event.shapeless('createbigcannons:casting_sand', [
+        '#forge:sand',
+        '#forge:sand',
+        '#tfc:dirt',
+        'minecraft:clay_ball'
+    ])
+
+    //
+
+    event.remove({ mod: 'createbigcannons', input: 'minecraft:redstone' })
+    
     event.shaped('4x createbigcannons:impact_fuze', [
         'A',
         'B'
@@ -72,21 +91,16 @@ ServerEvents.recipes(event => {
 
     event.shaped('4x createbigcannons:proximity_fuze', [
         ' A ',
-        'BCB'
+        'BCB',
+        ' D '
     ], {
         A: '#forge:springs',
         B: '#mcw_tfc_aio:metal_rods',
-        C: 'gtceu:wrought_iron_plate'
-    })
+        C: 'gtceu:quartzite',
+        D: 'gtceu:wrought_iron_plate'
+    }) 
 
-    event.shapeless('createbigcannons:casting_sand', [
-        '#forge:sand',
-        '#forge:sand',
-        '#tfc:dirt',
-        'minecraft:clay_ball'
-    ])
-
-    //
+    // Замена пороха в рецептах того что не должно взрываться
 
     event.replaceInput({ output: '/createbigcannons:log_cannon_.*/' },
         'minecraft:gunpowder',
@@ -108,7 +122,7 @@ ServerEvents.recipes(event => {
         'minecraft:leather'
     )
 
-    //
+    // Железо
 
     event.replaceInput({ output: '/createbigcannons:wrought_iron_.*/' },
         'minecraft:iron_ingot',
@@ -120,34 +134,17 @@ ServerEvents.recipes(event => {
         '#forge:plates/wrought_iron'
     )
 
+    // Замена кварца на кварцит
+
     event.replaceInput({ mod: 'createbigcannons' },
-        'minecraft:nether_quartz',
+        'minecraft:quartz',
         'gtceu:quartzite_gem'
     )
+
+    //
 
     event.replaceInput({ mod: 'createbigcannons' },
         'create:blaze_burner',
         'minecraft:blaze_powder'
     )
-
-    //
-
-    event.remove({ output: 'minecraft:slime_block' })
-
-    event.shaped('minecraft:slime_block', [
-        'AAA',
-        'AAA',
-        'AAA'
-    ], {
-        A: 'tfc:glue'
-    })
-
-    event.shapeless('minecraft:slime_ball', [
-        'tfc:glue',
-        '#forge:dyes/green'
-    ])
-
-    event.recipes.createSplashing([
-        'tfc:glue',
-    ], 'minecraft:slime_ball')
 })
