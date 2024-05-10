@@ -6,7 +6,6 @@
 ServerEvents.tags('item', event => {
     registerAE2ItemTags(event)
     registerAsticorCartsItemTags(event)
-    registerChiselAndBitsItemTags(event)
     registerComputerCraftItemTags(event)
     registerCreateItemTags(event)
     registerCreateAdditionsItemTags(event)
@@ -31,7 +30,6 @@ ServerEvents.tags('item', event => {
 ServerEvents.tags('block', event => {
     registerAE2BlockTags(event)
     registerAsticorCartsBlockTags(event)
-    registerChiselAndBitsBlockTags(event)
     registerComputerCraftBlockTags(event)
     registerCreateBlockTags(event)
     registerCreateAdditionsBlockTags(event)
@@ -113,7 +111,6 @@ ServerEvents.recipes(event => {
     registerAE2InsertExportCardRecipes(event)
     registerAE2NetworkAnalyzerRecipes(event)
     registerAE2WTLibRecipes(event)
-    registerChiselAndBitsRecipes(event)
     registerComputerCraftRecipes(event)
     registerCreateRecipes(event)
     registerCreateAdditionsRecipes(event)

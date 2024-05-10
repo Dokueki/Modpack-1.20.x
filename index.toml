@@ -41,6 +41,50 @@ file = ".github/pull_request_template.md"
 hash = "92102e63d4ec84597d5edd0c67b7100a359eef8a078cd46d26b76694fa7044db"
 
 [[files]]
+file = ".vscode/fluid-attributes.json"
+hash = "7e5203fe542686016bd79534829ea088d9a8d099e33eab4a2f4a03e187b33f75"
+
+[[files]]
+file = ".vscode/item-attributes.json"
+hash = "ebf5bddd8dc23928cd55f97c472b230fb5c82f86afb5846417993db09210e751"
+
+[[files]]
+file = ".vscode/item-tag-attributes.json"
+hash = "cc228cd89dc7cec6306fe2783c0917375c051ccad4c466f393ed48d9fd31d810"
+
+[[files]]
+file = ".vscode/lang-keys.json"
+hash = "18fc48be466709df6d53cea4cc666d328cf225266317de00a9d70762ce298184"
+
+[[files]]
+file = ".vscode/probe.class-definitions.json"
+hash = "7532a9b14519d79bb91192a3270f06ebdab12e8927203c0b7f5f5f0b159c5036"
+
+[[files]]
+file = ".vscode/probe.code-snippets"
+hash = "5cd50f5369910c7f040d469315efe645820ec24d5f4ae85baf6c8d1808de2e7f"
+
+[[files]]
+file = ".vscode/probe.doc-schema.json"
+hash = "33d954527a5b07de4b99601f233539a585dd0c7b68287dfa0ebb261aa56ddc60"
+
+[[files]]
+file = ".vscode/probe.lang-schema.json"
+hash = "65af989f21049cc102430db15542382370f4700c771c8e0df2c4096d8a6e2bcd"
+
+[[files]]
+file = ".vscode/probe.lang_key-definitions.json"
+hash = "c03893f6d695933f52845a7705ecf2c0dcf7db2c2b4a8202f214d79e4e9ab773"
+
+[[files]]
+file = ".vscode/probe.registry-definitions.json"
+hash = "38f7d649c691ce1c6f101b860da58e09add3209e6379ac160a9514a87fb873e0"
+
+[[files]]
+file = ".vscode/settings.json"
+hash = "192924b2661f733e19962bfcebc85c4248592ebbfd386bad15794cb524176b1f"
+
+[[files]]
 file = "CHANGELOG.md"
 hash = "d77039606a79e8f7a728150387a461daff565987d52d59ec683c8988622ff83b"
 
@@ -3365,14 +3409,6 @@ file = "kubejs/server_scripts/asticor_carts/tags.js"
 hash = "6b106355c9239bd114afbc4d73884501d9495122005b8d9b182651b31261731e"
 
 [[files]]
-file = "kubejs/server_scripts/chisel_and_bits/recipes.js"
-hash = "5ec414a8c33fb9e3a434540d8e2fcfb14541c8e95b409deeb30414065ca3729f"
-
-[[files]]
-file = "kubejs/server_scripts/chisel_and_bits/tags.js"
-hash = "60f6a41d6241b1b7dd9e283f12462e69ed4034f72d4c52fc7bec4593bdc79e74"
-
-[[files]]
 file = "kubejs/server_scripts/computer_craft/data.js"
 hash = "d161ff79b17a27c5e273432bcac42bdc72dfccbbf7885a60e504616d2734015e"
 
@@ -3494,7 +3530,7 @@ hash = "d24c74a221126efc17eae2f03269b4c08cce7525f8a76e635ebf313c6d81ac63"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "3ba9ed0d23fb3647901d965fe508c4eeb322f948d1d1ed87de305e4507a66a83"
+hash = "b1887b98c62424ec13379a5a0b41b27e97fe360621389854123d5927370f4b3a"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
