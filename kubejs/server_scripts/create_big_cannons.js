@@ -19,21 +19,7 @@ ServerEvents.recipes(event => {
     ], '#forge:springs/iron', [
         event.recipes.createPressing('createbigcannons:partial_recoil_spring', 'createbigcannons:partial_recoil_spring'),
     ]).transitionalItem('createbigcannons:partial_recoil_spring').loops(3)
-    event.shaped('4x createbigcannons:impact_fuze', [
-        'A',
-        'B'
-    ], {
-        A: '#minecraft:buttons',
-        B: 'gtceu:wrought_iron_plate'
-    })
-    event.shaped('4x createbigcannons:proximity_fuze', [
-        ' A ',
-        'BCB'
-    ], {
-        A: '#forge:springs',
-        B: '#mcw_tfc_aio:metal_rods',
-        C: 'gtceu:wrought_iron_plate'
-    })
+
     event.recipes.createCutting('3x createbigcannons:partial_recoil_spring', '#forge:springs/steel')
 
     event.recipes.createSequencedAssembly([
@@ -69,12 +55,28 @@ ServerEvents.recipes(event => {
     })
 
     event.shaped('createbigcannons:ap_autocannon_round', [
-        ' A ',
-        ' B ',
-        '   '
+        'A',
+        'B'
     ], {
         A: 'gtceu:wrought_iron_ingot',
         B: 'minecraft:iron_ingot'
+    })
+
+    event.shaped('4x createbigcannons:impact_fuze', [
+        'A',
+        'B'
+    ], {
+        A: '#minecraft:buttons',
+        B: 'gtceu:wrought_iron_plate'
+    })
+
+    event.shaped('4x createbigcannons:proximity_fuze', [
+        ' A ',
+        'BCB'
+    ], {
+        A: '#forge:springs',
+        B: '#mcw_tfc_aio:metal_rods',
+        C: 'gtceu:wrought_iron_plate'
     })
 
     event.shapeless('createbigcannons:casting_sand', [

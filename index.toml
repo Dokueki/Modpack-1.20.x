@@ -78,7 +78,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
+hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -882,7 +882,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "754bf396ae0c997cf66b496c2586f503d4c149c846d4aa9257a848b658e0eaa9"
+hash = "4d4f2144afee9259f058c0edc3c59a7da491fedbe7e7f79daf874ec61721a3c0"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1010,11 +1010,11 @@ hash = "f15f7c31c9b7a5c876755f4bec9336a0c06fb9a49bb4e0728ab410a2862baec1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "deabc776c1edb989c15643dd47f8e67972778395292d8fe982727a3f0761e7ac"
+hash = "2bae4fc1adade171ea0e782d5c46b61bcda85941e668d6dfe76cf5be74a218f1"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "d56912d95c73ea4f96eec8b8d47de113a49e0c263ff6b80c36fc30c22c382f35"
+hash = "37b18a184eb187f7f5031c05e75fff4b16e9b6532a5309fb5d86a0faf6300215"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1194,7 +1194,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2938,7 +2938,7 @@ hash = "2e148e4ac84c2c5fa15578f9c5f77b841b23ba4605d40c683f9bd475e9a3b9b6"
 
 [[files]]
 file = "kubejs/server_scripts/create_big_cannons.js"
-hash = "be170b5a5bed8f7c604cbe3278cd5d72a1d43b3b54f5771125339536a90ac2e2"
+hash = "7f84cdf3f69a15d2a60f0fd4e948c298b2a70be927c5c27a10da2d5ac476520a"
 
 [[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
