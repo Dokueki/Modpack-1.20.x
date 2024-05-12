@@ -3350,15 +3350,15 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/create_diesel_generators.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "d1bf15674f88a796c41c2c18f13314201b5975357a6636f9d47c1e15e0bccbef"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/create_interactive.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "e510a89bb561144732fa3c17796a7835ebfbbd77d9a2cb54e7609aaf0cf99ae1"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/create_railways_navigator.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "6c5bd7bb57b7f222114d2cc3e55fdcb76464187cd17d626209ea75d1307368a4"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/eureka_ships.js"
@@ -3366,7 +3366,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/macaws_tfc.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "361fafac3d61fbb63fca9357054457ec378eb935c245468d40a2a677b3d2d7b7"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/music_maker.js"
