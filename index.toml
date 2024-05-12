@@ -454,11 +454,11 @@ hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
 
 [[files]]
 file = "config/exposure-client.toml"
-hash = "1eb7599dc16b15d4e500d48b029680a320180a49f530af846d009fce11b545f5"
+hash = "4da2763febb649893537d7ef19cfa3a63c65b9c04eca67f66f5ab5b8ab0535e9"
 
 [[files]]
 file = "config/exposure-common.toml"
-hash = "07d5d2f0f57ffc921f713638143b89f157e21cb9c63d7d69556b7188c767e32e"
+hash = "6f33753980a0e64ca64fd2530d725915b69526da2f8bd8700808b38619cce0c5"
 
 [[files]]
 file = "config/extendedcrafting/singularities/aluminum.json"
@@ -814,11 +814,11 @@ hash = "3c063cc05aa131779252e096360242fc7cf23c382003032f264c0c3a27821891"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "99b45ef9432b03c8052f805f7a7601a9788200c572409af5a2680fc7fd75bdda"
+hash = "c5fe716614e78ae2741f52dc6908731ddb86bb088a34458d8174ca4bd2fc55ee"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "67de32810be9a0fd3370452afb49deb5d6eb0c4c592fbf0f2c0febab88014b60"
+hash = "0dbc8edf1df283965df938da0056556ccfd08d8f60bcea959a4ab63e5c2aa1d0"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -938,7 +938,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "66da57b3bf3ccc04b3d209ef734d431998ff913e921ee373da8fe69e771a209e"
+hash = "55ecfb68fa1fcf8cd0261df70c66b907235536c2f7a1153a333e428f1d7326c6"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1062,15 +1062,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "f9c0dcd648c0ae18c4ca58edeec85f184be6bb986edbd07b32a5f1967f7aabbe"
+hash = "773fe8743f982257ac48ddbbc7bdc92c3a25eb40d5793d15f5f326d932b50f7d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "986c81fdebb52b5e725e7cc9240f640c259df2805a9142dea903f89c70957dbd"
+hash = "f918388dfd6003e5b0b46cbbf9efe1894c3c921d55a6218df3c8075d669fb551"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a4ded885ff8b4559d8f5d56c663defc9c3f16d0e3e8972a882e2484474b0924b"
+hash = "24486212ca6910f06fc0421830c82296ce9e09f790a4c9d65ac3e00b6fab60da"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1250,7 +1250,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1502,7 +1502,7 @@ hash = "a38f7eea7d04259dbaaad14276cc04171755d7bef4cc2c163e9394f75b6a83b6"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "a84aac98dd523f828a9792ec1823e4dccd1e475c37fc9d92253d4ac29a279f0c"
+hash = "22754712bc6273819c612b8d3a7c4f304847e189b65ae3ad787b6ad89df9e31f"
 
 [[files]]
 file = "kubejs/data/firmaciv/loot_tables/blocks/wood/watercraft_frame_angled/acacia.json"

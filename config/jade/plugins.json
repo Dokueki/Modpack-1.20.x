@@ -159,6 +159,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "exposure": {
+    "lightroom": true
+  },
   "create": {
     "filter": true,
     "backtank_capacity": true,
