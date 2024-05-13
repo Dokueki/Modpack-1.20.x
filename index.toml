@@ -4092,7 +4092,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "957dc7639012678ad2e87ff964b0d052b145127ced92e6ab90a9513140d6023f"
+hash = "c3f2175c2bd55cd9d799cbb9ad8097ff978c748005e6dd87298cf7dce63e9f35"
 metafile = true
 
 [[files]]
@@ -4242,7 +4242,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "6c55d62a19881830ac4c424feb35714954dafc338e9c2ab8564da70f7e092306"
+hash = "fcb1cb77c34aa9819c2dd9dacd13526592fb0995da7e8cd5f1f6d595b7ffd9d4"
 metafile = true
 
 [[files]]
@@ -4352,7 +4352,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6b67eaeeb9077a252fe10072c5d39a5d942491e65bed2f82c37c17c69ceeb2fe"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
@@ -4522,7 +4522,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9d18098db00132902e2bd48fbff3354373e6ece91eaeba5ed17adc00b92207cb"
+hash = "25a7dff7d7337e0532a55b99b50ff5c829ecf1ac6467eebcf5ba9362c2099898"
 metafile = true
 
 [[files]]
