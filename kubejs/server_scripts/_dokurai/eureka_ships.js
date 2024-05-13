@@ -6,22 +6,22 @@ ServerEvents.recipes(event => {
         'CED',
         'BBB'
     ], {
-        A: 'tfc:rock/raw',
-        B: 'tfc:rock/smooth',
+        A: '#tfc:rock/raw',
+        B: '#tfc:rock/smooth',
         C: 'gtceu:wrought_iron_ingot',
-        D: 'forge:glass_panes',
+        D: '#forge:glass_panes',
         E: 'gtceu:steel_brick_casing'
 
     })
 
     event.remove({ output: 'vs_eureka:ballast' })
-    event.shaped('', [
+    event.shaped('vs_eureka:ballast', [
         'ABA',
         'B B',
         'ABA'
     ], {
-        A: 'tfc:rock/raw',
-        B: 'tfc:rock/cobbled'
+        A: '#tfc:rock/raw',
+        B: '#forge:cobblestone'
     })
 
     event.remove({ output: 'vs_eureka:oak_ship_helm' })
