@@ -86,7 +86,7 @@ hash = "192924b2661f733e19962bfcebc85c4248592ebbfd386bad15794cb524176b1f"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d77039606a79e8f7a728150387a461daff565987d52d59ec683c8988622ff83b"
+hash = "2a39f190a513feca3d4c032726f04479738e32eb52dce5a02c57a36c20a61538"
 
 [[files]]
 file = "LICENSE"
@@ -150,7 +150,7 @@ hash = "08a9f7c6f63bd35d49b15fa5bccd8cdf667f21af0c9a8cb2ab5998eb598ee7c3"
 
 [[files]]
 file = "config/ambientsounds-client.json"
-hash = "21a64ee40af720e29d322537b174451f269ce4922236242d42618437edc898a6"
+hash = "a03d9cb7d48762395c3be5b5ab70ea59f550dbaf07467ba9c621f4a7dc41576b"
 
 [[files]]
 file = "config/astikorcarts-common.toml"
@@ -394,7 +394,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "607d1253e0dcced70e2b19169aba4a75dc45cf87af0644ef9a01e028dc27fef7"
+hash = "6e60f90336a973e183a7ecc09b56b2de5c4b9074cb29e5a964a14d5445c12632"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -570,7 +570,7 @@ hash = "514e36e0b73d0796fc031a1e75c5b825186022b607fbdf8cef561db0842fbb8b"
 
 [[files]]
 file = "config/fancymenu/customization/gui_main_menu.txt"
-hash = "ec800eb1f56fb5444cb6ff2b6a0530325ac46b387c63bacf40c61b10c5380fa0"
+hash = "24a505526a930db80bc8969598d8e3e88356ea00d5062601ff37abcc70b5cd08"
 
 [[files]]
 file = "config/fancymenu/customization/gui_pause_menu.txt"
@@ -650,7 +650,7 @@ hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
 [[files]]
 file = "config/firstperson.json"
-hash = "7c5f12bcaffb58f7af8ef3113bd4fa7de550a6a5f809a829689ea46c9e05748b"
+hash = "94480ef36e02f8b27ca4bec2602f3da319b43317db0fc343e6136b13ef16c1b5"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -686,7 +686,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "5a8816f2f927bf3ea47bed13de15b6c02fa24a0707d58584bef27e0bf15bfa26"
+hash = "58fdf66d8fac74f2c6b1c18ce8880f2e91c4e57e3d5e07065a249a28b9d24300"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
@@ -694,51 +694,51 @@ hash = "ed8ba24fd9e7d9567d0ebfb85a7a2cd55dd8488f6f127bb7bc923061d6c20288"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "7f4c97c6fedc3817752b160439cdfc81d2e42a93cf26e955edbbcbb9df9825d5"
+hash = "48e5196ba9fe8e5511fe9821a1a6ba4fc70418791170acefb71c6668eb97047a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ev__extreme_voltage.snbt"
-hash = "6b0472ede1b18ada67d2039f01ea4ea8542601586979d38da4048eaa6e3536eb"
+hash = "ab3a9beeea486294a18bfc6154899230bce72d88d30f0547764f88d723103624"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hv__high_voltage.snbt"
-hash = "265cfe9d5e95382d8bc6a22ffed157e6ccc450d9155714a83d1ac0ad87039e1d"
+hash = "1057340f212a7cdf33e59f872a5656cd684f279fe3162f50ef797bd2c1031fe5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iv__insane_voltage.snbt"
-hash = "0db66c8d4704045f6b3efcbc5ab80edb07443e5f8615f7a12a3c4aeac1526fe0"
+hash = "b684f42426a4d9b948f03bc98adc43a4c6c6c804a71b1a40450ffac8dc656198"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/luv__ludicrous_voltage.snbt"
-hash = "c8f66eaf3975314fb718a346f676b1eecf383a068cf4e36053e3fb600937bcb3"
+hash = "7779114ce26a0b090e1814d0fca8fa370404a3ee7ed7fa18074ccb4dab346950"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
-hash = "aebd9b2554afad38497c5e5227d9cf923a1cc634ae3a073446af98199fa9eafd"
+hash = "35622e9c0bb08f8b5156a179a2b175e2b39ce81ffcdcfe8557fced007494e6fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/multiblock_dilemma.snbt"
-hash = "26b088cf64e89651363bf815152ed18f6abfaebf91106be1779c73d06199e53f"
+hash = "2ac1e8554e1d052c25f7a851f2dbb25fa8e1c6e6a50c8e2f9d89d2956cc004ee"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mv__medium_voltage.snbt"
-hash = "3cb54341ca2041750c6ce05cd62ba3ccbf42b484bf39360147458c2f547a11fd"
+hash = "1f688ed3607fb0bf1183eced7fcbd8487254d7bfd9887d7066755fe339ac4e63"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "a205879d5f3773320bc829f0d21e6033ad79fb82c370a6b71cc49f1f4cc5e808"
+hash = "f0b6c510e569e94b5a655ad73590f639863c7834de60d579a00fcbd602bb5067"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
-hash = "7b284739b1099328f72b485746b5851ef47d51a1660a6e405994e25614e4b8f3"
+hash = "2779d015cdfbcfdb427689f0a4867822f5fd8b6e8a24771ad6ebe9b56155ebc1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "f8d9e0a33b3cd92a20f9b6624f5da7aa270ed1e4d24be836c056c605159c16d1"
+hash = "81c27e9a50d69a5fae478ef9ab732eb3ab2381ca9a33e4ce33e3d39c1c5828dc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/uv__ultimate_voltage.snbt"
-hash = "ecd2bf04065fbe39db7cd133bc969668983074209fbcd4388a45a1cbccd28cd9"
+hash = "4e66e48f780c71e2d53f69cd387e15e64d216387723d496fce29ee26361575c5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/zpm__zero_point_module.snbt"
@@ -746,7 +746,7 @@ hash = "aa5cf6ea12ddc63a352a5611f9d549e4592fbe8a64be466821d31519658578ec"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "82ee93ba439de9f308e02f02c55cea133e09eb0e6f38433a49549381974e089b"
+hash = "e2f5059c77b2addaefef26ec98dceee81272f769e7a1cd6958fc0f1a4338a63b"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bronze_age.snbt"
@@ -770,7 +770,7 @@ hash = "37972c94fa417ae8ebb36133856489a73d92f4e745729132be584ccdf452f1ee"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "2ab9565dcdb24eacc1dd377befbc4aee365fc7c97fdfc81507034fceebf37e2e"
+hash = "28678311cc9d8cb2d513315f844976bbed75024f60c3111c768dc15ff047bcbf"
 
 [[files]]
 file = "config/hangglider-client.toml"
@@ -818,7 +818,7 @@ hash = "c5fe716614e78ae2741f52dc6908731ddb86bb088a34458d8174ca4bd2fc55ee"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "0dbc8edf1df283965df938da0056556ccfd08d8f60bcea959a4ab63e5c2aa1d0"
+hash = "dd74d4bff68dc397d2039a01945bf3bd77e12b0dfe7be5f424c02347bcd3af0b"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -906,7 +906,7 @@ hash = "1ce5b8768000088a8338b84561e407a737e7f52e2d4436b208fe84d3fb911571"
 
 [[files]]
 file = "config/moonlight-client.toml"
-hash = "c3ad1b706da2f2111160e8ae7b804867e3169052371ab839fafda67b25f91109"
+hash = "f7135f0beb4eec4e7e3314502086a96a371c73e8fe4249e727b1eb5088ce8725"
 
 [[files]]
 file = "config/moonlight-common.toml"
@@ -938,7 +938,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "cc0a9edc9330aae4cd7de4318b7d698a5d2e12c0a999a20d2f6a1879013d31a0"
+hash = "2989bd3c8595e4cc52977ff7f2daf28a65ece5a0a0632f37dff8af6f1b095f95"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1066,11 +1066,11 @@ hash = "773fe8743f982257ac48ddbbc7bdc92c3a25eb40d5793d15f5f326d932b50f7d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "9892bc0bc40e6e0563654a2779d33694c2649ba1f39bcbd2f8c8a5ca0b4286b5"
+hash = "c4ec0ad0b5a8485da691ca26db01337eab5aaef4f1ee91be6755c450ddfc09e3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7834e29e7e84931376f9aab11789d6481f076c8e06bc5e2876983ecd446d8df1"
+hash = "d1de3f8e6646ccd039cbfcefe1646fb1812f4ebd232e07f869178c37aa4f8923"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1250,7 +1250,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1310,7 +1310,7 @@ hash = "2016bb60a7a8a6ecaa2743ce3b616b8ba58514bef3c5f4747b86acad8a8b89e8"
 
 [[files]]
 file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
-hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
+hash = "d9370c264daed232a167d23424db1d1ae8c01ac00377700fdd345a8a1b7afd75"
 
 [[files]]
 file = "defaultconfigs/ftbquests/client-config.snbt"
@@ -2626,7 +2626,7 @@ hash = "464a657b62248de76d766aa591ed55a7355a0a1e1d7946e3f652976f20198916"
 
 [[files]]
 file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_garnierite.json"
-hash = "21fb067de5f3d6adb492c4cc1df777a80a81cd3df58c27a2f2ccce643cb2aad4"
+hash = "c001d4016ed226849e98222d3c972057ec70b5e3e03c9ef1855d8f91cb9de476"
 
 [[files]]
 file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_gold.json"
@@ -3362,7 +3362,7 @@ hash = "6c5bd7bb57b7f222114d2cc3e55fdcb76464187cd17d626209ea75d1307368a4"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/eureka_ships.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "9641522d096375ff4131934398619e5b8957e911cdbd3d5daa76dc107e357177"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/macaws_tfc.js"
@@ -3522,7 +3522,7 @@ hash = "11964fb54416ddb3f2bc5cd1933a232cc13b2de08633b28d19ea9ee3095eb9ca"
 
 [[files]]
 file = "kubejs/server_scripts/hotornot/tags.js"
-hash = "23cd0aa9733e2fa27630521a2b37655eb8be25c950bbf27b353da701b5b64571"
+hash = "84f1216d1986f5ec5ec22346899956dc1ff9a3d63411a392293d99c010f725eb"
 
 [[files]]
 file = "kubejs/server_scripts/lithic_coins/recipes.js"
@@ -3570,7 +3570,7 @@ hash = "d35e5628394249fcb6225f9d5dbc36a1c4354b4bdad9f37678ddf861e7dddec8"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated_backpacks/recipes.js"
-hash = "9555adf95648157c9495cc861279bf11e28537ef5c4602eb76a6abeadf1e4323"
+hash = "d4a06ec0be01b55c8f6afea16f40cb01df16a2f6d711f64313119eea1e33031b"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated_backpacks/tags.js"
@@ -3742,7 +3742,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "c4a8641cf9ae7b964d7ea40690e0c98e8ef16bd6d86f2054b70f7f4b10c8cb9b"
+hash = "b6b1aade3d4c5310e261c44cb01108040091d92ed46319179bbbb35f5016ca37"
 metafile = true
 
 [[files]]
@@ -3872,7 +3872,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9f5fd7599367191ec28b58b6a6956341f41bbeca15b0b3a7d641f37b1b884d0d"
+hash = "f51d262460e27b091a778cdeb5b54ad50c4cfdcf73ccf2a11bdcfd3f3f1f5f10"
 metafile = true
 
 [[files]]
@@ -3897,7 +3897,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "14e2b2f26aff8192baac5ba50948aa131bd7b70ce0c1bf703804a0b08ead7dd0"
+hash = "d991200509d9cac4beac85ae96ee2bda9feb38fb622679493c18e0f4639eead8"
 metafile = true
 
 [[files]]
@@ -3957,7 +3957,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "02889994fc7415a9062547fb8865689491839bfc4ffaeabd870d76c79ae6956a"
+hash = "89ba7150699a0ce145ee99b5f7fa1254694e6821fa13d000d0dcd6b8fa522a85"
 metafile = true
 
 [[files]]
@@ -3977,7 +3977,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "cf672e83eb2392c9519566c09f7061e3e8f6ec7ca8f44943f25fd1e9d4ae7291"
+hash = "b700252c353cd17443715e6e60445b0f8f2d3e959286a010a3839a63637601ab"
 metafile = true
 
 [[files]]
@@ -4037,12 +4037,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "208990099594d552abb86748271b83d48d17cfd9c9aee58cef2dde2736a2e5e1"
+hash = "b6a73210aa3b742be00399abebd8301b78506ebd6a42709460b087730b1082f5"
 metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "a015f77f4ebc98052fbe7320a53a337a453251b9a69f2436bb793b14a32bf4a9"
+hash = "a1ce438ff66bd676b9ad63086256a18124a5b1db9849446e14c54cb4a08d758c"
 metafile = true
 
 [[files]]
@@ -4057,7 +4057,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "9f91219f6d5704a6998f4e49956d4e007922f7402c5480ea6cdb616eb459c740"
+hash = "7646493d72d3dd58bed1758d5bde466656f162163bc8f3da54b06dc5c115674c"
 metafile = true
 
 [[files]]
@@ -4067,7 +4067,7 @@ metafile = true
 
 [[files]]
 file = "mods/etched.pw.toml"
-hash = "f78a9b706f9cc45b8f33768032475b8151a5e3336475762385e8aa804dcf8b92"
+hash = "a5a5475c903b195bdd5f90808b178fa9285e334338e18db7447a8c734514f496"
 metafile = true
 
 [[files]]
@@ -4152,12 +4152,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "c6a6db5cfdde50e43e7f8537f3cb495cc55a6e54af5a53e46eda92000ae69fa3"
+hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "a2c0b49d8753555d8b79d1a931488e1cf5b9591300fea0a46ebeba22d4aea4a4"
+hash = "2d5d9f19ba71aba61bdee41edde5a91c2635af5824d1cdbb3f1d5691c1b59fa5"
 metafile = true
 
 [[files]]
@@ -4177,7 +4177,7 @@ metafile = true
 
 [[files]]
 file = "mods/gcyr.pw.toml"
-hash = "d4ceedf62cf67afa92528e28ed9bd59bff30bbf7a259dc021652e05319ccb168"
+hash = "99cc566a9e1a100870fccba6a7a65d0943fda68a0c46d95c39af3ad4dc135f42"
 metafile = true
 
 [[files]]
@@ -4197,7 +4197,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "44d8427e922dc719c01d290aae45f787f756ec4db8cfee4df6209ccf0732bfd5"
+hash = "7b2663eb13c06625b329ec14f985b2535760affefdaee41294f20dd0b851f248"
 metafile = true
 
 [[files]]
@@ -4207,7 +4207,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3c681e8bf56f772ee190fff3c1bca83d1bd8b8d5885e20bcff2b365305a8a2d0"
+hash = "021bf9542f93777cabd29383ea215d521c93ccaef1a57e93825690e314699a93"
 metafile = true
 
 [[files]]
@@ -4272,7 +4272,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "37b77a5bbc2cacaac74c86ef7de5e2cb1b84e362f75e84935fc76b33456d35b5"
+hash = "4e1f912eeff686d326a7e5c0f180aa84519e44e521493a12b89f7e372b691a83"
 metafile = true
 
 [[files]]
@@ -4282,7 +4282,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-tfc.pw.toml"
-hash = "0bce4a7bdbfde5d589e04869ea161627cb03703a51ce1d02273ca9cb5d183975"
+hash = "5e1a8f88f15404212661aaa5687ff7de5d03f29a8c48f958248af1ffa5f8e6d8"
 metafile = true
 
 [[files]]
@@ -4297,7 +4297,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithic-addon-mod.pw.toml"
-hash = "6951f7cbc28d15779e3364cb7ddd89615f3f4390a9eecc8d9d687784c892cc21"
+hash = "d8b716a53ee73be8294528058de65180089aca1a31133e03fe1b265a1b50d7dc"
 metafile = true
 
 [[files]]
@@ -4342,7 +4342,7 @@ metafile = true
 
 [[files]]
 file = "mods/monazite.pw.toml"
-hash = "8728373f9115176b09168cbb9465fc73bafdabd74cabe0da086d9fccba6a1608"
+hash = "5f5989d925f2c5399fd2a5cc204542cb72ac1b4292e2f8a3024521476d7e61c5"
 metafile = true
 
 [[files]]
@@ -4472,7 +4472,7 @@ metafile = true
 
 [[files]]
 file = "mods/polylib.pw.toml"
-hash = "78287a685bb66b0b924ba9c6c13e6559233c829d754f7f62a0617d001c999db9"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true
 
 [[files]]
@@ -4497,7 +4497,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-mob-sizes.pw.toml"
-hash = "cde9524f2625e00087580a857d4f3ddd99690b6cf56d1c7f88663b85cf4cb87b"
+hash = "2c6370bf0e8ad5151b44bc7a880e01670fc8dd7501015ceb978dde706ad86f39"
 metafile = true
 
 [[files]]
@@ -4522,7 +4522,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "25a7dff7d7337e0532a55b99b50ff5c829ecf1ac6467eebcf5ba9362c2099898"
+hash = "f2ec19f6c8e7073774a5bc4eec846b534e13d7d88d2c48c2da973dac2312f005"
 metafile = true
 
 [[files]]
@@ -4537,7 +4537,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "447e17765912159a7f6d6ac26e1b4402d923c25589f60d5efc187745cfc27fa8"
+hash = "36dc5aaeed307cc96516b38e6c3cb965295c015e7a8ae234f56a3ff10f876dc9"
 metafile = true
 
 [[files]]
@@ -4607,12 +4607,12 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "7e2104616ecabc2f3684e3a56fdb8a5b6cba0727823ab23dd18959d11e24261a"
+hash = "00a87746b0705492e636ad566e6d0306835ce77cc5cdb307d1455f33e72ddb93"
 metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "fa31382047a57879679ba22cdca4eefc7c079088a7e9f327aa40fa8c7e9bcc0a"
+hash = "33947fa908d968491526de9c999536b041a8bb82c3553ac2d29ee80656c5411c"
 metafile = true
 
 [[files]]
