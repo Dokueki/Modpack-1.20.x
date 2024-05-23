@@ -1,6 +1,58 @@
 # Changelog
 
-## [0.7.8] - 05.05.2024
+## [0.7.10] - 23.05.2024
+### Fixes
+- Probably fixed strange shit, when items could dispawn VERY quickly (1-2mins) (by deleting KryptonReforged as incompat with embeddium).
+### New mods
+- ?
+### Updated mods
+- GregTech Modern 1.2.0.a -> 1.2.3
+- TerraFirmaGreg 0.5.6 -> 0.5.7
+- GCYR 0.1.6 -> 0.1.8
+### Removed mods
+- KryptonReforged
+
+## [0.7.9] - 22.05.2024
+### Fixes
+- Fixed some spade and butchery knife recipes.
+- Garnierite veins now spawns a bit frequently (60 -> 40).
+- Backpack upgrades now can be crafted from any leather.
+- Temp fix for glassworking with hot or not.
+- Fix some broken quests AGAIN!
+- Chisel and bits has been removed because it crashes servers often and has not yet been finalized. You can still return it to the modpack and its recipes that exist now will work correctly, we specifically left them in the modpack for this :)
+- Maybe something else? definitely no.
+### Updated mods
+- Ksysis 1.2.0 -> 1.3.0
+- AmbientSounds 5.3.9 -> 6.0.1
+- Chat Heads 0.10.33 -> 0.12.2
+- CreativeCore 2.11.27 -> 2.11.28
+- Do a barrel roll 3.5.5 -> 3.5.6
+- Embeddium 0.3.14 -> 0.3.19
+- Embeddiumplus 1.2.8 -> 1.2.12
+- EMI 1.1.4 -> 1.1.6
+- EnhancedVisuals 1.7.1 -> 1.7.2
+- FirmaCivilization 0.2.9 -> 0.2.10
+- Firstperson 2.3.4 -> 2.4.0
+- TFC Groomer 0.1.1 -> 0.1.2
+- TFC Ambiental 3.2.0 -> 3.3.0
+- TFC Aged Alcohol 2.0 -> 2.1
+- Sophisticated core 0.6.21.609 -> 0.6.22.611
+- PuzzlesLib 8.1.18 -> 8.1.19
+- Open parties and claims 0.22.0 -> 0.22.2
+- MouseTweaks 2.25 -> 2.25.1
+- Moonlight 2.11.13 -> 2.11.28
+- Kubejs TFC 1.1.2 -> 1.1.3
+- Jade 11.8.0 -> 11.9.2
+- ImmediatelyFast 1.2.12 -> 1.2.15
+- FTBQuestsOptimizer 1.2.3 -> 2.0.1
+- FTB-Teams 2001.2.0 -> 2001.3.0
+- FTB-Quests 2001.3.5 -> 2001.4.4
+- FTB-Library 2001.1.5 -> 2001.2.2
+### Removed mods
+- Chisel And Bits
+- Textrues_embeddium_options
+
+## [0.7.8] - 03.05.2024
 ### Fixes
 - Fixed a bug where using GTCEu tools in the AstikoCarts plow caused the game to crash.
 - Fixed a bug where it was impossible to make feeders from TFC: Grooming Station.
@@ -8,12 +60,9 @@
 - Fixed a bug where the boiler could not accept river water.
 - Fixed a bug where recipes were incorrectly displayed in EMI. (The EMI version has been downgraded)
 - Fixed bug when spades cant be putted into tool rack.
-- Some quest fixes for 0.7.3 pump update.
 ### Updated mods
-- EMI -> 1.1.4
-- TerraFirmaGreg-Core -> 0.5.6
-- Chat_heads -> 0.10.33
-- Not Enough Animations -> 1.7.3
+- EMI 1.1.5 -> 1.1.4
+- TerraFirmaGreg-Core 0.5.3 -> 0.5.5
 
 ## [0.7.7] - 01.05.2024
 ### Fixes
