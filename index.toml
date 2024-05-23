@@ -122,7 +122,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
+hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -310,7 +310,7 @@ hash = "517f456eab2ca28cfcd471b2fefb23641301a3bbf49fc5c4a9111914166aea93"
 
 [[files]]
 file = "config/createrailwaysnavigator-client.toml"
-hash = "8af567f4a079000069c25109f10fb879e74c16e8082f5cd1049511155a56a6a8"
+hash = "936f27da42835463463478008799080fc8d041c4e390dd5c64dc5c5851281623"
 
 [[files]]
 file = "config/createrailwaysnavigator-common.toml"
@@ -394,7 +394,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "6e60f90336a973e183a7ecc09b56b2de5c4b9074cb29e5a964a14d5445c12632"
+hash = "774b87378d17ba31d03720fd8bd79b15e6f14de3d27607186db2610999e86a1b"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -422,7 +422,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "9b165fa271c9f70584bea8a230221cd44592885a6d63ced9b3c6f6b7a097d3e5"
+hash = "d29e27b0fc32682f88c2c986727d0f7e1f98200bbbbf20d0a809d0750fc42c4e"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -686,7 +686,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "58fdf66d8fac74f2c6b1c18ce8880f2e91c4e57e3d5e07065a249a28b9d24300"
+hash = "11ce672431af0bb1b11bbf1d59b1e94514674daa855805f88572eb3dcdd12901"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
@@ -694,15 +694,15 @@ hash = "ed8ba24fd9e7d9567d0ebfb85a7a2cd55dd8488f6f127bb7bc923061d6c20288"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "48e5196ba9fe8e5511fe9821a1a6ba4fc70418791170acefb71c6668eb97047a"
+hash = "e148d9684b5b99dbc4796ec519e1ef9a6ecfff6c9fc866f6562f9b865de2706d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ev__extreme_voltage.snbt"
-hash = "ab3a9beeea486294a18bfc6154899230bce72d88d30f0547764f88d723103624"
+hash = "c82c5ff0e7684ac58fdc0fe6b363e6e4fd266138a067795448d03ea159b0dc9e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hv__high_voltage.snbt"
-hash = "1057340f212a7cdf33e59f872a5656cd684f279fe3162f50ef797bd2c1031fe5"
+hash = "2145c8817523620aabfcde073b052cac6472f994b64e650a980f9a4955407ddf"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iv__insane_voltage.snbt"
@@ -710,31 +710,31 @@ hash = "b684f42426a4d9b948f03bc98adc43a4c6c6c804a71b1a40450ffac8dc656198"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/luv__ludicrous_voltage.snbt"
-hash = "7779114ce26a0b090e1814d0fca8fa370404a3ee7ed7fa18074ccb4dab346950"
+hash = "2dd90aac157b6578f5f4561ff36e4abb15fee4b02ad16dd483ad696a23c18192"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
-hash = "35622e9c0bb08f8b5156a179a2b175e2b39ce81ffcdcfe8557fced007494e6fe"
+hash = "6c32626fec984055467be7c8fd2521d0ea5287ef6c71cc74c681f748c2da2290"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/multiblock_dilemma.snbt"
-hash = "2ac1e8554e1d052c25f7a851f2dbb25fa8e1c6e6a50c8e2f9d89d2956cc004ee"
+hash = "5776e8e42937184c4a3c1f82905f48c64a8c1ee652bcbb514d66ba39a2c1a02c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mv__medium_voltage.snbt"
-hash = "1f688ed3607fb0bf1183eced7fcbd8487254d7bfd9887d7066755fe339ac4e63"
+hash = "20ad79808e8fc0df732d5d7ffb0d003632d239785205a766a125a5712e8b90b6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "f0b6c510e569e94b5a655ad73590f639863c7834de60d579a00fcbd602bb5067"
+hash = "ca6fee6f73ed21d743038c85a80373a93f33c8bd8fe3d5c116e3569509a5f1d2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
-hash = "2779d015cdfbcfdb427689f0a4867822f5fd8b6e8a24771ad6ebe9b56155ebc1"
+hash = "043f8923777d25024aafabf0569dac155d50eb207be9ed5cfee5c364891962f3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "81c27e9a50d69a5fae478ef9ab732eb3ab2381ca9a33e4ce33e3d39c1c5828dc"
+hash = "eea1b931057a21016c6ff306ac02e1ec366261dac2819782097cff8314bb273a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/uv__ultimate_voltage.snbt"
@@ -746,7 +746,7 @@ hash = "aa5cf6ea12ddc63a352a5611f9d549e4592fbe8a64be466821d31519658578ec"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "e2f5059c77b2addaefef26ec98dceee81272f769e7a1cd6958fc0f1a4338a63b"
+hash = "9c0ab347d7fd92b71e225ceda64e9e002a3724cae5c3ef267b738d11517f27d1"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/bronze_age.snbt"
@@ -814,11 +814,11 @@ hash = "3c063cc05aa131779252e096360242fc7cf23c382003032f264c0c3a27821891"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "c5fe716614e78ae2741f52dc6908731ddb86bb088a34458d8174ca4bd2fc55ee"
+hash = "91052113703603aa89a58ec95b74096c77811dc38792af6a452258f4c4203163"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "dd74d4bff68dc397d2039a01945bf3bd77e12b0dfe7be5f424c02347bcd3af0b"
+hash = "ac0910445083587d402d59b47a2c114d37b47275401443e7e584208f764671f1"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -906,7 +906,7 @@ hash = "1ce5b8768000088a8338b84561e407a737e7f52e2d4436b208fe84d3fb911571"
 
 [[files]]
 file = "config/moonlight-client.toml"
-hash = "f7135f0beb4eec4e7e3314502086a96a371c73e8fe4249e727b1eb5088ce8725"
+hash = "135255a72816385345a135fa013c93dd1737c35eebb80690d29d1b572917267d"
 
 [[files]]
 file = "config/moonlight-common.toml"
@@ -938,7 +938,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "2989bd3c8595e4cc52977ff7f2daf28a65ece5a0a0632f37dff8af6f1b095f95"
+hash = "f54778ade7165041ab16b2dd2b6ce55a6834c16c0559886742c06f9da9e60c78"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1062,15 +1062,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "773fe8743f982257ac48ddbbc7bdc92c3a25eb40d5793d15f5f326d932b50f7d"
+hash = "415ffffd21ecdba9f93be0fb0029f6d770ee93ea31ea4e7051c1dd084926e7fd"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c4ec0ad0b5a8485da691ca26db01337eab5aaef4f1ee91be6755c450ddfc09e3"
+hash = "66a0e4855ae597adf880e7c115632cd6a578f725d6ce66bdc61328c2f899cd29"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "d1de3f8e6646ccd039cbfcefe1646fb1812f4ebd232e07f869178c37aa4f8923"
+hash = "421206100f25ca4fc26ffddef5a07975a4ee04d308926183f70d6c1d961bcfc7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1222,11 +1222,11 @@ hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "1e2e733aaaafb242ec3992463c0c57e37e852968e4797c2d7b983489a19e4747"
+hash = "94ab74127a0be7cb6b94e1930a75b6870acdae0612deaea7cca8d96b62d3b5fa"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "7d9377d6fd4c01abb679b24b76e88882f67fdb5c191d24e2474fa8aa3618d070"
+hash = "e09ff029ed9435fcb45819436302939c153bbfe48c86f7033ca1fc981c769cff"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -1250,7 +1250,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
