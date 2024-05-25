@@ -4002,7 +4002,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f4d41750be3841d73640ba8f4da3ec8e2e8baef4afef7ecb55dd4afd10588d34"
+hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
@@ -4067,7 +4067,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedvisuals.pw.toml"
-hash = "91f09c84292eeca642f449145ea7dd6a4f93d048b9f0d94fa984312ee19f6374"
+hash = "cf369465c377631e4ece74e7c248583e548dbb45929cb579db7c772d8e150bcd"
 metafile = true
 
 [[files]]
@@ -4082,7 +4082,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "fa93d3dde5c116b85cfda163d70af46353279d9411a2d68e55560d11afc92502"
+hash = "0f7db9aba7f53bef874ccd58f37dcc4f159a93354185f7b4bdd0a9e3d4324558"
 metafile = true
 
 [[files]]
@@ -4202,7 +4202,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "7b2663eb13c06625b329ec14f985b2535760affefdaee41294f20dd0b851f248"
+hash = "973039665bb9be82b3834d1544b3a1cc327d94067708677b1327b330e8b9d31b"
 metafile = true
 
 [[files]]
@@ -4437,7 +4437,7 @@ metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "00cf320d6387848629bd3b1573dacfd3d5f966b9dfe0743ea7180bc5ac1991ad"
+hash = "87eaf9a98683d0b20a7380d7bc699816e0f68f9a101d1bf688f6e6d4545da6a8"
 metafile = true
 
 [[files]]
@@ -4527,7 +4527,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f2ec19f6c8e7073774a5bc4eec846b534e13d7d88d2c48c2da973dac2312f005"
+hash = "41364c70f851df4ce18af9d57b426075c4348713f177297de90d8c42ae7004e4"
 metafile = true
 
 [[files]]
@@ -4582,7 +4582,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "f7714416fd9cc1a822359ea6ee04b604c943c666663f2694a377dfc890ce382d"
+hash = "bc3e40963affda58feb0d23bd92828b0372e2eb90b58b98c1a85fc846824914a"
 metafile = true
 
 [[files]]
