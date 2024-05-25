@@ -426,7 +426,7 @@ hash = "d29e27b0fc32682f88c2c986727d0f7e1f98200bbbbf20d0a809d0750fc42c4e"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
-hash = "5cd6a0a3a29814895a4d1aaffd880b5f87473d353c7104d4c057a1f6c51730c6"
+hash = "430d271aead8afdb530eac0712e4aae5b36d6ad8c6f13f38e2aa3d074003d8cf"
 
 [[files]]
 file = "config/enhancedvisuals.json"
@@ -938,7 +938,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "8976d89b4c32bfbe578ca179504e21b6cc47722d962f8c2147c09e164c566c86"
+hash = "e8f54bc51c91d75d599f809bfca2710065c0412fe7ef595c1c26ff63ebc93e9e"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1062,19 +1062,19 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "415ffffd21ecdba9f93be0fb0029f6d770ee93ea31ea4e7051c1dd084926e7fd"
+hash = "037b0a426915d9f0f2703bdacceae4ba0542f2e915e18dc88eb6420e1bcdd2c1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c5e94af5e69f602833667ad0d8fd1449035270b845904f9caecf3611835f2fc6"
+hash = "443d51b529f71d2d5052a841731f669e207c9f390fa4d82bb68489ea50289edf"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a3664f6643bf364de94e3d97e6a67be5297cb93b80d0972b30a1d12d31564d20"
+hash = "d4d85aaf8933e9d92289c16d12d683f0ba67304f1f43fed2a347252586b745bc"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
+hash = "31af3e957d2bf0bfe35826d570bd0d2be3f7bc8fdaa6397e8343e8bb5e4ec5b1"
 
 [[files]]
 file = "config/spidersproducewebs.json5"
@@ -1250,7 +1250,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
