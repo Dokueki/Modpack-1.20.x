@@ -394,7 +394,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "774b87378d17ba31d03720fd8bd79b15e6f14de3d27607186db2610999e86a1b"
+hash = "cbf7b649eef842cf4d591695b88031a97be3fd2bf0113f712eb42e137ef9a60d"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -770,7 +770,7 @@ hash = "37972c94fa417ae8ebb36133856489a73d92f4e745729132be584ccdf452f1ee"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "28678311cc9d8cb2d513315f844976bbed75024f60c3111c768dc15ff047bcbf"
+hash = "3fc244898f4a7a70a103f684c383c4862fcee6eab0628aa3584f5b62652e5bfa"
 
 [[files]]
 file = "config/hangglider-client.toml"
@@ -938,7 +938,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f54778ade7165041ab16b2dd2b6ce55a6834c16c0559886742c06f9da9e60c78"
+hash = "8976d89b4c32bfbe578ca179504e21b6cc47722d962f8c2147c09e164c566c86"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1066,11 +1066,11 @@ hash = "415ffffd21ecdba9f93be0fb0029f6d770ee93ea31ea4e7051c1dd084926e7fd"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "66a0e4855ae597adf880e7c115632cd6a578f725d6ce66bdc61328c2f899cd29"
+hash = "c5e94af5e69f602833667ad0d8fd1449035270b845904f9caecf3611835f2fc6"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "421206100f25ca4fc26ffddef5a07975a4ee04d308926183f70d6c1d961bcfc7"
+hash = "a3664f6643bf364de94e3d97e6a67be5297cb93b80d0972b30a1d12d31564d20"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1250,7 +1250,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3793,6 +3793,11 @@ metafile = true
 [[files]]
 file = "mods/belly-flop.pw.toml"
 hash = "f6d4193fda83fefd77b843a1a9cc1c196b78aea0dfba0fbd464044a84bb760ca"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-reblend.pw.toml"
+hash = "fdf29d62eed639e35c23b2920991c929bea69254a760d5b724d5e62b68c8bdc2"
 metafile = true
 
 [[files]]
