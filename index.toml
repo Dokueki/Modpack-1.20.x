@@ -3842,7 +3842,7 @@ metafile = true
 
 [[files]]
 file = "mods/burn-in-the-sun.pw.toml"
-hash = "a573fc4b00a9ad5d19d60a8617698d0f41f790fb53a3626ffd3ad493cc13ab15"
+hash = "ed3f2e37d099b8db924620fa5689ff41bdc5d04617e950f01ca07476352aefeb"
 metafile = true
 
 [[files]]
@@ -3872,7 +3872,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
-hash = "569424f5e649626c5d74fb1826d4f174c6f6daa80c6b1a85219e2fb113f407ff"
+hash = "9e92cc7677142ac646db882ca3a71a387c0e7176b1804fde6dd65772301e9ff0"
 metafile = true
 
 [[files]]
@@ -4427,7 +4427,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "420651bdb9ee39f39e467c51f014bb33f8ee092db54f68f3a6dca5f6c06db188"
+hash = "7b1192ecd2cf1486cac111b51dc85645569be302d7a0e2d8d409fd71ccf207e1"
 metafile = true
 
 [[files]]
@@ -4492,7 +4492,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "26bdb83bbbf415d54995cf1c2a32c76901d4c00811704b420cc8de99a919a5ec"
+hash = "b15f8cc6d2943faa4afad0e41ec5dfd232cd8de8e30fdb2a76dafe14c8515f43"
 metafile = true
 
 [[files]]
@@ -4527,7 +4527,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "41364c70f851df4ce18af9d57b426075c4348713f177297de90d8c42ae7004e4"
+hash = "085cf9d7f9823cec6fb7c9369fcfc22485a0bd2d810a7e2bac0ad8ba7c8f773e"
 metafile = true
 
 [[files]]
@@ -4582,7 +4582,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "bc3e40963affda58feb0d23bd92828b0372e2eb90b58b98c1a85fc846824914a"
+hash = "e4ab43d334081c68d199162c9a5da630b667d693a782464ed1bd01d21887f867"
 metafile = true
 
 [[files]]
