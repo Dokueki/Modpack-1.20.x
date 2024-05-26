@@ -17,4 +17,15 @@
 	#Allows specific mods' blocks to be ignored while checking if you are able to see the sky by specifying their full id for example modid:blockname.  Comma separated and quoted list
 	#Example: "minecraft:black_stained_glass"
 	ignoredBlocks = []
+	#If enabled armor in the head slot will prevent burning. Default: false
+	checkArmor = false
+	#If enabled armor will take damage if 'checkArmor' is enabled. Default: false
+	damageArmor = false
+	#If enabled effects will be checked to see if they prevent burning. Default: false
+	checkEffects = false
+	#If enabled the `dimensions` list will become a blacklist. Default: true
+	invertDimensions = true
+	#Specify dimensions that allow sun burning by specifying their full id for example modid:dimensionname. (If `invertDimensions` is set to true this turns into a dimension blacklist) 
+	#Example: "minecraft:overworld"
+	dimensions = []
 

@@ -218,7 +218,7 @@ hash = "487262a2b15fa2df03223cae800ce27116c699b6730aaabfe5925f364121dba0"
 
 [[files]]
 file = "config/burninthesun-common.toml"
-hash = "e250672d92c63eba5827a45afcd83b0d0ca30aebd53112e18aa6562e920661d0"
+hash = "11797b88598a9d64ecaec27d598f6d15ac486e9eaca930f0ce3f2b73730b2113"
 
 [[files]]
 file = "config/caelum-client.toml"
@@ -234,7 +234,7 @@ hash = "0fdeb3f897a9131b8c07fc7bc0c37163208c11998b7ab0870a4c0dae5498c941"
 
 [[files]]
 file = "config/cc_vs-config.toml"
-hash = "1a2d94df6be17da13d87f56ac10b802982768bf9fee5d8feca7a2b209a1a240b"
+hash = "f49d4525085f43cfbacc5c75460426d97bafaddef59ccf22c2cd55e041ad7437"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -938,7 +938,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "e8f54bc51c91d75d599f809bfca2710065c0412fe7ef595c1c26ff63ebc93e9e"
+hash = "47051886b16aa62cce0bd5944daf396343e3ee191c78377c78ac2baa135c814a"
+
+[[files]]
+file = "config/packetfixer.properties"
+hash = "7715b52fdfba54815a3d29d2db57eafb74011a20ff3b974c487a665e4efc238f"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1066,15 +1070,15 @@ hash = "037b0a426915d9f0f2703bdacceae4ba0542f2e915e18dc88eb6420e1bcdd2c1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "443d51b529f71d2d5052a841731f669e207c9f390fa4d82bb68489ea50289edf"
+hash = "8fe1d866b625aa1564d92c2f933b95ad6f316b5b5860497acb0486554dc91b29"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "d4d85aaf8933e9d92289c16d12d683f0ba67304f1f43fed2a347252586b745bc"
+hash = "247634cbfe1a36bff0a9f3fcf33b0bfc84f43e6cae2e86ee4c4be90cfc8682d2"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "31af3e957d2bf0bfe35826d570bd0d2be3f7bc8fdaa6397e8343e8bb5e4ec5b1"
+hash = "c9e79968413b6d27a548872869c347d8006b29878cb05210c9b24b4be5efe45a"
 
 [[files]]
 file = "config/spidersproducewebs.json5"
@@ -1250,7 +1254,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
