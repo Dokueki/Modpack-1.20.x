@@ -1,12 +1,12 @@
 name = "TerraFirmaGreg-1.20.x"
 author = "Exception, Xikaro"
-version = "0.7.8"
+version = "0.7.11"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "69ea6e1268c8f711f5db9541ec4ccbc3e349dd8c17a24664a32d8291730f867e"
+hash = "662a59c4bc5a2af41699b610c690d6b1e598b2847da5b96dc57d0b0ec1d57627"
 
 [versions]
 forge = "47.2.6"

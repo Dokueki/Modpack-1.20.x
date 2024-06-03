@@ -122,7 +122,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
+hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -394,7 +394,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "cbf7b649eef842cf4d591695b88031a97be3fd2bf0113f712eb42e137ef9a60d"
+hash = "6e60f90336a973e183a7ecc09b56b2de5c4b9074cb29e5a964a14d5445c12632"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -570,7 +570,7 @@ hash = "514e36e0b73d0796fc031a1e75c5b825186022b607fbdf8cef561db0842fbb8b"
 
 [[files]]
 file = "config/fancymenu/customization/gui_main_menu.txt"
-hash = "24a505526a930db80bc8969598d8e3e88356ea00d5062601ff37abcc70b5cd08"
+hash = "3087cf46556318c80ef494add1a54d4570e4d7a41001c3eb6dc8f5a34842246f"
 
 [[files]]
 file = "config/fancymenu/customization/gui_pause_menu.txt"
