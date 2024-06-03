@@ -3756,7 +3756,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "1ccdc223317e3c8da5594e56d66a0da5dd9b8a7caa43bbc03d517309321193b6"
+hash = "1067eb79a7595900dfe6b117a8a9dae8ce2c8872cc996cf5e30da4bf1aca770b"
 metafile = true
 
 [[files]]
@@ -3871,12 +3871,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "e20c65099b272ff1848676dcc4d9e6025722ab35c60d9e1dfd1d36f44457cdea"
+hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
 metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
-hash = "9e92cc7677142ac646db882ca3a71a387c0e7176b1804fde6dd65772301e9ff0"
+hash = "a1135cfbd16a383627318aaa7b4676f7576224ccfa46df656eba4839031b3fcc"
 metafile = true
 
 [[files]]
@@ -3906,7 +3906,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d991200509d9cac4beac85ae96ee2bda9feb38fb622679493c18e0f4639eead8"
+hash = "6b690f3bc815149cc5c0fd03a98ac9b19cb62a9cbdc3b9aa0f8fca3321a3a07b"
 metafile = true
 
 [[files]]
@@ -3956,7 +3956,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "e71fcc6424fd21d3f69aefa611b94e4aef68878665924e1b01a2582b3d84e9ac"
+hash = "b612a6b66dc537d6f151c23a96f9049bbe3910d675c599baf852e6b72289f09f"
 metafile = true
 
 [[files]]
@@ -3986,7 +3986,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b700252c353cd17443715e6e60445b0f8f2d3e959286a010a3839a63637601ab"
+hash = "32446647caba6dd865ec1fae8c5651dfd543efaaa0b40cfa75d56c39fe35d491"
 metafile = true
 
 [[files]]
@@ -4066,7 +4066,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "7646493d72d3dd58bed1758d5bde466656f162163bc8f3da54b06dc5c115674c"
+hash = "3faa3243552cdfca1b17857547d73309d00f79512fb9c40a6dce60560a189c1b"
 metafile = true
 
 [[files]]
@@ -4086,7 +4086,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "0f7db9aba7f53bef874ccd58f37dcc4f159a93354185f7b4bdd0a9e3d4324558"
+hash = "81206c83948142f2478cdebe83ab0150feabaed74d8a0f00b4f4c6f886baa507"
 metafile = true
 
 [[files]]
@@ -4166,7 +4166,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "2d5d9f19ba71aba61bdee41edde5a91c2635af5824d1cdbb3f1d5691c1b59fa5"
+hash = "331d72941d7ab4146812d8977f4f2d5721e09318b02a70f42432620600a155f3"
 metafile = true
 
 [[files]]
@@ -4216,12 +4216,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "021bf9542f93777cabd29383ea215d521c93ccaef1a57e93825690e314699a93"
+hash = "2998c6878a1ab6ef9ddec4597f6a42bffe05f18d3942346f16795a445c00addc"
 metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "aa5faf9325384962b26dd78b2816dde6530160f7a4ffac46d57eb51ec76af86e"
+hash = "8603423c46a37f783726a263334f2527b1e3dffa8b34382fc59fc5dd95793598"
 metafile = true
 
 [[files]]
@@ -4251,7 +4251,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "fcb1cb77c34aa9819c2dd9dacd13526592fb0995da7e8cd5f1f6d595b7ffd9d4"
+hash = "212633e875f70f3990a8064079e116dae6b957363c2d67776cc56debb2e64c7b"
 metafile = true
 
 [[files]]
@@ -4301,7 +4301,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
+hash = "f19f61fcce9df3befee6d0d6096a93a9646f93766b2523b27e7903da81e4269b"
 metafile = true
 
 [[files]]
@@ -4366,7 +4366,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-mine.pw.toml"
-hash = "98390da2b808aa9707491b52b8bd567c8bf9ab030468383247f9facdde05c1db"
+hash = "b72dc00bbe3c4a272c30adc925f84d5b977ad72b03625c6a60fe01d909656d44"
 metafile = true
 
 [[files]]
@@ -4621,7 +4621,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmagreg-core.pw.toml"
-hash = "33947fa908d968491526de9c999536b041a8bb82c3553ac2d29ee80656c5411c"
+hash = "e793b27151fc5cedb7985e6797cf937064907cf046347477de84eb0498f2f376"
 metafile = true
 
 [[files]]
@@ -4681,7 +4681,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-belt.pw.toml"
-hash = "fc609c2c8e3d9ce340a79e7cc1c81da7168e982f1c5a37705bbe4fcf89d06d47"
+hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
 metafile = true
 
 [[files]]
@@ -4730,7 +4730,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "84b7bc6315aa63f238a841370f18d66821a46e19ca8b59e046e3730f36e8cba9"
+hash = "e24ed692092f7838f894f581423db2a8c61718c6e5b70a54b06277c847dad03b"
 metafile = true
 
 [[files]]
