@@ -86,7 +86,7 @@ hash = "192924b2661f733e19962bfcebc85c4248592ebbfd386bad15794cb524176b1f"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "6b7cd1aac55dde58c715270e9e9f99b92dd3f62ad339a34b745f4411d71da346"
+hash = "4a241fad85d4ef7364f1d3c652db37730a9a37619c066892e7d00fbde4049d81"
 
 [[files]]
 file = "LICENSE"
@@ -690,7 +690,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "11ce672431af0bb1b11bbf1d59b1e94514674daa855805f88572eb3dcdd12901"
+hash = "a6fcb3a4909dbdb707cf3624e2b429cb8886e40bc37d0b8362ac65269d3093fd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
@@ -714,7 +714,7 @@ hash = "b684f42426a4d9b948f03bc98adc43a4c6c6c804a71b1a40450ffac8dc656198"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/luv__ludicrous_voltage.snbt"
-hash = "2dd90aac157b6578f5f4561ff36e4abb15fee4b02ad16dd483ad696a23c18192"
+hash = "dfb6b8f06e353f340954324e77894aa5db4077ed3eb69a60db154932f47ed7de"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
@@ -726,11 +726,11 @@ hash = "5776e8e42937184c4a3c1f82905f48c64a8c1ee652bcbb514d66ba39a2c1a02c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mv__medium_voltage.snbt"
-hash = "20ad79808e8fc0df732d5d7ffb0d003632d239785205a766a125a5712e8b90b6"
+hash = "69275f932dd14c2e3c0f19599b1f162495b0b679ebecae46e46303779c37de76"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "667fd288ffae6be1b1fe5d475c8488802dca538f3f2699b791d3a542fda4aa59"
+hash = "bb4f584183bad66baed2cb148ae11257337bdaf45f332036b02defdb97bfe263"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -3398,7 +3398,7 @@ hash = "fcf31466d4f277d4da3800abbd4c01d89f1f9cb75d39a9d42f24aa75da3b8cd1"
 
 [[files]]
 file = "kubejs/server_scripts/ae2/recipes.js"
-hash = "693b80caddc1e292aaf6593425efff6d6804a8134fc4946086c1f46377616c62"
+hash = "74a028d49bdf80adf0f17576307017b1a7d7dc4f59d2c0010b041df8db586010"
 
 [[files]]
 file = "kubejs/server_scripts/ae2/tags.js"
@@ -3470,7 +3470,7 @@ hash = "89863634c04b865eab6af92ecc65c8db50f26cde6bf7b9d07086841207c239da"
 
 [[files]]
 file = "kubejs/server_scripts/extended_ae2/recipes.js"
-hash = "b9d820a0bb75dc371ab873668d44fa912511d8351d31bedfa47db2c48599812f"
+hash = "ce927881898260d5ed699a44376d8c4cf283c016e1e0e354d364022276a54450"
 
 [[files]]
 file = "kubejs/server_scripts/extended_ae2/tags.js"
@@ -3558,7 +3558,7 @@ hash = "71840175df29e17b396c45a0af4487f2a9009b92190bba8e71dcf8182e68f3e4"
 
 [[files]]
 file = "kubejs/server_scripts/mega_cells/recipes.js"
-hash = "ddc10b41edc42758be54dfe0ae09e2099283acd3a406ec1266bf44a8eda28295"
+hash = "2725d86a519cccfcc6d650142614b4d016f4d098aa079ceb071c23ec8e8c21fd"
 
 [[files]]
 file = "kubejs/server_scripts/mega_cells/tags.js"
@@ -3634,7 +3634,7 @@ hash = "8cdd31b7beefdb68a8337d9ef8de7ed3b7f587e8b5993f7600e78b4d5fef3d47"
 
 [[files]]
 file = "kubejs/startup_scripts/ae2/constants.js"
-hash = "1ddb8827c51142a3eb41be9a0c15a5237309760bf49827aa53649b74f1ec47e7"
+hash = "37de166e6a8389720d9595485dae3372f2c5a82e312a736cb6e7e198554fe079"
 
 [[files]]
 file = "kubejs/startup_scripts/asticor_carts/constants.js"
@@ -3658,7 +3658,7 @@ hash = "c4101ba32b4bd21559f58fa9a2061cbbe2a71d84b31f643ba7819324052ed698"
 
 [[files]]
 file = "kubejs/startup_scripts/extended_ae2/constants.js"
-hash = "8d06888e5ad3a683fcf16b8254d526cc0d6352c2a907d8c9da2f94d201bd6394"
+hash = "40cc905a750c23151331412cc1a65ae21366e8cb976c2f842ceaa21fb0d67c46"
 
 [[files]]
 file = "kubejs/startup_scripts/firmaciv/blocks.js"
@@ -3714,7 +3714,7 @@ hash = "829e1c1e3f939b1dfcefe3942417c2548f765df016f49eab6f57f7018a464aab"
 
 [[files]]
 file = "kubejs/startup_scripts/mega_cells/constants.js"
-hash = "f51a27e43242200bf3abfe9100a144f7fbc7ad536982508c8576ba7984a0aa5c"
+hash = "126d4f580ad79b156934c9626dc24d96e4724d8ba92d81c4b2552e6e43e4b33d"
 
 [[files]]
 file = "kubejs/startup_scripts/minecraft/constants.js"
