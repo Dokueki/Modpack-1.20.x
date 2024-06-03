@@ -86,7 +86,7 @@ hash = "192924b2661f733e19962bfcebc85c4248592ebbfd386bad15794cb524176b1f"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "2a39f190a513feca3d4c032726f04479738e32eb52dce5a02c57a36c20a61538"
+hash = "6b7cd1aac55dde58c715270e9e9f99b92dd3f62ad339a34b745f4411d71da346"
 
 [[files]]
 file = "LICENSE"
@@ -94,7 +94,7 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "README.md"
-hash = "885a116a6af51711fca9be754f4de1a05d1ecd87aff5399cdfb8fbd8e4410048"
+hash = "e5435f71bdef95ea3683880854bb7f087bf485b095b27562914655a520fa19c2"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
@@ -110,7 +110,7 @@ hash = "e588c27826e79b884b205650511808bcd90b553bbd8204ff11e1619d4a9b61ab"
 
 [[files]]
 file = "config/Advancedperipherals/world.toml"
-hash = "b06e755d98e54a87fcd3d3f1aba7166f96f7c12f28db705271bb2693d5a1a64d"
+hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -294,7 +294,7 @@ hash = "509a7639fd0bae962775ad8d3ad6b160d0b0e8b3efd9787c3e8bfb1ecbfd47c1"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "064f07d30249600dfaac38614f01231e325a0f7ebef08813696fc5dc3777cd17"
+hash = "51ba9a7c589e44b2b2ea9c9bb0e76448421bea3b2c0324f1235ab2c6d70aae41"
 
 [[files]]
 file = "config/createaddition-common.toml"
@@ -681,6 +681,10 @@ file = "config/ftbbackups2.json"
 hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
 
 [[files]]
+file = "config/ftbqoptimizer.snbt"
+hash = "5c11760f45059fa591c665182d5744cdf8daff07321466935df635ee64178c86"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
@@ -726,7 +730,7 @@ hash = "20ad79808e8fc0df732d5d7ffb0d003632d239785205a766a125a5712e8b90b6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "ca6fee6f73ed21d743038c85a80373a93f33c8bd8fe3d5c116e3569509a5f1d2"
+hash = "667fd288ffae6be1b1fe5d475c8488802dca538f3f2699b791d3a542fda4aa59"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -770,7 +774,7 @@ hash = "37972c94fa417ae8ebb36133856489a73d92f4e745729132be584ccdf452f1ee"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "3fc244898f4a7a70a103f684c383c4862fcee6eab0628aa3584f5b62652e5bfa"
+hash = "b36e2d308c692594de3fe19fdfacebad9e1ef777866105d6460061f788a27d2c"
 
 [[files]]
 file = "config/hangglider-client.toml"
@@ -873,6 +877,10 @@ file = "config/kubejs-tfc.toml"
 hash = "ab62499b9ba5edf26a46ac7a55ec96b334724dc0c7c6e116c5c5586ead45f707"
 
 [[files]]
+file = "config/letmedespawn.json"
+hash = "3daa62159d430b28044aa44a40274a4e209ab756bfc7f038b3f02e0b1a8f2850"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "b305940cd8ba8680b79d94e5bf1901fb3531eae97d2bceefdc722055e580e5f9"
 
@@ -938,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "47051886b16aa62cce0bd5944daf396343e3ee191c78377c78ac2baa135c814a"
+hash = "597ae9b1d677bbbad19026a88cd6f8749f999d132ae7ce4638bc8c14140c47cb"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "7715b52fdfba54815a3d29d2db57eafb74011a20ff3b974c487a665e4efc238f"
+hash = "947f4d67ffdbd84dec653b2010be9591c093d2dcda24504d47182280be739061"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1025,6 +1033,10 @@ file = "config/seamless_loading_screen.json"
 hash = "11709f830f3d33ed6407a05fbffc3161713b194005e1c97b2cddab457689aac8"
 
 [[files]]
+file = "config/shimmer-client.toml"
+hash = "29df8277f79b54c6850ef3fc5944b3bd307d1fa0ffee5d6b80af39d55248f089"
+
+[[files]]
 file = "config/showcaseitem-common.toml"
 hash = "e9b755277e1aeeeec0126ac8b953d15de521d7087c83ca0412df89b85bfcad18"
 
@@ -1042,7 +1054,7 @@ hash = "780cbbe638e0a8a6d5e4dd4b606b4250ababa3bfa6aed0df58eec97fa333ef2a"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "1e253c3dde40b4d1b3b57f50424d9f7af48cc630d8330ab4642d2eeace4a5dc4"
+hash = "d77be1c5a7bd58ab7f6710f8d8abe323ceacc0bacc034c108a0e1d780a2266a2"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -1070,11 +1082,11 @@ hash = "037b0a426915d9f0f2703bdacceae4ba0542f2e915e18dc88eb6420e1bcdd2c1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8fe1d866b625aa1564d92c2f933b95ad6f316b5b5860497acb0486554dc91b29"
+hash = "ca7c1dea4a88650da7a94c8cc835980d8287d7bff678f8e6164cef88c3ed3144"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "247634cbfe1a36bff0a9f3fcf33b0bfc84f43e6cae2e86ee4c4be90cfc8682d2"
+hash = "ac5de894631a218a5abd71df9390a48fc04a36b80344f8899502c26545bb56f5"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1254,7 +1266,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1395,6 +1407,10 @@ hash = "30b668d27182787a7d07390fe628585f8e187a2ac59ef8890d012bf7ec147a9f"
 [[files]]
 file = "kubejs/assets/railways/lang/ru_ru.json"
 hash = "9bbe98e49d2944ef5e12474815a177a66ffb07721ce3f4f965d6dc1aafa8ce29"
+
+[[files]]
+file = "kubejs/assets/shimmer/shimmer.json"
+hash = "f0ad06f586ca800b5e1603ae51c2c56b4f0650032ba1d4cfbbda6e89d0f25141"
 
 [[files]]
 file = "kubejs/assets/sophisticatedbackpacks/lang/en_us.json"
@@ -3522,7 +3538,7 @@ hash = "0b956d9fc726adf160a8549ac6a8557e7672f1a00f254d79ea627efa4f3b09d3"
 
 [[files]]
 file = "kubejs/server_scripts/hotornot/recipes.js"
-hash = "11964fb54416ddb3f2bc5cd1933a232cc13b2de08633b28d19ea9ee3095eb9ca"
+hash = "de646cde8cab20e5cb2d74ed2b73d32152770fe01c0afda1df3cd0c4eb70195d"
 
 [[files]]
 file = "kubejs/server_scripts/hotornot/tags.js"
@@ -3681,6 +3697,10 @@ file = "kubejs/startup_scripts/gtceu/machines.js"
 hash = "e21769ad5a60e23b6bf9acd9b93f367ccbc6191a7f773702f534138124abd9cc"
 
 [[files]]
+file = "kubejs/startup_scripts/gtceu/material_info.js"
+hash = "174e44ba37eb3cb38638940e66fafb99b645f4ff79948e79a938df77a1455b4e"
+
+[[files]]
 file = "kubejs/startup_scripts/gtceu/recipe_types.js"
 hash = "01f8bb20bd0d2840a82fec6e7395e25b521bc42eb0837e5763a8b6933da8c2cc"
 
@@ -3690,7 +3710,7 @@ hash = "8b1d8ddd5ec14fb0b504fc37808227426eaad45f3b803b5858dbbdd470e63bf5"
 
 [[files]]
 file = "kubejs/startup_scripts/main_startup_script.js"
-hash = "9217a75104d5ac2477cdbe44e70612037fdb7b103cdadaa72f8652af431e78e2"
+hash = "829e1c1e3f939b1dfcefe3942417c2548f765df016f49eab6f57f7018a464aab"
 
 [[files]]
 file = "kubejs/startup_scripts/mega_cells/constants.js"
