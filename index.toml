@@ -122,7 +122,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
+hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -394,7 +394,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "6e60f90336a973e183a7ecc09b56b2de5c4b9074cb29e5a964a14d5445c12632"
+hash = "f78442c7feb8c8f26a19023714b05b8b414145cb8277a74c7b7d15f63dae9e72"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -402,7 +402,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "9fc69bbce5b2811a67b86fba53d02c763e8fd05116d0b84c697fc47ab05d78a2"
+hash = "3a76a170c111420cffc64fc1f6b8aa6627b8ec6eb5e8a474b9ac241872d865d2"
 
 [[files]]
 file = "config/emi.css"
@@ -570,7 +570,7 @@ hash = "514e36e0b73d0796fc031a1e75c5b825186022b607fbdf8cef561db0842fbb8b"
 
 [[files]]
 file = "config/fancymenu/customization/gui_main_menu.txt"
-hash = "3087cf46556318c80ef494add1a54d4570e4d7a41001c3eb6dc8f5a34842246f"
+hash = "e8c138ae4d9328551613c4b279a17fddadabfbf2eb3feae8141356c1cd3b1de1"
 
 [[files]]
 file = "config/fancymenu/customization/gui_pause_menu.txt"
@@ -946,7 +946,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "597ae9b1d677bbbad19026a88cd6f8749f999d132ae7ce4638bc8c14140c47cb"
+hash = "526822ca1128fab1289f86649ad95712d7765599dce374ca42be7ab915e518e7"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1082,11 +1082,11 @@ hash = "037b0a426915d9f0f2703bdacceae4ba0542f2e915e18dc88eb6420e1bcdd2c1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ca7c1dea4a88650da7a94c8cc835980d8287d7bff678f8e6164cef88c3ed3144"
+hash = "c5868f905d2805ab46d201013356b99168c1e774a98556157404e2dcb4468334"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ac5de894631a218a5abd71df9390a48fc04a36b80344f8899502c26545bb56f5"
+hash = "d63404c91a5db5e9d9366b04931ced15f58154d032ea472780b3f5f89f2151c7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1266,7 +1266,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
