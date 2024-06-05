@@ -122,7 +122,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
+hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -774,7 +774,7 @@ hash = "37972c94fa417ae8ebb36133856489a73d92f4e745729132be584ccdf452f1ee"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "b36e2d308c692594de3fe19fdfacebad9e1ef777866105d6460061f788a27d2c"
+hash = "3fc244898f4a7a70a103f684c383c4862fcee6eab0628aa3584f5b62652e5bfa"
 
 [[files]]
 file = "config/hangglider-client.toml"
@@ -946,7 +946,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "526822ca1128fab1289f86649ad95712d7765599dce374ca42be7ab915e518e7"
+hash = "357b5bfc6ab95f48747b4a616580c622b5072f5607706806c62dc6465e1451c6"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1082,11 +1082,11 @@ hash = "037b0a426915d9f0f2703bdacceae4ba0542f2e915e18dc88eb6420e1bcdd2c1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c5868f905d2805ab46d201013356b99168c1e774a98556157404e2dcb4468334"
+hash = "92ec2ac9928cb037eba9c7fe4b43bf782090281aaccb07338d45e4e87c83722a"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "d63404c91a5db5e9d9366b04931ced15f58154d032ea472780b3f5f89f2151c7"
+hash = "524b0d2505986b649bbf4a3859ac20a669defa22b18b2d2049bfd0189918a28f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1266,7 +1266,7 @@ hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1435,6 +1435,10 @@ hash = "4bd256d4c7b80f8dfc85802033f0abd50ea33e97ad194aee95f17e4bc54326b1"
 [[files]]
 file = "kubejs/assets/tfg/lang/ru_ru.json"
 hash = "18d7fec3b4d7a948ca442af5e9811bacf5b8c9ff5f5c797154d9ddbcd716a0e1"
+
+[[files]]
+file = "kubejs/assets/tfg/lang/zh_cn.json"
+hash = "8bc8efcde1aea8623843472351d1b6a36111a79cc89d7160ed2fa715d46b9b5d"
 
 [[files]]
 file = "kubejs/assets/tfg/textures/gui/button.png"
@@ -4677,6 +4681,11 @@ metafile = true
 [[files]]
 file = "mods/tfc-homestead-walking-sticks.pw.toml"
 hash = "239c6fda6607f70d3122c47de2ff65cf1243719940bf20b2cedebb496cadb3dc"
+metafile = true
+
+[[files]]
+file = "mods/tfc-hot-or-not.pw.toml"
+hash = "9914181fcfc1acbc967b5930e730714ede56f05582e04608722909816173cf7c"
 metafile = true
 
 [[files]]
