@@ -402,7 +402,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "3a76a170c111420cffc64fc1f6b8aa6627b8ec6eb5e8a474b9ac241872d865d2"
+hash = "ff4f33bdd42508bae1e1d3382266725a1310316aca807a5e8af618276cc5fd03"
 
 [[files]]
 file = "config/emi.css"
@@ -690,7 +690,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "a6fcb3a4909dbdb707cf3624e2b429cb8886e40bc37d0b8362ac65269d3093fd"
+hash = "8bdc7218e4ed4b553d2f671d5e8b2e2b06f7b0f56596d842ddffaf4f6e141c91"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
@@ -726,11 +726,11 @@ hash = "5776e8e42937184c4a3c1f82905f48c64a8c1ee652bcbb514d66ba39a2c1a02c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mv__medium_voltage.snbt"
-hash = "69275f932dd14c2e3c0f19599b1f162495b0b679ebecae46e46303779c37de76"
+hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "bb4f584183bad66baed2cb148ae11257337bdaf45f332036b02defdb97bfe263"
+hash = "dcb01ba5491745fd5f787dae499cada96d0e11d135df50e116cd08f8de89352d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -906,7 +906,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "320343ee701ee70c040b733cd55002499f9ed14431b926911535de1d3b5b496e"
+hash = "47e6b6dbacecd18be3c60bb46aa5faf2d8e0d0be03aa6cdf25106c41cb46125f"
 
 [[files]]
 file = "config/monazite.yaml"
@@ -946,7 +946,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "357b5bfc6ab95f48747b4a616580c622b5072f5607706806c62dc6465e1451c6"
+hash = "8856d877f4c42f2701cfa16c30ff97f15bff4065e3f9d600e0b1ecd313cd1b6e"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1082,11 +1082,11 @@ hash = "037b0a426915d9f0f2703bdacceae4ba0542f2e915e18dc88eb6420e1bcdd2c1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "92ec2ac9928cb037eba9c7fe4b43bf782090281aaccb07338d45e4e87c83722a"
+hash = "4401a218464b1ed2d56839d7d3e22f2952238bd6f83092753c95f69f7acd1372"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "524b0d2505986b649bbf4a3859ac20a669defa22b18b2d2049bfd0189918a28f"
+hash = "45a4b8e5230507e311457112a01379abc7db99ad9567002a0c117c5a43716109"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1262,11 +1262,11 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "61f992bb63774bc3154f48a12124ce823cd9bd64f7541b43fb7fcb817449b9c7"
+hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
