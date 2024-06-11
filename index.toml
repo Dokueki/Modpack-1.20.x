@@ -122,7 +122,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
+hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -946,7 +946,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "8856d877f4c42f2701cfa16c30ff97f15bff4065e3f9d600e0b1ecd313cd1b6e"
+hash = "c08ee42f25dabd20a422be9a1fcfeb091e6c1020328244ad6518c68f84c34b09"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1082,11 +1082,11 @@ hash = "037b0a426915d9f0f2703bdacceae4ba0542f2e915e18dc88eb6420e1bcdd2c1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4401a218464b1ed2d56839d7d3e22f2952238bd6f83092753c95f69f7acd1372"
+hash = "ef8920676a78cf407eada5f9740c8ebd1dbc34fd69dae600e0bb29df629fdb0e"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "45a4b8e5230507e311457112a01379abc7db99ad9567002a0c117c5a43716109"
+hash = "66d86e23e8404862856f8d7d51511acbf291123dd01039246159a54232bbcfff"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1266,7 +1266,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -3870,7 +3870,7 @@ metafile = true
 
 [[files]]
 file = "mods/burn-in-the-sun.pw.toml"
-hash = "ed3f2e37d099b8db924620fa5689ff41bdc5d04617e950f01ca07476352aefeb"
+hash = "48c649fdfdddbc6d4e6896d64f2f42b0c91ac67efd44d8f43eddd856e8f79eff"
 metafile = true
 
 [[files]]
