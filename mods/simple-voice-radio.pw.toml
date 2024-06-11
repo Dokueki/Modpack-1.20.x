@@ -1,13 +1,13 @@
 name = "Simple Voice Radio"
-filename = "SimpleRadio-forge-1.20.1-2.3.4.jar"
+filename = "SimpleRadio-forge-1.20.1-2.2.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "92774e6bcb4a7c8cec77ac5ef0657ba437981ad4"
+hash = "4c184f20aea9cad8f04342eddbeb12030068125c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5411185
+file-id = 5163544
 project-id = 820070
