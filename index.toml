@@ -950,7 +950,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "5e58abfa0cbf0d829bddc0bd1e3a64b2c8682014e1fdc6ca21ab59f5997537be"
+hash = "2731e4124184123a2cf346386656d43fd968a5927c6d3da9f3a05d9d49fc7c8d"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1086,11 +1086,11 @@ hash = "f852855c0129bed39aea04fd49819f72a7394fdf766804c03cb44778ca377cbf"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6768cf727de54660d5c8bd24e9ece5afbef0d7754744370c602535167051d8d1"
+hash = "635418264802445baa036d2820d449ece4a2c7648abf9e90966614b5a0d5c193"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f2e756121500845ea84f80a886a35cc79dc5888671cc440f98106cc004ba0e48"
+hash = "86dc04b4ba2f45de0f4c17bed64cf8eebfaf5b934b8fd4480aed7ceabfe18b4c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4966,7 +4966,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7666,11 +7666,6 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "55e774a83edf2998fd3cb94a5a8e848648e2ea102d4cd689924b56424ff93f33"
-metafile = true
-
-[[files]]
-file = "mods/create-heat-js.pw.toml"
-hash = "2ab9fd317aedf85108ec19e9c0f454ec723603a3217c525c60c1f9d916bf302a"
 metafile = true
 
 [[files]]
