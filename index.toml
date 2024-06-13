@@ -7856,6 +7856,21 @@ hash = "1e17d92e2843cdb01a229d4987b0ef456c8a759d1e02e18f5265fd8179cbf7c2"
 metafile = true
 
 [[files]]
+file = "mods/ftfc.pw.toml"
+hash = "3912ba26aa35646a565a4a45a018953bc80b5d29528b8a9246e1d98248f2b050"
+metafile = true
+
+[[files]]
+file = "mods/functional-gregtech-drawers.pw.toml"
+hash = "d8c5c97baa7ba0c68b9fe5eba877e9795de683b683704af8c046f48680691484"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "c78e7b2d7567974662903af16795c1d97c4102fa5876dcc6eeb9234f8946c8c4"
+metafile = true
+
+[[files]]
 file = "mods/gcyr.pw.toml"
 hash = "99cc566a9e1a100870fccba6a7a65d0943fda68a0c46d95c39af3ad4dc135f42"
 metafile = true
@@ -7873,6 +7888,16 @@ metafile = true
 [[files]]
 file = "mods/grabby-mobs.pw.toml"
 hash = "55c364562bec24860e298f3323fde4a6798326ce05aba67fe37af7296ce9d982"
+metafile = true
+
+[[files]]
+file = "mods/gregic-energistics.pw.toml"
+hash = "8141c2ddb53a5aaf49dc760509646dcdeee1bae5cdb50ac722bac4cf17eeac85"
+metafile = true
+
+[[files]]
+file = "mods/gregtech-steam-additions.pw.toml"
+hash = "9047f8ae4eed94f3d54a0ac70a13ce3093711445434972b70bebe5c08e82602d"
 metafile = true
 
 [[files]]
@@ -8028,6 +8053,11 @@ metafile = true
 [[files]]
 file = "mods/monazite.pw.toml"
 hash = "2fc314979186144ec5451ad4557aa5404fab45c645e333891d7d720de484985c"
+metafile = true
+
+[[files]]
+file = "mods/monomorphism.pw.toml"
+hash = "f433f6a0abbebd54ddd6aef1112b0a93946b4802f342dccfbcd39e197a73cd89"
 metafile = true
 
 [[files]]
@@ -8353,6 +8383,11 @@ metafile = true
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "5b5c0464ce32e4dc7bc34bd1a3d1e50cdb1e939f81004e94207526ee0ab8bf95"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "1acbc7abba0a1012489c73c5bfcc692304317cdc03066af009271062d8ee2ec9"
 metafile = true
 
 [[files]]
