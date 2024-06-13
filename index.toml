@@ -757,8 +757,20 @@ file = "config/ftbxmodcompat.snbt"
 hash = "d57f6adfd499c88e3e05201799570cb65f0591d8edb163fc285b179985f71e72"
 
 [[files]]
+file = "config/functionalstorage/functionalstorage-client.toml"
+hash = "20f9321530b75eed76c38989ddade8260a3c481f82fe612c5e064b82a1691683"
+
+[[files]]
+file = "config/functionalstorage/functionalstorage-common.toml"
+hash = "e646ca8ec332583e1de2c8d18d4c66a4e2f8aa55c2919d5a65063e3ec88aeb0c"
+
+[[files]]
 file = "config/gcyr.yaml"
 hash = "37972c94fa417ae8ebb36133856489a73d92f4e745729132be584ccdf452f1ee"
+
+[[files]]
+file = "config/gregiceng.yaml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/gtceu.yaml"
@@ -806,11 +818,11 @@ hash = "3c063cc05aa131779252e096360242fc7cf23c382003032f264c0c3a27821891"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "d9cb16557de8fda31be8f84a7afdff2be358b8f1cbc50ee05c1d76795f58f260"
+hash = "b2fb0dbd202e97c3a03d6b9a741f732a7cd319b614837bc221f963ccb316e314"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "520d086a7110da31a52962f76b604b1ba9fed7360959849655f58392683955a4"
+hash = "08638e7c5f3b5388311e9f8d14044247416a21aa46945f23c0270385682f32ea"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -934,7 +946,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "2746e995ed945a4488967732f29173b1d50d68f18d7d86fc46b87c20bb3b67d3"
+hash = "cbac4639f81081c06def8d76c24b43cc1c29fe6d0ee1a3a6d0e2d8efbb3fb1ee"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1066,15 +1078,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "49e37fb6c54b4b37e0cae21ade3df28277af9e1bf48b1a0f6678c03bc5279d1c"
+hash = "b3eea2455dcbead609b5f47f9f3c79e961ce1ba5aa5be9a649ce07839b9d31be"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "5f900d2f7246bb51c804f05112919cc5cf55144f729022d6ddac0a7f15e1172e"
+hash = "7b8f4edcd0439cbe6849af3d5c6894e10eb11c95cb4d8bdd279ca7d67d382c4d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "26aa82a0b1dd740314928ffd66cd209d36cc70669351460d69b94e3f7afad974"
+hash = "4e4171f831a4277fe1c073ef0cf6a9a5c25a3d3983cf4ba31c76cf64423d7d3f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4809,6 +4821,14 @@ file = "config/tfg-common.toml"
 hash = "bfcf0aa22e267591363271679d1a2f8b42effa02adc9317a6fcac036ee91c62e"
 
 [[files]]
+file = "config/titanium/titanium-tags.toml"
+hash = "bed71e2722d04afd15e03330d1a157a51077e8fdcd064c80ab4a49bed6a49e59"
+
+[[files]]
+file = "config/titanium/titanium.toml"
+hash = "565e7782790d656fd31350ef9d90cb8ff8b4f38d1fb2418072829fb404195e58"
+
+[[files]]
 file = "config/toolbelt-client.toml"
 hash = "dfe8d07c832c05d517cf5bb50798c7678fc529ed4a4bc41367314abf9b40bc5f"
 
@@ -4926,7 +4946,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
