@@ -122,7 +122,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
+hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -271,6 +271,14 @@ hash = "74a4490a9e22547861cccba0a9cf729be26b2a482ca3fd2c694ea0f4d08e77f2"
 [[files]]
 file = "config/configured-client.toml"
 hash = "564e6b7eb80e781e61c79d687b6a506e163d3cad89ede9705a744d3453e02231"
+
+[[files]]
+file = "config/copycats-client.toml"
+hash = "cb3f0920ad43ca7c7a3d95040718c1a654f49ad4b8147ce3c3733d3f6dbf3c7c"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "103dcb7698c63cf7caf0726c9c0b0cb1e2442b63f0b4c186b8520d76f2dcf276"
 
 [[files]]
 file = "config/cosmeticarmorreworked-client.toml"
@@ -950,11 +958,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "df888506e4c62bf9d008f34bedc15dad385b01ba93b85df90a5610e3450cff9a"
+hash = "d78990d8ee3e93c2c8c9e772073d8ee4c43777ca99b710348304986ca7af21c3"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "40f330794d2a15b4d948ced22246c28374ade770663c008028698f7dc9a905de"
+hash = "bfc00c24c67f33059d0f3daa1bfe2882d34bea27cb7c8b4ca9a66277d53f42ea"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1086,11 +1094,11 @@ hash = "b3eea2455dcbead609b5f47f9f3c79e961ce1ba5aa5be9a649ce07839b9d31be"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "e337aa5384b136c4203c00c4f2c9fcf255ed25e94da926c27c7426736c4062f6"
+hash = "a62c397fdcbd23a9a8b609e057807be4267860b6dd394ccc38619a02fc6c0357"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "c9fc4508d51052327feb5574562884b6a7f5a94e00455a96444355bcea4e4102"
+hash = "452f29f27292916088e3197c1f3b470473c9a686b1124fc1ca396d39234dc283"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4966,7 +4974,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7621,6 +7629,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "ff9b47b951b64a0f73f6b7f88637d5aeb54c8e0f21accc3988d7343d37c0b06f"
 metafile = true
 
 [[files]]
