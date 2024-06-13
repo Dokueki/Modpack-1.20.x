@@ -722,7 +722,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "c893e072aa2a99d410dbab01a1fd69ff720def45e6a6268ab0040810b87f1e96"
+hash = "bcc3c2a17b54799b06e097715517ccba818c180f628b6cf5debd560f4253459c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1070,7 +1070,7 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "1fdc68a95b4621c06f6bbd51ac2a7e77821d06d5310babb1963085eab0973ee4"
+hash = "49e37fb6c54b4b37e0cae21ade3df28277af9e1bf48b1a0f6678c03bc5279d1c"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -7057,10 +7057,6 @@ file = "kubejs/server_scripts/_dokurai/macaws_tfc.js"
 hash = "361fafac3d61fbb63fca9357054457ec378eb935c245468d40a2a677b3d2d7b7"
 
 [[files]]
-file = "kubejs/server_scripts/_dokurai/music_maker.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "kubejs/server_scripts/_dokurai/simple_voice_radio.js"
 hash = "fcf31466d4f277d4da3800abbd4c01d89f1f9cb75d39a9d42f24aa75da3b8cd1"
 
@@ -7127,10 +7123,6 @@ hash = "2e148e4ac84c2c5fa15578f9c5f77b841b23ba4605d40c683f9bd475e9a3b9b6"
 [[files]]
 file = "kubejs/server_scripts/create_connected/recipes.js"
 hash = "860558f6a899321b94fcccecfb91d9b0d4357c09bf66747f3ac637a067c2d729"
-
-[[files]]
-file = "kubejs/server_scripts/etched/recipes.js"
-hash = "440dc1c96afe6f84c25a50ce53b59701de3b9704cd2a67fda610e6fed3da9b2b"
 
 [[files]]
 file = "kubejs/server_scripts/exposure/recipes.js"
@@ -7210,7 +7202,7 @@ hash = "d24c74a221126efc17eae2f03269b4c08cce7525f8a76e635ebf313c6d81ac63"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "4561d23bbf98969d97b361f7449384e60118bf3b1564e7bf5d1b697bc8b33579"
+hash = "d4406aab4864ac7c96cf5a9c4eda77a4dec5036d02d22a5d7f9bf0eed1a072e8"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
@@ -7751,11 +7743,6 @@ hash = "cf369465c377631e4ece74e7c248583e548dbb45929cb579db7c772d8e150bcd"
 metafile = true
 
 [[files]]
-file = "mods/etched.pw.toml"
-hash = "a5a5475c903b195bdd5f90808b178fa9285e334338e18db7447a8c734514f496"
-metafile = true
-
-[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
@@ -8073,11 +8060,6 @@ metafile = true
 [[files]]
 file = "mods/multi-mine.pw.toml"
 hash = "b72dc00bbe3c4a272c30adc925f84d5b977ad72b03625c6a60fe01d909656d44"
-metafile = true
-
-[[files]]
-file = "mods/music-maker-mod.pw.toml"
-hash = "5a889a1758ca81669eb6bc1362af16f059a2f61a328c7a8d7fda98658415b434"
 metafile = true
 
 [[files]]
