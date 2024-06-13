@@ -854,7 +854,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "b02dbc5506b76b5a48d0cce9290414eba719dc6c6b2d6c64b6a1d1b04ac4acad"
+hash = "1b9c0b75550b990114ea2292772ad8fcef5885c13bbc7b871a3f0bf96b872aad"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
