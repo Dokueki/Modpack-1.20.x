@@ -1,0 +1,13 @@
+name = "Lexiconfig"
+filename = "Lexiconfig-forge-1.2.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D157Rgyf/versions/Gy7U48aH/Lexiconfig-forge-1.2.11.jar"
+hash-format = "sha1"
+hash = "6621e2b277219ceaca2e02490d796481bd87b4b8"
+
+[update]
+[update.modrinth]
+mod-id = "D157Rgyf"
+version = "Gy7U48aH"
