@@ -885,6 +885,10 @@ file = "config/lithium.properties"
 hash = "b305940cd8ba8680b79d94e5bf1901fb3531eae97d2bceefdc722055e580e5f9"
 
 [[files]]
+file = "config/mcef/mcef.properties"
+hash = "c342bfb5e731b09eb59d24412a4c274457ff2bca9f5d0b821423266ad5e4cec0"
+
+[[files]]
 file = "config/megacells.json"
 hash = "b9d8a859859ce598ea852230e4d18726756f89b371c03dce59c9ffe5025318d2"
 
@@ -946,11 +950,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "cbac4639f81081c06def8d76c24b43cc1c29fe6d0ee1a3a6d0e2d8efbb3fb1ee"
+hash = "f5747c9552588657b6d821b4ea98261d57d4571c3302732f55b9cd8bfd81b99b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "33585a0126398ea0785d8c0fbffe8327c151b08034c2c033b28df8f166247075"
+hash = "1efc1f1fe0a9083689a2bd78eb8bf4d0ae5c7d9a5358fcefa5370ff87e8e9ba8"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1078,15 +1082,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "b3eea2455dcbead609b5f47f9f3c79e961ce1ba5aa5be9a649ce07839b9d31be"
+hash = "f852855c0129bed39aea04fd49819f72a7394fdf766804c03cb44778ca377cbf"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "7b8f4edcd0439cbe6849af3d5c6894e10eb11c95cb4d8bdd279ca7d67d382c4d"
+hash = "82300a2df9a8402c9e63cb7d8ec20e02c8e5411d3fe06407fd71d0101074f725"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "4e4171f831a4277fe1c073ef0cf6a9a5c25a3d3983cf4ba31c76cf64423d7d3f"
+hash = "90690af60e75691ed9dad5f180d8aa13e340c279cc18ba3ff1e6542af8d20922"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4933,8 +4937,24 @@ file = "config/waterflasks-common.toml"
 hash = "d1738bf5a0dd5a6edfbe451012a31c4a525fdb53bc60fa62dda1e1c68c9c2fb5"
 
 [[files]]
+file = "config/waterframes-client.toml"
+hash = "1f48502d4258198fa7948f5c5692a6cf731c4bd92e703c7c7389957cdf5159bb"
+
+[[files]]
+file = "config/watermedia/assets/loading.gif"
+hash = "387f3a9aee7a1df9334ced1c5d05a5cba3915f36c556bcf14235b145f79eb60d"
+
+[[files]]
 file = "config/weakerspiderwebs.json5"
 hash = "7fef179938e21962eb2968f0dd06fc96c2397738a3d6c068fd1b8ce17835a312"
+
+[[files]]
+file = "config/webdisplays_client.toml"
+hash = "50c43da48f088ea7c24eb309ead4cd0ec4e56d89b33df836ef1e930c96462d41"
+
+[[files]]
+file = "config/webdisplays_common.toml"
+hash = "320f58ea99c92574e72decd664037d25632f4c51d8355ddac0be7b31de709afe"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -4946,7 +4966,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8425,6 +8445,16 @@ hash = "d1b4fdc54dd1a790eb0fec9ce4d34608d79c83d3e6956b9321464d4f374c76ce"
 [[files]]
 file = "mods/water-flasks.pw.toml"
 hash = "8eef3bfcaf11d312fde6f3e084aff0ce3266f4d4adfcfa4617f0c7bbfaeeee2b"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "94a7f454a50e2c28b84a87f163718a1f1fe86583774c13faee840718e32d8eb1"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "c97bc81394f2fb18cc040672b3662e14e871c602a1aa1c10641e84ea5d76f6a0"
 metafile = true
 
 [[files]]
