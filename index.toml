@@ -122,7 +122,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
+hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -422,7 +422,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "d29e27b0fc32682f88c2c986727d0f7e1f98200bbbbf20d0a809d0750fc42c4e"
+hash = "1b769b0596cd2762004dadecf0184391c9a38cf352c7d013174c685bf5dc6c18"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -818,11 +818,11 @@ hash = "3c063cc05aa131779252e096360242fc7cf23c382003032f264c0c3a27821891"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "91052113703603aa89a58ec95b74096c77811dc38792af6a452258f4c4203163"
+hash = "1c154e29563c0d55ee81861866df3e3bcf7138348cf759df4bd4134a34a054f7"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "ac0910445083587d402d59b47a2c114d37b47275401443e7e584208f764671f1"
+hash = "520d086a7110da31a52962f76b604b1ba9fed7360959849655f58392683955a4"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -838,7 +838,7 @@ hash = "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "d1484868aa602e0f283aa2b3e07efedd86cdcf597ad61654b7e8b647fa896b9b"
+hash = "05798599e7cb97a16737a66264407048f447344c24159a88ce8dfbdb57c1e651"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
@@ -854,7 +854,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "97c83834a4e0abd2a32745f3a8331a23af39fe4dfc119181a928bcddeb5834c8"
+hash = "f86212143bd3d1ce07c385e22c167d9e65f14cc6ab09e72f1cc662f5ed180ec3"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -910,7 +910,7 @@ hash = "47e6b6dbacecd18be3c60bb46aa5faf2d8e0d0be03aa6cdf25106c41cb46125f"
 
 [[files]]
 file = "config/monazite.yaml"
-hash = "1ce5b8768000088a8338b84561e407a737e7f52e2d4436b208fe84d3fb911571"
+hash = "f73c7616c0927e7540ade4a8eb168e3bd1e7f261b5199f82619c8213693faf49"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c349b9aa5c59d34de71dd5a1bfa4396bdd135558a6bbb7a2a7d554ad17fea55a"
+hash = "ac7470cf055820140ed14330e56bbe02475c8ed88e74776d51f1d9b37400e651"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "947f4d67ffdbd84dec653b2010be9591c093d2dcda24504d47182280be739061"
+hash = "33585a0126398ea0785d8c0fbffe8327c151b08034c2c033b28df8f166247075"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1046,7 +1046,7 @@ hash = "f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d"
 
 [[files]]
 file = "config/simpleradio-server.toml"
-hash = "4db317c6ce6dc33e09f145a5e4e09a1120fe83bc5376fab205830dea12d176d0"
+hash = "a2d1a91faabef45393fc9c4675d423643c0b0c6e3010896ebfb1e7be95422b27"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -1078,15 +1078,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "037b0a426915d9f0f2703bdacceae4ba0542f2e915e18dc88eb6420e1bcdd2c1"
+hash = "1fdc68a95b4621c06f6bbd51ac2a7e77821d06d5310babb1963085eab0973ee4"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "922589507c6ded41cbd2ab0b89f6829c24271c130608ef3be95b5bb8de60561f"
+hash = "ddc340114f5c59674d45e44f8b6194e78035e699e276a63c87d0199731e50020"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "d0cbe704713a51e720eb0fbca066cf1e5b8966e38478e07f43906c5783b17ec0"
+hash = "e7f0de2a6db82c535a06e9de77a99c41751240a764e7aed7f65c7948767af5f3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1103,6 +1103,3678 @@ hash = "9278e868cee8fe35e0c0bae950a26329d85580d91841b42ea1b0d04fb4d0ad2f"
 [[files]]
 file = "config/storagedrawers-common.toml"
 hash = "fc64c2ca441547fe83c78ca11d01124cec3779d17b3f607f2d06fd038163b372"
+
+[[files]]
+file = "config/tacz-client.toml"
+hash = "ae7192ddbe88120d55b432df7e88f59da9835370d5acc30ca83a844fa19a4f73"
+
+[[files]]
+file = "config/tacz-common.toml"
+hash = "cbe33bb5d9f0881b08da46e4b1bace17fa2f4759ea05f34cb8d8efc1e975d0a8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/12g_display.json"
+hash = "9a092dcb8da5210e98889d45c861a5ef0fce3259d77c39f6c6ecdb0f8075f2ab"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/308_display.json"
+hash = "91f0b1606ec030c6939c152d17fa8aad88cafad28baf6d6c1634ea2b052fc287"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/30_06_display.json"
+hash = "f4bb5d88c99ed0599cf976061c7092e98f5d2b78ba1dadfcbb1a0bc6ec6c74fb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/338_display.json"
+hash = "bc653066bc3b77125d69ec93b6d8aff7805da9d5d4c7b197fc991c976c364fae"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/45acp_display.json"
+hash = "6985e808b0db635bbaeb9356d915085f865f29480ae66612983185490d258ac7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/46x30_display.json"
+hash = "99dc318667d0b0ca8f270ddd5686deed9992abaa295d6b3ee7f2204845ae1521"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/50ae_display.json"
+hash = "f5d34bce3ee1edc8f9765539291a450a8a791529765368307876ce6f81d3f566"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/50bmg_display.json"
+hash = "373867461f35ab31de0e0f3bbb132df67fe5aeb6700a36baa52c5b80266fb29f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/556x45_display.json"
+hash = "8d992d28d110511af1ddc9a9550a8239f3def45b47d45354afe54b11cec4cf53"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/58x42_display.json"
+hash = "2a5298fdb3d1d48b948b4f7ecf59c8ddc072f8f8e7723f140390ae763e1cc8e8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/68x51fury_display.json"
+hash = "becb83e47d47fac9827751264eddade82e517d73f1530302dc26252156f37153"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/762x25_display.json"
+hash = "cadcea9f5a28d1bde96f3f056cca36ccaa71cd72678914edd5fcd16c9679a143"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/762x39_display.json"
+hash = "2e38c835c5a4fa2e53194beba4b8240a7487f68e6d0439947a6e3b3b61f1a6f3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/762x54_display.json"
+hash = "508a0a1480a58060bf300cf4646ab0ddeb92b0cf79ae2398414b0a41f21c551d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/9mm_display.json"
+hash = "191938b4263cfa37533a9879c253fffb2ce84517deb77f0bfcd0f8949058f6a9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/magnum_r_display.json"
+hash = "9ab44dfd5176eaebc6dea66e96b2ffbd991bdbc2ee167c3925fe10e453c0dd2c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/rpg_rocket_display.json"
+hash = "f98c29fda495e4762db94cf1fe3f7ce2429b52314dc43574b789053d20c3e404"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/12g.json"
+hash = "9c3f112aa014cb2126ff8416f3865be562bc95f240f51f1a258fe6aa7d44a22c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/308.json"
+hash = "3ba1b348d23dae17e5177d4f88f55850e117fb4fd46a4e6a5e7d61dc3c16aa21"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/30_06.json"
+hash = "6eea71c342a70f1d16f261071ed9f78ecaf7e16af926b641ab52749890318664"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/338.json"
+hash = "0ff60a21735a1f89aab45232fbca167ba5409541f3723dbff5b9397f3d34a5d2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/45acp.json"
+hash = "ec1eec17f1b59304d1cff21771bf53a58d15c1c92f729e97789a916300d028de"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/46x30.json"
+hash = "78e4833ec5b527f55ebcc8ec8e7cf1224fe7a9aa9456c50bcfa15032bb172129"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/50ae.json"
+hash = "572981c241afdaedeef4040260bc3bfd52770a4092e1df2c4eab6c79c00c9a18"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/50bmg.json"
+hash = "ab5bf232a18ff367ed56292525bc2905b2beca9c3938a26b5fa1a863491110e1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/556x45.json"
+hash = "24b2de5adc7bd249ef9dffa808d417932db99ff166ba1644c93545ccd43b05df"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/58x42.json"
+hash = "74ef56b313e1e06e2ee292f04c8bd81f20153d454d2b1ffdad6cbe251adfd935"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/68x51fury.json"
+hash = "ae810faf1e38b4d0d35a3aa9e6232a2bb3d22f2d987fd36d1e070795fd2fb1d6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/762x25.json"
+hash = "51c41d65bbc79ac1ff1cc2808219861b5abbe177590a5fa1ceb05752894da087"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/762x39.json"
+hash = "b4a50596ddc117667043fb58f6006acfd9b5a80fa7490e81a51dddce3992cb03"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/762x54.json"
+hash = "c530cea79adadb3ab66e1486c40f8dca839bad68b4082df876a2a43d50afadfe"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/9mm.json"
+hash = "1059a02fa84306dd8ff40677d22fcb5ac394697b9ada7c5f3ee9b9cf7fb7fb4d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/magnum_r.json"
+hash = "f01f449ba24161cfd921c71a92a1d0eeda5df7e5564bd551337a26217505088e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/ammo/index/rpg_rocket.json"
+hash = "956e7fc272e978c358ae5946ef77dd399b482491a1933a1faf34a86d34ce1f0d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/ai_awp.gltf"
+hash = "6cee3868872659b382c86e196f7649d426951d2bfcf0c68e98ccd5a711894768"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/ak47.gltf"
+hash = "a2e7f36ecf9570b541d094ca9aa61613fb33c3fe2b3cf7c2bacac7c24b824d9d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/db_long.animation.json"
+hash = "0fec5c9c74da4cd35b5f0df87949380e3caac12298ba14bfb99d5cf0afd8016f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/db_short.animation.json"
+hash = "83e1343edc84aa8860f83c111d728cb6cfd070b64a05f469b926c47d60ff8c37"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/db_short.gltf"
+hash = "73c1c1c7fc44947e5315734450a50dfc3a904077f54db3f04adc22bdf2547be4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/deagle.animation.json"
+hash = "6e8d7ddab73a43fd819ffc6890de8c52084e905b4f3a0b1777bddf58251f0836"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/glock_17.gltf"
+hash = "541e5ed2df6d1ce724411438416ae4e9c49d8533c15887d0478cf5de28b8575f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/hk_g3.gltf"
+hash = "6e7e8c606243f9d795661ac36c6d98d95b6f072974122c285b8ea503df1bf3bf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/hk_mp5a5.gltf"
+hash = "db138099136c97b1b96f4622bab0fef93767bbe0ad8b0ec57a080ed25da24b4d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/m249.gltf"
+hash = "bec50f2812496f33abf5af3e8fd34018505d6c043e8a289d23f42577388ccd4d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/m4a1.animation.json"
+hash = "a363343c7e71311306fbfa7b135791bcf9ef821d5a2bde0ff62103a58ab749b4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/m95.animation.json"
+hash = "99f1ab535dd3cd73500365a6ba959a5e80ec7788e7e4f114142dfbe4612f282f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/rpg7.animation.json"
+hash = "6e3f9436e3208e25e18c6bd5331b7376ad014513a38beb1d2694a55f311ad877"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/sks_tactical.animation.json"
+hash = "50f330395788e29ff12ddb5e6969f70270d4a8d2fdd24f31b05422980cb57c4c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/uzi.animation.json"
+hash = "5079c5948093a08c3769fb397cfdd481ea4629f56e66dde08873d7cf1c8c1946"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/animations/vector45.animation.json"
+hash = "be0522f35b8d33ea6368274ba6a8de81d34cd96563c64ce544381ce897cce611"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/extended_mag_1_data.json"
+hash = "b5298a7c1b547aabbbd609e9c23c6b92c02dc24ad06acfc8717350602b1e3b28"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/extended_mag_2_data.json"
+hash = "d33c299c85ce7ddef2e45a74c0adb8e4d285bb78b7449593ed8764dbcd942cfc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/extended_mag_3_data.json"
+hash = "bc8a65d65b458bbd062fd912feb891c76fc6d43f25d11bf8242f611aa1f7d2d9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/grip_magpul_afg_2_data.json"
+hash = "9cc051063db72b63d6f437274a876e1f89980c662dc9fa79acb1489c85d38884"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/grip_vertical_talon_data.json"
+hash = "f3fe2c12147045ea845d9c29439fae4264d7dd3a674c0086923e4b852a5669a4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/light_extended_mag_1_data.json"
+hash = "ab155ae35008c9312e47c1c158cf9c36803927030323cd59a32ca8d391fbeb48"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/light_extended_mag_2_data.json"
+hash = "db3ad1fa037798d529821646336892330f2ee59537587b9715a1774725bdbe7c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/light_extended_mag_3_data.json"
+hash = "eb7d38cd4f30edbfd31ad9186802dfba34fa63e39a4a298b9e18c3e04df00564"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/muzzle_brake_cthulhu_data.json"
+hash = "b1dd2e521a675eb8c14b903034416a16f856eb99b3b591471551f6d81846550e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/muzzle_brake_cyclone_d2_data.json"
+hash = "3e0854ed3cfd37c0cb7b5d9ef4c99d5412da95ac7b9ca8c808ccc91b88c166ae"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/muzzle_brake_pioneer_data.json"
+hash = "45469c72e7d04a3537173eab55a8c1f6eb89d6258f38c2c19444fb88b77d2884"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/muzzle_brake_trex_data.json"
+hash = "42d6a189cd87492965277769b54783708d8e2254e3271b903e38cd0b5a2b9d91"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/muzzle_compensator_trident_data.json"
+hash = "9138b5781faac497b4d53703c11d1d47755afafe1b1f9dc2c56dc2727dc246a6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/muzzle_silence_mirage_data.json"
+hash = "60e2e11d8a9698b446ef211572ffff1cbeba01badf13649f73534ddf7c7ac159"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/muzzle_silence_phantom_s1_data.json"
+hash = "c7b9981dc8b0cca1ed7587b0b2ece9cb1a4b83044b47f4c9058faf10816b09cf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/oem_stock_heavy_data.json"
+hash = "b8bcd331c085ed0eeff04bb3905c877f2f7d75dbf6d6fe39cbca110ac1c7576f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/oem_stock_light_data.json"
+hash = "2ac417fb15c72ec967372b899fcc9beef21c0122584dcb8a4c3524da749dbc46"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/oem_stock_tactical_data.json"
+hash = "fe3563489c9458b8739e6eadf570b671a83e1e86d44613c4c664be6f17b72519"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/scope_acog_ta31_data.json"
+hash = "0dbe0758404ced365cf71a28d4ee217e4ec4096de320a9e09badfff94106f063"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/scope_elcan_4x_data.json"
+hash = "14991f7e3d22d35abe1ad1eb4b33d26b7841b71e50e942370159ececc7d9aac5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/scope_lpvo_1_6_data.json"
+hash = "92d1ee99e81469de8796808007d5e0439efadbb204cc5c4a030597153b718a3f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/scope_standard_8x_data.json"
+hash = "270f4bd418c2a25a917ac705d8416f8a92b223c35b56180020a37c87890e1dcb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sight_552_data.json"
+hash = "f3baae5ba59f07c970dd25cab8c88bb0b1867973a5d8b58f3798ba7dbfbc541c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sight_coyote_data.json"
+hash = "94bd5ae9a009b70fe344b31e4c08e266ae40756cc927a05cf99f3b135581788a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sight_exp3_data.json"
+hash = "d5d19e282aab2ab70328ed5e1f2cd11ef740fbaba1d008d942bf074d2420a34d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sight_rmr_dot_data.json"
+hash = "02441147c7613244db22e12fb91b6729f363ad6674bf8c4231ac3b121560259b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sight_sro_dot_data.json"
+hash = "e0cdd8c9acd5d2ad0936650001a93bbdd21a82f6e1750fc610f34c8cb136910f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sight_t1_data.json"
+hash = "bcc207f06b857764650ce9e2deb5bcef4e6bbb7fb284878cee05078323bce690"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sight_t2_data.json"
+hash = "67bff3e291a7ad43e435bc7a903c000efadd59964d88519818e98584f4aa4bf8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sight_uh1_data.json"
+hash = "26d93ac96e6f21f406daa63ee3e36589b5dbbcd587f0ac52966913717e04942f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sniper_extended_mag_1_data.json"
+hash = "dcfb64ad01229bb5179e0cb946e4b8d479e696d91d6ac2304c8ef66335fdae8e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sniper_extended_mag_2_data.json"
+hash = "336c9de615fca3d29e9e7afbd06f6e0c14e31cff6f55c24b824840e33310610a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/sniper_extended_mag_3_data.json"
+hash = "1bb9cc47d9bafd94d7325b1ce8dbd059a2bce88038f4b8cd6ce135b0be5f869f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/stock_carbon_bone_c5_data.json"
+hash = "9525dc5b5f579c20821e4a6681a1118566e0d149a0d7b7b678f82aa2c15cf7a6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/stock_militech_b5_data.json"
+hash = "71b126713fe441005c8e47fca806ad3a5f770f33a16ef0399857a41f261066f5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/data/stock_tactical_ar_data.json"
+hash = "5a12d263258d59965288bb6b25148c6bded8710387d47b3fb1c68ec754165577"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/extended_mag_1_display.json"
+hash = "b22f5a5da0c424359603318005fee05749d58cacf72223d009fd948c4783bfad"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/extended_mag_2_display.json"
+hash = "31d9fb652fdb658ebe3ece91656287712184aad9edb159507ffacd4e8caa79a5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/extended_mag_3_display.json"
+hash = "4fe5755c89bb1ae2f6015f9916a3ecda0e2582e8b336c0d490e1ad3fe10a341d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/grip_magpul_afg_2_display.json"
+hash = "15c6c98c98e214397e6e7150276b42c451f60ab9e0458fda000520896cc67abd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/grip_vertical_talon_display.json"
+hash = "061602563c374e98eece7d0f922fd12d58d097ef77820d820971679714008a0e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/light_extended_mag_1_display.json"
+hash = "b3d7fd20e4a4b0685c0f0c5aaeae6692ac9badd8fb1343fea9c89096dee12abd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/light_extended_mag_2_display.json"
+hash = "549f19fde98ff64184b2f0e64356bb2707978a2ee51b8f40972de2ab72e83c16"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/light_extended_mag_3_display.json"
+hash = "eb9a7bb771c7f00370437203ea278b4d7158ca05ce505680ae278d12f822cc75"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/muzzle_brake_cthulhu_display.json"
+hash = "3e2f49ff72149e6ef566fbfc05a4f80eb91eac71f01313f8cc8e540e27840555"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/muzzle_brake_cyclone_d2_display.json"
+hash = "4c50dc33e1f2e3aa661e32f2e3a5d6c4366afa1f5a6c011f35a710afb731430b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/muzzle_brake_pioneer_display.json"
+hash = "46431d8b9b408937007201098bc3542cd78f9ef99e1e3248618c3b337a6fa428"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/muzzle_brake_trex_display.json"
+hash = "24898e8a6bf4065f964f1c5c7e19258b4a0ed71419a487c84294384afcac9c2a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/muzzle_compensator_trident_display.json"
+hash = "3bb0e015a1c6bba62223e64aed02b492bf798f6bfaf9469e66e918837ec88749"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/muzzle_silence_mirage_display.json"
+hash = "609f701f355c6c02510a4fcf09b93e38137c4797cea344be1aff2514ab435988"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/muzzle_silence_phantom_s1_display.json"
+hash = "c3c1778b4c285f0391f9edf2e48ffe8d1d14e5b454dbf230cb3df20535352a3a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/oem_stock_heavy_display.json"
+hash = "8bfa371509bfe696ea003abcbc26b6fed4b507ff4033d45d2c8ab2f0bebe242f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/oem_stock_light_display.json"
+hash = "83d132e4d99f304647cfb2a38a215bc5aba08b27daea871c7ef81d7eea185948"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/oem_stock_tactical_display.json"
+hash = "59e42c1829b2c806dc72ad490d457e14f72fd6388545000c02b23e345c331895"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/scope_acog_ta31_display.json"
+hash = "105d1ddb293be9411272bdb81c1e99716d7bdfa4fd148fc85aaa366558d8586a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/scope_elcan_4x_display.json"
+hash = "aced7b3209dad9484b450a2320361868829a1cd579824de29a2d7e0bd96cb69f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/scope_lpvo_1_6_display.json"
+hash = "9fc86a2e2fec3db35ce93b01adcfc373043348215a286f339b38ecb2bc6d22f3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/scope_standard_8x_display.json"
+hash = "5de7baaf6967b74c1756c2bfdbc18a26e81c7f34eadefd20f3f09b3737fd1593"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sight_552_display.json"
+hash = "5a91b2e278ecb0e88f0646c96f71de083995fc1476f654dfd0b98d35b2cf77a2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sight_coyote_display.json"
+hash = "89299e6e843dc3c35f9dfd91e8714648258c2ff29bb5c5001ade097c71313d89"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sight_exp3_display.json"
+hash = "c47b321e74e906f6f1e5b072ee268d2828226cf444d33ba2c7dc1f441a8d9dca"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sight_rmr_dot_display.json"
+hash = "bfc6119003099346fb497ca6a26c2f0baaa31f2e828527ba239fbc433f1398c9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sight_sro_dot_display.json"
+hash = "2fb231017527aaeb3ba1cad4c223236222ae32602c0afd6c6a6e2513789597fc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sight_t1_display.json"
+hash = "51285ed972b341e8b5f97fa62d62b616a9d8d968375521e31184d920b4bd7fab"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sight_t2_display.json"
+hash = "dd49a7c85e24a82c8e52f53f74d22b40385d58162564af6c1ca4afb95d9ec9e8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sight_uh1_display.json"
+hash = "5e9d4ad88319b3c3ae18a12ea9a8ab4f5a8ea7dc46fa65991c35aa91f99c5801"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sniper_extended_mag_1_display.json"
+hash = "686a91c1358d71b248d75fd62154996d26c6cb485cc53b558a30fe6eef026637"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sniper_extended_mag_2_display.json"
+hash = "085b90de80888a8e14bf11fc36946ec1ab07b01939ca0ccd2ea277632b41659a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/sniper_extended_mag_3_display.json"
+hash = "1cc831b4a0da698e85348778713345a58c13202420f9f3d66839fe9a903bd505"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/stock_carbon_bone_c5_display.json"
+hash = "3aeec300fbd1892b060360175e122748efca477c961696e6fe1cecd419ff7aee"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/stock_militech_b5_display.json"
+hash = "6d87b7a07901c67b309b5d3d2b4eaf6331c2c1c4adb35e0e005c41ea8dbec48e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/display/stock_tactical_ar_display.json"
+hash = "4a546f2125bef6591c30e162d7aadedf7273099b5997972143453281281db5eb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/extended_mag_1.json"
+hash = "5700e02d361c4b860e72941f443a7772ad9f1261bcfac6178e174179546e117b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/extended_mag_2.json"
+hash = "6ba449ca9c3e9ed7c2e3e14616ebfa7c0277fd675cf4b58ba0de8876cc08218a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/extended_mag_3.json"
+hash = "9ff3116976800d885c1a6adaa2a8ad2ac6b656b08ad1e892e389eb2ed18074cb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/grip_magpul_afg_2.json"
+hash = "5bab2614b3a4b8fd59586bfcbd8fdac091e87b7264f7639fa21afb26730de531"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/grip_vertical_talon.json"
+hash = "a02c4bd8f7f4798c4215198234bcfe6dba2c2bbd67f06cfcf27f311ffca328bf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/light_extended_mag_1.json"
+hash = "7e29d852ddbb94a2b4ad6b498dbedffb6c5af321cccd47e8d010a683a827ce9f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/light_extended_mag_2.json"
+hash = "14dec2acaff0b5b14b4fb4f94dd77c0f1ae66d13547d556f6170d9ef551f75a7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/light_extended_mag_3.json"
+hash = "df51fa4f658f1d3c5ee873e10700686e53e3c374a2d0d01e76d5bd320cf94c54"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/muzzle_brake_cthulhu.json"
+hash = "5b61b3c4d622b388b6a0ca7300dc51b6b3700f6e9d085680ad98d13c8e4845df"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/muzzle_brake_cyclone_d2.json"
+hash = "ef65fccf9a92a1a7cce13aebb947db8e23fe6f7fd7fe0390491029641d75d6e1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/muzzle_brake_pioneer.json"
+hash = "6ba95db8d03b8db3100f901ddcd7e423acb20c2b2481f8c1a69e148be616dcac"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/muzzle_brake_trex.json"
+hash = "7527194f48d10bb490dbc34d0081ef512fb686c6c410d84f9db0846619d85865"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/muzzle_compensator_trident.json"
+hash = "8f537a775489afea083bd4598f92271d19d16cf8af6be1a282aec8bf5673926f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/muzzle_silence_mirage.json"
+hash = "8bc870f0423890912f8971a27a6d43b2bb367f9108e4d9f4cafc4f74dc4c0d3e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/muzzle_silence_phantom_s1.json"
+hash = "af0a20188a8bcee1997144c8c2423d0b275c9e92ad0e3ea8d2a1b44a62742d1b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/oem_stock_heavy.json"
+hash = "61c944cbd850f234e8df51b953b4e43dd7b0137e82035c4c2c810ab048285eeb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/oem_stock_light.json"
+hash = "a543030708e7ced9059f4a814b0a276214f1d081d4b478aea4f2d9a2bcf2c6c5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/oem_stock_tactical.json"
+hash = "1fdc4e7ab9d05b6147213dacdff12d6fe5b293e72fcd0e10c78cf40811f369de"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/scope_acog_ta31.json"
+hash = "85b7f20eddae14e621dda8eac2fb97f9a73a46003f5d4bf8dfe278276a469383"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/scope_elcan_4x.json"
+hash = "c53f56f205a819221f5835551e39346a2ff251a787235f541a3f3d737b1d6533"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/scope_lpvo_1_6.json"
+hash = "aa8997d399c879576210f6d908633159e8037e02fc8149b7ab950743cd8c9568"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/scope_standard_8x.json"
+hash = "72c44db1a9c8fb0a9be87afbaadb3df53e59b7529cd9c69269e537e49dab7ccf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sight_552.json"
+hash = "9d881788297e70900a70d84300d4817913e35fa00d68bef42c976c5ef4430473"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sight_coyote.json"
+hash = "d88bf7d0fe76f470027d508d309340d09a77f14294fbe2c88d0456736ddce223"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sight_exp3.json"
+hash = "665dbf073efdfabfbcf3070ab37b83ff155d7ccd0c8d19859b139496f7c58b9a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sight_rmr_dot.json"
+hash = "9df86d3398edcfeebf714907d1958d346c3b3662f5c3a5f9a3879e8a9fd9c555"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sight_sro_dot.json"
+hash = "782a37c98177668505fa6528e1320d71694344766284d9be0c6c9a0b8d95e71d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sight_t1.json"
+hash = "d94759d7ddef7ba7752c7ec54b3700398ab803533e7df625b77c3e4b16785901"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sight_t2.json"
+hash = "620ae988c8637a59c43ca27577b6c61f3647b384af82637b48202873b3797c62"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sight_uh1.json"
+hash = "33f91c32010e01c23a3b39fa60615f710f6d92d77ff14dc7b9b6f6039682bc74"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sniper_extended_mag_1.json"
+hash = "eb8be82a479ef192c1da1e3c4d53aada46c1d559b412906f03c97d5489c98908"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sniper_extended_mag_2.json"
+hash = "f9ab1fd7aa71af2e33cfdc69ae4aab85bf1fbbed4f3d3b370374e4bd2183fccc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/sniper_extended_mag_3.json"
+hash = "319934d6db44fb2e5d5673d24942e7d09bf085d2ab03544bdf2ccc3201f891bf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/stock_carbon_bone_c5.json"
+hash = "5a913e7cb6947ceebb0686555dc0bb8701886a261b5508342d40fbec5e3e41be"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/stock_militech_b5.json"
+hash = "252b0dfbbdc2745584f6ac199ea6f92d1a47ed75ab97b9d579c476e434d4092e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/attachments/index/stock_tactical_ar.json"
+hash = "8ffd57daaae1ac58354c644e26544cb1fcad227ae4c4c645d167b6051d42322a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/ai_awp_data.json"
+hash = "6076ab501e030f21502d29ec80b934464f9f371e9302e8bb3fd69aa22b10f71b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/ak47_data.json"
+hash = "45a464ea6f89c53e717e81d64d74ba2de083c25a49967a5dc0e4072c9a410f70"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/db_long_data.json"
+hash = "9a54b75ad301abd6d7199a57909d8386af90934b576ad0485f193f045654fa57"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/db_short_data.json"
+hash = "0e7733c9f7c2d751534125014e7d86b913ef166e3a50abb22be5881f06efd5d4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/deagle_data.json"
+hash = "1a80606ad336a9f9d98fc5b8d6932fdc08a6b2f2d1183c7f3e6f8a712ed1e63d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/glock_17_data.json"
+hash = "823922fb7833fcad5e9f8230e51d8042a8b34e22c99a49b62d079a0c3e266016"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/hk_g3_data.json"
+hash = "f7105eaa86ae511f0adf77f7e8d4afc2ab3a86f83fd4a436d45834bdbfdf41a5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/hk_mp5a5_data.json"
+hash = "794fce2fe4fa60c85d958e127e0cfbfcd98d45c728a57998c8c07bb2ca6d5d40"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/m249_data.json"
+hash = "a5ad65bf367d7d10cd14f62bf1eec91cb3897621de57384c3b09b149d423cc97"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/m4a1_data.json"
+hash = "74332d778ffd25a156b8567d909435eb3e7586415d1b23bd818de598bd777fcb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/m95_data.json"
+hash = "d2b8aeef111c9b7218f5a6c9fd0c80a33f01a5316bf2214e8adff1a87d93d217"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/rpg7_data.json"
+hash = "120a3168acdf62d2890535c6bbb62ded7ea2e2e93d84ec0faf76d834f265c395"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/sks_tactical_data.json"
+hash = "3c50cf050349b4c42f2ad36653d8808cf4313d82c40d33e5bf24e014d1c23b2f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/uzi_data.json"
+hash = "90bfb1647bb6a6715b16fb667b1687234275a6c988f2ef02c65dfd316c016321"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/data/vector45_data.json"
+hash = "6074154469158667c525e55f8e6e9324151ead8a1f24a5d5f39f0a96f841df73"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/ai_awp_display.json"
+hash = "6e279089969a55744fa36d7e8a1afb1d0c0930c312c70ac64d88ae467ad8de63"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/ak47_display.json"
+hash = "601fb04bbbabaf6961e440a47166d471efcd9f6de215cadb1b831a3e6ad356cf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/db_long_display.json"
+hash = "77d72fe6fb2a124cf62fbad6a471b67c1b28f4c59d67fcb47fb8234ed616aaa5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/db_short_display.json"
+hash = "578ca36750510fd7dd72532825691d98b3171a40d85286e532eb2def9d1f4c7f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/deagle_display.json"
+hash = "05386187bae46ce85697c3021c9600d42807cfa49a75e7d287080ee459d81326"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/glock_17_display.json"
+hash = "4f7ce709fcf09f8ef16410df2c9a4cd5a2f2f86364c1471cdda6f830060bd2e4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/hk_g3_display.json"
+hash = "0df69f085da657f04d08da57cba40491c7a745801d473019d45433cbe61dd3d6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/hk_mp5a5_display.json"
+hash = "ec94740ae946f745857d18d62274b7d383df2c0d334608c3662c6a01093488db"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/m249_display.json"
+hash = "25a493fb1b9dd7ad266e46da8b61ca8c7468504315aad44b471d2d12c64c2573"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/m4a1_display.json"
+hash = "632b08baa442f074c90dfb37a871e54d0e66b7d55681322ff0aa2036c0bc2df6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/m95_display.json"
+hash = "b684d5d88da342bb7c27b2ce80b56828334cb8e5735fc03d5e7b96102e458ae0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/rpg7_display.json"
+hash = "ad4bb7702dc628a257587e9d6c06c7eacc55e35774e62c6ee901de45e978dcf7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/sks_tactical_display.json"
+hash = "d7c4dc7605f17eac76df8df9e540ce20ba845c207bd069dbaa8f2067c3eeb796"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/uzi_display.json"
+hash = "2af6ff7cc6f337c1eb7e0a50e97764eef0cf105f80b98002beca90f8297878ca"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/display/vector45_display.json"
+hash = "0e307803cc0870164ec74b65bddb00705b8a9a0a9ddec26453227fe826e2af9a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/ai_awp.json"
+hash = "614db116e997f82acb9c0b6ee25eae72dd05489c8e7e24ee6eb7afb0793e2975"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/ak47.json"
+hash = "dd56559443ce55e741729be4cda74febeb434028b22577450a8e1ddfb64f7201"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/db_long.json"
+hash = "f7a47ea2266739240d305c6d37a49d2c4960213bec2f2050de292fefddfb9757"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/db_short.json"
+hash = "6b521eb835006e7bfa07d2bd0c299fd2926c35e9b7f3e2e620a929483c9fcbd8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/deagle.json"
+hash = "5134df9dcd5a2b0d9e036cd844953b99535bf87db1aa1a6fdaf2858f3e4c0734"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/glock_17.json"
+hash = "19e84a798c80202789d373831f73569a048ff63157cbd90f6bab367c546b9116"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/hk_g3.json"
+hash = "5ba3cf1e785b83201de99b8ae8af670935e5252343c89ec1ca00c4bcd2bc4deb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/hk_mp5a5.json"
+hash = "214a12a3ed601a74a816a61d684ce9c4ad3bfe80493d7e39110cc42f4113fa58"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/m249.json"
+hash = "a0290ce80205578cc0a2823f752a7467dfc1dc855f49f6d18770ce3c95ce901b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/m4a1.json"
+hash = "216cef009e2b4f3230c0b42e9de7af4f65e35eea593f67b8471ca3c57cb00c56"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/m95.json"
+hash = "08ac7d0ca95640110b901a75373bcd72c2038e1ae27ffcb52c58544418f455bd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/rpg7.json"
+hash = "2cd0b974d1d76bc480a9071ab43da5122892a9cca5a91b43e76dd6bc037f1048"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/sks_tactical.json"
+hash = "bdd46acaafd04edd13a16ea4b065280318950032a584a3420f6de9159be4153d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/uzi.json"
+hash = "fe62c9bf288bf496fbb26721af8d9f5c900c7c1f5c51f69e9fc46421f9424853"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/guns/index/vector45.json"
+hash = "95fd0264b4d3505d248d98c2e56c3057f0e16d9e1b850e101f4aea190b33bad1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/de_de.json"
+hash = "fd9443b1ffe00e46abbbd95e54de8e720bd9b7d20ae77923a5659e6fc9b29844"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/en_us.json"
+hash = "f3c183826b976d0e89d2139541a051e5771ff6bd8fa17aa03d2aeb14a8d5c511"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/es_es.json"
+hash = "b5b4dfab3921ee52cdff9418b4550b686d6bda81d55d015381cbce59388ef330"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/fr_fr.json"
+hash = "1fc9a900b3c71f6511a05d2ce53d87a5f5b9a0ea367d6b0eb20f9e45e7c84ae9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/id_id.json"
+hash = "a39261fcb3cd4511f82dc43a77f9b7464712ac413e6860a3ca9fb48c0f07f5cc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/it_it.json"
+hash = "8f8d3250f56175d914bc64a089e69c938f8c0c70e81dd6193085ef123171fd5c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/ja_jp.json"
+hash = "0e7aaf4e05567044ed994aa07c08e6f18279606b50e884ded2c5e2711ece9a97"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/ko_kr.json"
+hash = "2d568f6275e15f75fd9993fbdececa465b206af366e6311fa73ca8f31d8c8926"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/pl_pl.json"
+hash = "ced0fb2ed764e743281b01defde68b97d94d49e81f5af09a9987d8d459609887"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/pt_br.json"
+hash = "7803ffbc32e963e7d12a3f2c42b68a7bc2d2e4126588b37189dcfa4469e35265"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/ru_ru.json"
+hash = "8429d8d4b4074907989b3d9d1b02c0a03c1040ae11fff866d32bfe8a819df749"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/tr-TR.json"
+hash = "30ac277dd0477de197bc694531d29f3d3e5eb788bdabaeafbb37be4eadda7cc1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/tr_tr.json"
+hash = "2bae0ae83e6a7922f908ed60e792bba2aa448f13e6fc1644f41b334e3fda45d9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/uk_ua.json"
+hash = "d04e553c5c7a738b1fd4824619c4c2e5122a0b45a2a3c87265ca4704809d735a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/vi_vn.json"
+hash = "66eb89c9959467c24fb8aae5d2fbb3dc55bfadbde5cf469418d50301b2c1c5db"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/zh_cn.json"
+hash = "c27df7a2c4a376d65f398bf9dd70e15ea55f002a6443922242e4d5dde95d4fec"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/lang/zh_tw.json"
+hash = "e9c57c273afa6ecc38ed16134efb601673dadb9e3c780b3696f8a1d4963d4817"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/ammo/12g.json"
+hash = "f13b31c04304a9969e20566cdfce3b8e24fb0fc1d30be457a3403d5e5e20fb43"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/ammo/308.json"
+hash = "4d9f3683ee63c3ec623b9c12ea19e267e342e428250741418278388ab5df4512"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/ammo/338.json"
+hash = "9db09e7dc70259f3a4b92316bf685255e61897bb308f112096e436312e81bff9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/ammo/762x39.json"
+hash = "896c0410b696465b8f1e3d7c8771ea1bc328d2013340e0c34a58566fbfc4b67d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/ammo/9mm.json"
+hash = "84812cb4dda7a5d745dd4e5bead826b4f87d9b9fdcb36025e031e488c8573781"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/ammo_entity/rpg_rocket.json"
+hash = "b7a7dca0d8f7e569425dfef6a06d44b5a1b95d035906dec7735af2a7c46b7b55"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/grip_magpul_afg_2_geo.json"
+hash = "b2a70ad0f224f6f112b34a164851de2567ac897d68f8821921ee0c3971a84c21"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/grip_vertical_talon_geo.json"
+hash = "9e6b9eacc73363cf108bb39f5ae6027bd640ab0041e39b6dbfefc4d933a9116e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/scope_acog_ta31_lod.json"
+hash = "1f46bf0b50adb6345af26915cf78ffeda7926a1505c9671c09cc05e8b8f6eb3c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/scope_elcan_4x_lod.json"
+hash = "d5a3f4ad7c7e8b493ac7bef6f28495d8aa1f6b625465ceeaa868ee9e324f20ff"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/scope_lpvo_1_6_lod.json"
+hash = "f632ba755453cb1fc7004884b14c98ef883a482a354f3cc54d5d12d00bbce5eb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/scope_standard_8x_geo.json"
+hash = "13823bc66e897fcc8e3803c79e437e8a0efe1042e3a47309bf283ec248ee0020"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/sight_552_lod.json"
+hash = "aebd360e4c45fc25b341beeb212de70e4971deb37ebb298cd113bbc458b40e60"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/sight_coyote_lod.json"
+hash = "7ffd419d2adebaf3ee64b01c556916111c37e6f9607ea6df7a965a198a86b94d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/sight_exp3_lod.json"
+hash = "56078ef628dd2c2e53c37c613fbeca5718d587c6d65ceb2c7cc52414132061ec"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/sight_rmr_dot_lod.json"
+hash = "31e024b644691357f0c16a47d819f832b4e060e5f6a85336d311b607e564edad"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/sight_sro_dot_lod.json"
+hash = "2158db49d21fc5933e5c18035c9fb0f63f676c53709d831c12e0d05d826cdeb1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/sight_t1_lod.json"
+hash = "2b05919118792d71eebc4d490db4d13fd983735f17a1cc3517f41e53a07b4863"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/sight_t2_lod.json"
+hash = "a95aee028fbb78212e46c2d3101d3d70e0a20373689879e1ca03b54887e99fd8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/lod/sight_uh1_lod.json"
+hash = "dea0e67441c3eac29f3c3d647ddd04238db99ca151a5df5831ad4de4592e6d07"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/muzzle_brake_cthulhu_geo.json"
+hash = "5d691fd6281ad8ffd09d3fd7d39896a25f1142a9251403e8bc47f5dbbf20132a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/muzzle_brake_cyclone_d2_geo.json"
+hash = "000d931c89eb9b807c89f4a32892ecd8e70a129609e93dff5cb7e7e222388cae"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/muzzle_brake_pioneer_geo.json"
+hash = "59cd35749f2ed990d044b59c95ddfea8a72c56af6df2c19be8fd7bdbadb72d01"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/muzzle_brake_trex_geo.json"
+hash = "da6ef11dd66941b6ea101f68beaefeab7663a8572fc1a6aa859efd2af3057a7c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/muzzle_compensator_trident_geo.json"
+hash = "abe4fff57baddcf6ffc71310dcd89e8ffc569aedc1e4128eed9795dd58ea7fad"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/muzzle_silence_mirage_geo.json"
+hash = "47b2f91a992e92f5bc8c351d8825448291978621f92976f5af20c8f7e0cc74a2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/muzzle_silence_phantom_s1_geo.json"
+hash = "2677840f26e25ccb49c0f1497fbd4fedb65e596e597f388143c75893e455b250"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/scope_acog_ta31_geo.json"
+hash = "a7d6dc24d004ab06ce1cff0201744cb2de6ef1044379bf6b8f3468a221c2bedc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/scope_elcan_4x_geo.json"
+hash = "3a6c83db0ef79ae1de1d99ae9fb011040dbb3a2a5d1822a08cc6e6813e754a0e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/scope_lpvo_1_6_geo.json"
+hash = "c5c0479529315e8136b45722e0c17584abb1743e86c960377fe23ec0113146cc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/scope_standard_8x_geo.json"
+hash = "2cd880f4e04473ff2d7e0eecbd8fccd7b1e2fe0fd1272318e41c266f37df3ee2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/sight_552_geo.json"
+hash = "b8e6fb7ce7a89cf88accab77013f0e465aa3d5a11632499404418dfd491c60ec"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/sight_coyote_geo.json"
+hash = "7ee8303e16840803b1b45aea09815f53e2f3de2aa583a3ddd228cc9ac443d5a2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/sight_exp3_geo.json"
+hash = "8ebad8779bc91cba807efee14472450343e857dac9876b081f19950c4474ad3d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/sight_rmr_dot_geo.json"
+hash = "133cc20d002a75e10afbe419fb300c5a38a4d7c5526b4640bc61dfb786c184e9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/sight_sro_dot_geo.json"
+hash = "e4a74781e83b3951ead6e1231a90e0a7904164d9af33be7c4b0f48e4e55c378a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/sight_t1_geo.json"
+hash = "ef99e63ca1f05aecacc8f19c6482b7dfc710614515b6d91fdc6457754427d0da"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/sight_t2_geo.json"
+hash = "95324732761b54225fe7be29ac92ef5c885fc911a793fcac0b4c56f767c28bc9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/sight_uh1_geo.json"
+hash = "ddfb06f87521569199df98d3b91110d25cc6824dbc1efd592f64eaba6db918e2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/stock_carbon_bone_c5_geo.json"
+hash = "874150e0c0da079a57aa20a55cf57c2d7503c32fa75dde2f801dc67db2463719"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/stock_militech_b5_geo.json"
+hash = "95d31ca6dfe301e423c6c3df2eefa1f4476bb622313078b5e3daf3d93fff4823"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/attachment/stock_tactical_ar.json"
+hash = "240f578ce3c4e1c9c698baee79334d7cbefc17081c5697fcf0ca6177f326e55a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/ai_awp_geo.json"
+hash = "51ffbc4e5cd9e7b2d792d362ab474fd56c8949cac81cb41f0498395d5e96a185"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/ak47_geo.json"
+hash = "eb2bba7eec80a4669864ace06a514b831c15b67ddbb36c99847b24ded9dc0ea2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/db_long_geo.json"
+hash = "942e3819a7fd33ace2f0f4d7c24075fe269ecbfbe5f7df44c9c1a78c0311b96e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/db_short_geo.json"
+hash = "141de9ac78bb5e79dff4ce55b81cb8b6df5049a030a0c57a4fa6f3b374040ed6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/deagle_geo.json"
+hash = "da58c7f0ac33916bcff7a5a5641324f8a17f11fd946caaf47c591a8e9ca21021"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/glock_17_geo.json"
+hash = "cc145fb466ae6e3ad7d49453c4590057df568095698402a6fd6481f62be4bd58"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/hk_g3_geo.json"
+hash = "218a55a2b5d727cd2c60d2b04317e04e5764befac37d5df57061c41a21730f84"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/hk_mp5a5_geo.json"
+hash = "b6f7f735923c5208245a65a5f97ce81d8ed6669023699b68492ba6b3e2e44836"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/ai_awp.json"
+hash = "f8939288ed80b3a98d0ba051da4524fc5565615c7c57074a31d075f5106913c3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/ak47.json"
+hash = "63be858f3e2d650e2b2427ca7778f6c5aa852d95c2e31838414fcfb2bf61387a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/db_long.json"
+hash = "13d91ef5fada4dbc6a9c91cfa90b36550da7465c6acedda244daf4a33ce7fd7e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/db_short.json"
+hash = "e62e1c391ad692229249712a39ade262e117b544735c821c65cedac04b53beaf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/deagle.json"
+hash = "7564c19d2655051f6e807f804a2e02f1ea6b4014937773317937624843145c87"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/glock_17.json"
+hash = "5abafae3c63fd815649488545599fb5790f9e8fe333fd333c220c9e0d83e2423"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/hk_g3.json"
+hash = "10ebc0b5db8cfe35242da657eccfdb083b8174dddf81bd29d54f2317a8b13455"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/hk_mp5a5.json"
+hash = "838ffff58f77a681058f2235a5d53f7e034886ff571ad01ee7598925dd23d18a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/m249.json"
+hash = "926951a244651e8151b9b5207c81c3f599d681cd72527748c0e55bd4654009f5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/m4a1.json"
+hash = "d8562f37b4fd1e533f2a90cfbdca80c8a4e15c173419972526e8ad7927d5318c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/m95.json"
+hash = "45253f67ed948dc3b7fa23e4f47050dbfcd2f116b84eb3f5c01197e3d7679791"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/rpg7.json"
+hash = "c711d2e6d641802c99f538ed15ae2fbd61d36b3b40afcc2440999d8be38cd379"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/sks_tactical.json"
+hash = "efa8cdc2861412b368c0cb8d1a53304f35ae874d0ea5c670fa6b05854ccff72c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/uzi.json"
+hash = "31c721b5f846aebf597a3b6e2cc94bc4a8b0b78ae8be4469c61d90b6c2c30808"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/lod/vector45.json"
+hash = "e89158caa9df962aeb6b78897acecc695ad00e797edaa3b14523c2f07f763fc2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/m249_geo.json"
+hash = "e43a511635a8521462fab66124b957c1c61defe21cbe450a556fef508e93728d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/m4a1_geo.json"
+hash = "29a9d9e0eabb7a9057eff723037f611f7f38f3fef7317f4119aae8e9afcd10ef"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/m95_geo.json"
+hash = "8ca85002640b282d8968f34a6b77d5a5f113a23b52bb168d9b8d054d3f6c9a66"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/rpg7_geo.json"
+hash = "a5564c496234e01f442dec59ed94eee12aa84f156fc62500f8b22a755b652caa"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/sks_tactical_geo.json"
+hash = "7dd13c2d98109575e0fadd2a6e83c133b4ee72ee6b668a0be44bda2b7afe6d6c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/uzi_geo.json"
+hash = "a01a2e15a6b7cde26d145bfae1ede8bb3730eee59645ae608f3f23ad8a46a9ae"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/gun/vector45_geo.json"
+hash = "a5bf235c9e1ddf5b04ed0a36e48ab8640d848799b26f0a9d2730d129fc0d8059"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/12g_shell.json"
+hash = "17bcb5fd2506dc1ced331db0ecc95db638e325260c1b2c36b6d2f344c6687dc6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/308_shell.json"
+hash = "8bd900936f9271a6cd984964c58c14f54b2c8481c310a0b970e1c670297b74e4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/30_06_shell.json"
+hash = "8c6778ae317a5df694058d239831badb464b771b4de82fcb8d3377c5806815ac"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/45acp_shell.json"
+hash = "eae9b8a460a72b7bf5ca0517b9073324c2023eeab91ce9a53e7a74ede107e907"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/46x30_shell.json"
+hash = "2a18f298e483862a1d30dac114312954a424da398040392ebb6c0ad42793688d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/50ae_shell.json"
+hash = "738972afbcd6c67b9700d8ad4079199094d50ead05f778bdb382e2a9f4ad4d03"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/50bmg_shell.json"
+hash = "004fbc9fe3d4e36be333ad3906cdad4f2d487b2eed551cd16fe6db4555257e72"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/556x45_shell.json"
+hash = "8d7a59a4225ac6183a2c04475599241070cf9e2650d68fbb50239caec852e4bd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/762x39_shell.json"
+hash = "8926d2b9a383bd983d33e5d273b2f738c9cc3841b665bf19b0cbb6da04eef1a2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/models/shell/9mm_shell.json"
+hash = "cd33f5f5caac581bc02b117a6cb32a79940ec773ca414ebc0c096b101305d9ab"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/pack.json"
+hash = "b11dbeba3b2fd5cb21f0c1eac0c8f44460bd2391eb8a3dd32e278d8619275237"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/12g.json"
+hash = "adc5c10c9232968e996d7a327cae72595c37822807f585dd528bd62a5ec884ac"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/308.json"
+hash = "5fb2178d6ebc8ad8fff1d59136ab7e0924e3d29dc4c01f46635fc0a6e7eedf88"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/338.json"
+hash = "7c4acf28d6e9429784b966bec2319735f50979cd388023b6ce88ef21b6338aab"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/45acp.json"
+hash = "90db0ae4a8d3ec79ade870f1d18bcaad0455c19e904ae3d25a89ffbb0ad65635"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/50ae.json"
+hash = "4fa37e63d8e7dca69c0313dec128c5cb25aa6bbcf9068f76f1e19bbecdc5f926"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/50bmg.json"
+hash = "026af8705002dc2ce1806de23ffd270e216ea34370d6a106a86f531256434612"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/556x45.json"
+hash = "42ce364c5897c19b88abd67d152f77652a30d809d07dad1cabca0a1491a5a8cb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/762x39.json"
+hash = "8def32c2b3d4c2ad002f859971e3a2fe201e6b7492024d6a43b9b53bf6bfa5f0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/9mm.json"
+hash = "aa4ace7ef11bc0ba96e5ad5a493525e68a72ca9f79b154d1807d2cc041e5a20b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/rpg_rocket.json"
+hash = "b485871fb46fbff45d196a18c5331c9d762e4f2e384735d86a34a67aa399f103"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/extended_mag_1.json"
+hash = "9a05f59eb23e370ed58c93f8285349ecbfb810d684a3e072700e04094405f320"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/extended_mag_2.json"
+hash = "5c4c7c3b831aad9f38f5fb34499063f8b898474545dd827b1a2cca02bbe91369"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/extended_mag_3.json"
+hash = "32556bb8a5f02d1eb3e212b81a995888033dbc77f5b8f4d7b9c14ccdd63bbeda"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/grip_magpul_afg_2.json"
+hash = "cc45b3f4d1e80ee584ea1b9d24234d5a11b116f05d08ffe6d12144d29f42fadf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/grip_vertical_talon.json"
+hash = "d5fdb8a0c356cd534ab62dce3aea5e29ac47d30ce8df74cc2d81497f83e4d9eb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/light_extended_mag_1.json"
+hash = "9d7cdd9ef1ae71941c85a18ac00070c2c25b04bd3affd7d33f08ef65b8824217"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/light_extended_mag_2.json"
+hash = "84c5a5675b41118a6a434fa463204cddd50fc1fb347d6f341c23c28f97d050ea"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/light_extended_mag_3.json"
+hash = "608d0531ffb314ccfcff54d8d77aa7ad6364b661a0ebccf9ede1cb159761bc82"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/muzzle_brake_cthulhu.json"
+hash = "2de71a80927f83453003e78f41ea425c3e53a0d778f5cd4dfd894bca92dc631b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/muzzle_brake_cyclone_d2.json"
+hash = "12b44a1280ba51f208073d862740dfb105676b5a419160428bd65633b2be8c9d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/muzzle_brake_pioneer.json"
+hash = "db2523a5d6af13653fe472bc9c9b16b4cbc86bb9344121c228f8a3990dfbdf04"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/muzzle_brake_trex.json"
+hash = "47c9d89e8517428985ecb7ed208a3dc57945f0aa2376c325e83895f9668fc746"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/muzzle_compensator_trident.json"
+hash = "710a42fd089e930e5134c218446f1794ae516dbc81ada411555d84c8a541e6aa"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/muzzle_silence_mirage.json"
+hash = "7d010d783affc8ade44334f93bbefd584a3ac2f3afdaf4bb8e301869193979fd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/muzzle_silence_phantom_s1.json"
+hash = "7f65079b33b5950af5c8d5c8efac4c67df0837272d558bd02a0cfe5d6373f6cc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/oem_stock_heavy.json"
+hash = "b4b59ef32b32a27c2f253d73cc00f7fdf676566634b76c1a8066236542491b20"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/oem_stock_light.json"
+hash = "07e251c49b26ceb1727f4f3b684ad90c8d10402289e897189bec44b461a7a38e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/oem_stock_tactical.json"
+hash = "fe6194b523eac6b31cf641c1420ba213e413deeb6d5e1f728a46fc57a0d2fc3d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/scope_acog_ta31.json"
+hash = "5e1553a7df495d6396148a71b5ccdaa9ab1b813c0679c5a5419f70e637fe3dc3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/scope_elcan_4x.json"
+hash = "67b743ff396a945a346ee7667345fae63b9e76931d0fa370c46951080baf8dce"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/scope_lpvo_1_6.json"
+hash = "5c097c34bdd1246258e6882cd5a9fe34186df4d056303a694355cd9e0c85c03b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/scope_standard_8x.json"
+hash = "dc9ef152fc2c8da7a70c471aa3c745940d83f2d48f092e50489bb0cb6e4fdae3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_552.json"
+hash = "d1876399c30afafac7de0c1313166dbb1cb3cf04a29e397d96998d71deaad3e1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_coyote.json"
+hash = "e8d8d37f4dea8ec9e17912adb504406baf9770abc05689aa1832ec90b89891db"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_exp3.json"
+hash = "51553d8943008692911d63b3509ca3983d188d2ae723e0f6a0825577379dde24"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_rmr_dot.json"
+hash = "bd96a295b621d29cab97b2b2f87502e05eb2541c804d8a4ba3b0df26064b57bb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_sro_dot.json"
+hash = "69ba75c39058673547a39ca560bf10897904887a05cdac9555dc933b008c2bcd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_t1.json"
+hash = "f13c35fb4cbfdf7ee273b5b4db53a175be06307fe1cffd7f278c9912a2af141a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_t2.json"
+hash = "346331092418dc2960d7f65176032349c1696155edf365d0de125d9e0a16d437"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_uh1.json"
+hash = "94cb4c6cebe215a4ed2e218d502ff0dbf5dd498ef4a259fc3cf5819715efcbd5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sniper_extended_mag_1.json"
+hash = "eda3ef896d93bd784cd6b72813e7f57d172e12a0a6f817dde7ae23f4abb68c8a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sniper_extended_mag_2.json"
+hash = "a8216912bec7813bb15ab3b97b203cb41893531bf0982ccfeb37dc60127b3e24"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sniper_extended_mag_3.json"
+hash = "29dff77a75f3021ec6c6e39767d56478230f7fb855a394b84175a7818a387bf9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/stock_carbon_bone_c5.json"
+hash = "d9143f964ad2dd1ed1c3876e2d3f32ad1cbc47c190073a44f5b4e1c2554142e2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/stock_militech_b5.json"
+hash = "e8d262ab221a1264159597bd4397dc7c5c7ee1659b2fad5786c97229eb65d7d0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/stock_tactical_ar.json"
+hash = "b14e592b7d85d4c7206e76091e4d3f615c1784e1d06aba93489cb2c2c27174d6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/ai_awp.json"
+hash = "8d3f3835397d8c0de0bf7982b939115cbb440ffd502eccc3c681ed731d52da6d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/ak47.json"
+hash = "76e7ff949185fd96728d80dd6b5da433402af0fc02eca0d75eaf8dcf22c2e9fb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/db_long.json"
+hash = "d4c4abbf3639981727da008d0962710a480ecda5746e102c4a6ddd893cefd978"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/db_short.json"
+hash = "e0418e519945175cf366de16254eb23093ce1d0a44b1f20a164fbc72c2236ca5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/deagle.json"
+hash = "f99843c4d4edfbeb88ac0c4e672b4757ef7dbd12c057c9392797bd822e06d95b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/glock_17.json"
+hash = "8d881cae0b12f0ce6c6b9dcd1796c41aae25fc20d6e3b1ff8bead54822c2363d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/hk_g3.json"
+hash = "26dd78c6e5f049ffa2cb9832383dd32bdd98fad0ebf98333ca807905ef924522"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/hk_mp5a5.json"
+hash = "ab2cc1b9c390cdee0922d52bec2bcc3b4cbd8eca34de4a39e74d6f88823ce6ff"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/m249.json"
+hash = "1383fd7796eb3d54d01e91a409f97099c4af43861e59601587e17797663a69f0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/m4a1.json"
+hash = "10850c50ebab4ebec8e96d2d4eba45bc502e6cca0d5d59ab72c7b72639c0f51b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/m95.json"
+hash = "95254c930d277c2a2a2f83cfcd058cc4f6a522664a89e24d72856ec9cc65f911"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/rpg7.json"
+hash = "a09c8d2b188ae8d61e7d02068dcc58599947a83db687a676155ba31af1f74b0b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/sks_tactical.json"
+hash = "b22d1441fe8aa9b8264f58b13842754c8e893084c379ee8a6da281743f025e41"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/uzi.json"
+hash = "c9a667ef6d34fd66168728fa261148747be768f54eb7b9d6fdaac236e6cb2149"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/vector45.json"
+hash = "ed8ddb0c0535d10f650706e382dce8c242f9d8d386d473387069541e8310026a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_bolt.ogg"
+hash = "c54c527c182020c672b940cee2d07fe14104ba46b8f0acdb59e41e3f5a1abcfe"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_draw.ogg"
+hash = "8406f87a3096407a534d895cc98b546f530f795b5da93c0089d36690b5675311"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_inspect.ogg"
+hash = "235482942bbf9245bff58200de105b3bf281c68ca507a3e19c32683c08cd3cff"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_inspect_empty.ogg"
+hash = "ed3928d865813117bafdd8811218a659144f029e9f6d3e4677e7e87109273fbe"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_put_away.ogg"
+hash = "e65c8e541ce619472f399da4eb76360dbd1b7635e827e18cbb6d8be1a736771e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_reload_empty.ogg"
+hash = "e27f59a3a89c4012f6b4487cc0a32909a0714802adc02ef6a7532034fb07141a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_reload_tactical.ogg"
+hash = "49a210c94b1b3989220ef1d174a35ecd8967417400d031623c5dcc4b5ddc35b0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_shoot.ogg"
+hash = "ad964f8392b1a3a841e22525041d45130e0fca260dbe760ac0de969338e66049"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_shoot_3p.ogg"
+hash = "38960db1b318bdacc167a4d736da745dbe96db7008834f7cefba7375ca5081ef"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_silence.ogg"
+hash = "509b420e1ccd32ee8c2d4452a895685f326e66c65de47bba7d895c7562ee2280"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ai_awp/awp_silence_3p.ogg"
+hash = "c8c122cdc7c20bc27c90fa8f807bc095730c78e833e1b1be33445885e0e8119b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_draw.ogg"
+hash = "35b2b4f7b5b90d174b5b1e6f4162faf86b1ff4be7810058ffaa89ca18140ad2a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_inspect.ogg"
+hash = "8d1227fba8338b2eb6e1c5c310b230c08bca3cb41c3c59c4042a90f2ddbbaa4d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_inspect_empty.ogg"
+hash = "f6b70188258b22d33950063988ff686cf8bb620d3b8cdc344dcaaa68d1b3b837"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_put_away.ogg"
+hash = "3c85688f722103ca181e4148089b7f66629c5ca1184eb84b9f4109e9c1a547a1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_reload_empty.ogg"
+hash = "9c7c9058c5835dfc578bbfa07f31c6d495a11643ec432d4376b99ee3fa2d3dd4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_reload_tactical.ogg"
+hash = "5c0468db92644a457d9d248ad2aaaa45c0ad2672f031c2b95ea3def2a9c0c438"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_shoot.ogg"
+hash = "8cff0be6e4196b2d193e66da6a5427f7d05eaa5eb972177713e1922c57d507ea"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_shoot_3p.ogg"
+hash = "a91dbd749edafcd2240dd1477034121290be7a6a546fe902d92ff5ded21e292d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_silence.ogg"
+hash = "8865015c5d38b74741b40879a690a63e0dcd9b0925a07aefc417e1590b38ac68"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/ak47/ak47_silence_3p.ogg"
+hash = "2cda655de280427c4dc06b678e108a0dad8a598e52ad848a4406d8ecf875f727"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/attachment_general_a.ogg"
+hash = "072ea42b07f1bd8f00b81cf12cbc1eb7d07f941b2ec8d4690dd8c75b56690d2b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/attachment_general_b.ogg"
+hash = "e9874c8a4bb75e1bcd92887410259526159d8119022e68c9e23f3be378888be4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/attachment_general_uninstall.ogg"
+hash = "103407d28eff9ee195353a9a799f52e10e7622b881903c44cd5c0d294bc9824a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/extended_mag_install.ogg"
+hash = "f581c7f8206f13d1adcc4af5e1752e4f411c0076e02761c046abac3e25af02fd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/extended_mag_uninstall.ogg"
+hash = "22a608f4d33a715fe6b9b322daf5210edfba5ffe46ec734e500ae7dcf14f188a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/laser_general.ogg"
+hash = "5769cd650bbdc73e938a379f3a74248e08f5ac7606f8596cc96314920db8e4da"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/muzzle_general.ogg"
+hash = "7eca4473ecb4d06dad0ad769c1def36c7b05f4580c342f7c8ade5018017a1e66"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/scope_general_a.ogg"
+hash = "11ae68251db4da7608b02896d0180453e657a27ef152944ac8b8fe8c53fc3c72"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/scope_general_b.ogg"
+hash = "440c8290349730c386ef0de129b1c2a0a9dd0531c327ceb433fcd3fb3c5ea0e0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/scope_general_c.ogg"
+hash = "546869246ce513755bbd1889a184940e17e17c4fe81eb121a73ac490a6e00be7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/scope_general_d.ogg"
+hash = "6f84f814d8087d7aa7e48599ccb47bdd46d606ebd70123663849f5e104ef9e2b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/attachments/scope_general_e.ogg"
+hash = "781a84c09e33a3cda547a66d2d2659e740e483434649ae74bd5c7d345345e3f9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_long/dbl_shoot.ogg"
+hash = "6a54edb0f885617d63a78feab69acf290ed0496571c0710a111fe9764ef7c963"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_long/dbl_shoot_3p.ogg"
+hash = "bb80ca6374b1f51311d61f804a09c0d8ef397cc831cbb32fd97863564c4efa53"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_short/db_shoot.ogg"
+hash = "c3d789c7144f440372f4c88d18a3ed32fd93c974581bb22a0ad877813fbdd754"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_short/db_shoot_3p.ogg"
+hash = "2b617d7f4b46dfb4e25d1a6226f4e5097ad26bd4f61023315fbaefd05b5faf8d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_short/db_short_draw.ogg"
+hash = "11411f19ca68e44f9c04b8250ee69eedddcc14b1412bd1540d93d6314d856555"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_short/db_short_inspect.ogg"
+hash = "1314c4ce379655b7de27f69c7c4de0086f52645eb2a0fabc8d47642ab36aec31"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_short/db_short_inspect_empty.ogg"
+hash = "17bc9339d694b7fe25aca784d5801cc541f66210bdfd66a98536f9fa9565b909"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_short/db_short_put_away.ogg"
+hash = "f45caf993de463f408a5243da2b2315e5deeecec73bf8c5eb303f49752b6bcf2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_short/db_short_reload_empty.ogg"
+hash = "de56888691715acdad150477a89165d32d33db084b6d319c9f1ee0ec50722b44"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/db_short/db_short_reload_tactical.ogg"
+hash = "b0c82678790273eddac72fe3b6d074c0d0d156b19299cdd2638d670c8e068449"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_draw.ogg"
+hash = "7ec64abe7b2eb1d289550921fab7838358e7145baf75b4ec98181c71c4337575"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_inspect.ogg"
+hash = "27ef515d63a4bdf242cf45cc4d6be1569283c113ae05efb56927e01a0f2916c8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_inspect_empty.ogg"
+hash = "661e85cf872da36129349f0fda5cd5358f2ad14a487d81155369cd03b8be78ee"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_put_away.ogg"
+hash = "87e6540e55a033d54dd3bc359307a093b9626289e2f72802d988f6cdfcb26607"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_reload_empty.ogg"
+hash = "d3d8575bee0a512861f86f342d13de60673c41c045a54eaf6a64615a33f0f2da"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_reload_tactical.ogg"
+hash = "c3cff01a006ce48b4c43c7608b3b3e01840f2951a590c04a0ced1dfa8c82edfb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_shoot.ogg"
+hash = "b98d75a84da16fe1139cc7e60ad39da6a24304134f59ae516df885351a986ade"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_shoot_3p.ogg"
+hash = "f46271caffd02799f853baab0967995376d89e5646c6dfaa3dcc1c0eea2b4e3b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_silence.ogg"
+hash = "6da40da45b1d2bfd730a9b1abd2aa9ade8082bc6c1c618168ddae63601ada750"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/deagle/deagle_silence_3p.ogg"
+hash = "4222119e0088c9f60a9a05906ee5105d339d6ef39f1ba37587b7c5114145acc2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/dry_fire.ogg"
+hash = "739ba6ef19d054ce939ec7e752ac54116fc1b27ac90871e8536a71313637a6f3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/fire_select.ogg"
+hash = "ddde23c8d2fc9b1ee1ffe7d01fa3be424305b06a7e23469bb76e426636a95e4e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/flesh_hit.ogg"
+hash = "34baaa722c391f0a18eda3f3e69939603ba0fb3bcae9e2054befbd247b4d4972"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_draw.ogg"
+hash = "eed2fab4b7551d01d3b4a61c57f8baaa653901ec996849cf43ff1629b2df23c2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_inspect.ogg"
+hash = "c8a19c46e5fb9aeb05b7f0013126db9489a866336f93728f69f957a618c6f70a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_inspect_empty.ogg"
+hash = "82ebfa88d36c1621765af91480211e2a524489882be42483bc9cbbb4fe6333b5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_reload_empty.ogg"
+hash = "99a88231b63417d4c3253cdb12ded2eeb67f1e7ec0b7a87eec995a99b8535bf9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_reload_tactical.ogg"
+hash = "58fe19062a5e4e79cb5a77953e32430b89bc840a6f01c2bcf76a582400487bbf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_shoot.ogg"
+hash = "cff1828baabe743ffc3edc88890c4fab4c3a304dfef2a9af822d43088cedb31c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_shoot_3p.ogg"
+hash = "b76e2d43b3cf73d9113aa7ae071c588bd224ecca5fd1e673b99b1dc4c5088b26"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_silence.ogg"
+hash = "0f24ecdb4367100ed2e1f33416e61e184987b613e287c2a4b4493c90f93f34be"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/glock_17/glock17_silence_3p.ogg"
+hash = "ed708417b4405b44a59bc9fb349b56df2d7bff51032a262a627ffeffa30b5d37"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/head_hit.ogg"
+hash = "4b45cb2a817f65024ac9f576ea5bd7bbe58d699186ef5367547dcb26fca11051"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_draw.ogg"
+hash = "c3a022b6c51ddf4fc805b6a6f28aef4f45760e0461b24d4f008bb166df02bf30"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_inspect.ogg"
+hash = "a13d9e990e0fad78c608437c4ab52d46018852651213499e6b9efbeaf030ea99"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_inspect_empty.ogg"
+hash = "53a861afb488cb3fe14bb4c39727e39bbefdbdc5bf0699deb14804e259cb97e9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_put_away.ogg"
+hash = "295eaad32db34bfaaf5e2e763fda2039873f069741696dda5592e2bde9a2a3fd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_reload_empty.ogg"
+hash = "c124887b93ae51ecca17691a95422ef31f6425d68404b4d56ff443bf61ee305a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_reload_tactical.ogg"
+hash = "0d6fcb43551e132313f16e076632b614a8ef027291f226179cd4d8125f706e8d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_shoot.ogg"
+hash = "1b807fa4d361b0cb994d68011569554a911572602f4e18a81130001c206c92dd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_shoot_3p.ogg"
+hash = "d94877d6866edd11d3223fdc4d5423c6c19633b0fcfd7637bed0e63a5cd82bdd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_silence.ogg"
+hash = "a30e7d48a6e28f6b5b728da6b0bcd8ae221baf91fa3fec25036c204f3e92bf91"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_g3/hk_g3_silence_3p.ogg"
+hash = "716c6200e87f1bf473d8aadecb0ae9d478a6a56f105df7e0b30ac90a398ff990"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_draw.ogg"
+hash = "7c10b4731f61ac423b7adcc6a7d6bf822a7e403d65986a73e34de150c4d7ce04"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_inspect.ogg"
+hash = "35cc0ab1f1db3e50e97b446f26935bff9616d439d696fe1852370f37661f65d6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_inspect_empty.ogg"
+hash = "5225ce64d63fba77783db9b956fe999ff1182c392b629ebd854af26fadb9d658"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_put_away.ogg"
+hash = "bf3b75548ee25c3b73231a707be6b3e083cfb58835b66c107d84b5ea9d998365"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_reload_empty.ogg"
+hash = "c5570f26d33c52652199dd64ba1530e1547f02c71e0f1ae25c6f41653b7b027f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_reload_tactical.ogg"
+hash = "2cb87cf16b402727a36f0cc23fe3e5e7785dbdd6cf4cff48c7f8b83a4e0d176f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_shoot.ogg"
+hash = "d6f5f908c5d9e8b73b1f2dddd74d6c31c3254e3313b9271744bbe1dc1d142864"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_shoot_3p.ogg"
+hash = "74f4823ab659b0cfd3f5f25d21d6a082c26c00a9fd7bd2bd8ddd56d41e4d8079"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_silence.ogg"
+hash = "88125727b438b1af0ec70a5aa0e1175709f4a6e94a560fbd599124998205e291"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/hk_mp5a5/hk_mp5a5_silence_3p.ogg"
+hash = "779934be5ef0bff0eaae901911fb5c8cfca0c3de41ffcf7a27007e4da7ea529b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/kill.ogg"
+hash = "b78926b3217cc8539fd7aeaf8658275f5f07e51d8f1d2582b8048fd30739be1c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_draw.ogg"
+hash = "6b8aaafba5df730f8a48f44395ee6caaf0debb0f767ab8aab7665178b6178219"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_inspect.ogg"
+hash = "be28b5361d0aa321836ce9405bb5bd23a042cb32d60efa4bfa910ee5ef8e19b8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_inspect_empty.ogg"
+hash = "be28b5361d0aa321836ce9405bb5bd23a042cb32d60efa4bfa910ee5ef8e19b8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_put_away.ogg"
+hash = "5b58f639e640cf5986cf7f76b1b86dbf2e98fc9961ec9872726234b4509ceb78"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_reload_empty.ogg"
+hash = "086349966242b1cdfe515de10a732021f175c21cd5ed0edacf1dcf82e46893ba"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_reload_tactical.ogg"
+hash = "094b3b2b25403a1ebbfef46598e0bb1811380603a562564c61613cc563f3650e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_shoot.ogg"
+hash = "4241a7f31f14d76260918b9e788cc6242b748c6242b6c640fba74bea6102492c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_shoot_3p.ogg"
+hash = "79a105fd3c5caa407baf4dff0568cf6e70e963989b9e7b90ed68028bcf38d1c2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_silence.ogg"
+hash = "3c0634f594c2e94d463202b8dfe83538d742e38cb1d66417945651b5aefb7b2c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m249/m249_silence_3p.ogg"
+hash = "5b4b668097d3172cbbed3ad21245315a2cf9bbeb4d55b2ecf0675d3a853f6b20"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_draw.ogg"
+hash = "1a2d854a5177000d5549a8cf058adaade39dfb714d552ef248bc8417e3923fc7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_inspect.ogg"
+hash = "51cc5f4282dcb52bb3f1e669d2fb059037fe2277e3eb265b8c4683934c4284d1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_inspect_empty.ogg"
+hash = "aee29c06b0d703d2de6c83d81c0755393101fcd63d5a511760bc252045336c78"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_put_away.ogg"
+hash = "6af84c4b9d313d0ce80c2229dd2aa78d37e85656777f831ef747554413c2d886"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_reload_empty.ogg"
+hash = "b89899d0543df37da858210f8e07fcd8ccd04ecd079a2882ef156c95893864c5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_reload_tactical.ogg"
+hash = "0305aca0eb3d117ffa994e734547962f4a4b60aa1f9c7e865aa39e2b4685c785"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_shoot.ogg"
+hash = "469de6eeea4df0c62ce51a3c5520136222ce3d8ca5c7593a07e3d7005b3765fc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_shoot_3p.ogg"
+hash = "8af3ee0f4c333da428623bf8f7ba5aaf0a64ef2b7c8e0a267a580faae1824fe2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_silence.ogg"
+hash = "5f25f0d51be26aef595ce192c7bff9d38bc656f560d6d05ecb7fe2cb54b28e25"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m4a1/m4a1_silence_3p.ogg"
+hash = "cc67e86da4391124c6acf89a25e93e08e210d68577eac85de62ea264d225e6a6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_bolt_end.ogg"
+hash = "822242ace12a64477a96ca8af246869607b747bee22ae9184ee25b3de86ce195"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_boltback.ogg"
+hash = "102199d03033b2d0fc8f164774dee2d1ca0dacf66e073ecb23de688ecaf3e904"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_boltback_shell.ogg"
+hash = "df8bc23e5da42d366fb41cd46f15cfe6a688a54bbddf99ad93a1d33be61b32e3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_boltclose.ogg"
+hash = "454df78491103d58567556c0eb436595f611f812f8704ceb1a9c7318100fc64b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_inspect_boltclose.ogg"
+hash = "aa35428c53b711106a79fc60fa07690473b34a6ef36484461bb4b53433b9cc07"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_inspect_end.ogg"
+hash = "196dc437cbbd27b88012120098a311bcca17b5992d275b7a0e25550a88a30278"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_inspect_lower.ogg"
+hash = "4b8326590c3f6b5cce3c8d1fb90ad145510eccd0051fccd01dc38b699380bdde"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_inspect_raise.ogg"
+hash = "9ad699a7b4db71fd7b5199b9e6e156941c7d6133fbf298ce16622c700fceb869"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_inspect_rattle.ogg"
+hash = "46101bd04a498ca06852b3049c64a61482b909175de7437574b461885a924a20"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_inspect_rotate.ogg"
+hash = "69b99d67391818ef88f884030a54926941ec9df112a3be0c5d766b269e8c6f94"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_inspect_shoulder.ogg"
+hash = "75b78faa16f0958582280675b5f3382af6bd1dc9a3649966d478ae765859c906"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_put_away.ogg"
+hash = "12f01d4d5591c3f09e0776c631a153a3379cac6c3a179801247f073c07db61ef"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_raise_01.ogg"
+hash = "685e081ee259423a2eed1b1f5aa3b0c77ff9ee56493f1149a899dba61c812138"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_raise_arm.ogg"
+hash = "34ea6f0952d4741b302356f8f5d74415cf02a084688e51528dfcc36711cf4a70"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_raise_end.ogg"
+hash = "0fb57e46654d2220f34be57340c623c4104cb22dd07436270d8f8a2a6b7b1702"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_arm.ogg"
+hash = "2c6f46558d4bd09300ca4c5720e7234c3c18bf903dbd89f1b440a0ca1e05e5a0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_empty_drop.ogg"
+hash = "685e081ee259423a2eed1b1f5aa3b0c77ff9ee56493f1149a899dba61c812138"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_empty_drop_end.ogg"
+hash = "8e9cb968b9fa11ff629eff8ad90fd97800570dd871811318ba31c18563b9cb32"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_empty_end.ogg"
+hash = "035edeeb43bc8e7074ffea82dc367c523250b6c733fb4ff2edf8c5d58345e7cd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_empty_lift.ogg"
+hash = "f6d5acd1f3c8d1da16d433dbbf66df5374344e3c2dc2f17f16110e5a591480ee"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_empty_maghit.ogg"
+hash = "fd429d9125b234c154c12dc14146aef0843a25ae25fce1a371d6be9f8c0bfac2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_empty_magin.ogg"
+hash = "75223960051734765a90e9847bde701c7dc5025759726f95bbaff724889f53df"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_empty_magout.ogg"
+hash = "bae9f574d685d2ba0c3731b729c5f40b01806f245fd47e3448384964e41dfa9b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_end.ogg"
+hash = "0fb57e46654d2220f34be57340c623c4104cb22dd07436270d8f8a2a6b7b1702"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_magin.ogg"
+hash = "797de270873e1631924a960dbee7c03175f2972e8870f9c83e624a71897927db"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_magout.ogg"
+hash = "797ebdf3adc5a2b510754a026ede34240ecb561e44967af4208a6d7646af9c8f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_magrelease.ogg"
+hash = "5bca346ad9b2dd163ed3daae49877d1eea8e697ea99527a0ad1dd484e08ce0b4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_raise.ogg"
+hash = "f6d5acd1f3c8d1da16d433dbbf66df5374344e3c2dc2f17f16110e5a591480ee"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_reload_rotate.ogg"
+hash = "a724570d462fba101b6284c299e7c7d4704ca17563b60d7fafb4e1edc66d68a7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_shoot.ogg"
+hash = "5bf11a4924e7c5fd5e296de4ff07358fb65252d07d04dbd1a369114645f64a62"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/m95/m95_shoot_3p.ogg"
+hash = "94744d80c48537d920e6cd026bb594261e72fcccc79be64ff57b57d5bc0db148"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/mag_drop_sound/mag_drop_smg_metal_dirt.ogg"
+hash = "39d8f69271e07f3c760c679175119776b0373b6dafe6b0af942817b0244b5824"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/mag_drop_sound/mag_drup_large_drum_dirt.ogg"
+hash = "f46cf33ef31894d850543971c61bdfc1f5d0a5469f2d562735d85f0b1041a862"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/rpg7/rpg7_draw.ogg"
+hash = "3bca3f2bfd953970ae3fd90a135d8bc62ae8bd891d5cba67fdd7650ba2bfeeb9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/rpg7/rpg7_inspect.ogg"
+hash = "42de3e3609f8df619fb2bdcfec65cf71719a0aae08d04af86992e5f14ba95c33"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/rpg7/rpg7_inspect_empty.ogg"
+hash = "42de3e3609f8df619fb2bdcfec65cf71719a0aae08d04af86992e5f14ba95c33"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/rpg7/rpg7_put_away.ogg"
+hash = "4c21ea868028229fc4baa1e234c5f601c93a4f7ab61c1f3aa9c76daaaf0229ec"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/rpg7/rpg7_reload.ogg"
+hash = "8631682a8d931dd4fa9df382cc53fb7486b0f5edeaafa78c7ee12a4a59731a08"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/rpg7/rpg7_shoot.ogg"
+hash = "4107c92d68839bda9b755aa75fd56ee80f6282de4be7dd29a4845fd97b392b21"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_charge_01.ogg"
+hash = "20ce5dae3b160adc65760d2c7b927f826c1bbfcadc75a000ce46fa7822e60d61"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_charge_02.ogg"
+hash = "4ffd4f909cf640c0f5daed6af3c23b6c475fefb94175939c039d31e7d8318a77"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_drop.ogg"
+hash = "fd40cdfc84501d38c10935864eb2c6c3a19ba2c2631041f4a007fb9703425684"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_raise.ogg"
+hash = "16c24e5b3b6b05afd8dd8954e63b9664c1caa3b4e27f675d434950f3c389d773"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_empty_end.ogg"
+hash = "7e55aa66e438f96d3a13585bd1dddc1198fce028985de2ba12a4d6dda66b081d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_empty_fast_charge.ogg"
+hash = "7a2ba77dd3a4faee7d03de1f9fc1672734bf6f4c27743e8789238f0be1d55a23"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_empty_magin.ogg"
+hash = "7e4c9b380ebc50b6fe5cb2f8c56f5e03448bac6e251ed36220c5136030ff4682"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_empty_magout.ogg"
+hash = "c70ead9267d943401fe36c664abdef8532e3e16a368e2d45e4bbf4b0c5503f82"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_empty_raise.ogg"
+hash = "8cc84d58163a293aebb77d39c94e895519e2c0025f3c91fbd8c525b617b95093"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_empty_rotate.ogg"
+hash = "68683c3652640c930a2d3e0284a352fdd617be6ff8e54d7a6402b995b1fe48e0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_empty_xmag_end.ogg"
+hash = "17b1edb572849bbf577410b204931dfc9ef851ce4099bec39e1e72ffe55a74e9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_end.ogg"
+hash = "af645c467864ce74da19c84c1fc364daf3a9924c32d678f569be2e8d70b0fc09"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_fast_magout.ogg"
+hash = "7e54e624e5182841273e2f7032596da12fab1d4d4ea1c9634d06b00f445d5068"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_magin.ogg"
+hash = "6782752d6fd3ba656ea0a06a28d0191c311a56e755eaf19a26f8a8428fb17343"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_magout.ogg"
+hash = "ce7c17aff606c1bfe9b42a6df3d5fead09ca30162bcd1da197ab1ed1db1bf13f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_raise.ogg"
+hash = "f3765bd5467571f0bedc30d6fe73f16d6930d39ba012d116385f1e33bf45d3dd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_xmag_end.ogg"
+hash = "2d1a0c7e55a96da4ca4b3888a49e97065e120be4a67d650d9d6665e58afd160f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_reload_xmag_magin.ogg"
+hash = "0ed3b7a4c704d4289e5f02f757611c685769507c4392ed557bfe99f559d652ae"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_shoot.ogg"
+hash = "ba7a144576a6101dc386265846c26c3f8ce877babe24b3e772bf2b5e4b69dfb0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_shoot_3p.ogg"
+hash = "f375a0d7388ef34f5823d787e761c3157e55353f193691488ff0ef780774cc8a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_silence.ogg"
+hash = "bb6ec663af79074eafb460f14cc9e4917fd46673ff39a90f9569b165f35249e2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/sks/sks_silence_3p.ogg"
+hash = "1d74fea10eae7405d5cfa5e2b78ab18159067a2fb20d82f6ea912ee997d35b0f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_draw.ogg"
+hash = "fc79ac1a5415a30b638ab0ece45e2e75c83a7af236863f6528890c76a3759e99"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_inspect.ogg"
+hash = "f0d00260a261aa4185317377d4a009aab32f21c3adfeb08b30354e354aeac16f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_inspect_empty.ogg"
+hash = "b32b10f6055bcfcd71e9d4665fc180d47f814d4ca561b0d5d82c38fcd3b56e5f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_put_away.ogg"
+hash = "8dda15788b7e8c82dea65f907d36315bd6d8a8f7f9f268775cbccf6e32323bd2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_reload_empty.ogg"
+hash = "fefd5fde001dee8a0ce433e45457dd8f66d68a20c3d3a007814f15f068fa6b62"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_reload_tactical.ogg"
+hash = "1acec9834d312aa6d712c55cb3c3d8c70746d3bc3c25757c06db5f35657715ef"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_shoot.ogg"
+hash = "9ae6dfeb896e7b836f4c8b2f4171bf8d6c876b82b89d2a19f7ed4709d6fa5a55"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_shoot_3p.ogg"
+hash = "4a7224ca025b569e1209398a9813c10f0298c6158ad09d4df5f2c50fe76fb205"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_silence.ogg"
+hash = "d5680de2bb75560826732eda6d79a9f101444ce3e4a4d98fbddc1eece0e03e55"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/uzi/uzi_silence_3p.ogg"
+hash = "f0d32e2ddc1f89a10843722908c9b183de6583cac5ba75fd54bd7d8b57eca1e8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/vector_shoot.ogg"
+hash = "567bacbc2aa63ae16c0a38ce044d95a2c044ecbec00ca1a4a6af8c22b00b7498"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/vector_shoot_3p.ogg"
+hash = "721f7b42ec7824605743c09b8f329cfb479ef08acca0df186f03622e85dfacde"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/vector_silence.ogg"
+hash = "d0f86ded0a30c36c2c9dcf20aaef7c931df3b4cc38511a089c891f6a4b47a706"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/vector_silence_3p.ogg"
+hash = "ff4f27803f0c7f5e357d4d9ffdc2c3adaedac6aa2bad103e0f62082fbb041e63"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_draw.ogg"
+hash = "0ae5fbc559f2b93126eda99225d7aa685a34bc1c275724a388cfe272ab2d5583"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_boltpull.ogg"
+hash = "80882f7f500d4221b5554b5ca1c0bd4cac2cb1e436be2db2c9b24c50a6a75970"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_boltrelease.ogg"
+hash = "b539ce3fcda77664e792ced55c2ebb19bffa6f8d9d93f91f54a590625377618a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_end.ogg"
+hash = "eabec8020864330a34d2b255ef821e2936953a532e779d63f614c5d1e957dec3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_lower.ogg"
+hash = "a52206c2937b431afc339c40468cd595e246f18f3ffaa6e47d264f775c5291d2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_maghit.ogg"
+hash = "995ff49346fa61c80c094129ca9d2fdbfa4071e154039c10562d086c1031aed3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_magin.ogg"
+hash = "4432da801a33e121e87472a538722045c4662afbc634d0e0d8209c06654d08b5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_magout.ogg"
+hash = "797518d3f6b95d10cf1c345ee994e177b99d6cd6991cad304d7b22de0204b803"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_moveclose.ogg"
+hash = "8485bb50a2eefbc0b02f22b3094339b9ad6ff4c972dd1e2f59d9f85c75c615e2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_mvmnt.ogg"
+hash = "cfc148e45d565eec0cc3f0b20857eba35714f075c308ab5ae8865188dcbdd216"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_raise.ogg"
+hash = "e4e1d04fda2fba100d7810ef7710c9bfa5ecc4f0c107dd90ecab6c33a1f2826f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_inspect_rotate.ogg"
+hash = "07d250b5079982f1ea632effc98acf923490480cf8306f9ad908e251399d4bc0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_put_away.ogg"
+hash = "d526dda70f8e00445c2329a60a790b721174d49611409ac268c24f1164434599"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_empty_charge.ogg"
+hash = "9abe8392ff66c255a1992069d0e16365d16a2f5dd106613e2c84277546897383"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_empty_end.ogg"
+hash = "080a7f3624c1e073f38ab76360d032610f666c00445dfedf4af6bdfedc2de550"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_empty_magin.ogg"
+hash = "a89de21a4800357ba252e9b1d7ae0686db2d53198701f9194c68cc589ecfc8d9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_empty_magout.ogg"
+hash = "77699b057c0a722893717e41f8124804174be6722fe06f1f0b404b24a7107795"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_empty_raise.ogg"
+hash = "6e03fd7bb59cb91c48427b7336602bfa1ebc1908a8821181e2458c33f80bc832"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_empty_rattle.ogg"
+hash = "b694e70d0a90365a52d48975c56237bff145ca4471b651e19fdfcf83f55b7f9f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_empty_shake.ogg"
+hash = "54e0a19bacf046119da086187fc80ffeaa241d5be894724b41fc92ad28692d9f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_end.ogg"
+hash = "d004481b2df1d28e8e64160bbf36e6e526457fee617792ccca08cfe5c4d40eb5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_magin.ogg"
+hash = "fc1f875be3195f36f152c0445963b17fa92da33ec4d614f5982a5241c34287f1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_magout.ogg"
+hash = "351258ed9285857d590e49f27099b5b3e3cc7a86638d2652299745b80ebe3134"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/sounds/victor45/victor_reload_raise.ogg"
+hash = "03990ed1c2c5f0f59454bd93ed3e37b4ef840b916475e4166a110b210a590f7b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/ai_awp.json"
+hash = "203ef754bd66477fea7be4faa8c4ef9821e84e3022cb4ba01579a7dd3c9458ed"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/ak47.json"
+hash = "8f9d2e738d56ea917d77827033a685ad1e9892b1f7dc869057c2177783e0e05f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/db_short.json"
+hash = "e6f78243e814ed18ac8da5d3f7426c943e12fc0b10154162aa73ff51d33584e1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/deagle.json"
+hash = "5b0d48a3ae92eddfe6169af3242896e64ff263f8e545f24d853ff1bf34f2a1fb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/glock_17.json"
+hash = "f161c92c56342f0cdb36b5a990c1803c62dba0c1e4a57c0d31b90fa950b6f594"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/hk_g3.json"
+hash = "f09e61723b92b48a1861d6baea1555b3ea74f6584dd438b9317184f0495abc89"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/hk_mp5a5.json"
+hash = "460141fb2220ef80d73f0868bbebac4e86ecc5309f9c0329b31f158ed296e630"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/m249.json"
+hash = "c9bfdb84c9131aafc5abab3beb8db476e43bc3dd4057186695094a781c8b5c85"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/m4a1.json"
+hash = "da67c4edf3e66da67dd224d3616454ce93aca580b8db72f40e4e37dcb863f4a4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/m95.json"
+hash = "34cd1ecff879a8bc54219d29f745b3d311cc6f6ad2ebae4ce8d2863a5dfe2765"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/sks_tactical.json"
+hash = "43ca8823b2af3ce1404c00ba026c50bef5a42e09bdcfe12dfa8f5e0e28c4a302"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/uzi.json"
+hash = "077caf1e2538bc0ecd327c8ea54c838af2c652de696279f50338a68f3cfc0ea6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/allow_attachments/vector45.json"
+hash = "78698c48e4c1ce49fb22d19ca1db33e804cbea07dba830d3862a0b5636bb2836"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/extended_mag.json"
+hash = "bc0e4e3b80dedbf8a2399a9f31443b58e740e7055123c0762b7feb674f165f04"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/grip.json"
+hash = "0be7f56db63a8be030dc99678b499441aaed842b5d60c59f85ffa1403d073aa6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/light_extended_mag.json"
+hash = "04a9ca381f97b3730ee2c5622a224fccd1ecc41b479643ff9dace341e4bb862e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/muzzle.json"
+hash = "21e04908d5b95712848294feefff408bdff9263d501ff5b27f6b07b0c7a52da2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/oem_stock.json"
+hash = "244c95ab0732553ef3e80e43d24cd28051918c74b207b6dc76ca5b7437b51aa2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/scope.json"
+hash = "f11f0b3eb9ca7a634aee71520c0e3a0ea6eb348c92df03fc19891c5536ac0248"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/sniper_extended_mag.json"
+hash = "aea7a91a7a2c5d9709b72c173c2ef786dea7ea74a5cdaf31a21062fcc5fc06db"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/tags/attachments/stock.json"
+hash = "234be0c5c62ea75bc5f521568aae6be1f98270a73a288c7a15a67f98315eda23"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/12g.png"
+hash = "c681a04148a2054120c927abb38d70f97a5bff0c394481406e77e715a4597224"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/308.png"
+hash = "a74c7df9d132957476346b749f2307b01c4d47981f120bcd8b006f3011380fcd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/30_06.png"
+hash = "e638414461059f41637ea62ca2ec33957793f34a82bb86abd2826c2bd0494340"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/338.png"
+hash = "1e715a47f726f65af29724f59d3961b49b3eec98cf9cc6dbdbeaa5149ef67db8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/45acp.png"
+hash = "333c1867f57ddb4722b6623f5b026c03f7d1b7086004cb2b019461e84baf521c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/46x30.png"
+hash = "f0bd6c89d942d5e4ba62d894d88b786b71107b9313fe2e67f174ffac44373260"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/50ae.png"
+hash = "df52f81457e8a7d6bb3b37b6fa012c41a8647aad2d9d3c6752cd20fdf54a492f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/50bmg.png"
+hash = "85a0a3ef69189a7056a7e6ab38b4d02d45ba676bb3c9271b8f8df1630d82491d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/556x45.png"
+hash = "0ebb21a29597a46524c308912426e96b1dc372ebb8d9dc18bd95431bd5673ad7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/58x42.png"
+hash = "3ef61ea430a372d66eee4f32682358469aab14369504ba531897c6e6d796b0b3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/68x51fury.png"
+hash = "5beb219e3c0b2f60181cb5c144d1446274e53e6c9f4e15ac6e3b319b53bff275"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/762x25.png"
+hash = "45b5976baa34a083365649371a56db82d5c0bb99388601bfeaf33ece5b193940"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/762x39.png"
+hash = "05f7096e1db00d3f9dcdae03d8cea97a5f8adee8d6f430898b017f2522d41593"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/762x54.png"
+hash = "a42020609aa9a2608a58783f202f480e47b184d9996c05a8c2d4677e8d5c56ec"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/9mm.png"
+hash = "b6880faa82776e7dfcc6a00db8eb80bc6777c4790811d8166f3c2649b9dd811c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/magnum_r.png"
+hash = "4ef50578cfee28ee55aaf507536851562f430095420fdb514ee3ba17f8c5e324"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/slot/rpg_rocket.png"
+hash = "d320d23088cce53147df53b59abf520c24448f4636c1ecdd63e76226c8162029"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/12g.png"
+hash = "5227eeaab0732075aa7ee5c64291691e900481c543ba129a92737dca247c05d9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/12g_n.png"
+hash = "24dae24f25b65cf5f8e5bb4f5f012ecaba65d918e5cfdee9dcb291ec4872ac80"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/12g_s.png"
+hash = "094277e930cc905688f0d9ba0a4402d7029503d105d5e581c0c81af61596f4bf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/308.png"
+hash = "59251079b77e1a1afc7d71eb2eb37630c79f3fd6fc2b6abe6c164312620702ef"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/308_n.png"
+hash = "6a47ac2744de22a2ffccbeaffe47deac9309d416951f0f3be50998d9b4f000ec"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/308_s.png"
+hash = "473c77e908f043782f8beb1aa1fc088808a365cc339bb9985ea6919e4e55669e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/338.png"
+hash = "d687481881e2a3bc6e1a483b3deca95b7f052adf86fe9378557ad2bb818a1776"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/338_n.png"
+hash = "866f0bcb2946c627c5107314968181e7ae6cb77305d2ffeaec65ad0480434154"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/338_s.png"
+hash = "578d8d36e1fd4d1099887bba3cc51207843d20a1a78b15151238c53b4e6ae043"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/762x39.png"
+hash = "3d634b5d8a81084f65633c44c10d420174d12d880a53034871bf223f50879837"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/762x39_n.png"
+hash = "beda963a815bcad9016773401e47a88ec45f01947b129e27d1ffc294dfaa6ccc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/762x39_s.png"
+hash = "42fa2e01945196a893a006cd962c4f7515883d7eccc846448046a5f25ce6fa33"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/9mm.png"
+hash = "2cc08a457623c8984cbd5037ff61d68cbf00ea50c90250b66a3f931468c3c841"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/9mm_n.png"
+hash = "189635e2438218eaafb329493e75890601f2096a7121112ceed7021105529698"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo/uv/9mm_s.png"
+hash = "616032d71ace444c49416f347d5956757411aebf6263af14fc93b499fc97e1ad"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo_entity/rpg_rocket.png"
+hash = "b4bc488ae83eea312ce1b531db0d97dee638ec46b459e8c3669868ee5bc0400e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo_entity/rpg_rocket_n.png"
+hash = "67cf9238f8dbba7cc2861b98c8c938a31fb2688adaaa3fe2df51fd1bb5b3c469"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/ammo_entity/rpg_rocket_s.png"
+hash = "73728bad9f125107e228153d63385d61f0ce919ad4e553c107b6c455cbe2884b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/scope_acog_ta31_lod.png"
+hash = "efabc450b494dc0fe4dee31d84c47fb8b3029c7c94553102f00fdc3e11c26b59"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/scope_elcan_4x_lod.png"
+hash = "5b70c479ec437dd575c59bc91b09df94a7ab6d8389e8a7d53605eec315f673f2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/scope_lpvo_1_6_lod.png"
+hash = "0f90429deff3c1a4f171a7993c6541704ad6994c903b79f65b48ab6c2260d21d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/scope_standard_8x.png"
+hash = "7a9ac467ed9d7e0c5dc1c4a6023e6baf298e556c33e8c112ef2620f9930db2db"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/sight_552_lod.png"
+hash = "0e3c91e3c1b34d3e956af060357d27353b4ebf468e02ee61afefa81a05c5eaaa"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/sight_coyote_lod.png"
+hash = "b02b302a52d29c05d114272f168946e0391532a1883b7f4355a8daacee21ebd0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/sight_exp3_lod.png"
+hash = "65714c52c5232692efbf67f2f5f29720f3d6f7fc6107cac86236bea33e0cedbe"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/sight_rmr_dot_lod.png"
+hash = "8d548fcbe17f999cb82b3c1b4341d0c17ef7a84535640c1fe6f6d7c5ed2e3d88"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/sight_sro_dot_lod.png"
+hash = "e22e03c9f46979bd109cc2e94ce01a6f78198c93757100376d514d4f230ee539"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/sight_t1_lod.png"
+hash = "554113640a24daaf9ba97fe707caed5a5e6c9dee355fbf3d55de36ef0a1ab772"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/sight_t2_lod.png"
+hash = "27cd7e65c1c6656af469a0e1f642571e5ae104b3b3d592024dfb51ccaa56563c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/lod/sight_uh1_lod.png"
+hash = "ab139a98c1647c8721ea156687927c93e72d277f62f28f27e02a8b721368e1c5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/extended_mag_1.png"
+hash = "9e0dc42eb2f7ee04522c28f09d9c5c052ac56fd0b77b5bf8987f164dbc13f1f8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/extended_mag_2.png"
+hash = "6f2660e9d78303c47708bea6ccabf4ac08fc2eaf86bc1572fc1c023fb9463358"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/extended_mag_3.png"
+hash = "5bff018b0206d6e50fdde9725bc2c280250c2b6a9f7ddb60bff0db1e86c6133c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/grip_magpul_afg_2.png"
+hash = "a2b3b3f634e8b0048de219360df78647dbd2acdadb03dc2f879cb506cbfacaf8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/grip_vertical_talon.png"
+hash = "6abb184edbc3f1ab3ebfdc6dfb9532757dac1b9a1b96c69d44c2331668694f23"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/light_extended_mag_1.png"
+hash = "eda2e3ebf951e8a139f02bef858603714492254f2325a147c33a3f4bdd87ed61"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/light_extended_mag_2.png"
+hash = "c36c36e6a7954b3a528106bbb7c139175f446fe9e05cd90a90a5f1965700dab6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/light_extended_mag_3.png"
+hash = "d641621a7e51ff16b603123b5b15013705fd8af4a9dc1381467b147195646378"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/muzzle_brake_cthulhu.png"
+hash = "99948d928fa47e3b6eeb9e3d7b5d5d7095157b38a5938276937d859c9eee67e3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/muzzle_brake_cyclone_d2.png"
+hash = "c63091923fdfe208af274bb3914674656a16ec3c7aba65dcd77983c58cfafcbb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/muzzle_brake_pioneer.png"
+hash = "16d77536843bb647aadae90e391ddd2c71d9dfdc53b9069bff0fab73f05a1cd3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/muzzle_brake_trex.png"
+hash = "d231a022a4cd1353860e3e1190c7d5fe16625a060229720ff8c2a6518075a7fb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/muzzle_compensator_trident.png"
+hash = "417a19ffbcb0db270d9fd0ebcae1d1993974c208e2534a65694b0b8dc812993f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/muzzle_silence_mirage.png"
+hash = "f25504d0f60fd253600c8e04753ff88eabc43b9154a279b2bf47cf9f83008fc9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/muzzle_silence_phantom_s1.png"
+hash = "c156cd6eab819bda8104ca2bbbf2891cef564bf72ebef4ef95edcbfd1b9a3c15"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/oem_stock_heavy.png"
+hash = "8d0818a65a6d1a70a4fd7b83fb007bca6ccc93fcc544764c8709f55e8727197b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/oem_stock_light.png"
+hash = "a91cd242075ae164020e8134a26fbb2698f8058a10e21b02a1593865b1422a06"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/oem_stock_tactical.png"
+hash = "6adb14aec151dc09b198a2135ef69b57a9c955b965f2d6a51a8acb5afc3dec0c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/scope_acog_ta31.png"
+hash = "023dd2d953f5a1168e7027e15499724ffcae6f0567f1105d0bb7ae08af8813e1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/scope_elcan_4x.png"
+hash = "08350f40460aad048feba7c12a39a0aa001f56ab696805455559c146d9d3bb2a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/scope_lpvo_1_6.png"
+hash = "8fafd3b5574206ff38ada7bcdee867c7eb28d30536e233119f2a928a84d48c65"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/scope_standard_8x.png"
+hash = "981fe50817ad4ab80c0cf7415b73a871d60b81f8f860165043965b6f1fd26018"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sight_552.png"
+hash = "fa41c8e69983b098e900384e8c2177c44971fe35a3a43b4cf46a7aa16e1573b3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sight_coyote.png"
+hash = "c81bcc4643aa2283a2fa10239d3cef414f986560920108c7e2e0807443d8ec52"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sight_exp3.png"
+hash = "f445735d406839cd82fc81dbb48553e23bc0b676a568e0c2fa3f3f5a35de64e7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sight_rmr_dot.png"
+hash = "1ded012bb7b442c5b2b5e1c6fff879e73754dedc9ac4946e7b904126c0dd53d3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sight_sro_dot.png"
+hash = "6422ed59b173ec7e385041ac7dd03d48e3d889a0b050a6403c3d805e2a5bd04a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sight_t1.png"
+hash = "c8f6d12011f599cb316409107d549b34e6b2e81e9ac4f640c075ff166e48f12b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sight_t2.png"
+hash = "c1041745074d494e9a2022de560b858ee38217acf682653c98afafe1b38b7a3d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sight_uh1.png"
+hash = "6d67008b02296640fd4dd1ff851e852bb75984fa310aea434df3eade0385f06b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sniper_extended_mag_1.png"
+hash = "9e3df3a20c0f4669231603bc27fb733b9f8e59b47eaaa684cd87731aac7e8acf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sniper_extended_mag_2.png"
+hash = "1acb19453762765c1044a9e107749360c16b121304794fa50e2c326e9fd8db35"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/sniper_extended_mag_3.png"
+hash = "5c5d691d3c8f4486f57c6fb3b8e9200da6c15c138c4962bd8c93ef3d92930429"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/stock_carbon_bone_c5.png"
+hash = "922eb2435e811b52ff2188d41f890e946325190e6608973f9e1be27819ba7911"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/stock_militech_b5.png"
+hash = "25f3e81cd5c9bf6b1b8d19792c5a1c153dd6f5803f2e31b8e0e5a0504cdf10b0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/slot/stock_tactical_ar.png"
+hash = "766c50c40247ee5715c9de4d86e86417b868068761343c136bae9abe22dffbaf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/grip_magpul_afg_2.png"
+hash = "b00d259c458a23e1da738040da1bd0b2b8c041d21d14e6d7cf3c9a74936bb390"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/grip_magpul_afg_2_n.png"
+hash = "23593f3f63967826075974b1b3e622ee52e89ec27208cf232e361af8435a6cc7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/grip_magpul_afg_2_s.png"
+hash = "cfd01f79801e928fd945dc262085c666a1984b8c414bbd2ab0de943ac66c7f15"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/grip_vertical_talon.png"
+hash = "e8cf0089e2b1cbbf882634c9f0e04a04a61f2ad96d3f0cb3f234a11c7e60bad6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/grip_vertical_talon_n.png"
+hash = "cbf3244818fe16d0998222a14f6281ee867ab4852ec31019277b65175e76f878"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/grip_vertical_talon_s.png"
+hash = "9eba84b0f8b1eff7428302606b0c7631f31694d6cdcfd9dba0cd7eb8f1e49395"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_cthulhu.png"
+hash = "4993367875c8b9f2bf87de25032e5267c2716d715bb231193fce301ea4d3cd4c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_cthulhu_n.png"
+hash = "4c98b2c5b524f332fd8ec84fbc8ca7224d0a564d26a8a75f25f15c90394a2fb6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_cthulhu_s.png"
+hash = "a478f3cd3bd9ed9362100b59fbf3cda5cb5c6314a1c61b4464f31f8395c6f9c7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_cyclone_d2.png"
+hash = "affae07dae316c58c6585d43eaf5466b41a1fc29c2a3a90cbd98e6530e66bdab"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_cyclone_d2_n.png"
+hash = "377e3cff9862a161d0cb17b1ad3e9c5a790ed7caf5d6c651a1094bc59dcdf5bc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_cyclone_d2_s.png"
+hash = "be64cd8a9ce374d79e54afc82231870ae488daccc4af141994414e1ac7094078"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_pioneer.png"
+hash = "1970abc8b7503979939fd2f0094e25ea212a0e233b373b827f265a3807273d70"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_pioneer_n.png"
+hash = "2f954bacc399072ae06c5d8dc2f547597f5b287680d8c5d8f2b35c92c3b9c0a9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_pioneer_s.png"
+hash = "b3cfe88da9ff2788792741cf226623c5f7075ec7a18c6d9740e15ffe442961f0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_trex.png"
+hash = "15887ce0f9e46308c6ba053a0f16c6d7b1153ac979e4a1ce439c7aacecc320f9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_trex_n.png"
+hash = "40030958423692d73415aa01e7ee8e75e4833797274e9185c5ab2304cc48d9e7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_brake_trex_s.png"
+hash = "ed96ac5677b67e38ee59a1d64ac6b51b9ef5bd6c926bb99a35a8d9992ef60d13"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_compensator_trident.png"
+hash = "7626bac3314f39b3a73fc8c7e2e0cf77c8c80fb4ba775fb088332dff994de3c5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_compensator_trident_n.png"
+hash = "e58f5421fe6fce1c38f8f56a5023ccbfba9aba07d33132d15aaed8f121fc871d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_compensator_trident_s.png"
+hash = "281007c5fad25e09853cc3630042104eb0ab59fadd685c58cf207934a0db56e0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_silence_mirage.png"
+hash = "0898164b07f630d1944d08435fd90755ce624b96e62a576fca166d2ea22ffe5e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_silence_mirage_n.png"
+hash = "efc1a65110c8ea3cd158f27dae6c54b290308d9a9a7fa97fa2428143ec29bb90"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_silence_mirage_s.png"
+hash = "3ec606687b956db69f6a097d6b93812e04f84e543094ae18bb1d47d0f3d108f7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_silence_phantom_s1.png"
+hash = "a08b3e276176f416258015d02dbfd5de3f89eef036ae4b8435173dc69ed2335a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_silence_phantom_s1_n.png"
+hash = "dd05d204d44571881b3ebf135ffcf7f3cadfb5818b3ed1c3edf0d36b74b161ce"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/muzzle_silence_phantom_s1_s.png"
+hash = "a2870f68bc908996d6cdc45153cc1dd5c2810f3a6496d07f3471f24f1ffab5cf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_acog_ta31.png"
+hash = "7416e1b223c0e8a03aa85ea79931685df6f955f2f8335e4d81b39ac4a94ed5c7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_acog_ta31_n.png"
+hash = "f4db9512471dae013eb535f6728b950dfc9ee1932ed0f614d3e8651e0cdd6ab2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_acog_ta31_s.png"
+hash = "2e59ca841428f199777bfbad9626120c8b0d40513e694946e9711f297626428e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_elcan_4x.png"
+hash = "629f7b65f46acc7bcb7f297e2fbbf9c692b818777b70e21d786291975f5cd7b3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_elcan_4x_n.png"
+hash = "8310a573c87c91a8fe6196cd22ca702212e129c315c24fc1c3cc1079272be2a6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_elcan_4x_s.png"
+hash = "b4c30905e99dce68501db9823ec8779d0d18559a62d90135d3737dc8ae5dfc88"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_lpvo_1_6.png"
+hash = "7a480463e83757838de5f346dcc93417a042310881874e33b23d351331a415ba"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_lpvo_1_6_n.png"
+hash = "4897838fa86db7e68caa516bbb44145c3a170d0278bf41e9bf582ff38fccd607"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_lpvo_1_6_s.png"
+hash = "061f8bb9f51fc569880cc8fe2c0b8bf7df23b8ced1ef7e321371596db19e3f15"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_standard_8x.png"
+hash = "368eeba524e55c31cd2a0975d2b205f9e89cec1ea06b1ba98b4b59bf827e059e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_standard_8x_n.png"
+hash = "3bb49bb448acbc0789c24e7d9ee43578c87764d856f122a09ce17fff519cdbde"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/scope_standard_8x_s.png"
+hash = "ba6805f536f18a6a7d248a39d9d8938ff80173f455976d5cb2c97fa153109937"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_552.png"
+hash = "a53fdd976864443fc6218b9088119afbd074308714a1807f4eb6399527cd6e3d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_552_n.png"
+hash = "f38ef5e513e3b6b39ce32714af81d5e12549180a0f45f8680f21f1aaad5fd5d2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_552_s.png"
+hash = "ef79c238c2cdaa101f1350551a8e91fbe80511160edbc355b4abe9be080b2ecd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_coyote.png"
+hash = "47612cdba103128bd0e4e4992addb11e1398a56d4209d1ac53bec7080512d6ec"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_coyote_n.png"
+hash = "ba8184053a716610e640b09a8553040b9d6f1742a0f192e313feab4607bfde1f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_coyote_s.png"
+hash = "69ef20de9b8f7641cd0657b275345a41aea9050c5567f24057c9ae11b1118700"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_exp3.png"
+hash = "e34478cf550338a7ec5f8e6d2030a262255683a18d9f2ffba60721fbc21aea8a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_exp3_n.png"
+hash = "f38ef5e513e3b6b39ce32714af81d5e12549180a0f45f8680f21f1aaad5fd5d2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_exp3_s.png"
+hash = "a5f898677faabc5cd95a3517f2ae2ba876614cb4bc85b32b2df62417ce38dcfa"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_rmr_dot.png"
+hash = "1e6ef349d12a1c1ea2dc9ba51a98da5224c80b9959827c55848aaa139831053f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_rmr_dot_n.png"
+hash = "2b3784f104fa4e55b91ba44696091e2dbaf33c46f2cd831e25c928750860c028"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_rmr_dot_s.png"
+hash = "1c400ea276cca511ada68bf9c1bcd7725deaa57d4290099501ed32027c43d1f2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_sro_dot.png"
+hash = "fabc4e865c9ab5722f264ee2ce60d4b26636fc5703fd9b0abadc5af59dd3486a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_sro_dot_n.png"
+hash = "0467115ad69598f043cd3f5a49bf9b8a5fa09e80f38661fdf71bba58c963632f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_sro_dot_s.png"
+hash = "ffaad70657282afebd3e4098ae604a08c895980772fe93ee52ac415439de7906"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_t1.png"
+hash = "6fb2ae39313a4b9bae550a5887f397d863cb5a51ed80acfced5ac257fec9be6c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_t1_n.png"
+hash = "7994c6c416b56d6545dcbba5996a8f6f77772fc75f20577d92c4e8c2475e4d12"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_t1_s.png"
+hash = "e65ba3fbafae6269d84701205ef42e80192c9a1a4b3b19f5dd655fd7c583d0b0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_t2.png"
+hash = "c222a2add6ffb5507c5b737a8243a30bf7b61e41179922c559dd2bd0d14532c1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_t2_n.png"
+hash = "7994c6c416b56d6545dcbba5996a8f6f77772fc75f20577d92c4e8c2475e4d12"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_t2_s.png"
+hash = "1b26309ddf54e5d64d8ed0d0664ce564b93478078428810490b3334ed6aa49bd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_uh1.png"
+hash = "75cff0a5399d8d2e6b0bf87b7ce09872ea3bb4090080b2bd9d2e8a77763c5e55"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_uh1_n.png"
+hash = "f38ef5e513e3b6b39ce32714af81d5e12549180a0f45f8680f21f1aaad5fd5d2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/sight_uh1_s.png"
+hash = "955e6d1d0b72f70b42aefbf04ff4add9efc11df1c1b57913c9b293368ba22bf4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_carbon_bone_c5.png"
+hash = "6118059af4d2b4179884e0d4a04bf4367e7ac572f0a2c83cad3fa57619234bc0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_carbon_bone_c5_n.png"
+hash = "8e8ca4cf8417600ae21c3303743fc3bb82c25be9b0a90cb2a76148b8d26ee854"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_carbon_bone_c5_s.png"
+hash = "cf314bc8993a500a1ab12462888e825a366a778faef0162d89d250e0af50fd93"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_militech_b5.png"
+hash = "f2a0ac19b2d9ed23133c431134e6f7f4124c51044f50b8c9be53d8cbfe4486b2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_militech_b5_n.png"
+hash = "c671b02f26a7ba7b2d4d9a162db255327f86657519ff2272aed4b0bc379c4f04"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_militech_b5_s.png"
+hash = "8bfcbf448d59ed18395459a9fd3004595a18f5b4a94aba3b81f4b757a4d33780"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_tactical_ar.png"
+hash = "a768112c7b40fe4abaf2eac10c32bde545f12e3556712e381bb99a7467fab363"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_tactical_ar_n.png"
+hash = "cddce9dfb696be16952c3f7e292065fbf2444dc82ac395e3080931782cf33506"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/attachment/uv/stock_tactical_ar_s.png"
+hash = "07905668035bdcdea983d7eeb52ced7016f601ffb257565d5532c146e52361fb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/flash/common_muzzle_flash.png"
+hash = "a603e906347ababe5489de4066ed48ae09e353b4b0e1f592df04598998d0b92e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/ai_awp.png"
+hash = "ab25b98ea6d25a7a89c8df5f0c6c82e2d86d85bb18779a9aa7b70f47e4ce08dc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/ak47.png"
+hash = "2fa323e222997c3209e7d8acba95e8321e79eee497734fff5e6ceeb63bc481a5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/db_long.png"
+hash = "127d1cafd4f523c134a785c3d6d3b8e1eaa8ee4afdeef6d7cf81e265fb5fec96"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/db_short.png"
+hash = "71c06741c861937e201105ef972c0bb46098d4c85e08b455b7772a2509c58926"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/deagle.png"
+hash = "5f3173c752dea92d46d9a3b6c5b7bef19c606818275c89971ccbe6ab43d61c93"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/glock_17.png"
+hash = "84edcfc2c685abfbd2f86383ac4299f13aaf03cd1dfb3fcddc969e911b37095f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/hk_g3_hud.png"
+hash = "2e2b7e4c63a49e92e782f4baf18068137501b077db37e580ce9563d591910cee"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/hk_mp5a5.png"
+hash = "6c0ec7779479a7a9b19c91e196ee722cb2a9b5a354bdaacea36772f9a9440242"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/m249.png"
+hash = "18e5df3715ebc27602a278f704a725cbb47d5e16d4fb4429bbeb19ade8ac6ee5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/m4a1.png"
+hash = "f97f9a85dd5bfe41923bfd001f4d06f5a007aa662e0f63a5bfb82b8ac5db5c8f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/m95.png"
+hash = "22aa9f91db1a2e9eaacc0c6c1ea3133888e2ac4c4f1100e7e736bc9d3ac6f1c4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/rpg7.png"
+hash = "2d00137d13cb9d49256cfe32e58392dc0e58258c6c72eecd9d3d3f32eabf1271"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/sks_tactical_hud.png"
+hash = "c27dedecbe0390db1f28298be21636d0b37c87d7e7dd5cd0944246bbeb2e9bfe"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/uzi.png"
+hash = "a6db545d3b2fc9bbcdb065df9668497f775cd93af5f7154c929683ef3cbc3cfe"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/hud/vector45_hud.png"
+hash = "993f36f4f6f8ca80e2f82e7b17b82d4d1302c6422605d841015e64340d3e9258"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/ai_awp.png"
+hash = "d09be79ccace5bf7a1c3a3ab32ccf9023aa87031f2899e16fafa438845a31d16"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/ak47.png"
+hash = "c2ed80994095f2642ea05117bd90e2f371ea8f9f2eba933d1bcdaaeafe059b14"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/db_long.png"
+hash = "115a313f5b8a561baa660678f715db9575fd5b92b442f5f0510847b6def9f38c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/db_short.png"
+hash = "d5164e356503161affdf20dfa58ec39ac0d4875a035aa77327f00bf75ac1d90d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/deagle.png"
+hash = "ea4890591d9af31dd9033ae3042a1200c75de87514ea7f570c95c53523c23571"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/glock_17.png"
+hash = "02258f71e3c6a71c2b98088d730a35cbe55a590d41caadfa63a1bb2fe316d22f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/hk_g3.png"
+hash = "4042f196c3b9c41ad74212c0705b1eea99762f3984a62f6d7dc92f9fd19a2d8e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/hk_mp5a5.png"
+hash = "39cbf0552862ffd48afcc44c8768ec97c0c29506c370f2620d89986324c47b64"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/m249.png"
+hash = "30bfeeb0ebd860fbe88990ddc45e59e06eaa2b65bf6dd3103f0736a65ed59cc8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/m4a1.png"
+hash = "7310769ba2ef22aa1033d34d87bd4af2707d3b18c5a7001d8b90ec8fa45d2859"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/m95.png"
+hash = "cee6c34c04e932cc2ed98ed996e840376fa109e1ba60da3d74019072e04cc7c7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/rpg7.png"
+hash = "a60ebafe54a97490245682d6e7d0940cd934801afc9069e345f34bf66dbfab95"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/sks_tactical.png"
+hash = "598b7b03e34eee2d2c87acfb5eb24a6e89558fdc1d8351204df4c578c3d63487"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/uzi.png"
+hash = "538a1eaa5fbcee684068a0f218f8a957b8ef17fbc6cadb7838ae9cb23624d8fd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/lod/vector45.png"
+hash = "0f6b1086c1d7454c1ddcdad3495f5525fdf49e7a17dbb41c41551caef32f3fc9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/aa_12.png"
+hash = "a9ea81ca8f41cd7aa076000eafa96305abcd4876645d03c675b75294b8673757"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/ai_awp.png"
+hash = "740710356b57850c3d29a6a4e9bbc614595986c270c9c252a197bed1685b086b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/ak12.png"
+hash = "2ef1b8d8a169c55efa4b251c63572cd173ca2ae8dcebf060016e6bdcea5ba49b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/ak47.png"
+hash = "f0b0f1ef1d4402079fe0d49b982ab34b5ae1adb11d13b87e89222b7000bf4fe0"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/b93r.png"
+hash = "152be5ceca9e37febec2df6170043cf874a792035b6511859396840a6ae5ea68"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/c96.png"
+hash = "1841cfecb37665a75b71241dc96e184929197935078df1c4ef8c002b226baa7d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/colt_python.png"
+hash = "9f3ecf85976a3a0f2c1dbf435ced44a772fd6b157b5ce5641a9dd62f0a1a2391"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/cz75.png"
+hash = "0683876cb3237d383a253539b439acbc76dd1186cf2127eb41129720fc90a052"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/cz75_auto.png"
+hash = "f0807e5ce6df0697afd40f3e34d57ddc06491dd9c8835799f810574e3ceede57"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/db_long.png"
+hash = "4a6fca4cae0fcf4c0fa70979c727f061b89415a7cbe53d874f46df474a4c5cc5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/db_short.png"
+hash = "5a39a69493a4ab2249cec4857e2b70cd31b077f0767b48f1f9a646eb4df40431"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/deagle.png"
+hash = "7d0c1f71d699501a2c6327c2ded072cbcc9ada0f27a80d1d913d8a6b9c7344b9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/dp28.png"
+hash = "10f0afa4975d273d99b287d2d4ab7271e9afb23eae6b4219e131a071765ba484"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/fn_fal.png"
+hash = "63c3732204fe34b68dc730ecf8ed516cb43d40a5678acf87628dd382f72a70e9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/glock_17.png"
+hash = "6ae09bc160114192cf7526a9b36b86bc4ea59e0ecf16f78f03e80c754a39d048"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/glock_18.png"
+hash = "327b92d01d62721340f6544cc4c651c621ab7582ef47b0d600c1bea82030cc56"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/hk_g3.png"
+hash = "7b83e0ab06bf2823d53f8a1ded6dfaa2e2fd0a0a2852f3afa36814888eec6c96"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/hk_g3_slot.png"
+hash = "1ccb9ff11af1075473dfcb83ad37f00d6f24578e950353aa759862ba40abfadb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/hk_mp5a5.png"
+hash = "9ad2303f7188ddc3f48a6248f7afd365a91b6fc73ac16e178cbfdb1f3963d69c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/kar98.png"
+hash = "bc8c42a9847d062d3a58078ae55717ada905b904d9d71e95af267ea471b4164a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m1014.png"
+hash = "fb23d59a7e72fe6c0d236ceb3ba7bfaf33581dc3c7ab171d96338f73e362e26a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m1873.png"
+hash = "fbdf4a5e3bc84038364604dd335ec712caddbaebeae8ae90d8e2117a96b36f34"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m1911.png"
+hash = "476eff96901a0ad29a70f77b10012c031eb22ace6ab8dcf21b7cf9e3df16f38e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m1a1_smg.png"
+hash = "0a28106466bdff9ad7d48fba999104aed94ee002596f3a00edbe2a46efae01d6"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m24.png"
+hash = "f7b8ccc3286726ea26608de9c0280a0eaf373f3bcf77afb4ef06283ca91ccdb4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m249.png"
+hash = "d9941cf5615993cc1a7ec770dbaff14efd54bac5d225988785a83a9609117587"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m4a1.png"
+hash = "b983ee038441e781f47c81e3ddd9eab36ffd51b16ca2dcc71e51c0d6e8397985"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m590.png"
+hash = "c620c9e0ea91c00b6c9c16a381b2e6ef81acd7e91fc56db631866cda23ccbcdb"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m60.png"
+hash = "385d2b483149d90a97ae9d80d5e3d7768490fcf7b129173e24bc872a4a1b06ea"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m82a2.png"
+hash = "95d0fb05b8b1c49fb3572c215764a1c8242b20f0034dde859521ad9b57f91cde"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m870.png"
+hash = "b696c44dfedee481b33e2902e99233b63c69eefaa677efa4d2c1e5e7a72295d9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m92fs.png"
+hash = "4e4ac5d2e0534a815bf65843ff2f92fb781427c6151aa326b2a1f09158963f6d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/m95.png"
+hash = "da9b7e675dbfbfcefcea022d91cda341be71b3751b0d49ab3d5b743f8f86c04b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/mgl40.png"
+hash = "9479f4442faaa6f6188c8ef435f3099506c70627742b2a82ea6dbae61203ce6e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/micro_uzi.png"
+hash = "81e7de1ca50980998829df1ae57a00eb8e81f40fb22851cc0614423415861edf"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/minigun.png"
+hash = "82ffd092daf28e24dbd3835659672259b89691379c7785bde91891eedf54518b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/mk14.png"
+hash = "26a71b590ed486f18d9986d9af053ee158417884ad30048798c31a9cb10a86d1"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/mk23.png"
+hash = "1e20d468cf3767d11be32d034289fb12626f8e0cdc1a6ca6e0b35f0f983d1ad8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/mk47.png"
+hash = "39088e0ec09d038c09c828284d891b2489c0e73aae2727f46290c656ceb31d8a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/mp7.png"
+hash = "a5579aa7da86a2e23f71afd6384daae0c9f8e554c6761e37bb534cd283008f62"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/mp9.png"
+hash = "36c51f29cdb8bc7a6fafd0e8b37a2115bb864635acd3c14f9109648e41d6f244"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/mrad.png"
+hash = "27b1e9168ad94fb82d1d1f3d194e0735fbc3acbebe8e369c9db504a135f1fec4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/msr.png"
+hash = "0180cb802e2ea4de78958fa7b8685e25cb9435b85d29ba150c24559c2f3b2612"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/p90.png"
+hash = "d04b510be67912b0292945b95c9ec3d02ed0a3a99f3793dac7e354a1b5dbc0ac"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/qbz_191.png"
+hash = "9a4d6e9b2a888db08f442705715194b1daeac63a4aec32a44e7a2220f5012e90"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/qbz_95.png"
+hash = "701138b1adba7513802fb2c9ea795bc7390a5cb65a74bb084db14dd238e6c2d5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/rpg7.png"
+hash = "097eb491de06e2463dea4c5c7cb840ca932876e6bd5f7be5a42c20119a9c45de"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/rpk.png"
+hash = "2c733da1068b4b9e3ebf30ee13371f4ade351ed15914e37509ff248784c2124d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/scar_h.png"
+hash = "43556824ff7337cfceebcc235a86c87760463942915b9b38f6ed23ae538fdf15"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/scar_l.png"
+hash = "5cd599f7033aefa16076643dcfaf0c086deda6b3c82d9f21823a0e7f5d126c7b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/scar_mk20.png"
+hash = "cd44c823c816ac106e321159a20efc517d56b7b2b9b323356933e39a48ca6d5f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/sig_mcx_spear.png"
+hash = "1a2544438f0dc03173b7cbd99dbd49009aae698e846b2654c218f077b6eb9f48"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/sks_tactical.png"
+hash = "4928f77deb9ad7c636c664786941e75abd1b115a6fc0b64ec7b7cc17f2cec338"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/spr15.png"
+hash = "28522b6882646542b20e174e020e8fc117fdf18b79a659e1510424f27778276f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/sti2011.png"
+hash = "9b48860d000439e6edb74ac50e189d3dded0d5a8830f7ebeda677d80d7061606"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/tec_9.png"
+hash = "c6deaab208be906432d978b26c4d6dbf557cd445acefbdd6e8d7383bd0555257"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/timeless_50.png"
+hash = "c8773cb780e56375f87a57d59bc48ce8abd462f8adbb10bb9765d6858148a638"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/tti_g34.png"
+hash = "c89e03e2e92fea4662931bad4b0ab5b53925275873830c126fa61aac158d6124"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/type81_x.png"
+hash = "449a1cd40db8fcf80f4e7fa6cf97d677021d8fe55c443cb86e1802c1293f343f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/udp_9.png"
+hash = "8c7ee2e827a442840f148e5296c15b18303a26c308fcf9435e8b0364ec17daba"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/uzi.png"
+hash = "ac6ab1442f0ec0b2dc059a1abbd74c7ba4d632014a2426c5d3add4641a1890f3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45.png"
+hash = "23d74c776301731fbd138efe48135711b8971e05124315cd55cc6921b76e4bb5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vector45_slot.png"
+hash = "27eb7aabc7e0ba35e7fe323f5b48b92ed4f6921698ff6674efcefe275bb0fc15"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/slot/vz61.png"
+hash = "dd95e724eec0822f9118b8452f629aaacee092a9238f46a12e667f2089149112"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/ai_awp.png"
+hash = "833dfa6e1d1b346778a8c34a9503b108d42f18064f738c68595ecbe69bef32a2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/ai_awp_n.png"
+hash = "99def3af57822ed0601d320b7f8427477aaac987d1ce74f8950f1ef69c81861f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/ai_awp_s.png"
+hash = "ea09d62275e9335fb37c0f342b1d82ce26a260f0c57820100bd5f8fa094b06cc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/ak47.png"
+hash = "dcba91113f43e0b381f3eec4e6fbc9404cbdb1dd70c6fa15fbd108c82b798e31"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/ak47_n.png"
+hash = "013f17592f8ea1f9c4bda349c5ab73ab9f2854177a849aa45436790a02805dd2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/ak47_s.png"
+hash = "a958935b48904aa8d347d4db384755d24951dd8a433b6f51770d5ccdb0910cff"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/db_long.png"
+hash = "0747e5d600c0c3540e2187b4e036ef33a77ad832925d0504e5a63df1eb584c37"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/db_long_n.png"
+hash = "0eb19c8dc39752954d2b87c701fb684bdb36ca947f6c30fd45594c27246c2b63"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/db_long_s.png"
+hash = "99afb56a3b4520073c1d713639df1fd1ea7812f715b8e4fde0736406f4c4b10c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/db_short.png"
+hash = "04e359ec8bd8531272ed42c313dfc1a95789d090c745cd88e822d64a24556985"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/db_short_n.png"
+hash = "0e37cd309ccf3b36cd1c17731bf7e680c690704eeab90ed16dec1d453b53dc45"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/db_short_s.png"
+hash = "0dfa26e7f235d217804ffeab194cbf59eb8ff5ec47fbb3ba0850b4ce0099d96a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/deagle.png"
+hash = "b27da00de8d3b5389809931381500868dac942859a0a1cdd7f8184420f2a7167"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/deagle_n.png"
+hash = "2709c02a28a8ee8e400aa4fcca57815b1a9837e6b323b025cff3bf76fe221c29"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/deagle_s.png"
+hash = "fd241c59e31fb708d7d3daff588ef6658a51d07a0359192e0d6501747afe9307"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/glock_17.png"
+hash = "79bf67a4cb69eed86a3a7c7754d1d0f28c3ca8d5ce15480beeb818cd87fd60ad"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/glock_17_n.png"
+hash = "cec330b42e0f5430c88a1d296652010237cba18f097cada7a5c521cdaadfbfd3"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/glock_17_s.png"
+hash = "edda18bf61544f8127d668c4cdd963e6dd743bc30a676c17c50148fd4db72f98"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/hk_g3.png"
+hash = "e7e969cd4972fd49ec0b2b1c3e13aeede79b1cc7610d1282211fe41ad09f8d20"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/hk_g3_n.png"
+hash = "3146653419e5ed3daae049ac6cea03468dc556c0d12224c34965f60c37513a51"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/hk_g3_s.png"
+hash = "3731a0b49643a2b6a616b851bee8cfddb85151e438bbf6952ad15bd67071917e"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/hk_mp5a5.png"
+hash = "7635e9907a0cffc035381422574f86bace6fb27150746fb53eb20fb7ab509731"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/hk_mp5a5_n.png"
+hash = "f99519917775648d42c854081da0a2144fb6898384a9d078d90c11e71ad80368"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/hk_mp5a5_s.png"
+hash = "25b98da36ee1ac0112efe88eb599f10090352e54b9179e4cad13b536b42b3f45"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m249.png"
+hash = "30fa099d315866db29ef97ba8f8fca00b6b0e9c2a464d3ed6b42adefa6f08412"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m249_n.png"
+hash = "aabe43429c3af4dc8cb553737a696d46d0555773ed299f38086e683f1b8a8492"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m249_s.png"
+hash = "fdbc8d62740f8e94620aca0f77e4b70c980f4dede9afd11e8f42a81afebe9b5a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m4a1.png"
+hash = "7605726696c6573aacae4f42208f64bc6e1657cfc41c8700809c4de253ebb503"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m4a1_n.png"
+hash = "d10ce15c66ca17f7d72031b5bb989443c30de97acdb8a5cd9d930d1817ce3110"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m4a1_s.png"
+hash = "a1c28e359c63ad6532a95900a34811bde0d0bdbc53e2f0d50a447bd01b96b3a9"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m95.png"
+hash = "f9412a32fdd553d173f43df17041d7e4dec145ffd9f99832130b9d1f6be1ed82"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m95_n.png"
+hash = "418a2b24bd3339ef5bc917b5bfd7b692c6b747b5a9939501456f051924e488a4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/m95_s.png"
+hash = "75a9f571598d85ddd6b15da81eba2f39b5fd4c4b1f5262447309a0763e3db7d7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/rpg7.png"
+hash = "66eb3e72d27b0981bc274901e343816ddcc4ffb281a77b7484abc4d662c3e471"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/rpg7_n.png"
+hash = "0b59928d2993004da35ecabbfbc73cd980e9bf1196347cbfa510339fe5fbba18"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/rpg7_s.png"
+hash = "02e299c3392859a2e264c3d71ef20046a027119011666c534ae6f009fd363a9c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/sks_tactical.png"
+hash = "8b373984125bbc3dd4424edfa362975d3113685db2dc34b9422dee3454d9f23f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/sks_tactical_n.png"
+hash = "a221594d53d244add8a6e08a4b867eb4dbde16966635dba2abc68f02befdd3d8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/sks_tactical_s.png"
+hash = "2583ae9868d5bcf9dc2edcf81960cf68b24a4159a0adef3b5730933ef73f38fd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/uzi.png"
+hash = "22e33c2dc4154ddf641ea854f4025406d220f9a271a3d26037d18716884f08cc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/uzi_n.png"
+hash = "16ea515ba2e54ad38855110a715e84856cd923af86d4e70f7cfbd48c082bf9df"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/uzi_s.png"
+hash = "a2a1c52955c52fbb7ca38842ea3cccfe44144b9259ef1ef60610333ae75111ec"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/vector45.png"
+hash = "b4a502fb2aa20f389110b1bd9b30d52d54a12e747ce27bb737c249d99e66b20c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/vector45_n.png"
+hash = "f9c736037698d36c243daa8e17dd186b4c6d4ecb97c19dcd652ce0859677303b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/gun/uv/vector45_s.png"
+hash = "cea19834514c7fdf33d5823d5669b8926e8470f8b2ff0aae1296519b520ef561"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/12g_shell.png"
+hash = "77f59059a5e701b3c0a6121047a1d809fe323e2938c04debcc50ee93cd34e90b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/12g_shell_n.png"
+hash = "222a071e7bc440ddbc0b67dea429a7a4fe4eb1a3eb3e990e250fd0d41aa3244f"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/12g_shell_s.png"
+hash = "6a0b985216e587bd5bc7612380a0991d2f43c59dea4416951872e9cb6b239224"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/308_shell.png"
+hash = "6b5a24279e3330135dc595d7375f08ff23ddffbf6c380f5dc5a3362653b34554"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/308_shell_n.png"
+hash = "76c2d15a3e4391cfdb5d1e4f16d3b9369f9640d215281126fd132d597ade0b65"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/308_shell_s.png"
+hash = "f41ae612c9ea99d7458f1f778e18f1a33ee4d0cdc3adc1040f8874a217b272c4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/30_06_shell.png"
+hash = "6b5a24279e3330135dc595d7375f08ff23ddffbf6c380f5dc5a3362653b34554"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/30_06_shell_n.png"
+hash = "76c2d15a3e4391cfdb5d1e4f16d3b9369f9640d215281126fd132d597ade0b65"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/30_06_shell_s.png"
+hash = "24fdc55d02ab08860c0e09ddfbe829b37332bb9c2c17c764aee1a3e5c6038704"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/45acp_shell.png"
+hash = "e051b230b7c757504f294de9cfc636bbd0a820c3ff53438fdec7bccba06b3b8b"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/45acp_shell_n.png"
+hash = "92a2c77ef0b81dd7a0867c6b532957b99cd297baa347028f9403ad5113b94765"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/45acp_shell_s.png"
+hash = "3810673be85e47a4de0cd83753236f2d2bc4cb8391f20f8724b5701aa4f31d4a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/46x30_shell.png"
+hash = "979f826ab59049b8b852e359d920aaa0746b9ac315055588a965a467a6aa31dd"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/46x30_shell_n.png"
+hash = "59a482070fc75646af968ff74c86d61696f33a95a93dc667de50fa8250f44cab"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/46x30_shell_s.png"
+hash = "e0058eb7cf356215b42700f2a9fe272aa95306b4fb794139254475baf9e5c0c2"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/50ae_shell.png"
+hash = "b29695c08c93a7bd7fcc46fa86bea80527fc0aa71351f46fc5acc163b78c68c8"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/50ae_shell_n.png"
+hash = "48521372fd6cfe9949b324c453b774239f6a00f7820caff0d7a42f2d89b211dc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/50ae_shell_s.png"
+hash = "3387b6dc7f035307be34519a119a54317807899fb9dd15e4b66b2414d95e333c"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/50bmg_shell.png"
+hash = "2e87432a24edcdb605a6c2477dce906b959423d4996c99bf40bc6c35d9d6df5d"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/50bmg_shell_n.png"
+hash = "e255f302e1766c3146274ad81444eec572f1f2698447234bc03550dd764b58a7"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/50bmg_shell_s.png"
+hash = "f8e6d91f8b7b040fd9bfa45941b91558376d6ed11b2c5388df81392d0327b294"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/556x45_shell.png"
+hash = "30043d2e68c37eeb1b32fdafd5b6a33ddffad5c15af2b991c5fab6edb5063f7a"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/556x45_shell_n.png"
+hash = "76c2d15a3e4391cfdb5d1e4f16d3b9369f9640d215281126fd132d597ade0b65"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/556x45_shell_s.png"
+hash = "f41ae612c9ea99d7458f1f778e18f1a33ee4d0cdc3adc1040f8874a217b272c4"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/762x39_shell.png"
+hash = "4cb6a009abbae8a0c7a55eb0c60f97ba9a6dbade081c167a66f15e4ee5b2e474"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/762x39_shell_n.png"
+hash = "3fba2aa10f193db8f746c084ac26973d08fc1f3bbe683b20f5e962ecd32cdd85"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/762x39_shell_s.png"
+hash = "f113481e59ab6ec2b3e396b6755651b2428b3a0df27de289c830f009d95362a5"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/9mm_shell.png"
+hash = "8bfae1e519d964e26cd6b0e6c1de278d61a3da7ea8095b37654236366af72cfc"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/9mm_shell_n.png"
+hash = "92a2c77ef0b81dd7a0867c6b532957b99cd297baa347028f9403ad5113b94765"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/9mm_shell_s.png"
+hash = "3810673be85e47a4de0cd83753236f2d2bc4cb8391f20f8724b5701aa4f31d4a"
 
 [[files]]
 file = "config/tfc-client.toml"
@@ -1266,7 +4938,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"

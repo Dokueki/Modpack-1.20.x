@@ -27,6 +27,22 @@ topInformation:
   # Default: true
   displayCableInfo: true
 
+  # If true, The current mode of the machine will be displayed.
+  # Default: true
+  displayMachineMode: true
+
+  # If true, Display whether it is currently formed or not.
+  # Default: true
+  displayMulitblockStructure: true
+
+  # If true, Display stained color in pipe or other stain block
+  # Default: true
+  displayStainedColor: true
+
+  # If true, Display parallel of the machine or hatch
+  # Default: true
+  displayParallel: true
+
 oreVeinDisplay:
   # If true, the ore vein display will be displayed using an NH-style dimension.
   # Default: true

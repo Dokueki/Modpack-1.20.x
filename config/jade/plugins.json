@@ -74,9 +74,13 @@
   "monazite": {
     "maintenance_info": true,
     "auto_output_info": true,
+    "machine_mode": true,
+    "parallel": true,
+    "stained_color": true,
     "recipe_output_info": true,
     "exhaust_vent_info": true,
-    "cable_info": true
+    "cable_info": true,
+    "multiblock_structure": true
   },
   "ae2": {
     "part_icon": true,
