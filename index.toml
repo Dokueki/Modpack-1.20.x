@@ -4709,6 +4709,11 @@ hash = "af66bb9d1a92d5ec150d57402bd4734d8bce5b5e8c9d58cfc154b5209b46f807"
 metafile = true
 
 [[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "5b5c0464ce32e4dc7bc34bd1a3d1e50cdb1e939f81004e94207526ee0ab8bf95"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
