@@ -433,10 +433,6 @@ file = "config/enhancedvisuals.json"
 hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
 
 [[files]]
-file = "config/etched-client.toml"
-hash = "f2ba2f9022471e4b945cf7ed31a3392dd2c62bbee46f4776c47dcc5a812a5915"
-
-[[files]]
 file = "config/everycomp-common.toml"
 hash = "efb8d73d0a5f29fdd5fa55fa498734b4b8ef17aad8883840420826315340197a"
 
