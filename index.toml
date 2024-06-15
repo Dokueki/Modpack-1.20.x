@@ -7593,7 +7593,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f51d262460e27b091a778cdeb5b54ad50c4cfdcf73ccf2a11bdcfd3f3f1f5f10"
+hash = "22d9f4b270da1bbe27848c08747b35a97391141d118edfaf518cf34fd76367c5"
 metafile = true
 
 [[files]]
@@ -7633,7 +7633,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "ff9b47b951b64a0f73f6b7f88637d5aeb54c8e0f21accc3988d7343d37c0b06f"
+hash = "a3731f3b53d9f292a68d2dfe1d0db3d59b64879a348036e6021ad3d12f219a43"
 metafile = true
 
 [[files]]
@@ -7798,7 +7798,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "53ce2ea0630b056a181a3e901bbcece064f375609e12ae6c4d74758cddd8fdc7"
+hash = "a1340ef019c460151263a2a5ea7093a87d4a89dedd89cc099c98027f2869790b"
 metafile = true
 
 [[files]]
@@ -7908,7 +7908,7 @@ metafile = true
 
 [[files]]
 file = "mods/gcyr.pw.toml"
-hash = "99cc566a9e1a100870fccba6a7a65d0943fda68a0c46d95c39af3ad4dc135f42"
+hash = "db9fd65f950afd6f18074ac80f68dcd3120b4a488f7db9681ddd660fdcc63593"
 metafile = true
 
 [[files]]
@@ -7938,7 +7938,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "973039665bb9be82b3834d1544b3a1cc327d94067708677b1327b330e8b9d31b"
+hash = "f59d14dca7e4f4612a789c691a369329f25869204ac5ae66ab21dc88c37a3e2e"
 metafile = true
 
 [[files]]
@@ -7948,7 +7948,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2998c6878a1ab6ef9ddec4597f6a42bffe05f18d3942346f16795a445c00addc"
+hash = "0fdf262047af365220b5c871dc63dab8e78905b44d4b0536b8bb99e9719d378e"
 metafile = true
 
 [[files]]
@@ -8083,7 +8083,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c835e3734d6bd1156827fb51f539bf8871d1d87a237561ed38f59d3deb0c8d54"
+hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
 metafile = true
 
 [[files]]
@@ -8138,7 +8138,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "26ca76ce6d17ce793960ef92cf1933f0e2330a425ff4f048d7d094f2a133f508"
+hash = "599de647985b3811547e31b6b56fb96f81dcd14ca9343544a77c0860490ba596"
 metafile = true
 
 [[files]]
@@ -8243,7 +8243,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-mob-sizes.pw.toml"
-hash = "2c6370bf0e8ad5151b44bc7a880e01670fc8dd7501015ceb978dde706ad86f39"
+hash = "3b2921d4c3f892254d93aa64e943814f157a5bde132114f60f0eb2d5b377c2b9"
 metafile = true
 
 [[files]]
@@ -8268,7 +8268,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b1fb68db400bb8b08be0a25b5924d30d9007711469a58cfd2664a5e11e823345"
+hash = "e3bf82308855f7de46696f793f1fbd71f2c610647bcb9e30bcfa6c4c388e8a97"
 metafile = true
 
 [[files]]
@@ -8283,12 +8283,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "36dc5aaeed307cc96516b38e6c3cb965295c015e7a8ae234f56a3ff10f876dc9"
+hash = "e6f58328384e317da23e9a8143640e10e15bdd0a7acb5a0caf9ca81234a08c50"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-radio.pw.toml"
-hash = "ac92bfe9b09fb348fbc99a9776c2686a24f525f116626a22a8a3fbdd50493b5e"
+hash = "a1e30232a9daa8225d2fec0a91559030c054f3a8bde2c4c218e96b066c9e7b5e"
 metafile = true
 
 [[files]]
@@ -8348,7 +8348,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "00a87746b0705492e636ad566e6d0306835ce77cc5cdb307d1455f33e72ddb93"
+hash = "05fd001724743b8566bc84ccf435aae18fe2c6bd5dbb7e099073d4c39c012074"
 metafile = true
 
 [[files]]
@@ -8413,7 +8413,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "5b5c0464ce32e4dc7bc34bd1a3d1e50cdb1e939f81004e94207526ee0ab8bf95"
+hash = "d894fc590fbe689185dfedfffd534f0a1cf7dec30d400686afe4ecddbbfa1697"
 metafile = true
 
 [[files]]
@@ -8487,7 +8487,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e24ed692092f7838f894f581423db2a8c61718c6e5b70a54b06277c847dad03b"
+hash = "1893dc59ea16fa8f670f2aaba63663b3b6ca26092cacbcca9c608556f6c59f79"
 metafile = true
 
 [[files]]

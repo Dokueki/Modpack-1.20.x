@@ -1,13 +1,13 @@
 name = "Timeless and Classics Zero"
-filename = "tacz-1.20.1-1.0.1-release.jar"
+filename = "tacz-1.20.1-1.0.1-hotfix-release.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fd41207305f1fc22b263bfdf79e5cbe8f22b6410"
+hash = "e1adb002db22666851eeffd791271e5e2b000852"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5412156
+file-id = 5426624
 project-id = 1028108
