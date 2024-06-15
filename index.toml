@@ -8239,6 +8239,11 @@ hash = "55c364562bec24860e298f3323fde4a6798326ce05aba67fe37af7296ce9d982"
 metafile = true
 
 [[files]]
+file = "mods/greate.pw.toml"
+hash = "e04856fd02b1ec6907995054b2e58f9e5e95a9d6155cbc8e74e4478658a3dcb9"
+metafile = true
+
+[[files]]
 file = "mods/gregic-energistics.pw.toml"
 hash = "8141c2ddb53a5aaf49dc760509646dcdeee1bae5cdb50ac722bac4cf17eeac85"
 metafile = true
