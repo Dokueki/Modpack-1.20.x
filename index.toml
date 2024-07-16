@@ -9232,6 +9232,11 @@ hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
 metafile = true
 
 [[files]]
+file = "mods/ldlib.pw.toml"
+hash = "92a104bc359b32c797c4bc590afa8cad014b1812bb6db0d509c3ff58b25a44cc"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "f19f61fcce9df3befee6d0d6096a93a9646f93766b2523b27e7903da81e4269b"
 metafile = true
