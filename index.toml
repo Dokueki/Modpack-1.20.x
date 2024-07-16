@@ -1014,7 +1014,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "cbb3c1fc1bf80e520fc72207ec44a0fa59e8c33be08a40927213a476da59e660"
+hash = "100e5c400366bdf5641c599c406ff894b4715baf9c79f169e967258ea4c0f020"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1150,11 +1150,11 @@ hash = "e6c1421c824fab24ff24804bc1e6e52cb94d78ada39c69d01165fac7ca9cb93d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "135290ad2e72eb3e213268ab4ab2ca43257c62e1ff58051316e19fee416b5bbd"
+hash = "c051dae35f2597c43c869573a186088040bc23309e4d71dccc95346be6b9cc57"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "3eec9f846a8f625d6372cdd2f99513a4dac4a919fcd8837f0a28990ead25b772"
+hash = "d54f11411df6c171ca3442193405628bb84f7315f254fab93d8f7c33c1e079ed"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -8948,7 +8948,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "faf5eba1cdf9cd91262521ad032f689f237727f47e5c3b7518e6fff0dc7a90ac"
+hash = "1c7d65c6aa085aa80ff90761e02c408997b28068342ba8fa3f57526946c3c8f2"
 metafile = true
 
 [[files]]
