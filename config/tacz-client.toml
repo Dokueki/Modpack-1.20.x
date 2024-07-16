@@ -14,7 +14,7 @@
 	#Range: 0.0 ~ 1.0
 	BulletHoleParticleFadeThreshold = 0.98
 	#The crosshair when holding a gun
-	#Allowed Values: EMPTY, CIRCLE_1, CIRCLE_2, CIRCLE_3, CROSS_1, CROSS_2, CROSS_3, CROSS_4, CROSS_5, CROSS_6, LINE_1, LINE_2, LINE_3, SQUARE_1, SQUARE_2, SQUARE_3, SQUARE_4, SQUARE_5, SQUARE_6, TRIDENT_1, TRIDENT_2
+	#Allowed Values: EMPTY, DOT_1, CIRCLE_1, CIRCLE_2, CIRCLE_3, CROSS_1, CROSS_2, CROSS_3, CROSS_4, CROSS_5, CROSS_6, LINE_1, LINE_2, LINE_3, SQUARE_1, SQUARE_2, SQUARE_3, SQUARE_4, SQUARE_5, SQUARE_6, TRIDENT_1, TRIDENT_2
 	CrosshairType = "SQUARE_5"
 	#The starting position of the hit marker
 	#Range: -1024.0 ~ 1024.0

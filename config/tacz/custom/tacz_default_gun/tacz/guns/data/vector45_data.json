@@ -2,29 +2,29 @@
   "ammo": "tacz:45acp",
   "rpm": 1100,
   "bullet": {
-    "life": 0.6,
+    "life": 0.8,
     "bullet_amount": 1,
     "damage": 7,
     "tracer_count_interval": 0,
     "extra_damage": {
-      "armor_ignore": 0.15,
+      "armor_ignore": 0.2,
       "head_shot_multiplier": 1.25,
       "damage_adjust": [
-        {"distance": 0.5, "damage": 8},
-        {"distance": 10, "damage": 7},
-        {"distance": 15.5, "damage": 6},
-        {"distance": 20.5, "damage": 5},
+        {"distance": 1, "damage": 8},
+        {"distance": 15, "damage": 7},
+        {"distance": 36, "damage": 5.5},
+        {"distance": 50, "damage": 4.5},
         {"distance": "infinite", "damage": 3.5}
       ]
     },
-    "speed": 180,
-    "gravity": 0.0245,
+    "speed": 150,
+    "gravity": 0.098,
     "knockback": 0,
-    "friction": 0.012,
+    "friction": 0.02,
     "ignite": false,
     "pierce": 1
   },
-  "ammo_amount": 17,
+  "ammo_amount": 19,
   "extended_mag_ammo_amount": [
     24,
     31,
@@ -83,5 +83,31 @@
     "sneak": 2.5,
     "lie": 2,
     "aim": 0.175
+  },
+  // 近战相关
+  "melee": {
+    // 枪械距离参数，用来延升近战攻击范围
+    // 会与刺刀等配件的距离做加和
+    "distance": 1,
+    // 使用时的冷却时间
+    // 会与刺刀等配件的冷却时间做加和
+    "cooldown": 0.6,
+    // 默认近战数据，会被配件的数据替换掉
+    "default": {
+      // 动画类型：没有枪托的为 melee_push，有枪托的为 melee_stock
+      "animation_type": "melee_push",
+      // 刺刀距离参数，枪械里还有个刺刀攻击距离参数，两者做加和
+      "distance": 0,
+      // 刺刀范围角度
+      "range_angle": 40,
+      // 刺刀冷却时间，枪械里还有个刺刀冷却时间参数，两者做加和
+      "cooldown": 0,
+      // 伤害值
+      "damage": 1,
+      // 击退效果
+      "knockback": 0.4,
+      // 前摇时长，单位：秒
+      "prep": 0.1
+    }
   }
 }
