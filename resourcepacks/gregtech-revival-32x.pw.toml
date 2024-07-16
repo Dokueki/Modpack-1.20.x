@@ -1,13 +1,13 @@
 name = "GregTech Revival 32x"
-filename = "GregTech Revival 32x 1.19.2-1.20.1-1.21 ver 0.11.zip"
+filename = "GregTech Revival 32x 1.19.2-1.20.1-1.21 ver 0.12.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fdd982119ecb97a5bd00b5e9dfdea4f02a3cf063"
+hash = "11afd6e13c0f39d4a37cec5a4998339c51454f59"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5473936
+file-id = 5510095
 project-id = 964322
