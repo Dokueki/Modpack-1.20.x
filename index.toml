@@ -958,7 +958,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "0bc87f76d40d24e73576a5f51b656abfcb15d1c364970de2a71c68205c195c9c"
+hash = "110d2d85eda61310af9249520f8b1e7f9c001eb8e9f425c126b6166a5dc48c5e"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1094,11 +1094,11 @@ hash = "b3eea2455dcbead609b5f47f9f3c79e961ce1ba5aa5be9a649ce07839b9d31be"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b4542a108f66569b1c725afd22f4bf0e0ec2427ce59d3306ec3adfeaec05298d"
+hash = "8fbb0dd74d2c255f7699319a860b3f4f66ff79e7eb2b236784d08d9cba59f486"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "097685da6d497ab814a29d3e9103bbea78128ed68cf2c79ce8a142427b8bef8f"
+hash = "454648924f85827e1a44a4fc71e27cc02d52fea48724104b764404ee3a71d1a5"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -5242,7 +5242,7 @@ hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "c5690f4a6f1d19585b3639f01b55919872d579a4bc8431a395603c9cea70f398"
+hash = "c44b7b3f50c83ca5eba46f61caaca2cd9614f84b62b1302e0005b4b0272fd081"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -5286,7 +5286,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7753,6 +7753,11 @@ file = "mods/AnimalTrapTFC-1.20.1-forge-1.0.1-custom.jar"
 hash = "443ae06814b81f9a28ae3041edf5b2fb0c0f86087b5b32f66b5bbf937e039891"
 
 [[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "ec94095d0abf76b3aff1c4a12503fca5de2a315f9453384735b28bbaeb0936e4"
+metafile = true
+
+[[files]]
 file = "mods/ae2-insert-export-card.pw.toml"
 hash = "271becf0b7ba73ad26dab11f3292afa7aa67564600326a361317c7c22577581d"
 metafile = true
@@ -8178,6 +8183,11 @@ hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
+metafile = true
+
+[[files]]
 file = "mods/ftb-filter-system.pw.toml"
 hash = "861fbd37ddfb6fbc634b339e3b9aeef435c6a04f8c18e949bf0784ff0a6bf9d4"
 metafile = true
@@ -8595,6 +8605,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
+metafile = true
+
+[[files]]
+file = "mods/shimmer.pw.toml"
+hash = "bd9bd36ae7fb54a91dde0177d4a6892a2796e3ae057846e059d4a2c8ea09009c"
 metafile = true
 
 [[files]]
