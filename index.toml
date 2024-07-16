@@ -410,7 +410,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "053ff3cbc95f55fe5cb1e4413c0524834429803a79a99ae5b2c4b74f6fda432c"
+hash = "ff4f33bdd42508bae1e1d3382266725a1310316aca807a5e8af618276cc5fd03"
 
 [[files]]
 file = "config/emi.css"
@@ -902,7 +902,7 @@ hash = "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "f1b1e488e3de45a80e2cc9a8afc0771333194059d9a6f2e22901cf54df489b33"
+hash = "05798599e7cb97a16737a66264407048f447344c24159a88ce8dfbdb57c1e651"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
@@ -910,7 +910,7 @@ hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
 
 [[files]]
 file = "config/jei/jei-debug.ini"
-hash = "3bcfdd2751e73643bd8efc330d670c6d8c0ff25f9844c1c768526a98ba995c47"
+hash = "fed5a1f6e741725e0946ec0c3f753994ffed14bb7bcbef81e77e1bb960495e31"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
@@ -1014,11 +1014,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f0f22cfd4d3080e8fc2102c1062a7771ef689c7727a048478ecc8e3d5557fb53"
+hash = "d01cb83a4acdbc21adb907ead9e7dd3bd03f3c7c5f7231ce915658cd90bf2861"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "426a40029d00872b52ad8e9727b0fd6406334d5ccf826ab4940e85e2699ad56f"
+hash = "a3a1f031ab181d0deb30a53ff1e0c692b540e7afcf29b3d3e00c54855b42e76f"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1150,11 +1150,11 @@ hash = "e6c1421c824fab24ff24804bc1e6e52cb94d78ada39c69d01165fac7ca9cb93d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "521a7ca1c74b815c6bce19b04608c8f3d87dae20f67181a6feb6adb98f00f024"
+hash = "9fb0da422149b3b3ef82e84f305cc3f7fbb82caa2e303e1cf4f2b09818063f0a"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "1987a45408546e93ce9f3a183bb32d1d7e099c3f5968c5a240a8d5d756b71414"
+hash = "29d60cd4b8170a3990e27d5b202d2d98299855f18ff3438388c24fc560544ea6"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6150,7 +6150,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
