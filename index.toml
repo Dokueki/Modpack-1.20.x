@@ -274,11 +274,11 @@ hash = "564e6b7eb80e781e61c79d687b6a506e163d3cad89ede9705a744d3453e02231"
 
 [[files]]
 file = "config/copycats-client.toml"
-hash = "3419d33b40505458748233b47c47610527a1fe247362e5fb2a7dd062f6af4e51"
+hash = "9c4e1c84d2cd936b850b7d69ab97e4b617e464551cc3ce44aeb0aaed4eb6c6c5"
 
 [[files]]
 file = "config/copycats-common.toml"
-hash = "bc7832b25a746ad915b4fb3ae04970558c05469f437caec23f1f5b74e537c4ff"
+hash = "ff20404c0efb96c27037204f8d13843a61f5235a6af41fdef4d5105d287356a6"
 
 [[files]]
 file = "config/cosmeticarmorreworked-client.toml"
@@ -430,7 +430,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "d29e27b0fc32682f88c2c986727d0f7e1f98200bbbbf20d0a809d0750fc42c4e"
+hash = "1b769b0596cd2762004dadecf0184391c9a38cf352c7d013174c685bf5dc6c18"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -458,7 +458,7 @@ hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
 
 [[files]]
 file = "config/exposure-client.toml"
-hash = "0842df907ecf0e500a578c60cd56db4f4612ad6075795ad8baf587d2f2031b09"
+hash = "4020add3c043add3af9c7352dfd0ff49aac581e8b352fb8373bf9b20b9d99ba9"
 
 [[files]]
 file = "config/exposure-common.toml"
@@ -1014,11 +1014,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "d74cbe564e3bd56b9098fed84300e25ac703f530ef910f1e1221a257290afb45"
+hash = "ec7dd162edc5d67fcf9c0a6ce5fe2e77f2163971ce203860ebc3da7f374b6c69"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a3a1f031ab181d0deb30a53ff1e0c692b540e7afcf29b3d3e00c54855b42e76f"
+hash = "360a5d4fc2449e9445593cc37e2ddd7d84fc4da139eacf63abcf2236cd78e9c0"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1150,11 +1150,11 @@ hash = "e6c1421c824fab24ff24804bc1e6e52cb94d78ada39c69d01165fac7ca9cb93d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4462fd9d4727b84188224dc683ea2e1e36a36854ff2f6675c839e4aac33d90e4"
+hash = "9b7e00b20f75186596cf416e0fd999b37563c6b0e87b802c3ffb20a1de759b94"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "df9fe6554e31aaec26538df2cc9a76a4e71b2b16abefc1ebdf0017a835677f6d"
+hash = "b98ae22f7d0a88e937c14c662faee3115b4ea8e78e5485781941f9c0b064e42c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6150,7 +6150,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
