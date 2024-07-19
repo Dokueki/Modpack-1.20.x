@@ -8818,7 +8818,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "ecde06eae0428afe6d44435db3030d7073668e18427daa7b1e2930d4f33445fa"
+hash = "bdc5d0c97d71d57111e3d59d48062035567efd74b25d4155e223ffe8e5a6d5f1"
 metafile = true
 
 [[files]]
@@ -8888,7 +8888,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a55ceefc3fde03c553aff67284ac97c0905f19f29e4f045ff712d6edca7f0303"
+hash = "830c68b906a8fe8c81c62b89255fd0ff7ca5d69c0f78b1cfc24208b6c61753f7"
 metafile = true
 
 [[files]]
@@ -8993,7 +8993,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "15950be9c381a26936b3d695229a39eacc53631b0c98cfd1e40cd7b8e304670c"
+hash = "b3a2a3288a8a8c4541f53a62ac26cee6c73b0cc2a6970985e1aa660a164a216b"
 metafile = true
 
 [[files]]
@@ -9058,12 +9058,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
+hash = "75c061ce78d7d3f818d98bb94f9a68948aa3a1a612f3c26ade989b60b36b9657"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "66ec7b08fcc332a745f9a7f79f81b26efeabd90a5a9588ae36ede46e41ff1096"
+hash = "800421ac8a23d1a441a1af31747a5742b370e2a2ccbeaf9e498c7b6fc66cbb6e"
 metafile = true
 
 [[files]]
@@ -9253,7 +9253,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithic-coins.pw.toml"
-hash = "9534f00c61c7a63177e063a378319c48e4f63d7405dcc3a2a8cfbf724def70de"
+hash = "104a7c6cba8bfb0cc13682a586043176144bce0d91b338974858435698802e9d"
 metafile = true
 
 [[files]]
@@ -9288,7 +9288,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a57bc1e770ea4c0caae72f0de43960ebfc446b2d3b75744111e4bc75298b208b"
+hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
 metafile = true
 
 [[files]]
@@ -9368,7 +9368,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "134caaf6adf6ad007d4c6449430062d5a152238828e9fb8271060587adbbf61f"
+hash = "99ec1ad847151fb49874cdc9f41f507cb56608dbaf006c939b81a216381b0178"
 metafile = true
 
 [[files]]
@@ -9418,7 +9418,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "d160b93a38f67c402d66285921433b1f1dfe8fa884e24ab9565f0541ebb44bf8"
+hash = "6d3848f7e3e1617c343aef702136a53656b4d5b484f7a09eb01568708971eba8"
 metafile = true
 
 [[files]]
@@ -9453,7 +9453,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "387dc9dc75acd75b4fba4736307e2de6991567ad364bcfb5dc992c6b3acf5f44"
+hash = "30b5bc2384a127d2ec6ad93125d7f6bbc8c93bc8db2a441c009cf067884fd2b9"
 metafile = true
 
 [[files]]
@@ -9672,12 +9672,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "5b57c4f8641f07b51d40e2c65d937c01cbfd84880a1c272397192ef3b32a84e8"
+hash = "a4284d863954a716e8609c8cbba2a10d0b7293e1f3099663ef1df03b612f6d0a"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "0160463110d82168db07f3fff746ea933dc925afdbeb11cd277c568c3ea98d17"
+hash = "ff13ae962f55525534b3cd7bc5da6ba74eaefa82bcb6c377093ba09560148f60"
 metafile = true
 
 [[files]]
