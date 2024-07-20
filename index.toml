@@ -8430,7 +8430,7 @@ hash = "84f1216d1986f5ec5ec22346899956dc1ff9a3d63411a392293d99c010f725eb"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "a4666d5bfa1f90057b306364fb00aeb8c464c065decc26377ffd002d2f6ce85d"
+hash = "4c28d32edfdb175cc3e73745e8325b9a046cfc25634e964931c2dab9d3da5030"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
