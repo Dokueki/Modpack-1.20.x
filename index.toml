@@ -8273,6 +8273,10 @@ file = "kubejs/server_scripts/_dokurai/eureka_ships.js"
 hash = "9641522d096375ff4131934398619e5b8957e911cdbd3d5daa76dc107e357177"
 
 [[files]]
+file = "kubejs/server_scripts/_dokurai/greate.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/server_scripts/_dokurai/lithic_coins.js"
 hash = "15d6590536bfe7bd6d4766aa7a70c5581a60c9b12fc1de3e4cba8c1b0df3bf1f"
 
