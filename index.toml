@@ -1014,7 +1014,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ec7dd162edc5d67fcf9c0a6ce5fe2e77f2163971ce203860ebc3da7f374b6c69"
+hash = "325e16a9e7d691463f09ebe2a375ccc80b37b6e5ab1911bbdfce3f2c7fe35cbc"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1150,11 +1150,11 @@ hash = "e6c1421c824fab24ff24804bc1e6e52cb94d78ada39c69d01165fac7ca9cb93d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "9b7e00b20f75186596cf416e0fd999b37563c6b0e87b802c3ffb20a1de759b94"
+hash = "c876de395a14e266b8c8dcac5d4d31157cd8a0e8e6dac7a8d3aaa19255d7c35f"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b98ae22f7d0a88e937c14c662faee3115b4ea8e78e5485781941f9c0b064e42c"
+hash = "ae8fbb06faadd38c8451c8ebd6457479d35b88165c16334c309f3e9c9eca3c56"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -9188,7 +9188,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f7c26052fb00f42e7068932135f7a22eb36eb9fecf8b6a544c1ac8d20c4cdd64"
+hash = "3adf8ad51adec86387a7243f518d3a33f412c2bb46508351ac724f496768ac2a"
 metafile = true
 
 [[files]]
@@ -9288,7 +9288,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4fc1ae88e7d279b30cbe262131924f5912cb862d5c09e09677cc484da6ffd092"
+hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
 metafile = true
 
 [[files]]
