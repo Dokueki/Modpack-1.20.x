@@ -1,9 +1,9 @@
 ServerEvents.tags('item', event => {
-  event.add('c:hidden_from_recipe_viewers', '/simpleradio:.*_module/')
+  //event.add('c:hidden_from_recipe_viewers', '/simpleradio:.*_module/')
 })
 
 ServerEvents.recipes(event => {
-  event.remove({ output: '/simpleradio:.*_module/' })
+  //event.remove({ output: '/simpleradio:.*_module/' })
 
   event.replaceInput({ mod: 'simpleradio' },
     'minecraft:iron_ingot',

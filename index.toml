@@ -1014,7 +1014,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "7e9d35d8ff3ce5cadab2bdbe566e50d7809c63e0ee3583b11c8be0149da49657"
+hash = "ef8015c2b79a5a3dbbdd446ab8641ea6a55f63725f5d37628888a50e47da6213"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1150,11 +1150,11 @@ hash = "e6c1421c824fab24ff24804bc1e6e52cb94d78ada39c69d01165fac7ca9cb93d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ba7f7d2774d7e954f6dcf9cd0252468985aaccf031b7bfe0f10ffd1be594af97"
+hash = "d34953df1868b13ea63e6c9796413baf0d3d0c755d3ebf2f85d4c8e6365e7c3d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "3d982238224bfc7685ccdb149a78c69ccde188af48ad3db885531305d27e75ab"
+hash = "310d527c64378dcf53787568a2b9e768cae7a6c2e7bef31fc07f725b47ebc4e0"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6150,7 +6150,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8273,12 +8273,24 @@ file = "kubejs/server_scripts/_dokurai/eureka_ships.js"
 hash = "9641522d096375ff4131934398619e5b8957e911cdbd3d5daa76dc107e357177"
 
 [[files]]
+file = "kubejs/server_scripts/_dokurai/lithic_coins.js"
+hash = "15d6590536bfe7bd6d4766aa7a70c5581a60c9b12fc1de3e4cba8c1b0df3bf1f"
+
+[[files]]
 file = "kubejs/server_scripts/_dokurai/macaws_tfc.js"
 hash = "361fafac3d61fbb63fca9357054457ec378eb935c245468d40a2a677b3d2d7b7"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/simple_voice_radio.js"
-hash = "fcf31466d4f277d4da3800abbd4c01d89f1f9cb75d39a9d42f24aa75da3b8cd1"
+hash = "13e2ffd6b897c1b1e8bdf0ebfe0fda1b25156ff2c77379a1cef7c1967106f23c"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/timeless_and_classics_zero.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/_dokurai/waterframes.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/ae2/recipes.js"
@@ -8415,10 +8427,6 @@ hash = "de646cde8cab20e5cb2d74ed2b73d32152770fe01c0afda1df3cd0c4eb70195d"
 [[files]]
 file = "kubejs/server_scripts/hotornot/tags.js"
 hash = "84f1216d1986f5ec5ec22346899956dc1ff9a3d63411a392293d99c010f725eb"
-
-[[files]]
-file = "kubejs/server_scripts/lithic_coins/recipes.js"
-hash = "d24c74a221126efc17eae2f03269b4c08cce7525f8a76e635ebf313c6d81ac63"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
