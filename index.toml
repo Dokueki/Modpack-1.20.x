@@ -8818,7 +8818,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "bdc5d0c97d71d57111e3d59d48062035567efd74b25d4155e223ffe8e5a6d5f1"
+hash = "c9c55d8e896ce781be86d340d221574ea560f9a36bcef4571012aece122d5bcd"
 metafile = true
 
 [[files]]
@@ -8993,7 +8993,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "b3a2a3288a8a8c4541f53a62ac26cee6c73b0cc2a6970985e1aa660a164a216b"
+hash = "b00f8f5c8dacdfe326732b81adf44ee0c5d9d461e1a41ad552cb61ecde108791"
 metafile = true
 
 [[files]]
@@ -9233,7 +9233,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "92a104bc359b32c797c4bc590afa8cad014b1812bb6db0d509c3ff58b25a44cc"
+hash = "6eda65063fce83d184e20e1b1d41a05ff133d25605bc89f8fd0dcc015a983615"
 metafile = true
 
 [[files]]
@@ -9473,7 +9473,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
+hash = "84298e5c4783b70dd8ea6abdda79b67b12a584f7420f6e72bbb5f91ea7875b35"
 metafile = true
 
 [[files]]
@@ -9677,7 +9677,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "a4284d863954a716e8609c8cbba2a10d0b7293e1f3099663ef1df03b612f6d0a"
+hash = "147c2a147b0cb912a43c35060318c3af881e023fbc39267b961c719124a9e7db"
 metafile = true
 
 [[files]]
