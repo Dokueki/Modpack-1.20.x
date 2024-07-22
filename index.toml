@@ -8630,7 +8630,7 @@ hash = "443ae06814b81f9a28ae3041edf5b2fb0c0f86087b5b32f66b5bbf937e039891"
 
 [[files]]
 file = "mods/ae2-import-export-card.pw.toml"
-hash = "ec94095d0abf76b3aff1c4a12503fca5de2a315f9453384735b28bbaeb0936e4"
+hash = "e4c225451a42377a82279c3579dddf607b139807d82127b4626fa128601ab0d4"
 metafile = true
 
 [[files]]
@@ -8830,7 +8830,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "c9c55d8e896ce781be86d340d221574ea560f9a36bcef4571012aece122d5bcd"
+hash = "a678f13d916475b068db2d6ee53e58713f2eb8bebf7cd728c52c45107596f08a"
 metafile = true
 
 [[files]]
@@ -9175,7 +9175,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "bd171f4a28884e473c65f54a9e7cfae011e1f61af02d455b6204555199d7476c"
+hash = "febb4cd66a6bc24f4eae98b0d25dfd30ce21b28a9d708c12ee52c3ede6846e3e"
 metafile = true
 
 [[files]]
