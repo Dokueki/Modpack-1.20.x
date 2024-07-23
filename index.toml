@@ -113,10 +113,6 @@ file = "config/Advancedperipherals/world.toml"
 hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
-file = "config/CoroUtil/General.toml"
-hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
-
-[[files]]
 file = "config/EmiLootConfig_v1.json"
 hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
@@ -878,7 +874,7 @@ hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
 
 [[files]]
 file = "config/jade/hide-entities.json"
-hash = "b0eb9b1d94877ac96bf4fda749e3df1d7a6bf3f8363035cbe7266cbfb3518bd9"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -1018,7 +1014,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "25e29840263f550ca13d11a0340639aade976c2bde4f780c808ae675e919f3c1"
+hash = "a923487e6b424d143df017585a18dc4db2bb7fa080fbdaef50dd287b22770feb"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1158,11 +1154,11 @@ hash = "d4048a03fe9bf7932eedc6232aaadd250f0818180767a0ad632b09f4034e5456"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "28fff1944a52ac9f9aab0e2a4b70aa9fa29b276479f3c6bf82fdf1c82706599f"
+hash = "2775772e0bf6405a5008c892d025c67bd2bdd5d428ffd97164e03fe9eb2d94ae"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f2f279a9ac9d1f5c09a1df211730e15d6bc0394be2c6e54e54b236f2817714af"
+hash = "1ac9602e15ef8ba5719445540544521f5916ee90cc38767b9ba8375a865a70c8"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6158,7 +6154,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -6175,26 +6171,6 @@ hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 [[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
-
-[[files]]
-file = "config/zombieawareness/ClientConfig.toml"
-hash = "e3d0e5585b27f8c8e2a2f58d985cec82f2daa86463f33fec7e4029666ab04067"
-
-[[files]]
-file = "config/zombieawareness/Features.toml"
-hash = "27169365e5ac664dc94371e0ae1ece7951101e9c8a5e3933c684e5c543c23401"
-
-[[files]]
-file = "config/zombieawareness/General.toml"
-hash = "b763a69c4a92f57838f0d560645f4e890d6969aed7e4ce41767ad6527cf5733b"
-
-[[files]]
-file = "config/zombieawareness/MobLists.toml"
-hash = "f34ff27a083eac2349c01e7ed9e262ddc235129dc2841a6cbf3e23c0f96a4123"
-
-[[files]]
-file = "config/zombieawareness/PlayerRulesAndLists.toml"
-hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
 file = "defaultconfigs/corpse-server.toml"
@@ -8843,11 +8819,6 @@ hash = "ef3286ec42a0785ac8a6830ba84837f02bb3411ef95fcecd74453f4b69c64c34"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
-metafile = true
-
-[[files]]
 file = "mods/corpse.pw.toml"
 hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
 metafile = true
@@ -9729,11 +9700,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1893dc59ea16fa8f670f2aaba63663b3b6ca26092cacbcca9c608556f6c59f79"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
 metafile = true
 
 [[files]]
