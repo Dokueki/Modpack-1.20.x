@@ -73,6 +73,10 @@ file = "config/EmiLootConfig_v1.json"
 hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "a73238b3a1fe4fdf6d15069fb06bb1b44115fa9ae6c00b0fcf3b1f0746994b40"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -349,12 +353,16 @@ file = "config/embeddium++.toml"
 hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "bfb611d0960f875ef646161fcd0a4c75c41ce6b5ac9a94a99caf5ea9cb84703f"
+
+[[files]]
 file = "config/embeddium-mixins.properties"
 hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "ff4f33bdd42508bae1e1d3382266725a1310316aca807a5e8af618276cc5fd03"
+hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
 
 [[files]]
 file = "config/emi.css"
@@ -607,6 +615,10 @@ hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 [[files]]
 file = "config/fml.toml"
 hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -949,8 +961,8 @@ file = "config/nyfsspiders.toml"
 hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
-file = "config/packetfixer.properties"
-hash = "a86425121c8d92a481fda8b53b77690a0cebbf1d855143c0207f8d490f28c7fc"
+file = "config/oculus.properties"
+hash = "074acaa7d040fa9fed6480d4132b637757bf093cd529ef587f97d920046c122d"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1083,6 +1095,14 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "e6a9e7b210b62c9ddc8448ef1e032bcd4e5f5b3c3539502e1be037102dc30885"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "192655371c177ff367cb1216d47ea4b1f6fa919219e2fbe7f4b3ffab4efd5c7e"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "edbad74b2b6ac298b23e214fb5f47f42a083f6b491de7993490a36329f77d9e6"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6029,6 +6049,14 @@ file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
+file = "config/voicechat/username-cache.json"
+hash = "62ee4526ae47497e1290071fc6e63b6ae7c7b1598a61d77abd1fe709132beabd"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "db23db5c5c2d7d3a0fc958f88a0c61769f8ad8ed9bfea215a703eccdc16c7160"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "544ee8bb72b6619da536e8ba617cfeb7c1423db6246063b06e29691550538f53"
 
@@ -6067,6 +6095,10 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
