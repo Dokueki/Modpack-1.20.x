@@ -649,6 +649,14 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "23dac8e8964b311ec6361b30dfb33db572a4bf13657c545bb1b618ffe7f896f1"
+
+[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
@@ -1010,7 +1018,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "79a9167c4965d43f9b2e2fa0815f2a80b413f3d8c94cb2b03442c12a61ba6670"
+hash = "25e29840263f550ca13d11a0340639aade976c2bde4f780c808ae675e919f3c1"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1113,6 +1121,10 @@ file = "config/simpleradio-server.toml"
 hash = "917a80a4f861fa0c7f2725f00ff1d9c49aa06ce8ac1c26606dd0d81604854bcd"
 
 [[files]]
+file = "config/sliceanddice-common.toml"
+hash = "6d15397086cbf7e666f295ba021b6c62158e4b6c0bc1f19ff637864894a64e5a"
+
+[[files]]
 file = "config/smoothboot.json"
 hash = "780cbbe638e0a8a6d5e4dd4b606b4250ababa3bfa6aed0df58eec97fa333ef2a"
 
@@ -1142,15 +1154,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "bd53b123a00fa1b73f16b16e9b18be50f373596f47c2057561359b4a336bf5cf"
+hash = "d4048a03fe9bf7932eedc6232aaadd250f0818180767a0ad632b09f4034e5456"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "01bcd97d146b54e89dd8038c2ef33350ac9c62d88686a85051cb3763f5640c24"
+hash = "28fff1944a52ac9f9aab0e2a4b70aa9fa29b276479f3c6bf82fdf1c82706599f"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "722abf020d3dfbc38a2da7fe2078b58061e656b3c89b1851a0ae9aff22f48674"
+hash = "f2f279a9ac9d1f5c09a1df211730e15d6bc0394be2c6e54e54b236f2817714af"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6146,7 +6158,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
