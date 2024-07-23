@@ -9006,6 +9006,16 @@ hash = "c3f2175c2bd55cd9d799cbb9ad8097ff978c748005e6dd87298cf7dce63e9f35"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-tfc.pw.toml"
+hash = "0c634721025a8a8080f5a2401208b17753d2d4e1ff936d4f1653bc03d37e8efb"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
 file = "mods/farsighted-mobs-forge.pw.toml"
 hash = "4faaa75710197421e8191c89735e308718acf3a1b58427a3976652eddb1cca81"
 metafile = true
@@ -9503,6 +9513,11 @@ metafile = true
 [[files]]
 file = "mods/skinchanger.pw.toml"
 hash = "298f9e7f4c075274da221028f4300f32dd784c080b8733cfd22d4672a7dc721f"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "6068cdff2ed4152619680b61ec139e35ac3ef3f867ec34c3a1fc41a24b446465"
 metafile = true
 
 [[files]]
