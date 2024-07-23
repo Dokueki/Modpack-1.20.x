@@ -122,7 +122,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "e3c29e8bd70bef5d51ee483229eeda98e5040fdb4ba426fb70a9a6cc2d12023a"
+hash = "254370651ae561bcc15c32ea27a03f6b12f0738d82f7bffe98cb4dde1a0c4671"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -1010,7 +1010,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "e333abe213c66e31cbd1099d485daac6ca81a59d2111d85a36ebff19a43290e3"
+hash = "a4b06a6f6afde5e936b44e21ed56c309d29f4bd018abcea619587b269646b130"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1146,11 +1146,11 @@ hash = "e6c1421c824fab24ff24804bc1e6e52cb94d78ada39c69d01165fac7ca9cb93d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "f43cbb28ecfca1f53a342d38c7d997cf6c458b13b300b5bf0bbf777fd0845fdd"
+hash = "803c4283b2b150cd0351b3127c309f04b5f89cf9de9005ebb14bb6e5b9d246e7"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "cc6cc2d5220563d78da2cedbb15cf09453c60af90aeda46ef5c035afd02e9700"
+hash = "264b0c3211bd97272c73e1b7c1db180b60bd5b416115ec643a3596dad81b38fa"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -8627,7 +8627,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-insert-export-card.pw.toml"
-hash = "271becf0b7ba73ad26dab11f3292afa7aa67564600326a361317c7c22577581d"
+hash = "e4c225451a42377a82279c3579dddf607b139807d82127b4626fa128601ab0d4"
 metafile = true
 
 [[files]]
@@ -8807,7 +8807,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ff6e9aa6f8ec35a78cb456729d189e16775b7b11e02e1cef2f1fcc0e20d08f6e"
+hash = "fe3efa9dcbbeef95dc9748d2302176f3dca7b6263c55552a4d643f96161d678a"
 metafile = true
 
 [[files]]
@@ -8852,7 +8852,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "5ff68b415d1d9bed64dee45a3ea93471627694fa458e1a9e6b5edf22e40d9529"
+hash = "b24c357d5908231148608cbd64cd2eb0659b9cb9caec974fc931e6de7120be80"
 metafile = true
 
 [[files]]
@@ -9367,7 +9367,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "99ec1ad847151fb49874cdc9f41f507cb56608dbaf006c939b81a216381b0178"
+hash = "9789c8c768a69d21a6655501bc64572befc811d6a24a29ea2f7e5bc7f38e7efd"
 metafile = true
 
 [[files]]
@@ -9472,7 +9472,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "84298e5c4783b70dd8ea6abdda79b67b12a584f7420f6e72bbb5f91ea7875b35"
+hash = "fb91b41e7a3921f55326939ec7046e53fb765329ec591bf6d43bae804a541a31"
 metafile = true
 
 [[files]]
