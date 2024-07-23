@@ -1,0 +1,13 @@
+name = "Stalker Creepers"
+filename = "stalkercreepers-1.20.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4209ed134e54a168522bd6f41291801a02493a13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4906161
+project-id = 227886

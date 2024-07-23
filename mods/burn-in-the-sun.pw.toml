@@ -1,0 +1,13 @@
+name = "Burn in the Sun"
+filename = "burninthesun-forge-1.20.1-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1dXZIGY/versions/KDipOeiO/burninthesun-forge-1.20.1-1.7.2.jar"
+hash-format = "sha1"
+hash = "083e17c903a9f523ac1ccb212e0405f62cce8613"
+
+[update]
+[update.modrinth]
+mod-id = "V1dXZIGY"
+version = "KDipOeiO"

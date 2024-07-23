@@ -1,0 +1,13 @@
+name = "Firma: Civilization (TFC Ships)"
+filename = "FirmaCivilization-0.2.10-alpha-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "051bd4d08bdb4bd0ddb0164cdbfdfed8666017de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5316956
+project-id = 714158

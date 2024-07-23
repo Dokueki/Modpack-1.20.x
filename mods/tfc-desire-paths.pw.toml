@@ -1,0 +1,13 @@
+name = "TFC Desire Paths"
+filename = "TFCDesirePaths-1.20.1-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "056662329443272803e864f882a70f344c6cdccf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5253751
+project-id = 847065

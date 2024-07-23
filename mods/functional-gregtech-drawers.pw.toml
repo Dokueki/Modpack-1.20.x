@@ -1,0 +1,13 @@
+name = "Functional Gregtech Drawers"
+filename = "rubberdrawers-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3eca3bc499047092431573caf6de3c7701f9302"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5319777
+project-id = 1012779

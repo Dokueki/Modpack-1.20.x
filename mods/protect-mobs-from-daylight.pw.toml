@@ -1,0 +1,13 @@
+name = "Protect Mobs From Daylight"
+filename = "protect-mobs-from-daylight-forge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05dc8873c5ba8121bec5ca0ae1be455f40934da6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4775517
+project-id = 847027
