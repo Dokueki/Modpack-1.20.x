@@ -1,2 +1,2 @@
-# Default to LF for all files
-* text=auto
+# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
+* -text

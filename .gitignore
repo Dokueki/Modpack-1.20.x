@@ -4,10 +4,19 @@ config/jei/world/*
 config/oculus.properties
 config/fml.toml
 config/forge-client.toml
+config/Discord-Integration.toml
 config/xaerominimap_entities.json
 config/voicechat/username-cache.json
-config/xaerominimap.txt
-config/xaeroworldmap.txt
+config/jade/server-plugin-overrides.json
+config/jade/sort-order.json
+config/embeddium-fingerprint.json
+config/embeddium-options.json
+config/voicechat/voicechat-client.properties
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
+config/embeddium-fingerprint.json
+config/embeddium-options.json
+config/InventoryHUD/curios.json
 
 # .minecraft
 crash-reports/*
@@ -37,7 +46,6 @@ chiselsandbits/*
 /profileImage
 .curseclient
 .sl_password
-options.txt
 patchouli_data.json
 usernamecache.json
 usercache.json
@@ -54,9 +62,8 @@ knownkeys.txt
 
 *.code-workspace
 *.zip
-
+*.mrpack
 
 # Server Pack
 .github/buildtools/serverpack/*
-
 

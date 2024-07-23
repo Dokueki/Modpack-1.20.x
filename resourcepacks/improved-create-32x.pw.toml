@@ -1,0 +1,13 @@
+name = "Improved Create 32x"
+filename = "Improved Create 32x ver 0.02 1.18.2-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1cdd3b2eb22113a7b622e9e69e2bdca366f6a4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5256355
+project-id = 973588
