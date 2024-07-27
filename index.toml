@@ -117,10 +117,6 @@ file = "config/EmiLootConfig_v1.json"
 hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
-file = "config/InventoryHUD/curios.json"
-hash = "a73238b3a1fe4fdf6d15069fb06bb1b44115fa9ae6c00b0fcf3b1f0746994b40"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -395,10 +391,6 @@ hash = "2c58318485b34f88159acb0bb8cf359b61ca80d4b8fd2750f5d596d43121bede"
 [[files]]
 file = "config/embeddium++.toml"
 hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
-
-[[files]]
-file = "config/embeddium-fingerprint.json"
-hash = "bfb611d0960f875ef646161fcd0a4c75c41ce6b5ac9a94a99caf5ea9cb84703f"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -1007,10 +999,6 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 [[files]]
 file = "config/oculus.properties"
 hash = "8949981c96f8952017498fa3213ddde5b368840127cb7951d65c9b3621695282"
-
-[[files]]
-file = "config/packetfixer.properties"
-hash = "00bb5a6eb0e4080546639179dd5259e78e768ef9c4555a4fd289287f2215caeb"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -8637,7 +8625,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "e9cfa647bc5dee08e0816424376c48de34ed21285bc510431a93975e365dafcd"
+hash = "d7feb9d52456bf8475759c29d5611735ece5a032d0d1eeeaa53721eae74e6ac7"
 metafile = true
 
 [[files]]
@@ -8647,7 +8635,7 @@ metafile = true
 
 [[files]]
 file = "mods/astikor-carts-redux.pw.toml"
-hash = "9c55eeb7b61f7180cbd99a833b9fab5cb9121f747610f9eefd6be7361d1d0a7b"
+hash = "a4838b0bd5565b81a9693b9063ffd69eeefcf4dad68cc97ab94b82c90a2ebac6"
 metafile = true
 
 [[files]]
@@ -8787,7 +8775,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f0c1af5de09e83a8bfcf543d200f5ce98d2feeb04e458b15b200f6591cf5080f"
+hash = "af29422273bf324fb3fbfb2f03c84931f50f06359e61ae0eb6832ee655a73c3d"
 metafile = true
 
 [[files]]
@@ -8867,7 +8855,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "830c68b906a8fe8c81c62b89255fd0ff7ca5d69c0f78b1cfc24208b6c61753f7"
+hash = "fc4f05decadc480dd13c6fe847e5f9214a2fde119f26bcdea8f381b36abc0f57"
 metafile = true
 
 [[files]]
@@ -8972,7 +8960,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "b00f8f5c8dacdfe326732b81adf44ee0c5d9d461e1a41ad552cb61ecde108791"
+hash = "40957d154f6fdedac034bf32bca6299b29d270532fcc5468e52e8ef8c741bb94"
 metafile = true
 
 [[files]]
@@ -9037,7 +9025,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "75c061ce78d7d3f818d98bb94f9a68948aa3a1a612f3c26ade989b60b36b9657"
+hash = "a4a0adb85269712ade2399503b6365b87847cac8f34f674c535564bda184bcce"
 metafile = true
 
 [[files]]
@@ -9162,7 +9150,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3adf8ad51adec86387a7243f518d3a33f412c2bb46508351ac724f496768ac2a"
+hash = "cc33d58e581cfa7d9b651d8e5143e568faa2c61b6640f73706f0489863fb76f4"
 metafile = true
 
 [[files]]
@@ -9262,7 +9250,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
+hash = "200dc9d52925894d95675e92cb306f0982a3af0cb0376722c4422bd530685b24"
 metafile = true
 
 [[files]]
@@ -9537,7 +9525,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "23e7ad59944870d31a6edcc11e538dafd65c687e72e0c8988a77aa01c9c16a3f"
+hash = "69e9c8f1ae355e831fb08a4b8c9216a2671cfce0970404ab2ad32bcaded02cd1"
 metafile = true
 
 [[files]]
@@ -9666,7 +9654,7 @@ metafile = true
 
 [[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
-hash = "8462986127c7871d630d6ab6f055173013506b9f289134a130be789f07922eba"
+hash = "04586b17611f14cfbb7f129556f8ba40d5d3f048a509b95091bc2c9e8ec70da3"
 metafile = true
 
 [[files]]
