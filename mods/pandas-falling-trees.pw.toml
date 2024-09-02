@@ -1,13 +1,13 @@
 name = "Panda's Falling Tree's"
-filename = "fallingtrees-forge-0.12.5-1.20.jar"
+filename = "fallingtrees-forge-0.12.7-1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8d523c61582491a7f7b9a1238b6398d1c3646bfc"
+hash = "493724d09ba37fa140c6b360eb267cb5c563a35b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5505040
+file-id = 5653236
 project-id = 880630

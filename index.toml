@@ -118,7 +118,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "c633f7558851a488a3ba662dc005e4081584c70a584f450ffd133fc18d198a4e"
+hash = "53a5dc40ece86135e1611a366cc89895d1b4cf118066c37b3dd486827bb6caae"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -150,7 +150,7 @@ hash = "4a677fe64e61836f0cde7a297c66026b7b57080713226983d3e4ee6c60233f2f"
 
 [[files]]
 file = "config/ambientsounds-client.json"
-hash = "7bcf2072430cf9130d3f555e69e12875e4ca04eafdfe3ad6d63b0af77cbe53e0"
+hash = "ec62cd525ecffe6a221f473a9e4bc436f09a33482d70fc6f1cab373b98b50415"
 
 [[files]]
 file = "config/astikorcarts-common.toml"
@@ -430,7 +430,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "1b769b0596cd2762004dadecf0184391c9a38cf352c7d013174c685bf5dc6c18"
+hash = "0a6bcb4077020ffb98ab7e1c50aa89425ac121f311bc2f68386dcdcee20cf643"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -1010,11 +1010,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "58595da1720cb4f2cf86565fc43e671825d6da95bf039afc85180b92fd2f4f03"
+hash = "a8cb1392c66d7e9d9fda946ac4e68e92a5bc7287bd10380c54923fa90d3df0d9"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "4d21c5027c01012ac1a21560815aec7fda1c2f4d05ec5f8ff05167b6593289c9"
+hash = "655821754d9cd3189239d3bb45b054a464b64a7169f93fd7eafb22a2395fcb6d"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1129,6 +1129,10 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
+
+[[files]]
 file = "config/solid_mobs.json"
 hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
@@ -1150,11 +1154,11 @@ hash = "e6a9e7b210b62c9ddc8448ef1e032bcd4e5f5b3c3539502e1be037102dc30885"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "543f76ca19ca7dbcda11e3eab580eb4dcb8cfd302cbab3b3f74e2e5d169817c8"
+hash = "64ebac00673ce5920f165b1e9802dbd3c353b53ce3535a88b324c13a49bfb609"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "97fa751e60f1d141214b8fc9da7aa7b8193410a621a9482ecca623ee824eca34"
+hash = "9a0b30a001dbc31679a60e1511fd8e2d479efc99eda9b7db82dc361e111ab5a9"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6106,11 +6110,11 @@ hash = "caa8ff462cf3d9b05e501285811b87c8dcb5cf102231e6e7e9a2676f8c40e10a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "c44b7b3f50c83ca5eba46f61caaca2cd9614f84b62b1302e0005b4b0272fd081"
+hash = "bb67a675f4b333886bc92f1c99692ca0bc81f9393632153ab3c1387835028ebb"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "544ee8bb72b6619da536e8ba617cfeb7c1423db6246063b06e29691550538f53"
+hash = "fb7178c579f20d3f7bfe91ad435e234a8c0c41654fa672f94a4f44cc71158468"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -6142,7 +6146,7 @@ hash = "320f58ea99c92574e72decd664037d25632f4c51d8355ddac0be7b31de709afe"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -6158,7 +6162,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -9366,12 +9370,12 @@ metafile = true
 
 [[files]]
 file = "mods/pandalib.pw.toml"
-hash = "d3efec0d71e7a16132e0ee42046ad3999b93ce030cf69887c15df75d94615926"
+hash = "0835d79edc9f3fa2015c2668aff3b379724eb005ec78e395881f749aa51b6568"
 metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "5571c68459497a038840f3602d4de399b110f327abd0e798c8f15ab7cffbc784"
+hash = "f9b0adad8b28825c027855d051efd2f7a80abd7e38007e85a3672d4146a4718e"
 metafile = true
 
 [[files]]
