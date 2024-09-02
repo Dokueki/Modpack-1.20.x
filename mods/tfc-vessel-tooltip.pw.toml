@@ -1,13 +1,13 @@
 name = "TFC Vessel Tooltip"
-filename = "TFCVesselTooltip-1.20.1-1.0.jar"
+filename = "TFCVesselTooltip-1.20.1-1.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "b6c31cb0a57c6e000c3b69825e3810f18fb7f589"
+hash = "0ba5058d7a728119121acf09e0badb3c87d2f319"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4971650
+file-id = 5677386
 project-id = 952386

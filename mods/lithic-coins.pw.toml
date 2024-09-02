@@ -1,13 +1,13 @@
 name = "Lithic Coins"
-filename = "lithiccoins-1.0.2.jar"
+filename = "lithiccoins-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "08e04ab01c34874f2e62db81f1767eea578811d4"
+hash = "6d0bc81967ca33ffbe9a00ffc2c0fc4cfa6247b9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5544659
+file-id = 5620202
 project-id = 993733

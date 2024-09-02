@@ -1,13 +1,13 @@
 name = "TFC Hot or Not"
-filename = "TFCHotOrNot-1.20.1-1.0.4.jar"
+filename = "TFCHotOrNot-1.20.1-1.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e14da2835e8194aa60ecdb8cfb8b2acab75d4d36"
+hash = "31009030b5461b51e4347ae362ce7352e67ba6bb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5224988
+file-id = 5650230
 project-id = 499096
