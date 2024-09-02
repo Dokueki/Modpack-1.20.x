@@ -118,7 +118,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "53a5dc40ece86135e1611a366cc89895d1b4cf118066c37b3dd486827bb6caae"
+hash = "c633f7558851a488a3ba662dc005e4081584c70a584f450ffd133fc18d198a4e"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -726,7 +726,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "bcc3c2a17b54799b06e097715517ccba818c180f628b6cf5debd560f4253459c"
+hash = "c93f43c2086a0338861cc20b7f8f89d6c06ce406790d69d4db21cc5c7f098ada"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1010,11 +1010,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a8cb1392c66d7e9d9fda946ac4e68e92a5bc7287bd10380c54923fa90d3df0d9"
+hash = "d762d307c6ee9830780829cf36c9bb4e2b8b34c3b71b0330d0c71a65446f26b9"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "655821754d9cd3189239d3bb45b054a464b64a7169f93fd7eafb22a2395fcb6d"
+hash = "8949ce6e1afdc16400b6ea4e5130d0f52eb7c25eb38fb343d08755454a04a9f3"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1106,7 +1106,7 @@ hash = "e9b755277e1aeeeec0126ac8b953d15de521d7087c83ca0412df89b85bfcad18"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/simpleradio-server.toml"
@@ -1154,11 +1154,11 @@ hash = "e6a9e7b210b62c9ddc8448ef1e032bcd4e5f5b3c3539502e1be037102dc30885"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "64ebac00673ce5920f165b1e9802dbd3c353b53ce3535a88b324c13a49bfb609"
+hash = "471e036c9dc20f9daa7c0cbd1d82b50419e9b9c60c2906a2f84fb16afd6e6514"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "9a0b30a001dbc31679a60e1511fd8e2d479efc99eda9b7db82dc361e111ab5a9"
+hash = "1a8085e680a5dd5079d1be7b61bb444005acbaf158215177f2d3fddee9a9d183"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6154,7 +6154,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8770,7 +8770,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
+hash = "2ad2dd713650ffbbd25add29d5da4d0d07532eb31122236bae471eff582229ae"
 metafile = true
 
 [[files]]
@@ -8780,7 +8780,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "098e18bd67564038f886c184aba397d7801a0650e10ca489e1f291cf10c4ee91"
+hash = "6c120baba31a0b1791edf2ccfc99c64cad6093250f1c43674e1543892f752c04"
 metafile = true
 
 [[files]]
@@ -8830,7 +8830,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
+hash = "9ab741b4d88da35819c7ad2a2b30487fa1eb2f17db2168005432263f941b5b2c"
 metafile = true
 
 [[files]]
@@ -8840,7 +8840,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
+hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
 metafile = true
 
 [[files]]
@@ -8890,7 +8890,7 @@ metafile = true
 
 [[files]]
 file = "mods/cucumber.pw.toml"
-hash = "e35517b83b74491569b8b39d1727d52bcd4fc604fa8e549f3adc97b14f621306"
+hash = "4440b9abcfec43ebcad61282aa6bfd57ccdede860a1bfdf6ab8ebe55842ce13d"
 metafile = true
 
 [[files]]
@@ -9110,7 +9110,7 @@ metafile = true
 
 [[files]]
 file = "mods/grabby-mobs.pw.toml"
-hash = "55c364562bec24860e298f3323fde4a6798326ce05aba67fe37af7296ce9d982"
+hash = "a30410096b901e19d813ea2f910b9dca4dc3cd9b79f189f4621fa779252df781"
 metafile = true
 
 [[files]]
@@ -9140,7 +9140,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0fdf262047af365220b5c871dc63dab8e78905b44d4b0536b8bb99e9719d378e"
+hash = "891d9f74c6b4efb41a0f0d0d5a97e881ca24ba275627a9f9bb165fb61a729017"
 metafile = true
 
 [[files]]
@@ -9155,7 +9155,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "febb4cd66a6bc24f4eae98b0d25dfd30ce21b28a9d708c12ee52c3ede6846e3e"
+hash = "9928c8f1f67cdc3ccdddef9fe63831a328b44dca1f6be9ebc086fc7d25747826"
 metafile = true
 
 [[files]]
@@ -9170,12 +9170,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+hash = "0168bb4b630667a0ec54738727619da4b81f9d84ec92501269bc8fb847ed2e9a"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c309e7c7ee8233136eca526d44d6c6b6a2411f11eb6fe0394e81df1dc6de355f"
+hash = "50d0d75c988e3dc115ba552895eb7b4dab51c900310e4b651f90341e94741940"
 metafile = true
 
 [[files]]
@@ -9330,7 +9330,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "e58fa9cd8ef4d3af3b32bca36ef8fccf295f3f8cbff1e1592aad047ab7c403d7"
+hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
