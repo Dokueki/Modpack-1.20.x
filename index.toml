@@ -118,7 +118,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "c633f7558851a488a3ba662dc005e4081584c70a584f450ffd133fc18d198a4e"
+hash = "04e3d847eb94c42bf0a0e749a64bca15d764db4e1bbe7cdcb1c94ba12c19e30e"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -402,7 +402,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "d0ff7905ea4e5763ee54f2346d839c1c88ed5f00362810ace66437e7177633f2"
+hash = "6992636fdfa395ac3cac0e1dd69527e017fbaef98e95f209df7fb4f9b00df0c0"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -662,7 +662,7 @@ hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
 file = "config/fml.toml"
-hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
+hash = "4941ea9e492b2549677ae9253f1717b7db6ac3bd151e59e31349d5423608dc56"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -917,6 +917,14 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "8377f01ec3c2f976ccf44fc941cbc1e07533059e5f40ad4674bbe154dfc59926"
 
 [[files]]
+file = "config/jei/world/local/New_World__253/bookmarks.ini"
+hash = "6d5f179c023b37cc4cc30ef002937cfd9d641377cf31aca57950e75fcd4db14e"
+
+[[files]]
+file = "config/jei/world/server/Minecraft_Server_3afea72a/bookmarks.ini"
+hash = "bdecfa87cca9f7d52981b5b7a5e3ce6781b02599703983ee311cf8ee95f2adc0"
+
+[[files]]
 file = "config/konkrete/locals/de_de.local"
 hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
@@ -1010,11 +1018,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "cf87e15f4ec5bc9c8cc52c1611cf9a45509ee2c83ce8bed0049090b6fbfb399c"
+hash = "7a18ffd6f76f90527634419df8148fdc1bce172b0d2fccdfcc75e985d649cacf"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "8863510f62c59a43c3546fe64bb3f3279c2d49e82d5bb87ae0e5a3d0a5a114cd"
+hash = "8f553eead998a6a6a0bba35b1de42cb679f47e2456ddb3b1543639a6e5444dd9"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1154,11 +1162,11 @@ hash = "e6a9e7b210b62c9ddc8448ef1e032bcd4e5f5b3c3539502e1be037102dc30885"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "5ef63170382c4dae7e8c2550c30d2ed31d6924580175aea0154cc2e211eb73b3"
+hash = "a6d402ac98055f17e406d67495b6db645f9e37ff50825643ba6fef351ff7ab45"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "11817c179523cd83d2a243d2cf53a0466232256fa85afeafeb57b15471b3fb0a"
+hash = "501d3663adcb9f21b85a048555bfaac17626c47d377b1c7f5a50d6d37dbc3a35"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6154,7 +6162,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "a9e1eed8492b1d8870d04bc2a656ffd54fa6474eda60a6de155478e45f0ed365"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9020,7 +9028,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmalife.pw.toml"
-hash = "cd5f1484c3598aeec975b9cb594e01cc467852244be927806d657b5e6d9150a7"
+hash = "9f7a2b699baf7f48fe5e2caf7617494a6230ef9b2aaac640991861b69dd63c15"
 metafile = true
 
 [[files]]
@@ -9725,3 +9733,19 @@ metafile = true
 file = "resourcepacks/improved-create-32x.pw.toml"
 hash = "9f566bb19b5c2e0e82f3c3a3bca7a82e62c4b04c244b113880f592ac82fbb3d8"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Bliss-Shader-main.zip"
+hash = "6b18e528af5c666bfb3d376a06afb799fc533a29c4e8249c0257e09d4120afa6"
+
+[[files]]
+file = "shaderpacks/Bliss-Shader-main.zip.txt"
+hash = "668d6475cef63ad8ba4d5b23f7c6207f07cdfe3fc2d805388771bb7cfee80163"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-8.9b.zip"
+hash = "bbb500f6f76e1334f497130438324e3b51c535caacd15fe1c06db9ab550c2435"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-8.9b.zip.txt"
+hash = "9f39e9d738d37df46b3587e9b490c565e22318957e5cb5da86ce8770690f46fa"
