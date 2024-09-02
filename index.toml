@@ -117,6 +117,10 @@ file = "config/EmiLootConfig_v1.json"
 hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "c633f7558851a488a3ba662dc005e4081584c70a584f450ffd133fc18d198a4e"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -391,6 +395,10 @@ hash = "2c58318485b34f88159acb0bb8cf359b61ca80d4b8fd2750f5d596d43121bede"
 [[files]]
 file = "config/embeddium++.toml"
 hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "d0ff7905ea4e5763ee54f2346d839c1c88ed5f00362810ace66437e7177633f2"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -998,7 +1006,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "8949981c96f8952017498fa3213ddde5b368840127cb7951d65c9b3621695282"
+hash = "29e3e03ae9437517ab219dd478cb37563859db0cdb07cf1c83549ec7d33979a4"
+
+[[files]]
+file = "config/packetfixer.properties"
+hash = "90ebe939e5c5a0c5c380d055d323255a12e8060aea33da33e8c1753881dd994d"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1134,11 +1146,11 @@ hash = "e6a9e7b210b62c9ddc8448ef1e032bcd4e5f5b3c3539502e1be037102dc30885"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ebcd2a55a72c7a82269112eb2704082f9b89ed595a4581767e42498ecfe72280"
+hash = "953d8a64f9d982d1dbf4ce573eea1fe61decfab4cde19939101cc8d57657c7d0"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "086fc392bade9dc91091651b9d4fb85ec646ca8e0eed4ee3013f2d7f5e2d231b"
+hash = "9f9eb5461b915255d7611431e0307bb978e1877853485ed7f1664801aa5c267d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6134,7 +6146,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8614,6 +8626,16 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
+file = "mods/alekis-ridiculously-simple-roofs.pw.toml"
+hash = "559dbe3063a51d6febda70073cb8aa05fa91c439baa413222dc79cb7d108d2f9"
+metafile = true
+
+[[files]]
+file = "mods/alekiships.pw.toml"
+hash = "ad63a8301ac03b46b4eee98991be70534bad07a64ddbb1b541fa9f28b3f2256c"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "9c1a932c09edd731d89b4407f7a5af1a0464dfb7c5ba7e019d27aeec7a34e6f6"
 metafile = true
@@ -9678,7 +9700,7 @@ hash = "0a5c2bd33b04616913f071080da2b618e860b70d4d8cc686c4186d963944b2cb"
 
 [[files]]
 file = "resourcepacks/gregtech-revival-32x.pw.toml"
-hash = "6a842ed1f37c24cafe49921518f638597f632c27457a99ebc583f3e34a5b3138"
+hash = "636baa0a5941ba8173955ca2934122eb66e01dc0844e7bd212d4a9df10270a59"
 metafile = true
 
 [[files]]
@@ -9693,5 +9715,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/improved-create-32x.pw.toml"
-hash = "38a09bc9f36a1955cdcb20b74966681bcbead895f995d3f6935977749eabd66f"
+hash = "9f566bb19b5c2e0e82f3c3a3bca7a82e62c4b04c244b113880f592ac82fbb3d8"
 metafile = true
