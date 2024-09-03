@@ -73,6 +73,10 @@ file = "config/EmiLootConfig_v1.json"
 hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "c633f7558851a488a3ba662dc005e4081584c70a584f450ffd133fc18d198a4e"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -962,11 +966,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "835ec9af90aba8612b07176de950bdfbb22f62122199a0a746eaeac1217d458e"
+hash = "4f69ea9329a03b6b84933d3f96e6e280f335ec57e8d6c13088c9ad562b5acfce"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "1d018f19012101062fbae2cd0b91fada5700d5cec02a75b8dab4cb4b82106648"
+hash = "b3d423da79381570c12ee2130666abb8dbf71c368ff5aa298629f516514e7480"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1106,11 +1110,11 @@ hash = "e6a9e7b210b62c9ddc8448ef1e032bcd4e5f5b3c3539502e1be037102dc30885"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "054dc12891d3f6de6015aec44ccb51b6d45022667a84f67bf64cd29307753ecd"
+hash = "aa8ee37859ffe559c89e38b04a06a385026c859cdb0e5826154a426847726856"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "c18e881eca32adc48f0e548f2f2d7487970b351d64111c8839abfc2e1886b665"
+hash = "fb03e060d728c5bf4c35cc60a85c0527ccb97a6aa71f2beb23f4f39185bad71d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6057,6 +6061,10 @@ file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
+file = "config/voicechat/username-cache.json"
+hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "24e0fb80835f6938f61815bcb7f4c9419be4d88765c3de6bc1ef91831685cca2"
 
@@ -6102,7 +6110,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8320,6 +8328,11 @@ metafile = true
 [[files]]
 file = "mods/cc-vs.pw.toml"
 hash = "a1135cfbd16a383627318aaa7b4676f7576224ccfa46df656eba4839031b3fcc"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
 metafile = true
 
 [[files]]
