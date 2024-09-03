@@ -1,6 +1,7 @@
 name = "Gregicality Rocketry"
 filename = "gcyr-1.20.1-0.1.9.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
