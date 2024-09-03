@@ -966,11 +966,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "4f69ea9329a03b6b84933d3f96e6e280f335ec57e8d6c13088c9ad562b5acfce"
+hash = "95d18b40090116b0feacca3d542176485ca457ab73697e3a8ba85aa316e1490b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "b3d423da79381570c12ee2130666abb8dbf71c368ff5aa298629f516514e7480"
+hash = "cc4c531254afd5bb821f811374cdfc4c70b55e774b8472938a53bd957cbde9cd"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1106,15 +1106,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "e6a9e7b210b62c9ddc8448ef1e032bcd4e5f5b3c3539502e1be037102dc30885"
+hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "aa8ee37859ffe559c89e38b04a06a385026c859cdb0e5826154a426847726856"
+hash = "541e53250f310cc80fe99d8068dbbbd929457193847ab46ff0e00939cdea6bc8"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "fb03e060d728c5bf4c35cc60a85c0527ccb97a6aa71f2beb23f4f39185bad71d"
+hash = "b6f36160cafc43aa059f7433077a90a5e28efad979b50e2fd72e5bf52b03640a"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -8563,6 +8563,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "1357eeb4a0f06ab3cccd35a209f20b47e6dc9e11f8e9e97a66eddb964f408c49"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
 
 [[files]]
