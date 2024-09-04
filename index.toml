@@ -970,11 +970,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c8b2e930778fb3b0b5e671be63c03141f95f806a8cb337f20470b24b4b18796f"
+hash = "c4e84c12deb594e32efbc16dadf8fa228a60584c8e74fc1f891963085f85a9b9"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "30d3db0f44b073cf1b81e3805a55b389ca4c32d8366e288ec8f01ccb5cddf335"
+hash = "0ef3437f807910e7d8870ce9d9b41e56a24aa4eb6e6f99f514fa95389537148f"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1114,11 +1114,11 @@ hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "1e042027db6e3f330a9d9b993fb35d62025182d592f8fa0ec65815f06772e591"
+hash = "f5c43eba445ef869fa3f5f68da9137ba9841b45d1b0ecdd1f036f8ae46d9afa5"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "3544089842fb258c379b9bd3449fdc57c4de22f1bee2dca931bd70c1c0793ddf"
+hash = "cf0c3f7a657c5daa8b74657163dfa64b3225a27b7ea427db47c2b0eecefb3b9f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6114,7 +6114,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9192,6 +9192,11 @@ metafile = true
 [[files]]
 file = "mods/tfc-hot-or-not.pw.toml"
 hash = "3f2365ae39ac52829885e4a59b4fb812422f743e578e45a36dfd8d8322f02d03"
+metafile = true
+
+[[files]]
+file = "mods/tfc-regrowing-forests.pw.toml"
+hash = "117818dfd61af3fbb21be2d19b4dd92fc40cfb6d118447531aa7ab47c9ef96f8"
 metafile = true
 
 [[files]]
