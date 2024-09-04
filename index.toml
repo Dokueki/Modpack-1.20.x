@@ -9191,6 +9191,11 @@ hash = "3f2365ae39ac52829885e4a59b4fb812422f743e578e45a36dfd8d8322f02d03"
 metafile = true
 
 [[files]]
+file = "mods/tfc-regrowing-forests.pw.toml"
+hash = "117818dfd61af3fbb21be2d19b4dd92fc40cfb6d118447531aa7ab47c9ef96f8"
+metafile = true
+
+[[files]]
 file = "mods/tfc-support-indicator.pw.toml"
 hash = "7007068d3780337b39921abb22385b47e835b0b7b6e4ef93b74796ad800664e7"
 metafile = true

@@ -1,0 +1,13 @@
+name = "TFC Regrowing Forests"
+filename = "TFCRegrowingForests-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7279f1b6abe51f10195d3af9166a56269bcf399c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5674390
+project-id = 1091993
