@@ -8481,6 +8481,11 @@ hash = "850837acd5d51a7d3c0f4ffb2d6cf3634194d996179955ae0855f1c064355988"
 metafile = true
 
 [[files]]
+file = "mods/dice.pw.toml"
+hash = "cf1776b8305b757a94a01e4b61e949401e0c373439eb689e031e58c894dda19b"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "a98292cb6bff4b6a481306dc38b95b6c781f5b284433f8938573379ed0f39ed0"
 metafile = true
