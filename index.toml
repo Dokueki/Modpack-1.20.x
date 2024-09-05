@@ -8595,7 +8595,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmalife.pw.toml"
-hash = "9f7a2b699baf7f48fe5e2caf7617494a6230ef9b2aaac640991861b69dd63c15"
+hash = "a2bdb04f02f381febf07b9c29f3367b5f6eaf9b2f0afdaf6812c56c4ca4f9c19"
 metafile = true
 
 [[files]]
@@ -8853,7 +8853,7 @@ hash = "a9fadc6d369e6bbfb10eab4c00780c3295292c634b6551d2e1e2897ec38b63ab"
 
 [[files]]
 file = "mods/merequester.pw.toml"
-hash = "f185653c659514dd5aa81a0ab175e2b777d20e7213ff6014db1ecb64f5f9f5d1"
+hash = "2e1e73a8c4cc02b3bff1084940a6c0a7156c8925d881f8d98fb0495e050c65d1"
 metafile = true
 
 [[files]]
@@ -9180,7 +9180,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-desire-paths.pw.toml"
-hash = "6b8846ff02a3e36e22a7ebbc43774658a3de68002286e6cf702fcac36fd163b8"
+hash = "8083ef1c2343632614fe02e70292f6f4c097e5b3aafc261e7cb14bf1a865689a"
 metafile = true
 
 [[files]]
@@ -9200,7 +9200,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-hot-or-not.pw.toml"
-hash = "38816893c7d8cf774ecee1adb3a746199134247a132f9db7fb57cb8e353c7170"
+hash = "3f2365ae39ac52829885e4a59b4fb812422f743e578e45a36dfd8d8322f02d03"
 metafile = true
 
 [[files]]
