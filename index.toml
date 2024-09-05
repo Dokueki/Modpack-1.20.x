@@ -74,7 +74,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "a73238b3a1fe4fdf6d15069fb06bb1b44115fa9ae6c00b0fcf3b1f0746994b40"
+hash = "a297e7506593f446a02698ea014ecdc4deb1dc5483652edbd698989cb495aa7b"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -327,6 +327,10 @@ hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "dd10183cb0723666aa08f380aca9960821e16aecd949ff9866786e7050d7b058"
+
+[[files]]
+file = "config/dice-common.toml"
+hash = "52681a744da2096899e1ff057102e989d6811b79dccca9749d28f47c1d83d7dd"
 
 [[files]]
 file = "config/ding.toml"
@@ -970,11 +974,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f822c79b42dd860245df4e384bbd0774f2d6d7559960dc01acef0603bf95f1c1"
+hash = "f8af3e7b9be0a8bd428576fe8bc5577c8ef6964b1966039d8b96799dd6f93cfb"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a91bc19e156208d702ab3bea99634c9e1215078bcf6786b2173818c22a274fe4"
+hash = "e859aced640953af9f114ec315304c5dae555e1025d79e4dcd3698a65cd7b79b"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1114,11 +1118,11 @@ hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "03eeff8bfc849e68cbd7a55743ad6e6afae674840fb2f95fc5b3df49aecf6a98"
+hash = "ca84b4a59f5d72f891c97e8b3d044d9fa29de55be5738e0d5e2e42f93961b256"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "6c685b6d56fdad3673cc35d140004b7798866541d67a41a60da1d52e84eeeb1e"
+hash = "c72a696ee6d3d7c161bef1fbd4c538f65a201aa7b68e162ff1e5be15c1907ea1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6065,6 +6069,10 @@ file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
+file = "config/voicechat/username-cache.json"
+hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "24e0fb80835f6938f61815bcb7f4c9419be4d88765c3de6bc1ef91831685cca2"
 
@@ -6110,7 +6118,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9172,7 +9180,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-desire-paths.pw.toml"
-hash = "0f6758842f08fab961409eae85c6a576ef54be72b66524959444f9b14e416a94"
+hash = "6b8846ff02a3e36e22a7ebbc43774658a3de68002286e6cf702fcac36fd163b8"
 metafile = true
 
 [[files]]
@@ -9192,7 +9200,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-hot-or-not.pw.toml"
-hash = "38816893c7d8cf774ecee1adb3a746199134247a132f9db7fb57cb8e353c7170"
+hash = "3f2365ae39ac52829885e4a59b4fb812422f743e578e45a36dfd8d8322f02d03"
 metafile = true
 
 [[files]]
