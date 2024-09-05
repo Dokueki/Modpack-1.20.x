@@ -22,7 +22,7 @@ hash = "2d8c6294f4d72e01897690ad19c894357305b01777ec0e04271a9e45b93ebc32"
 
 [[files]]
 file = ".github/ISSUE_TEMPLATE/ru-00-crash-report.yml"
-hash = "b2f4225ca99cc4c2b069f68c5e1a4bba063c5f952f30d77fd08ec34164bb290f"
+hash = "f54d2f80df5ad8f58c61a887482df426d7f0309115866599fff4bc23b0192cb6"
 
 [[files]]
 file = ".github/ISSUE_TEMPLATE/ru-01-bug-report.yml"
@@ -974,11 +974,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a8c626573e15ff7bed4690a7cf79f923796fdc735ec99e071c123a18afafd805"
+hash = "98594d547c6b3492024bf54c174723284c3f2934a91a54410b87a66ba4dca4a3"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "21177d4c7b53f26b4337b0087a031bd5846f70018dfc7eae46cd300453fda4a7"
+hash = "705df33244c9464b380d460d2b59f09964bc505396f08e812da07c7e51351ff2"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1118,11 +1118,11 @@ hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "82744b55ad01eac9c0ea408e82db025621ecf8b40923288109e0ae141ff4af45"
+hash = "c48b477538f796bf38b899fe6ccfaed23a32f3f78892449d87e602aab921b41e"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "73f1187a64fcab903d2c458d4c4415f200aec858dcd421667dc671e5c173ebc8"
+hash = "daba38debcbb42f5e2971403a4387bf011bec3b3137f3beca856c9365805e341"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6070,7 +6070,7 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
+hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
@@ -9308,7 +9308,7 @@ hash = "0a5c2bd33b04616913f071080da2b618e860b70d4d8cc686c4186d963944b2cb"
 
 [[files]]
 file = "resourcepacks/gregtech-revival-32x.pw.toml"
-hash = "636baa0a5941ba8173955ca2934122eb66e01dc0844e7bd212d4a9df10270a59"
+hash = "6739aa697dbbbb79af4870c85496b7b2789d5d4ccfd9480ed2cc8b2457800bda"
 metafile = true
 
 [[files]]
