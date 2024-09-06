@@ -32,7 +32,6 @@ CustomSkinLoader/*
 screenshots/*
 shaderpacks/*
 chiselsandbits/*
-.vscode/*
 .new_mods/*
 
 # Extensions
@@ -67,3 +66,6 @@ knownkeys.txt
 
 # Server Pack
 .github/buildtools/serverpack/*
+
+# Dev
+icon-exports-x32
