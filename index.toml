@@ -118,7 +118,7 @@ hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "08d79cb4b1f398fd893e383a931360658b8b2899a41180c5e83217b72d211204"
+hash = "a297e7506593f446a02698ea014ecdc4deb1dc5483652edbd698989cb495aa7b"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -738,7 +738,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "c93f43c2086a0338861cc20b7f8f89d6c06ce406790d69d4db21cc5c7f098ada"
+hash = "bcc3c2a17b54799b06e097715517ccba818c180f628b6cf5debd560f4253459c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1026,11 +1026,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c72ae4f12d3a531a0eb4e2d7c9eada49e0c31d963475d55dd50c83a825ac92d1"
+hash = "0ee418ef0ca82af550e86ac75cbd602adcbbc6286326f255ab25fbfc016ed703"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "46351ce50bf810f66ea41ed0f232edf8c850a3709692ebe9d69b907bf2b8b1a0"
+hash = "1cf23923746fd9e834fcf10405319318d90589fc4e6b414f8af8618b348e55e3"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1166,15 +1166,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
+hash = "f09c6fa9394db1ee3179943df1f5d4ad1028e6aa0b760777ce036508453e62f4"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8f86c0a55de38f156f4ebbefcd83b43f4c08dc1f9a003990ad074dcb2e67b2e2"
+hash = "0e92d7e2d6797815407f09d08ea57544ed8060942227f1e965077480a378fd22"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "969d972edefca13b55bc4c22061da3b68af776071d047f230c81344acce58424"
+hash = "e65536d3e1bbf20d56ba76c2bedbec0297c533d1ab82c0aafc3c21e83eab4ca2"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -8991,7 +8991,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "c8494f6742be50f19874485af7f0ba4f0273361189efe6cf8b7e52721b3833b1"
+hash = "ff57ff18a03aea15e3afe8f9bc58d06809013605a4cd7fa63918661fadaa2d76"
 metafile = true
 
 [[files]]
@@ -9225,10 +9225,6 @@ hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
-file = "mods/iris-mc1.20.1-1.6.10.jar"
-hash = "20f00774c6bce6b3c9fd4d508240880a60a04a3ec987235e257f6e6b9e182514"
-
-[[files]]
 file = "mods/itemphysic-lite.pw.toml"
 hash = "0f2eac034aa9c15e713782b7fd42350b184af44f29b4e995bb6b95faa89b90a8"
 metafile = true
@@ -9334,10 +9330,6 @@ hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-fabric-1.17+-1.1.2.jar"
-hash = "a9fadc6d369e6bbfb10eab4c00780c3295292c634b6551d2e1e2897ec38b63ab"
-
-[[files]]
 file = "mods/merequester.pw.toml"
 hash = "2e1e73a8c4cc02b3bff1084940a6c0a7156c8925d881f8d98fb0495e050c65d1"
 metafile = true
@@ -9353,10 +9345,6 @@ hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
 metafile = true
 
 [[files]]
-file = "mods/modmenu-7.2.2.jar"
-hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
-
-[[files]]
 file = "mods/monazite.pw.toml"
 hash = "2fc314979186144ec5451ad4557aa5404fab45c645e333891d7d720de484985c"
 metafile = true
@@ -9370,10 +9358,6 @@ metafile = true
 file = "mods/more-red.pw.toml"
 hash = "bb8dd1fa0f1ee88f8f947a2ab2101c414cb2808dac81c21ac66c8ad32cdfec29"
 metafile = true
-
-[[files]]
-file = "mods/moreculling-1.20.1-0.19.0.jar"
-hash = "8bd332613996b6da00318888f33c4704dba21083e1f7a2503969eb7c7d388cb0"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -9412,7 +9396,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "34e83488882ecf568c3df085f020f3fd52bfef214e7c704b0bbbe7cd0b91897d"
+hash = "0511a8b14b2933e0571f494a3278d98ac4e877c50643014318ca352ce4094a4a"
 metafile = true
 
 [[files]]
@@ -9591,10 +9575,6 @@ hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.20.1-0.5.3.jar"
-hash = "b10e60b8000194bc617fd2c396a8584a5cc33a3118c8b382128452c3f93f881d"
-
-[[files]]
 file = "mods/solid-mobs.pw.toml"
 hash = "f6c35e5cc755eb21346fd3adb11f196ea0c24ec3617807a5836494c9060f2b11"
 metafile = true
@@ -9691,7 +9671,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-hot-or-not.pw.toml"
-hash = "3f2365ae39ac52829885e4a59b4fb812422f743e578e45a36dfd8d8322f02d03"
+hash = "e676640c01f1b6af825aa32f6f9a97aa39651549fcb102f6d5dec8b86a264a43"
 metafile = true
 
 [[files]]
@@ -9799,7 +9779,7 @@ hash = "0a5c2bd33b04616913f071080da2b618e860b70d4d8cc686c4186d963944b2cb"
 
 [[files]]
 file = "resourcepacks/gregtech-revival-32x.pw.toml"
-hash = "6739aa697dbbbb79af4870c85496b7b2789d5d4ccfd9480ed2cc8b2457800bda"
+hash = "62bc894a3a00f77764a61f693609114ddb723b6f224f21ff6fc481e4012ffd04"
 metafile = true
 
 [[files]]
