@@ -410,7 +410,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "a8a7e49cc97f994a369caab2af43d35804ccdd50f558e082e0090c917dd255e8"
+hash = "54f9506707b96a183b08652d00805ea302200e65df126fa5950f3dc7c5bcd5e2"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -1026,11 +1026,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "db55c78864c5ca719f5f0d283b022342f1cdfb34248d44d46748a230a88ba832"
+hash = "c0c75ef443c297ede98b71ea911c72a7494be93364c9051d4b3a9f1157a8381b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "bf77ca01b54242d2936337da4ac7c77090b149c49b9589bc5fa37fc4e5152d77"
+hash = "ed25df55dda26577f5b741dc51b3b8f766527e9027d7afaf10bd9db48cb095d8"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1170,11 +1170,11 @@ hash = "f09c6fa9394db1ee3179943df1f5d4ad1028e6aa0b760777ce036508453e62f4"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "877ad541ed5f9d7d9f542b582ffce03d07aa104e9590f4f9e7e1e0f43bf58e81"
+hash = "09b9d6b0f9f308ad9863a0e5a1cbc32729bb102d8cd2bb166b2455932ca2c2aa"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "6f5cfaefde9aaa74038aaa10052500ee183d98c13f98f302d7a10def0219941b"
+hash = "e4d87e8e31c722a2dfe5dc3ebc1f5e68fb4a4979298139d6aa4b633da463b5af"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6170,7 +6170,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8390,7 +8390,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "2ad2dd713650ffbbd25add29d5da4d0d07532eb31122236bae471eff582229ae"
+hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
 metafile = true
 
 [[files]]
@@ -8405,7 +8405,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6c120baba31a0b1791edf2ccfc99c64cad6093250f1c43674e1543892f752c04"
+hash = "a927d87c6beb570885b1d317f82cbdd0b3d0b6122669169b24ce3ed59d09edff"
 metafile = true
 
 [[files]]
@@ -8515,7 +8515,7 @@ metafile = true
 
 [[files]]
 file = "mods/cucumber.pw.toml"
-hash = "4440b9abcfec43ebcad61282aa6bfd57ccdede860a1bfdf6ab8ebe55842ce13d"
+hash = "52312dd9bdbd4c0b20f37eb36fed788b971fbdaa8322f37302feb0965cef51e6"
 metafile = true
 
 [[files]]
@@ -8590,7 +8590,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "5fe0a5f2c76aa2bf6adde2c24d391970c647e088b68c7482081c1abcc30a9fcc"
+hash = "9b9f5086acbb2715e0e4355cded37b76a880eac58c6c0c039b3f16f1c13a7e59"
 metafile = true
 
 [[files]]
@@ -8731,6 +8731,11 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "3de7e29cd28529757e0a09db7466b7d50b791ba4235de2f125a86921a5c60ea7"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "09b37ed23dcd2e81407303a7fa6d7671c091853833b415730ca6b8c8f9b56336"
 metafile = true
 
 [[files]]
