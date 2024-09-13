@@ -113,10 +113,6 @@ file = "config/Advancedperipherals/world.toml"
 hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
-file = "config/EmiLootConfig_v1.json"
-hash = "80950d3cda6d6363de3060429572157aa3e802b9910df4877d5512e0c8ddc845"
-
-[[files]]
 file = "config/InventoryHUD/curios.json"
 hash = "a297e7506593f446a02698ea014ecdc4deb1dc5483652edbd698989cb495aa7b"
 
@@ -238,7 +234,7 @@ hash = "f49d4525085f43cfbacc5c75460426d97bafaddef59ccf22c2cd55e041ad7437"
 
 [[files]]
 file = "config/chat_heads.json5"
-hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
+hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
 
 [[files]]
 file = "config/chatimageconfig.json"
@@ -423,6 +419,10 @@ hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
 [[files]]
 file = "config/emi.css"
 hash = "a1fb218d7d9051f4afbd250eb6bb265b08f93fc7ce190b32482679c88f08e55b"
+
+[[files]]
+file = "config/emi_loot_config.toml"
+hash = "c65cefb7ac016f73750476c09bea9b15d2dc781c4e5faf77a87a8660a060ea4a"
 
 [[files]]
 file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
@@ -1026,11 +1026,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c0c75ef443c297ede98b71ea911c72a7494be93364c9051d4b3a9f1157a8381b"
+hash = "df78f97979903b58f68be9bb006237874348623d3bcbd88d95e8a999fe7f6547"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "ed25df55dda26577f5b741dc51b3b8f766527e9027d7afaf10bd9db48cb095d8"
+hash = "766f611cc578d415dcb60bad666332c8b2bd64244cc38d213d62e44b37cbeffe"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1166,15 +1166,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "f09c6fa9394db1ee3179943df1f5d4ad1028e6aa0b760777ce036508453e62f4"
+hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "09b9d6b0f9f308ad9863a0e5a1cbc32729bb102d8cd2bb166b2455932ca2c2aa"
+hash = "979d99a468b64248121496a17630d4e4325f554681d6cb5e12d2c64a3a0fcc17"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e4d87e8e31c722a2dfe5dc3ebc1f5e68fb4a4979298139d6aa4b633da463b5af"
+hash = "583ce955e3aadbbb93f34c4081760d2faea8e0ee8bfc89934a06367bd501930d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6170,7 +6170,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8265,7 +8265,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "6f97eec6d96ca75af54f38bd4f1510aa88ee81c86fd1916e16f5c00d8f72495f"
+hash = "847e75414875f904ca82d73afc3f716b07ab8faf8ed109e8093be132e59583c3"
 metafile = true
 
 [[files]]
@@ -8590,7 +8590,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "9b9f5086acbb2715e0e4355cded37b76a880eac58c6c0c039b3f16f1c13a7e59"
+hash = "7561faf0b9542f4c5a95c116c4a3cabd867389392bf572b906853854154d095f"
 metafile = true
 
 [[files]]
@@ -9140,7 +9140,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ee10ff198468b7bc9c1269fa828a0d0f09f99f00b36bc67474ead66e21a6f27b"
+hash = "bcd933fc843063c7f0da4df200c60b27d4f8c68ed143dc3d5f6f52824ec7a282"
 metafile = true
 
 [[files]]
