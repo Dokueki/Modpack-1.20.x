@@ -2,6 +2,8 @@
 [key]
 	#True if you want to hold the right mouse button to aim
 	HoldToAim = true
+	#True if you want to hold the crawl button to crawl
+	HoldToCrawl = true
 
 [render]
 	#How far to display the lod model, 0 means always display
@@ -38,6 +40,8 @@
 	#Max time the damage counter will reset
 	#Range: > 10
 	DamageCounterResetTime = 2000
+	#Disable the fov effect from the movement speed attribute while holding a gun
+	DisableMovementAttributeFov = true
 
 [Zoom]
 	#Screen distance coefficient for zoom, using MDV standard, default is MDV133

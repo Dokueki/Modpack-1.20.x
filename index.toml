@@ -146,7 +146,7 @@ hash = "4a677fe64e61836f0cde7a297c66026b7b57080713226983d3e4ee6c60233f2f"
 
 [[files]]
 file = "config/ambientsounds-client.json"
-hash = "ec62cd525ecffe6a221f473a9e4bc436f09a33482d70fc6f1cab373b98b50415"
+hash = "d002319f21f057d57ab1e6a018877d57e687b2e3cd6a5479164ec66d98cd0f78"
 
 [[files]]
 file = "config/astikorcarts-common.toml"
@@ -1026,11 +1026,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "df78f97979903b58f68be9bb006237874348623d3bcbd88d95e8a999fe7f6547"
+hash = "6022f0675786b649f6be530113305a57d45ba9beedc8fc4995ca4664b6fb7708"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "766f611cc578d415dcb60bad666332c8b2bd64244cc38d213d62e44b37cbeffe"
+hash = "e644d92f217b826a6a04ed187ba2b2c091873fbff93dd8f61f4ff25184c829c6"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1170,11 +1170,11 @@ hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "979d99a468b64248121496a17630d4e4325f554681d6cb5e12d2c64a3a0fcc17"
+hash = "234df061d441a22aa5c9db4b8572f9506464f3d9afa9c9dde4014006cc3028bc"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "583ce955e3aadbbb93f34c4081760d2faea8e0ee8bfc89934a06367bd501930d"
+hash = "c4c3d92795a5b19c49ab84c2eeea7c461b1d33b3afb9ac4cda3de73f05e6e0e5"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6126,11 +6126,11 @@ hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "24e0fb80835f6938f61815bcb7f4c9419be4d88765c3de6bc1ef91831685cca2"
+hash = "c16280cdbf8d3362c88cb6c18996f410f6768079efbaa2ec9340bd66e262edd8"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "fb7178c579f20d3f7bfe91ad435e234a8c0c41654fa672f94a4f44cc71158468"
+hash = "2ce3d1062a448470a8a2d1bb94b613dd94ad60792e98075db51757fc79a4580f"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -6170,7 +6170,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8445,7 +8445,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "2e0891926994e72a64688443122796c1800c954e3ba1a779ace81c7f8ec6547d"
+hash = "7b9847bcc5439f9601409e1efe82f4a3794265b8fb68dfa5faa0e75b35c50a36"
 metafile = true
 
 [[files]]
@@ -8615,7 +8615,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "434b72cecd74924143a340e93397870b0756fd8e8ca14ae4bba782b94d763ef8"
+hash = "7d1dffb2cc0c10c278295f4700e27c3a9dee043ee873a94db64c8510491dc86a"
 metafile = true
 
 [[files]]
@@ -9285,7 +9285,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "f888963ae45477f223a86386989d6928cb9541750a76388a365437d98242c76d"
+hash = "38a1d3908304307d45a09756ededd6f6c47c28fa9f46a62226cd38a6aec9e509"
 metafile = true
 
 [[files]]

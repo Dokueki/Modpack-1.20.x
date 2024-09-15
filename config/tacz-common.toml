@@ -12,8 +12,6 @@
 	AutoReloadWhenRespawn = false
 
 [ammo]
-	#Warning: Ammo with explosive properties can break blocks
-	ExplosiveAmmoDestroysBlocks = false
 	#Warning: Ammo with explosive properties can set the surroundings on fire
 	ExplosiveAmmoFire = false
 	#Ammo with explosive properties can add knockback effect
@@ -29,6 +27,8 @@
 	IgniteBlock = true
 	#Whether a ammo can ignite the entity
 	IgniteEntity = true
+	#Warning: Ammo with explosive properties can break blocks
+	ExplosiveAmmoDestroysBlock = true
 
 [other]
 	#When enabled, the reload command will not overwrite the default model file under config
