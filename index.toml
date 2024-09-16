@@ -298,7 +298,7 @@ hash = "509a7639fd0bae962775ad8d3ad6b160d0b0e8b3efd9787c3e8bfb1ecbfd47c1"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "51ba9a7c589e44b2b2ea9c9bb0e76448421bea3b2c0324f1235ab2c6d70aae41"
+hash = "9908e0f10dd74ce89703a8e9d28f2beda7a153214fb030d335f0859af2a4879e"
 
 [[files]]
 file = "config/createaddition-common.toml"
@@ -738,7 +738,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "c93f43c2086a0338861cc20b7f8f89d6c06ce406790d69d4db21cc5c7f098ada"
+hash = "bcc3c2a17b54799b06e097715517ccba818c180f628b6cf5debd560f4253459c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1026,11 +1026,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "234983615930ec46de5ae5950c6172502ac3f2fae7a0668f12df97b598e13010"
+hash = "241dba89b5f368d8f352dfe7ec35ad1d96a4178595fa128030f6389e3fa99d3f"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "ea94bb41addd189ead5af78eeb9dfb2cb8121d6eda0f56a10d4e176fdb37b42f"
+hash = "be634b5523ab62c355c8f7ea6c170169a2c24ba581ddc6b0bcee89e7ccf1486c"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1170,11 +1170,11 @@ hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "073c2dd424c12cec274b2c094dbbbf1507ea30ef28ae9c68a7c0414ad8d08dc4"
+hash = "f8b3900dd04da3f53cddf6d2bd4aeb2868428518931508a3b4ed43193dd3ebfa"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "82b71fc94d92ab2a8f40b5cfe73a46245b91a0ee930660464244ea56cd323ca9"
+hash = "f8fc7c15c556e48ee8654b3078971fa3ff0fc01be66f7a21ef66f075ed1f046e"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -9620,7 +9620,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "b612a6b66dc537d6f151c23a96f9049bbe3910d675c599baf852e6b72289f09f"
+hash = "cd56114b29e084c7794df071d75ba3b685cb14fe08c15610651d301dd1a899fe"
 metafile = true
 
 [[files]]
@@ -9755,7 +9755,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "7d1dffb2cc0c10c278295f4700e27c3a9dee043ee873a94db64c8510491dc86a"
+hash = "26f18c40fc72ce1261ad494b47f2351c87bc50136a1b8b1baec41242c6c92959"
 metafile = true
 
 [[files]]
