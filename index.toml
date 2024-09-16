@@ -754,7 +754,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "c93f43c2086a0338861cc20b7f8f89d6c06ce406790d69d4db21cc5c7f098ada"
+hash = "bcc3c2a17b54799b06e097715517ccba818c180f628b6cf5debd560f4253459c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -10240,6 +10240,11 @@ hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
+metafile = true
+
+[[files]]
 file = "mods/precision-prospecting.pw.toml"
 hash = "fef154179a8323cd7d55c1e273c66bafc0c4f68d4a08270dca080d060a567f8c"
 metafile = true
@@ -10272,6 +10277,11 @@ metafile = true
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "6a30514da0ab75c8cf96a2b3be3f4a667d0496cea73bd4ca321b5de09bcc28af"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "598583e7acba1c7e5e322c5fb3e737feba1ae2b18ee84db2e1675c6ad78f76fd"
 metafile = true
 
 [[files]]
