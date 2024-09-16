@@ -1,0 +1,13 @@
+name = "Fog"
+filename = "Fog-forge-1.4.1-1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3b52f03109f859ac724e10d3861aae8e0a328e76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5710597
+project-id = 815438

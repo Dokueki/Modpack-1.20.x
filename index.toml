@@ -677,6 +677,22 @@ file = "config/fml.toml"
 hash = "70a49aec22117f6eaef55e2e9c4eb8ee4521136912a722444ae8c4e02e97085d"
 
 [[files]]
+file = "config/fog/config.json"
+hash = "b279a75035e97a3fe605c82b6e45f557ace5675564cfe649d23812a3ba133672"
+
+[[files]]
+file = "config/fog/datagen.version"
+hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+
+[[files]]
+file = "config/fog/fog_definitions/README.txt"
+hash = "d596f4fb3b8bbc3ab415aae91f55ab121aaa77028142e4d3f56fe66880aad5a5"
+
+[[files]]
+file = "config/fog/fog_definitions/pack.mcmeta"
+hash = "0c430ce65beba89e206e63890283047f3a85fdd9a6145f03282e16d0b1c689f1"
+
+[[files]]
 file = "config/forge-client.toml"
 hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 
@@ -738,7 +754,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "bcc3c2a17b54799b06e097715517ccba818c180f628b6cf5debd560f4253459c"
+hash = "c93f43c2086a0338861cc20b7f8f89d6c06ce406790d69d4db21cc5c7f098ada"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1026,11 +1042,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "241dba89b5f368d8f352dfe7ec35ad1d96a4178595fa128030f6389e3fa99d3f"
+hash = "ca4ad53dc241c56201cbba91498fd810cd9ae9c3fc13ad5f630e6ac196eee9ca"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "be634b5523ab62c355c8f7ea6c170169a2c24ba581ddc6b0bcee89e7ccf1486c"
+hash = "4b01d3fa4936aacf083c9866f2aa91b0a9396248e1f03238b8eda023d8b429cd"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1170,11 +1186,11 @@ hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "f8b3900dd04da3f53cddf6d2bd4aeb2868428518931508a3b4ed43193dd3ebfa"
+hash = "0e3a5bbec3f065d17cb1af0a1a3c5f8f2910ef4071e478e1c966d5a4e4361641"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f8fc7c15c556e48ee8654b3078971fa3ff0fc01be66f7a21ef66f075ed1f046e"
+hash = "361ac82341c4682bd0c4eef2a7b39a219079b1597e657dea28ec33d34eda9fd1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7310,7 +7326,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9489,6 +9505,11 @@ hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
 metafile = true
 
 [[files]]
+file = "mods/blinkload.pw.toml"
+hash = "883f6f5a13649793b35c8b40d4bcf4f422410de2a2a89199866919ff3aa253d9"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "dc0b2fab9c86d45c490e46a37bf1560698425f2c83609853a6c530b2b38ce321"
 metafile = true
@@ -9809,6 +9830,11 @@ hash = "c0aee4eedcbdab214dc04eb23ab98aace056c9473ac7d326c5f5edc5e1da58fb"
 metafile = true
 
 [[files]]
+file = "mods/fog.pw.toml"
+hash = "fb5cc01ddc48568a13d83fee02ecc059b5f5fdea31e21a4ee2fe96b1d99768a5"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
 metafile = true
@@ -10091,6 +10117,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "c3d4ce651ad4076f0ae5e1d2535b76a6ff983412e5a558d913b2f4aa5b52d817"
 metafile = true
 
 [[files]]
@@ -10421,6 +10452,11 @@ metafile = true
 [[files]]
 file = "mods/tfc-vessel-tooltip.pw.toml"
 hash = "9ca2e2747e1e1f1cb2e9fdc1641922d98c61e38ebfe2b4ca4e040d807fc2d3fe"
+metafile = true
+
+[[files]]
+file = "mods/threatengl.pw.toml"
+hash = "8fcc5e62f575812ab886ca89f6d284b81ec669f6eaeea9756f6f23fd77f77a27"
 metafile = true
 
 [[files]]

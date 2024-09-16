@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "This folder contains the unpacked fog definitions.\nYou can edit these files to customize the fog in your game.\nFor more information, visit https://docs.imb11.dev/fog/",
+    "pack_format": 15
+  }
+}
