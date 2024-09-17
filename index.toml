@@ -1042,11 +1042,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ca4ad53dc241c56201cbba91498fd810cd9ae9c3fc13ad5f630e6ac196eee9ca"
+hash = "69ef7ee03b27cbdd55c10b5bd85d9b081eed41348e2e56b60528929152e4d4e1"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "4b01d3fa4936aacf083c9866f2aa91b0a9396248e1f03238b8eda023d8b429cd"
+hash = "b22f4d956a01e99802ba4feb254e207c465c5e6062169e3ef31b9d784bed17c2"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1103,6 +1103,10 @@ hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
 [[files]]
 file = "config/playerrevive.json"
 hash = "598286f6b48c635ebaf4c649f6ebcd5a0dcfb9e9e7bb7a49a29ba71d59ed3de1"
+
+[[files]]
+file = "config/polymorph-integrations.toml"
+hash = "f09398fbdb8880a2e2a0f234aa6578dd49ada68fecbe899608841f39c430034a"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -1186,11 +1190,11 @@ hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "0e3a5bbec3f065d17cb1af0a1a3c5f8f2910ef4071e478e1c966d5a4e4361641"
+hash = "01bf7604a84ef0d36a3b4c01a5fddf583cbfe98dba7dc99d646623f4d81e9423"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "361ac82341c4682bd0c4eef2a7b39a219079b1597e657dea28ec33d34eda9fd1"
+hash = "bf6dbc96db50ef3bcf82e1758c501d49d9fdbc3483ab29057f40b6e28ae93cc3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7326,7 +7330,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9581,7 +9585,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -9671,7 +9675,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "31d4dc93d6bb6517eaa27bca712b56b30534f58a7bd04a24f67aa17456ba3096"
+hash = "20c8cc2f95b1d29b83b2863517b62cf030b84efdd2c590abe2c86e1d68ae1751"
 metafile = true
 
 [[files]]
@@ -10041,7 +10045,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "a4e615b9d4e9a7700ec951c506df4d618fc6efc9cf885a31ec19dda571d381d8"
+hash = "6094e6601a0adca5b766899ec92b204bbf67bfd5c301328faed87b9634f34911"
 metafile = true
 
 [[files]]
@@ -10356,7 +10360,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d47cf8902495273ee0a9223ee33f0dacf8a43667f6026d92af0186d5bac1b563"
+hash = "c2da3974f21a70aa72781aa392b69ae897d37151837128dcb5d4b6426b611e34"
 metafile = true
 
 [[files]]
