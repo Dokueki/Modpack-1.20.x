@@ -438,7 +438,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "d1beb01c392fceee74cfa9fad9c7ce215b0a5dc20292d926111177827a403361"
+hash = "a269f0404d365bb875a493373a7086ed1fa5741de37e1d44c0190b310e293c71"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -1042,11 +1042,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "69ef7ee03b27cbdd55c10b5bd85d9b081eed41348e2e56b60528929152e4d4e1"
+hash = "aca9f1704055b619b443a42618300839d60e4ba4bbe602bbb45a0c91154f1742"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "b22f4d956a01e99802ba4feb254e207c465c5e6062169e3ef31b9d784bed17c2"
+hash = "d3ee4a60791cfe5a6083201226189da494e9aa35d07e919262894e97131be034"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1186,15 +1186,15 @@ hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "294bdb29bf47d4fafccfb39ba3f380faafe21634f35016cff05e4e2f0f8f69d8"
+hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "01bf7604a84ef0d36a3b4c01a5fddf583cbfe98dba7dc99d646623f4d81e9423"
+hash = "3208662daeaad4338df2e7a52702bc514fb19dd7cfa0bf403d91539947e41bff"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "bf6dbc96db50ef3bcf82e1758c501d49d9fdbc3483ab29057f40b6e28ae93cc3"
+hash = "412a29fae47dee3b4c19de69a3165417e0e58ae532fc3fb17e3d382dd6950920"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7330,7 +7330,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9645,7 +9645,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "cd56114b29e084c7794df071d75ba3b685cb14fe08c15610651d301dd1a899fe"
+hash = "63fdb5bee512ae402e8afc442043f2e8c5e0e761a0312824d32cfc6b42558c3e"
 metafile = true
 
 [[files]]
@@ -9675,7 +9675,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "20c8cc2f95b1d29b83b2863517b62cf030b84efdd2c590abe2c86e1d68ae1751"
+hash = "a6160eee377bf6c938892b32b8c9b699adf32f7fd626733f1106f3ef9fddcbce"
 metafile = true
 
 [[files]]
@@ -9935,7 +9935,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtech-steam-additions.pw.toml"
-hash = "9047f8ae4eed94f3d54a0ac70a13ce3093711445434972b70bebe5c08e82602d"
+hash = "596bd7d34a5d27f9229aaaa5d127657131fc189655b56fd29dede3a4ea6bc6ef"
 metafile = true
 
 [[files]]
@@ -10355,7 +10355,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2170ed9eb7672fc517075c2259dc7ff8e9501c167f4083a30be162c8873b32c4"
+hash = "71102bb75e79ce2695ed0fc1d4198dd8395d9a737b9b1d3a358142b764e058d7"
 metafile = true
 
 [[files]]
