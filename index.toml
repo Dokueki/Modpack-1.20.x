@@ -9765,7 +9765,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "053b99ef8091bcacb1fdcdea588a5b79a9e5dc70be9b5a94d8419186de2cdaba"
+hash = "db1d91b8727e3681c21a56b3a9372ef56475e5b2c103731ff7c520307ed52e18"
 metafile = true
 
 [[files]]
@@ -9825,7 +9825,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmalife.pw.toml"
-hash = "a2bdb04f02f381febf07b9c29f3367b5f6eaf9b2f0afdaf6812c56c4ca4f9c19"
+hash = "f2992eb93d76be90b14f66cee747a2f7b39a182b7ce80c609f09fbe483eec8a1"
 metafile = true
 
 [[files]]
@@ -9965,7 +9965,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "622ee7b84219a029b1bb9682031f9546e3f6ff45560dae4b6617263981959a57"
+hash = "c6b19a1c3c87acf8843823e03c9b1abb8e86bcfbc452014bc8f6698ba0351359"
 metafile = true
 
 [[files]]
