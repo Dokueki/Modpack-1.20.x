@@ -754,7 +754,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "c93f43c2086a0338861cc20b7f8f89d6c06ce406790d69d4db21cc5c7f098ada"
+hash = "bcc3c2a17b54799b06e097715517ccba818c180f628b6cf5debd560f4253459c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1042,11 +1042,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c4d5072dee94b0b092248fa9469c92b43fb7b932580853466cecad3776762ff7"
+hash = "5e119554607d14668d3f14212d65d1c18ab04218bfb3658b39cbff90072ee571"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "7fa3adf741261a1cff1739661eb0a3507d51be84dd2a3c59b31ff2991fdec0ef"
+hash = "3e2d3466b755ae47a9e90f09d87f5ab5077af7177127c202b33c7c1a22873fa9"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1149,6 +1149,10 @@ file = "config/simpleradio-server.toml"
 hash = "917a80a4f861fa0c7f2725f00ff1d9c49aa06ce8ac1c26606dd0d81604854bcd"
 
 [[files]]
+file = "config/sliceanddice-client.toml"
+hash = "257fbdd7a536a41ce332c3416da84946c6825c88cb81a28ae96956f79f36e6e2"
+
+[[files]]
 file = "config/sliceanddice-common.toml"
 hash = "6d15397086cbf7e666f295ba021b6c62158e4b6c0bc1f19ff637864894a64e5a"
 
@@ -1190,11 +1194,11 @@ hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ca26543c6bdba8d7dc49a0085c70e004583c5093b8edf88e3107c8a8d04ce13d"
+hash = "9fab226cb92710b9732b071bdf829a82b1cd7df2f4c790665317c7f5e58f3655"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "74ac266a83ad943c467c5a1976af48c727533e9b65dc9b198665c2f0d5d09c8f"
+hash = "f4cc17d9eab7294ce323e949ebf2f0c8566479d2f351f4c518d6d558906501eb"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7330,7 +7334,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9425,7 +9429,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "847e75414875f904ca82d73afc3f716b07ab8faf8ed109e8093be132e59583c3"
+hash = "a70783e0935c2cf59e024b7f75c8da7526b35b19d83ccb29d92d569b14597acc"
 metafile = true
 
 [[files]]
@@ -9675,7 +9679,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a6160eee377bf6c938892b32b8c9b699adf32f7fd626733f1106f3ef9fddcbce"
+hash = "6b5716070f10fe7f6094456626054b0d7b1b0f01806780fe35c54b237c2984dc"
 metafile = true
 
 [[files]]
@@ -9985,7 +9989,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic-lite.pw.toml"
-hash = "0f2eac034aa9c15e713782b7fd42350b184af44f29b4e995bb6b95faa89b90a8"
+hash = "c5bf8af9233b929c02e2623f2710afd03656ffa027e635420f1ee3c4588ced70"
 metafile = true
 
 [[files]]
@@ -10045,7 +10049,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "6094e6601a0adca5b766899ec92b204bbf67bfd5c301328faed87b9634f34911"
+hash = "64cdcdf4d9259ac6a89130c3fc5cb0446cd3cd4c51107a5d147aa7f1722c1ec1"
 metafile = true
 
 [[files]]

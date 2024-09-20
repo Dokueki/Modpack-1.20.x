@@ -1,13 +1,13 @@
 name = "ItemPhysic Lite"
-filename = "ItemPhysicLite_FORGE_v1.6.4_mc1.20.1.jar"
+filename = "ItemPhysicLite_FORGE_v1.6.5_mc1.20.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "a24d474e50eeec7c22065faf29f2e743874c26f6"
+hash = "ae7c975384abced013c7a040393a60715bb5000b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5274678
+file-id = 5739352
 project-id = 270441
