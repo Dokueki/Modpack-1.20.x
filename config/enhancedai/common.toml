@@ -142,12 +142,12 @@
 		"Movement Speed Multiplier" = 0.4
 
 [Spiders]
-	#Makes spiders throw a web at a player, slowing them. Use the enhancedai:
+	#Makes spiders throw a web at a player, slowing them
 	"Enable Throwing Web" = true
 	#Various small changes to Spiders.
 	"Enable Miscellaneous" = true
 
-	#Makes spiders throw a web at a player, slowing them. Use the enhancedai:
+	#Makes spiders throw a web at a player, slowing them
 	[Spiders."Throwing Web"]
 		#Chance for a Spider to spawn with the ability to throw webs at the target.
 		#Range: 0.0 ~ 1.0
@@ -366,6 +366,10 @@
 	#Use the enhancedai:change_wolves entity type tag to add more wolves.
 	[Pets.Wolves]
 		"Double HP and Damage" = true
+		"Bonus Movement Speed" = true
+		#Wolves will slowly heal like horses. This is 1 in x chance to heal 1 hp each tick.
+		#Range: > -2147483648
+		"Passive Heal Speed" = 900
 
 [Mobs]
 	#Makes mobs ride other mobs

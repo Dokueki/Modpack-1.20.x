@@ -438,7 +438,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "a269f0404d365bb875a493373a7086ed1fa5741de37e1d44c0190b310e293c71"
+hash = "90b00a072992a91106164461e70b1bc48557a736b2b21251e0610ec6b0bd70ed"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -1042,11 +1042,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a40ea5e97d22e9fd91c393ff88e5145086089f4b73b4f89401e7584e2b188ade"
+hash = "67c4b8460add8382d321216642d9678064877da96395c070ef9295d336c4c4ca"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "ef3006ba21032eebe0d81de4c2a9cc63e69f2585feb50a72a7384a608888238a"
+hash = "a638a712bd2b37261518a56ef3eff83c55cc93f61824b54d55ebdb6906cae681"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1194,11 +1194,11 @@ hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ffd1822bed7b013aeed9e9a940f218f1c6f41f0de8119226eb4b9c4d90df07d1"
+hash = "f215474cd2906fcc1be3fb80ae28e547f18a4d3c4cfe86cfdcabd69ca87adf67"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "c5b5985d7e32f152155b0b715827d189223f0c0ab30363b4d13964acf2abd352"
+hash = "03a0fbdc5fbc7d71f243680f1c1fb8aeb0224b5f8f9c5b4d61a9d16687f0bb79"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7334,7 +7334,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9744,7 +9744,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "02aa824205c69b7936dc6c985f23507f47b46e881d64136edc1dbe213944f81e"
+hash = "78a091260b9222015297aed566ff0302c84a3111f0e168b79bde1927df3d0205"
 metafile = true
 
 [[files]]
@@ -9769,7 +9769,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "db1d91b8727e3681c21a56b3a9372ef56475e5b2c103731ff7c520307ed52e18"
+hash = "ee294f21ed1430ad66011cc9e4d2f1c9a8b12eeebec6dd456301333538682b2b"
 metafile = true
 
 [[files]]
@@ -9794,7 +9794,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "d9d40e74f2575e29b97bc89531e539b476f5e060becb3c52c61e6ce084da05b9"
+hash = "f4dd7d480cd2ad726f65ed4a17c3d2af3c20e212cda2b4c02fa8a59149330baf"
 metafile = true
 
 [[files]]
@@ -9909,7 +9909,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f00304a7022206790fe90bd16885d936d4b262f0292708aaee6e2a0efc681588"
+hash = "5dbb10eeebe342c31535e08ec13311db86d2c7ef050c693978d14ece7a29c7fa"
 metafile = true
 
 [[files]]
@@ -10049,7 +10049,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "d0e7b61d4139655f630422e4ff5315f0016c7779b8b0b3c2cb0f382b74270621"
+hash = "6998179ed3d55fb46c2c698827618316b52714361c8794cb3c2efd60025faba9"
 metafile = true
 
 [[files]]
@@ -10359,7 +10359,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "287ec909ef53f44fe7b1d04bd41995927dbc6bdd2a2c01eeeb7c23eb3372b4e9"
+hash = "06362695ee08340ed2ac84f9d5d8cc216f731725e1c0b27f111a713cb4811de6"
 metafile = true
 
 [[files]]
