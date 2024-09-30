@@ -422,7 +422,7 @@ hash = "a1fb218d7d9051f4afbd250eb6bb265b08f93fc7ce190b32482679c88f08e55b"
 
 [[files]]
 file = "config/emi_loot_config.toml"
-hash = "c65cefb7ac016f73750476c09bea9b15d2dc781c4e5faf77a87a8660a060ea4a"
+hash = "419ab186d7f2504b95e8ace912dcae8a878a1f0f17b5eecb2ae968d0bd127790"
 
 [[files]]
 file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
@@ -1029,6 +1029,10 @@ file = "config/musicplayer-client.toml"
 hash = "0808db0a9b292ef35edbd9814f3ce108b8bc1c134f4645afbab0e609d5a1b7b7"
 
 [[files]]
+file = "config/nerb.yaml"
+hash = "297c899fead9c3e358d9fc45edcc241f4ffbc25b71a8c1c2c84609d8110b8eca"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
@@ -1042,11 +1046,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "67c4b8460add8382d321216642d9678064877da96395c070ef9295d336c4c4ca"
+hash = "2b91238b0d6f74289c81631cc7654fe3ad6c7055a01307ed483a18e21d28cb43"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a638a712bd2b37261518a56ef3eff83c55cc93f61824b54d55ebdb6906cae681"
+hash = "b6dea02e77334d3f1ffdd00985ac566db856ffc30cb4875613dea1c92a5d20f8"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1194,11 +1198,11 @@ hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "f215474cd2906fcc1be3fb80ae28e547f18a4d3c4cfe86cfdcabd69ca87adf67"
+hash = "5eebf110689bbcb62f28cbe6fcf1f74c6f3b8fcc4ff6075cb8ddc5f1cb48e959"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "03a0fbdc5fbc7d71f243680f1c1fb8aeb0224b5f8f9c5b4d61a9d16687f0bb79"
+hash = "e6358ec80c0f0dd71c6d9ebcc98bbcedb9b03479b52d2f729651cc4d1981a293"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7334,7 +7338,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9764,7 +9768,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "983e6d4d488faca859e3abb13774b823d26a6b7a20d2dff13bfa4f3426cf5689"
+hash = "7a32f316749dfde854f06311991b7a371a6cb4f24e75c1b6f65cf554f81d5d1d"
 metafile = true
 
 [[files]]
@@ -10049,7 +10053,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "6998179ed3d55fb46c2c698827618316b52714361c8794cb3c2efd60025faba9"
+hash = "10bee68748b8b6e1a03fe013e5c95c5d15f2fd7ba6d1c58edf2a990221a1457a"
 metafile = true
 
 [[files]]
@@ -10069,7 +10073,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithic-coins.pw.toml"
-hash = "649884645f05904aed69fbb995c3e525ccd7b21bd7a7565ef2e6eca82a382552"
+hash = "faa37b3d4ddaba6b73f8ac734ad9f49bba0e2501de24657e8060d75b8ab8c23a"
 metafile = true
 
 [[files]]
@@ -10364,7 +10368,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "06362695ee08340ed2ac84f9d5d8cc216f731725e1c0b27f111a713cb4811de6"
+hash = "200c6d086d8ed9b0a34ce81e3c702c8d8199445727e4c976cd1dd79a40b4bb45"
 metafile = true
 
 [[files]]
@@ -10538,7 +10542,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "de2e3266a32e8cfcfbcea7a52110872ec35add5c8e17fc6b77e93140e6482292"
+hash = "83c7ee12f85c821eb0541568d17d0a930e469d7cb1e97b4604583c9b3245b773"
 metafile = true
 
 [[files]]
