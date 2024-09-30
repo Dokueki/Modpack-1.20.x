@@ -1,12 +1,23 @@
 
+# Extensions
+**/*.log
+**/*.gz
+**/*.DS_Store
+**/*.jar
+**/*.code-workspace
+**/*.zip
+
 # Configs
-config/jei/world/*
+config/jei/world/
+
 config/oculus.properties
 config/fml.toml
 config/forge-client.toml
 config/Discord-Integration.toml
 config/xaerominimap_entities.json
 config/voicechat/username-cache.json
+config/xaerominimap.txt
+config/xaeroworldmap.txt
 config/jade/server-plugin-overrides.json
 config/jade/sort-order.json
 config/embeddium-fingerprint.json
@@ -33,6 +44,7 @@ CustomSkinLoader/*
 screenshots/*
 shaderpacks/*
 chiselsandbits/*
+.vscode/*
 .new_mods/*
 
 # Extensions
@@ -42,9 +54,25 @@ chiselsandbits/*
 **/*.jar
 
 # Client data
+.vscode/
 .idea/
-/.bobby
-/profileImage
+.bobby/
+backups/
+profileImage/
+crash-reports/
+logs/
+saves/
+ldlib/
+local/
+modernfix/
+XaeroWaypoints*/
+XaeroWorldMap*/
+xaero/
+CustomSkinLoader/
+screenshots/
+shaderpacks/
+chiselsandbits/
+
 .curseclient
 .sl_password
 patchouli_data.json
@@ -64,9 +92,6 @@ knownkeys.txt
 *.code-workspace
 *.zip
 *.mrpack
-
-# Server Pack
-.github/buildtools/serverpack/*
 
 # Dev
 icon-exports-x32

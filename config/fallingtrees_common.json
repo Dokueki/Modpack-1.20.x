@@ -11,9 +11,9 @@
   "trees": {
     "standardTree": {
       "algorithm": {
-        "maxLeavesRadius": 10,
+        "maxLeavesRadius": 15,
         "maxLogAmount": 256,
-        "shouldFallOnMaxLogAmount": false,
+        "shouldFallOnMaxLogAmount": true,
         "shouldIgnorePersistentLeaves": true
       },
       "logFilter": {
@@ -67,7 +67,7 @@
       }
     },
     "chorusTree": {
-      "enabled": true,
+      "enabled": false,
       "onlyFallWithRequiredTool": false,
       "allowedToolFilter": {
         "whitelistedTags": [],
@@ -78,19 +78,17 @@
     "mushroomTree": {
       "stemFilter": {
         "whitelistedTags": [
-          "minecraft:logs"
         ],
         "whitelist": [],
         "blacklist": []
       },
       "capFilter": {
         "whitelistedTags": [
-          "minecraft:leaves"
         ],
         "whitelist": [],
         "blacklist": []
       },
-      "enabled": true,
+      "enabled": false,
       "onlyFallWithRequiredTool": false,
       "allowedToolFilter": {
         "whitelistedTags": [],
