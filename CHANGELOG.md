@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.7.13] - Waiting 30.09.2024
+### Changes
+- Fixed Long Distance Pipes recipe.
+- Fixed small shit with saltpeter firtilizer.
+- Fixed main menu misspelling.
+### New Mods
+- FTB-Backups 2
+### Updated mods
+- ?
+
 ## [0.7.12] - 03.06.2024
 ### Changes
 - Small fixes in quests. (FriendlyCube)
