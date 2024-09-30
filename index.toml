@@ -86,7 +86,7 @@ hash = "192924b2661f733e19962bfcebc85c4248592ebbfd386bad15794cb524176b1f"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "4a241fad85d4ef7364f1d3c652db37730a9a37619c066892e7d00fbde4049d81"
+hash = "ba355710ce14bbe250f1f4449bfcdc6a5fbbd10a61aaf50a19879ee44d57417b"
 
 [[files]]
 file = "LICENSE"
@@ -582,7 +582,7 @@ hash = "514e36e0b73d0796fc031a1e75c5b825186022b607fbdf8cef561db0842fbb8b"
 
 [[files]]
 file = "config/fancymenu/customization/gui_main_menu.txt"
-hash = "8b8b0bf8543735a968a463c24f105e8e99f3c0edaf5ac924008fd2b320977a19"
+hash = "1fd65e23a0102fbf51c155267eceae6ebfb79a79b440a5a3be3d7ec1885a8586"
 
 [[files]]
 file = "config/fancymenu/customization/gui_pause_menu.txt"
@@ -1049,10 +1049,6 @@ file = "config/oculus.properties"
 hash = "a8392543d5c8b220c989822427a2b914b84257d76bd13562f9020f87c292d2a8"
 
 [[files]]
-file = "config/packetfixer.properties"
-hash = "a8756e69473cc00274335ab740bc6cd8c241cfa017639e3e424e8dfba7e85936"
-
-[[files]]
 file = "config/panorama_screens/settings.json"
 hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
 
@@ -1131,10 +1127,6 @@ hash = "4c9418b330985ebe913236da43dfa461a00519187cfbd04d868a6737b038db4f"
 [[files]]
 file = "config/saturn-optimizations.toml"
 hash = "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3"
-
-[[files]]
-file = "config/seamless_loading_screen.json"
-hash = "11709f830f3d33ed6407a05fbffc3161713b194005e1c97b2cddab457689aac8"
 
 [[files]]
 file = "config/shimmer-client.toml"
@@ -7330,7 +7322,7 @@ hash = "320f58ea99c92574e72decd664037d25632f4c51d8355ddac0be7b31de709afe"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+hash = "32817ea3bceab8f3fe45296164bbd72b26716e9470a615b1261ef2573f83148a"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -7346,7 +7338,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+hash = "33b478905540f85f2164b8395f1153eda664fe6f45e383909e51fec5e9cdca64"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -9178,7 +9170,7 @@ hash = "49570777d262d17cf4b8898c5fd26ac72f9ed7ea852a8eec783f660043e1f1d2"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/recipes.js"
-hash = "e5e58e99cff4ae4d66a5246eb884b835feb60615b94bb96380d2beada2ac3679"
+hash = "73be5b2d2ff2868a25e331970013da528c58c3ce0a699421607257dffd423834"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/tags.js"
@@ -9250,7 +9242,7 @@ hash = "9f5cbe7dce0a395e90d6218324cc3289fd38986eebec2616bebb632c765422c0"
 
 [[files]]
 file = "kubejs/server_scripts/tfc/data.js"
-hash = "f1dea01f7c57e0fd06d5bb6f940775b88bbeaf42a7595b7eb103d372b5999e70"
+hash = "1357cbc0a66217bd9356a2e931969261aa6214e46a43f6f8d158e6741d63f96a"
 
 [[files]]
 file = "kubejs/server_scripts/tfc/recipes.js"
