@@ -3,4 +3,3 @@ allowNetherCaveModeOnServer:true
 allowRadarOnServer:true
 registerStatusEffects:true
 everyoneTracksEveryone:false
-everyoneTracksEveryone:false
