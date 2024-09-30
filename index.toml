@@ -86,7 +86,7 @@ hash = "192924b2661f733e19962bfcebc85c4248592ebbfd386bad15794cb524176b1f"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ba355710ce14bbe250f1f4449bfcdc6a5fbbd10a61aaf50a19879ee44d57417b"
+hash = "1afd2a3a6b4893f677490ef7a091fb0ea6595afab18f6f57cae2fb3132b7ff69"
 
 [[files]]
 file = "LICENSE"
@@ -114,19 +114,11 @@ hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "a297e7506593f446a02698ea014ecdc4deb1dc5483652edbd698989cb495aa7b"
+hash = "04e3d847eb94c42bf0a0e749a64bca15d764db4e1bbe7cdcb1c94ba12c19e30e"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/additionalplacements-client.toml"
-hash = "f4ac74f8f778e378c470a752781ae06d2b479b4b0118841792010a94f2fa36c8"
-
-[[files]]
-file = "config/additionalplacements-common.toml"
-hash = "040ca7c6d05e679ea086375a65c5ef6d1a7513d399722537cf27c7c5495f1ea4"
 
 [[files]]
 file = "config/ae2/client.json"
@@ -239,14 +231,6 @@ hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
 [[files]]
 file = "config/chatimageconfig.json"
 hash = "e91cdd732791cdeecdf35d1fcf607de49e6267a1a92755944c53aa0a11105e2b"
-
-[[files]]
-file = "config/chiselsandbits-client.toml"
-hash = "24fa6a4085d9a912956ea2d46a28e3717b7a41727ccc5a5bcec244de14311dc0"
-
-[[files]]
-file = "config/chiselsandbits-common.toml"
-hash = "407efde518037a322857ac4b75ada476ca4ccbd99f740ddd011553dc83f3b06d"
 
 [[files]]
 file = "config/chiselsandbits.launchproperties"
@@ -406,7 +390,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "54f9506707b96a183b08652d00805ea302200e65df126fa5950f3dc7c5bcd5e2"
+hash = "9cd44bcdf773139df37c7518de9fa0ffa0231ba7e0ca9d7d36211cf830dc48ce"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -418,7 +402,7 @@ hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
 
 [[files]]
 file = "config/emi.css"
-hash = "a1fb218d7d9051f4afbd250eb6bb265b08f93fc7ce190b32482679c88f08e55b"
+hash = "1fbc452e9176d5746884879e671e949b0b75c77bc777b1fc3c6f191113386fe9"
 
 [[files]]
 file = "config/emi_loot_config.toml"
@@ -886,7 +870,7 @@ hash = "7929329b9fabbf10e36138a20641a0c95e4c9bb1a308b9599fbbef8feb61f35d"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
-hash = "029b31d5cb68ca985188b979b59b759e3b607be9488edf8e4b4ee7708497a8b4"
+hash = "b05e594e5f44b6e4ef541b372504bf463cfdf0a95743673161be5edbc4db03b3"
 
 [[files]]
 file = "config/inventorysorter-client.toml"
@@ -906,15 +890,15 @@ hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "3c063cc05aa131779252e096360242fc7cf23c382003032f264c0c3a27821891"
+hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "5b4d8baad030e8e1c87cb2c736c8b4ed5d55760152c294e5eda8e3cdbdf3d353"
+hash = "f7302691102bd75e072d001fb9d6d9d70c067766f9aabd3a71b05132b372b8c0"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "e35e2bc8f6dcdf75c10d740c5e4e52dd8744e5b7513c31a0172ec98aa6c44bfa"
+hash = "b3e37ef837f2199b0dce288ea674c77167c66b1741b8979f7325df473e899769"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -946,7 +930,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "8377f01ec3c2f976ccf44fc941cbc1e07533059e5f40ad4674bbe154dfc59926"
+hash = "f6e03968aeef3c4fa96e09a6af5f47051604798c495a4914b8fe99da82981de6"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1046,11 +1030,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "4a962f3598ad885e7b9787d3f0e723f2cc6732d87044092e59927c449dde8535"
+hash = "12bfa52aca7cac83e2511b0e1db0f40ec8454711945408a69c72f2dbfec36e86"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d9e5aa1382c52934afaf6cb82486b907350123562612424db22deb8b5f867fa7"
+hash = "2b3c1c5985b333b7e4dc5c1efc09256b727b435352a5b1f414859e72a25318d5"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1194,11 +1178,11 @@ hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "2888bc4642db9d8753230734128e5bbd1d92eb433844eaa04572201d6a42e43e"
+hash = "d07497c7c1b1391e1c5626481731678d1602304f261440404ae6e82fe01832b7"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "da3a903dbfd34793ccaecb89d2657514b070566b8dcb6a1b2939eb8c044dd171"
+hash = "c58141322f079ffaece734428f04c84d1058ca113771d7edc2cf693e08dc3f69"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7334,7 +7318,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9823,8 +9807,8 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
-file = "mods/firmacivilization.pw.toml"
-hash = "cabafde038b4c4130fd2653faf2aca29e56ed79db3b6b03f7b2c6afe2df66843"
+file = "mods/firmaciv.pw.toml"
+hash = "506f13be60d19c1baae42503b8a25ea4d80a90d3c958c32e5a629abc8f03e4f8"
 metafile = true
 
 [[files]]
@@ -10049,7 +10033,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "10bee68748b8b6e1a03fe013e5c95c5d15f2fd7ba6d1c58edf2a990221a1457a"
+hash = "1f2013ec13ba049c58455db8117fa505018b49693a3d0e813b31db699240ad41"
 metafile = true
 
 [[files]]
@@ -10567,12 +10551,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ilaores-tfc-32x.pw.toml"
-hash = "6cc28f9c423726982fda9575d45149cd4e9cd1f2f6020f29e980ecb1c8c75f59"
+hash = "46fb79d389fb44e78a2caa539da6d1fee712f69d2e895766191c7baedc9b2d3a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/improved-applied-energistics-2.pw.toml"
-hash = "54f5344957d549cd3071501ca6e36056b9917c35630989815bb5f9b5dc1cae5e"
+hash = "070d5a342e2b50fa7379fdc634c1fc1326c843dee2ac5391ce8023fb034e40fd"
 metafile = true
 
 [[files]]

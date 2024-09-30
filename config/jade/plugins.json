@@ -180,10 +180,6 @@
     "firepit": true,
     "ingot_pile": true
   },
-  "firmaciv": {
-    "tfc_chest": true,
-    "barrel": true
-  },
   "jadeaddons": {
     "equipment_requirement": ""
   },

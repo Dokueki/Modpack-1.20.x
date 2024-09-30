@@ -64,16 +64,10 @@
 	HideProjectedPhotographsMadeByOthers = false
 	#All photographs made by other players will not be rendered.
 	HideAllPhotographsMadeByOthers = false
-	#Projected photographs (using Interplanar Projector) made by other players will not be rendered.
-	HideProjectedPhotographsMadeByOthers = false
-	#All photographs made by other players will not be rendered.
-	HideAllPhotographsMadeByOthers = false
 
 [Integration]
 	#Useful information about some items will be shown in JEI description category. Default: true
 	JeiInformation = true
-	#[Real Camera] Disable player model rendering when looking through viewfinder. Default: true
-	RealCameraDisableInViewfinder = true
 	#[Real Camera] Disable player model rendering when looking through viewfinder. Default: true
 	RealCameraDisableInViewfinder = true
 
