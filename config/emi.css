@@ -96,10 +96,9 @@
 	empty-search-sidebar-focus: none;
 
 	/**
-	 * The maximum height the recipe screen will grow to be if space is available in
-	 * pixels.
+	 * The amount of vertical margin to give in the recipe screen.
 	 */
-	maximum-recipe-screen-height: 256;
+	vertical-margin: 20;
 
 	/**
 	 * The minimum width of the recipe screen in pixels. Controls how many tabs there
@@ -107,11 +106,6 @@
 	 * of most screens.
 	 */
 	minimum-recipe-screen-width: 176;
-
-	/**
-	 * The amount of vertical margin to give in the recipe screen.
-	 */
-	vertical-margin: 20;
 
 	/**
 	 * Where to show workstations in the recipe screen
@@ -197,7 +191,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 16, 100;
+	 right-sidebar-size: 16, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -289,6 +283,9 @@
 	 * Which theme to use for the bottom sidebar
 	 */
 	bottom-sidebar-theme: transparent;
+
+	/** unparsed */
+	maximum-recipe-screen-height: 256;
 }
 
 #binds {
@@ -298,7 +295,7 @@
 	toggle-visibility: "key.keyboard.unknown";
 
 	/**
-	 * Focuses the search bar.
+	 * Focuse the search bar.
 	 */
 	focus-search: "ctrl key.keyboard.f";
 
