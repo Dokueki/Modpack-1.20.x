@@ -86,7 +86,7 @@ hash = "192924b2661f733e19962bfcebc85c4248592ebbfd386bad15794cb524176b1f"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "1afd2a3a6b4893f677490ef7a091fb0ea6595afab18f6f57cae2fb3132b7ff69"
+hash = "418d29618fc6112086d9c34bb37fb3cb081fc447a08978c611341c6d3bcf79fc"
 
 [[files]]
 file = "LICENSE"
@@ -142,7 +142,7 @@ hash = "d002319f21f057d57ab1e6a018877d57e687b2e3cd6a5479164ec66d98cd0f78"
 
 [[files]]
 file = "config/astikorcarts-common.toml"
-hash = "675b1722c214c4434db25850d08b9c903f8b3e1a7b9b3eb1e7b5f84351a3ef90"
+hash = "fc4ee061fdce9475dde0d61737375e2f413d31c205b1d6d359bc6853c2d1082a"
 
 [[files]]
 file = "config/attributefix.json"
@@ -390,7 +390,7 @@ hash = "5dca0257147e9ba210023c7e82703748acad18fa620a5a86197d86ba3a473989"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "9cd44bcdf773139df37c7518de9fa0ffa0231ba7e0ca9d7d36211cf830dc48ce"
+hash = "fe6b854a4eb5b0d16888734edafb6f3f32f659695801a2e9709d57521f185aa5"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -538,7 +538,7 @@ hash = "999a84563549e098978ef10d8cc7e3fc5f71145d44095097625154b4de8e73c8"
 
 [[files]]
 file = "config/fallingtrees_common.json"
-hash = "1fe9866ec1af092772e1ccfa5b577aae1bee5c120c065d994678eac7d412bb25"
+hash = "73ab70250d37c094f6230d9c91ea79725eb5b6d4f30c014109a9500410338e5b"
 
 [[files]]
 file = "config/fancymenu/assets/icons/icon16x16.png"
@@ -686,7 +686,7 @@ hash = "1c3ade413ad1f0c5cf1c477d145bf7e3b733b18fad24c695267faa4ac37fdd31"
 
 [[files]]
 file = "config/ftbbackups2.json"
-hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
+hash = "f81bb1ac31e6e9037420c01b9324a5acb12c705b3e9f4de350bc8a3c5e734cba"
 
 [[files]]
 file = "config/ftbqoptimizer.snbt"
@@ -1030,11 +1030,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "12bfa52aca7cac83e2511b0e1db0f40ec8454711945408a69c72f2dbfec36e86"
+hash = "81cf196f6c7ed5ed9a654604e7ffe3849032177d443eeee923e2becdeaa7c23c"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "2b3c1c5985b333b7e4dc5c1efc09256b727b435352a5b1f414859e72a25318d5"
+hash = "76d831a1f9319836883f0154205f2213e4ff565de3bd9d29e03a9c13e4e1ca56"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1178,11 +1178,11 @@ hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "d07497c7c1b1391e1c5626481731678d1602304f261440404ae6e82fe01832b7"
+hash = "b2ce9c4e89bd7a61f6cda58201d19eb3e29b018c5da1a169768e3df900b93d37"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "c58141322f079ffaece734428f04c84d1058ca113771d7edc2cf693e08dc3f69"
+hash = "d30d5d1c7a6ce0f7a3a24aeeb07b7fc317acdf784c785eaf5b1ce17737024996"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7318,7 +7318,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
