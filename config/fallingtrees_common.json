@@ -77,16 +77,12 @@
     },
     "mushroomTree": {
       "stemFilter": {
-        "whitelistedTags": [
-          "minecraft:logs"
-        ],
+        "whitelistedTags": [],
         "whitelist": [],
         "blacklist": []
       },
       "capFilter": {
-        "whitelistedTags": [
-          "minecraft:leaves"
-        ],
+        "whitelistedTags": [],
         "whitelist": [],
         "blacklist": []
       },
