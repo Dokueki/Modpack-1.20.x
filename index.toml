@@ -9402,16 +9402,6 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
-file = "mods/alekis-ridiculously-simple-roofs.pw.toml"
-hash = "559dbe3063a51d6febda70073cb8aa05fa91c439baa413222dc79cb7d108d2f9"
-metafile = true
-
-[[files]]
-file = "mods/alekiships.pw.toml"
-hash = "ad63a8301ac03b46b4eee98991be70534bad07a64ddbb1b541fa9f28b3f2256c"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a70783e0935c2cf59e024b7f75c8da7526b35b19d83ccb29d92d569b14597acc"
 metafile = true
