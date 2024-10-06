@@ -94,7 +94,7 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "README.md"
-hash = "f6792e501257cd893ad25d5b17d38e6fe0d5da0ad53a167f777827bde3ce0960"
+hash = "376228000855990e43c4c7ac2c7f9ec6d0f99cb7338178f0af3ff23b6905ef9f"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
@@ -738,7 +738,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "bcc3c2a17b54799b06e097715517ccba818c180f628b6cf5debd560f4253459c"
+hash = "ec5d90c05b44d33b533bbb536c78b76ae945c9cf65f9138b20853969a8e6ceec"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1030,11 +1030,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "96a1e8b81d0894938e93b909282baa22a9704d7cccd16867e15d257d7e307ec7"
+hash = "6babff16d238363669da3d5b4c37c10ef9ddcbf3c9b13a9acd54541bc2d57620"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "8c42293b69e1dd7170f944cd060b0729e344c2dd77a8c872db4d84f4a7d21781"
+hash = "bb4e565d9bed980af4cb109541c800b6446f1420fc76022c5827a7a3b8125d9f"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1178,11 +1178,11 @@ hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "9461eb60ac1353a19f9239868e9d6d1e8c162434c05143b39b50d2df757d1698"
+hash = "80206f477581950e9aa14959bf251fa0d0f347e82e93cf9aa289a405aa85a84c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "2e26f5119e307b79ec0287cf1113b3a60c385c3b81500fea593918f1056c6bdf"
+hash = "46c35a57de62ad7d4a57e5e78182678a2be49225d62fcc507183c22129e6f442"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7318,7 +7318,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10535,21 +10535,9 @@ file = "options.txt"
 hash = "0a5c2bd33b04616913f071080da2b618e860b70d4d8cc686c4186d963944b2cb"
 
 [[files]]
-file = "resourcepacks/gregtech-revival-32x.pw.toml"
-hash = "9adfe57d4db3ddf07b44141a0a1580efc98ddd7263f0376fd7e9da0436aff416"
-metafile = true
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+hash = "f44cb272d34cb3c9d86df11cf35db55c119a4d01796b5ac2fc436d53f5db73ca"
 
 [[files]]
-file = "resourcepacks/ilaores-tfc-32x.pw.toml"
-hash = "46fb79d389fb44e78a2caa539da6d1fee712f69d2e895766191c7baedc9b2d3a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/improved-applied-energistics-2.pw.toml"
-hash = "070d5a342e2b50fa7379fdc634c1fc1326c843dee2ac5391ce8023fb034e40fd"
-metafile = true
-
-[[files]]
-file = "resourcepacks/improved-create-32x.pw.toml"
-hash = "9f566bb19b5c2e0e82f3c3a3bca7a82e62c4b04c244b113880f592ac82fbb3d8"
-metafile = true
+file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+hash = "07d768019091796e9c5da8608005e054d233d8b2c1edfc61c0edd5206bd9c21a"
