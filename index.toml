@@ -1030,11 +1030,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "6babff16d238363669da3d5b4c37c10ef9ddcbf3c9b13a9acd54541bc2d57620"
+hash = "352752cdccd9f6e2b103eaa1cbf764faf2ee8d7e619e4ee17f4254848c01a4ea"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "bb4e565d9bed980af4cb109541c800b6446f1420fc76022c5827a7a3b8125d9f"
+hash = "a0a58f17c28a35c0805df71406f4a0b15d24d1791b9e2aea9211b932887d5505"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1178,11 +1178,11 @@ hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "80206f477581950e9aa14959bf251fa0d0f347e82e93cf9aa289a405aa85a84c"
+hash = "4985e22f0256f1e09898ba4c0cb9bc4b562e714b73889f0cc481a1245e3050f3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "46c35a57de62ad7d4a57e5e78182678a2be49225d62fcc507183c22129e6f442"
+hash = "dc7a84675df15888913bad988c4a1589df5c04b4b74da8ffe4ba763fd3ff18a3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7318,7 +7318,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10533,6 +10533,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "0a5c2bd33b04616913f071080da2b618e860b70d4d8cc686c4186d963944b2cb"
+
+[[files]]
+file = "resourcepacks/terrafirmacraft-vexxed-visuals.pw.toml"
+hash = "a7a0347b84279261778870ea87577103b2742266cd6956e1527bccb8b63cffb4"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
