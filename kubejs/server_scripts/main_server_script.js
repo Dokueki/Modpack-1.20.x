@@ -19,7 +19,6 @@ ServerEvents.tags('item', event => {
     registerMoreRedItemTags(event)
     registerHotOrNotItemTags(event)
     registerRailWaysItemTags(event)
-    registerSophisticatedBackpacksItemTags(event)
     registerTFCItemTags(event)
 })
 
@@ -42,7 +41,6 @@ ServerEvents.tags('block', event => {
     registerMoreRedBlockTags(event)
     registerHotOrNotBlockTags(event)
     registerRailWaysBlockTags(event)
-    registerSophisticatedBackpacksBlockTags(event)
     registerTFCBlockTags(event)
 })
 
@@ -126,7 +124,6 @@ ServerEvents.recipes(event => {
     registerMinecraftRecipes(event)
     registerMoreRedRecipes(event)
     registerRailWaysRecipes(event)
-    registerSophisticatedBackpacksRecipes(event)
     registerTfceaRecipes(event)
     registerTFCRecipes(event)
     registerTFCGroomingStationRecipes(event)

@@ -4516,19 +4516,6 @@
 			y: -3.5d
 		}
 		{
-			dependencies: ["1E1A13F6B8D24207"]
-			id: "4E39A32FAA011FF5"
-			size: 2.0d
-			tasks: [{
-				id: "79E2F0E9233F4A86"
-				item: "sophisticatedbackpacks:backpack"
-				match_nbt: false
-				type: "item"
-			}]
-			x: 27.0d
-			y: 3.0d
-		}
-		{
 			dependencies: ["25E35E929922B872"]
 			id: "07CC118AAC67889D"
 			tasks: [

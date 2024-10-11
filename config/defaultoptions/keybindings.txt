@@ -46,15 +46,6 @@ key_placebo.toggleTrails:key.keyboard.unknown:NONE
 key_placebo.toggleWings:key.keyboard.unknown:NONE
 key_key.modernfix.config:key.keyboard.unknown:NONE
 key_key.heracles.open_quests:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b:NONE
-key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c:NONE
-key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.sort:key.mouse.middle:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:NONE
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:NONE
 key_key.corpse.death_history:key.keyboard.unknown:NONE
 key_tfc.key.place_block:key.keyboard.v:NONE
 key_tfc.key.cycle_chisel_mode:key.keyboard.n:NONE

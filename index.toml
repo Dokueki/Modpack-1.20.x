@@ -354,7 +354,7 @@ hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "dd10183cb0723666aa08f380aca9960821e16aecd949ff9866786e7050d7b058"
+hash = "565aa89fd3efb98307f5e1d8918933f87a801e307f1fe0d6393687051e85b868"
 
 [[files]]
 file = "config/dice-common.toml"
@@ -738,7 +738,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "ec5d90c05b44d33b533bbb536c78b76ae945c9cf65f9138b20853969a8e6ceec"
+hash = "817f66e85f79694ceedd7f64b3020f376c0d1c8d31b9021da9948e4562d5a620"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -906,7 +906,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "307b1e952fc51af28be3438243131ff120dc961e8a3b2af0303e3ba1ba845bbf"
+hash = "48b39dc4caa19a09479814b67c387482655722b592c1820ea25a59932bad32f0"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1030,11 +1030,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "352752cdccd9f6e2b103eaa1cbf764faf2ee8d7e619e4ee17f4254848c01a4ea"
+hash = "0debc67f423d128d6081ecca0ed396ad089569dd827563fc34e490d9d074a9ba"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a0a58f17c28a35c0805df71406f4a0b15d24d1791b9e2aea9211b932887d5505"
+hash = "4aac74616c98a21ef826a0d13ef2318f699bd419b751471cb59aee639e096c40"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1145,6 +1145,14 @@ file = "config/smoothboot.json"
 hash = "780cbbe638e0a8a6d5e4dd4b606b4250ababa3bfa6aed0df58eec97fa333ef2a"
 
 [[files]]
+file = "config/sns-client.toml"
+hash = "f9e082044baa61d57347cd0b1eeef46fd2b3b40bef4466dc8ded5adbbc66ecde"
+
+[[files]]
+file = "config/sns-common.toml"
+hash = "b11f7daadcfcb36290ff6c22837ed997da99cd700589e2158267c519f9068b8b"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "d77be1c5a7bd58ab7f6710f8d8abe323ceacc0bacc034c108a0e1d780a2266a2"
 
@@ -1161,28 +1169,16 @@ file = "config/solid_mobs.json"
 hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
-file = "config/sophisticatedbackpacks-common.toml"
-hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
-
-[[files]]
-file = "config/sophisticatedcore-client.toml"
-hash = "06813199751af809ce5043408f99066b30dccfa72b2597d74543dfa6b64e8d36"
-
-[[files]]
-file = "config/sophisticatedcore-common.toml"
-hash = "a056e1d1c22ae735be7d1a97abb4a1eb2cdd21767e86a4bdd7e3187a700c09bd"
-
-[[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4985e22f0256f1e09898ba4c0cb9bc4b562e714b73889f0cc481a1245e3050f3"
+hash = "a80d74b412c301449563114b792f87d3fe4e05dc2cc7b065fdefacc57a454293"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "dc7a84675df15888913bad988c4a1589df5c04b4b74da8ffe4ba763fd3ff18a3"
+hash = "bcee3f77e9ef808f01403db9f0ad198c24dc8a5c303b7bdeca76322e37db60ec"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7318,7 +7314,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7385,10 +7381,6 @@ file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "f7f4dc6e036ac050da20df148bbfeb81af9f44c5ff30d5ba1dc3418fc9ed988b"
 
 [[files]]
-file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "4ad6d51a0232cd0396b11ff9f91b3cecfc07375d868c60ec4476533fb9c1dc29"
-
-[[files]]
 file = "defaultconfigs/tfc-server.toml"
 hash = "a2101daf4dbab0c4d53a25e56577184ab97a89bf3047b9e4610b6567816d43db"
 
@@ -7422,7 +7414,7 @@ hash = "7021e6e1f860610a30b83215140c9038d716187e5ba2f08410e287de38df7d77"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/filters/categories.json"
-hash = "6cae99784c25be105aca2c1fc8cc11a33ecc75938c3e9efdcdd1cd1342b8fbbb"
+hash = "638483113384fcbf148cda835944564ed09b1fd33086f2a003a17c4d2e5cac36"
 
 [[files]]
 file = "kubejs/assets/firmalife/lang/en_us.json"
@@ -7451,14 +7443,6 @@ hash = "9bbe98e49d2944ef5e12474815a177a66ffb07721ce3f4f965d6dc1aafa8ce29"
 [[files]]
 file = "kubejs/assets/shimmer/shimmer.json"
 hash = "59a9a77c5a1abb991322a6be2fd754245270d54256f841783667f5a1c4eedecc"
-
-[[files]]
-file = "kubejs/assets/sophisticatedbackpacks/lang/en_us.json"
-hash = "0f1f9ab8b3406d64812b0661c9eaf8b301a4f51f723e9a54380fc75f66413c35"
-
-[[files]]
-file = "kubejs/assets/sophisticatedbackpacks/lang/ru_ru.json"
-hash = "ca16fa1fc216d1be57b0c301e450be8cb95b40534ef75528c8292b2275314221"
 
 [[files]]
 file = "kubejs/assets/tfc/lang/en_us.json"
@@ -9182,7 +9166,7 @@ hash = "84f1216d1986f5ec5ec22346899956dc1ff9a3d63411a392293d99c010f725eb"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "4c28d32edfdb175cc3e73745e8325b9a046cfc25634e964931c2dab9d3da5030"
+hash = "84c0439ead8afe3befa544b2953b50f52ea3d25a142e7b760916b516d1b7f0c2"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
@@ -9219,14 +9203,6 @@ hash = "5fabebec04ce86d77d973529a462b7440f25c2d1af7d16d4799f09afa02247b0"
 [[files]]
 file = "kubejs/server_scripts/railways/tags.js"
 hash = "d35e5628394249fcb6225f9d5dbc36a1c4354b4bdad9f37678ddf861e7dddec8"
-
-[[files]]
-file = "kubejs/server_scripts/sophisticated_backpacks/recipes.js"
-hash = "c6eceb183abf193d6b9d7b65a4284a296432179c606d7932652803c89d610109"
-
-[[files]]
-file = "kubejs/server_scripts/sophisticated_backpacks/tags.js"
-hash = "9f5cbe7dce0a395e90d6218324cc3289fd38986eebec2616bebb632c765422c0"
 
 [[files]]
 file = "kubejs/server_scripts/tfc/data.js"
@@ -9359,10 +9335,6 @@ hash = "b11f72b715305e862919e7cc1c494afbca31c2934cf265dfffb6bc11d201d18f"
 [[files]]
 file = "kubejs/startup_scripts/railways/constants.js"
 hash = "39fd94027ac5fa506b214fe5777452fa84a2d4021ab1b84c1ef49260130297db"
-
-[[files]]
-file = "kubejs/startup_scripts/sophisticated_backpacks/constants.js"
-hash = "7afa1f63032953f638111888560b90acad54daceceff3717a98f97e9ea27e9a0"
 
 [[files]]
 file = "kubejs/startup_scripts/tfc/constants.js"
@@ -10272,6 +10244,11 @@ hash = "7ade037520886cbded218c7d9553129108dbb88d404f95aaa98f9e57eaaf49ab"
 metafile = true
 
 [[files]]
+file = "mods/sacks-n-such.pw.toml"
+hash = "004d065089a1ecb462911feea411e40882c0d666323711c18064636f3faa669f"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
 metafile = true
@@ -10329,16 +10306,6 @@ metafile = true
 [[files]]
 file = "mods/solid-mobs.pw.toml"
 hash = "f6c35e5cc755eb21346fd3adb11f196ea0c24ec3617807a5836494c9060f2b11"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "98bffb67526e12e0065e40e6caae4f68b8fedd4fdcde3a432a6144c65022ebd4"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "4e4850082b59a1ddb5506dc88f2f8e3f378c51093b1a89683b3090bd86e1a3da"
 metafile = true
 
 [[files]]
