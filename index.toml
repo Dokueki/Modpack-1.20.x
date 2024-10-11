@@ -838,11 +838,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "2217793af5444401c94db6589c398ac401c1d5be02db9b7fcd40e3eaa95e525b"
+hash = "1644071310cd6d0cebd1614b5de3f94af089ed5193c3478f1767e71675e8f54b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "da0e546696102c2aaafa54e57c1f785b5f1a40ad948b89f8e8581016ea1a8264"
+hash = "739462b8fe48641b945f3408618c8afa00f7ecb88d1719e2e590723388bc0663"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -970,11 +970,11 @@ hash = "9b3e0083b1eee6e415f89f772669b5cc2190c2d7b6a545716bc1544f0ddb8fe0"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "1d26f529f9f96b9ae38548f7fec2ed980c96dcfadeeec61048a535fe5235ccea"
+hash = "53ffe37e2046f04bd9a6441088a42e6f80973ef0ab9098f91c905551b89e714d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "8bb3c54bfb62659221624111e2b5b3cf743fb902483ed11817530c04cd0f8553"
+hash = "e83fbc5a5830cfd6515165a401a4cc672dc21f287f6a8d6f0b9a97ce8b16de6f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6977,6 +6977,18 @@ file = "config/tumbleweed-common.toml"
 hash = "8da919d5ec927450c66497e2dba34aaa2e1993d017ee7654f3bdde26d09686f2"
 
 [[files]]
+file = "config/valkyrienskies/schemas/vs_addition_client.schema.json"
+hash = "8b5fd6db8a59e64923d1dfc6ba6c43408a7748a83b4f0984a7bf0c7f573080a5"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_addition_common.schema.json"
+hash = "af4d4dce0d5eba4968551eae92dea8a90394d598933a3ef119b46b57c1b2f285"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_addition_server.schema.json"
+hash = "81a6dadb0ec24b59d03447d9916bb3fc81f60d821d3bea9bfdfc1c761f5498b3"
+
+[[files]]
 file = "config/valkyrienskies/schemas/vs_client.schema.json"
 hash = "48356047aa354b0e9aca95954700dbf09530fa0e1a147a10d29fc4ca96c353c0"
 
@@ -7007,6 +7019,18 @@ hash = "b77f59b34f82a6e24afe52db473d78c7e2502d91816a11aa83473f80c0142bfd"
 [[files]]
 file = "config/valkyrienskies/schemas/vs_server.schema.json"
 hash = "a341bb0adb20cc6127d3a6d10fb4e1627b5a20fcd4c0810a30751415b35d9be3"
+
+[[files]]
+file = "config/valkyrienskies/vs_addition_client.json"
+hash = "11bd7e35de2aaa12c1d8ae05c101375bd603d03a6e6e55c1c9b2871e9a7f07be"
+
+[[files]]
+file = "config/valkyrienskies/vs_addition_common.json"
+hash = "02303cc2c8c7c1cea48147036623bd8c54471412738ad1b7e8be91363b4c61cb"
+
+[[files]]
+file = "config/valkyrienskies/vs_addition_server.json"
+hash = "3550af1239f872740abb0a98ca549fffe06854d182fa82fd873a70933e2b6a68"
 
 [[files]]
 file = "config/valkyrienskies/vs_client.json"
@@ -7090,7 +7114,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10165,6 +10189,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrienskies-120-2.3.0-beta.5+682a6e853c.jar"
 hash = "d1b4fdc54dd1a790eb0fec9ce4d34608d79c83d3e6956b9321464d4f374c76ce"
+
+[[files]]
+file = "mods/vs-addition.pw.toml"
+hash = "49d21794c214717501a657eef4eca5a6486e183781b1aaec9af11a55b03077d0"
+metafile = true
 
 [[files]]
 file = "mods/water-flasks.pw.toml"
