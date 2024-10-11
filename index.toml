@@ -702,7 +702,7 @@ hash = "c82c5ff0e7684ac58fdc0fe6b363e6e4fd266138a067795448d03ea159b0dc9e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hv__high_voltage.snbt"
-hash = "e3c5ba6c50be48645619d6f1b6dd881a4bb01c8d2aeca55eb703070fb6b445c4"
+hash = "501a63f1349389ce4100b85c61b54aef537dbb1c4352b0abdf48fa75c56179b6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iv__insane_voltage.snbt"
@@ -726,7 +726,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "817f66e85f79694ceedd7f64b3020f376c0d1c8d31b9021da9948e4562d5a620"
+hash = "a0d1055b48ab0cabf976217b7997256a2dcb3047245f989d1fb21fd9dc3eec7a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1006,11 +1006,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "5736e50ea1ee90ba122a1cbcecc497680bbd3a6e47c7a9ba0e7437577198bcb3"
+hash = "21dd1c27d7fe7645b3f98c4a249165b7db2a40b73d102a3e588fdc38e186ecdf"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "23ed6d50eab3a4c8d2f39dd74753b06be85371b31c1b4437f70afa1e71cf314e"
+hash = "cfe3ef25e9eadaf787ccf6aafbaae6e2f883d07d3fa74263911c0826e639afca"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1150,11 +1150,11 @@ hash = "d839d26abd0288948819928d54978f3cb0d9ea150c20fcd973e2a24ede94ecde"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "40659ab114ea3e6a1e7d9c052761cb424ede605c78bac6cd18e9b5e68e176f1f"
+hash = "4057be40ce4321ec526f7cc9dc109b8e5ae316a9b719c8fd348fe583e00a9571"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "8243ec5c25e06e7be6752fc53f65e4e01caab320e798b456bb4dca2a423b57f9"
+hash = "ca5310374c561f770da79524216eac5747d3364291714410480a13b9e3192210"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7290,7 +7290,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9125,10 +9125,6 @@ file = "kubejs/server_scripts/gregtech/utility.js"
 hash = "0f9ae550fec551b9361f7710cda48bacdddefd2132140b8dcb4cff1a2d298860"
 
 [[files]]
-file = "kubejs/server_scripts/handglider/recipes.js"
-hash = "0b956d9fc726adf160a8549ac6a8557e7672f1a00f254d79ea627efa4f3b09d3"
-
-[[files]]
 file = "kubejs/server_scripts/hotornot/recipes.js"
 hash = "de646cde8cab20e5cb2d74ed2b73d32152770fe01c0afda1df3cd0c4eb70195d"
 
@@ -9138,7 +9134,7 @@ hash = "84f1216d1986f5ec5ec22346899956dc1ff9a3d63411a392293d99c010f725eb"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "9a45409438bb2cd0afe4da51c85285b2b38d60690d662d83c09d2e507df6566b"
+hash = "8566bdf62f9633c9387180798b83872a8211f3bffc02245db1fb0be092106f4c"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
@@ -9646,11 +9642,6 @@ hash = "a98292cb6bff4b6a481306dc38b95b6c781f5b284433f8938573379ed0f39ed0"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "400396918f6581f7157a25c5dda75fd620d16fd8565201a5e7aee30f6c7df8b0"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "f83625770e16e6cbba1b64cdc7574078bee20e62ea5133038d261ae4490eaaec"
 metafile = true
@@ -9853,11 +9844,6 @@ metafile = true
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
 hash = "9fa186c156e5d0341ce124773f25673a80409a559f0b6d61b2529bd9823a6a2e"
-metafile = true
-
-[[files]]
-file = "mods/hang-glider.pw.toml"
-hash = "39d13de3388a0546d3116bb4ae1f6c86f068d051688cb0c3505ba1c4eb0e05e4"
 metafile = true
 
 [[files]]
@@ -10422,11 +10408,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "1893dc59ea16fa8f670f2aaba63663b3b6ca26092cacbcca9c608556f6c59f79"
 metafile = true
 
 [[files]]
