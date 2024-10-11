@@ -9346,6 +9346,11 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
+file = "mods/alekiships.pw.toml"
+hash = "ad63a8301ac03b46b4eee98991be70534bad07a64ddbb1b541fa9f28b3f2256c"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a70783e0935c2cf59e024b7f75c8da7526b35b19d83ccb29d92d569b14597acc"
 metafile = true
@@ -9372,7 +9377,7 @@ metafile = true
 
 [[files]]
 file = "mods/astikor-carts-tfc.pw.toml"
-hash = "91001702bbc51bc6dd8d9e1101a1f3c615943b8e11a97922a0f9d6a5a7aa567f"
+hash = "a69a0db95939ec1d669bf1062bd95e52474ca640ac1617bf3544450757b7466e"
 metafile = true
 
 [[files]]
@@ -9647,7 +9652,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "6a4ec75e87bb2937918fadf7585565cd8bed1ae61d50172fd5610f0158c5e58b"
+hash = "f83625770e16e6cbba1b64cdc7574078bee20e62ea5133038d261ae4490eaaec"
 metafile = true
 
 [[files]]
@@ -10167,7 +10172,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "71bdf7a2baf2b49de4292b8a0ff48419119b0a9bbf1c06d4f8dd92fd97fe6416"
+hash = "df91958db1f1c82ea5d4fe933a4893cdefe6861e3aa2f25d4c4a39a062bddd15"
 metafile = true
 
 [[files]]

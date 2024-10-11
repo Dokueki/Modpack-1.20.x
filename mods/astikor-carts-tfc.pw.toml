@@ -1,6 +1,7 @@
 name = "Astikor Carts TFC"
 filename = "TFCAstikorCarts-1.20.1-1.1.8.2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
