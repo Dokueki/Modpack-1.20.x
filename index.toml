@@ -738,7 +738,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "817f66e85f79694ceedd7f64b3020f376c0d1c8d31b9021da9948e4562d5a620"
+hash = "9fdc807864f7e37d9ce9d2448de5334d4c563126c84bd4e8598395be868b22db"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1030,11 +1030,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "0debc67f423d128d6081ecca0ed396ad089569dd827563fc34e490d9d074a9ba"
+hash = "5a6bab10cd8118a34bff623b082961a5a73936734d6c4eecd1d474d305df7c43"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "4aac74616c98a21ef826a0d13ef2318f699bd419b751471cb59aee639e096c40"
+hash = "8e16c0dfa832cbac9c1e06c0bfbc9aeb9bcafe0507073eea138f3c4f0183e68e"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1174,11 +1174,11 @@ hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a80d74b412c301449563114b792f87d3fe4e05dc2cc7b065fdefacc57a454293"
+hash = "980fa024aad469c2916c40f2b435d6e4396ba9befed7e95381398adaa53fc301"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "bcee3f77e9ef808f01403db9f0ad198c24dc8a5c303b7bdeca76322e37db60ec"
+hash = "7bde3ed5a9275d180028a1f489b8eb91949c305aa74c12c1fb81c602cca53e2c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7262,7 +7262,7 @@ hash = "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5"
 
 [[files]]
 file = "config/voicechat/translations.properties"
-hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
+hash = "c96dc7334523e6f9c8a6eae804fb92af92da265f5d1e10f72bcbd1192cd2b917"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
@@ -7270,11 +7270,11 @@ hash = "834af0679f8848ab72c4ae25caeb2a25050870315d364e211c77658ac73ab7bc"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "c16280cdbf8d3362c88cb6c18996f410f6768079efbaa2ec9340bd66e262edd8"
+hash = "3137771cf06c54e889be6f97afe15c8ed03661ce2f1f3f09db0ccc75b38d6ef5"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "2ce3d1062a448470a8a2d1bb94b613dd94ad60792e98075db51757fc79a4580f"
+hash = "e31a0a8e3fd6f7ae2783d95d50b0c1506ea3a77156ed89dbf3b96928a8a7db00"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -7314,7 +7314,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9565,7 +9565,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "9ab741b4d88da35819c7ad2a2b30487fa1eb2f17db2168005432263f941b5b2c"
+hash = "a9a5c85968036b975f04546a4834ba0c701f1ae896c952acb4e428211ed88b52"
 metafile = true
 
 [[files]]
@@ -9855,7 +9855,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "5dbb10eeebe342c31535e08ec13311db86d2c7ef050c693978d14ece7a29c7fa"
+hash = "d1bc44dcc16a3b8124ec4841a690c93005bf82e9649fae1e352e2e315a393da5"
 metafile = true
 
 [[files]]
@@ -10230,7 +10230,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-mob-sizes.pw.toml"
-hash = "016bcd4253eeb18c6c25742c25d2cbea449eeb9d1a4b05ce41dd4ed8251a81a9"
+hash = "a337f15cff8c2dcdbf86e3a5c08a51e1501c35528477b43adb89654550134a47"
 metafile = true
 
 [[files]]
@@ -10280,7 +10280,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bcd933fc843063c7f0da4df200c60b27d4f8c68ed143dc3d5f6f52824ec7a282"
+hash = "059be12558bea1c356d92444828aab63008347774a4121d9814eef5bf15d6054"
 metafile = true
 
 [[files]]
@@ -10474,7 +10474,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "83c7ee12f85c821eb0541568d17d0a930e469d7cb1e97b4604583c9b3245b773"
+hash = "5c90d9e39485732f0d55003edae61683b6e3c0bb12b3e67756e0a1f5e0190bd6"
 metafile = true
 
 [[files]]
