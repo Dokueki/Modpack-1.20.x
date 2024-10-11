@@ -537,10 +537,6 @@ file = "config/forge-client.toml"
 hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 
 [[files]]
-file = "config/fpsreducer/fpsreducer-client.toml"
-hash = "1c3ade413ad1f0c5cf1c477d145bf7e3b733b18fad24c695267faa4ac37fdd31"
-
-[[files]]
 file = "config/ftbbackups2.json"
 hash = "f81bb1ac31e6e9037420c01b9324a5acb12c705b3e9f4de350bc8a3c5e734cba"
 
@@ -590,7 +586,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "560adc075857789fca7609440e6ae7fa5d5e4b5f34d44428bd4a861cfc99e9a0"
+hash = "a0d1055b48ab0cabf976217b7997256a2dcb3047245f989d1fb21fd9dc3eec7a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -842,11 +838,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "cc5b442081fec57fbbc2ccdaafa744b51837fedad9d491b979cb234ffdde43de"
+hash = "2217793af5444401c94db6589c398ac401c1d5be02db9b7fcd40e3eaa95e525b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d082c01575fde0d67cbf625dc395976805f4604ea0255fe2d02abf65c65949ab"
+hash = "da0e546696102c2aaafa54e57c1f785b5f1a40ad948b89f8e8581016ea1a8264"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -974,11 +970,11 @@ hash = "9b3e0083b1eee6e415f89f772669b5cc2190c2d7b6a545716bc1544f0ddb8fe0"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8c78c6e7cd49211eb55a77fdc7503bc08fcc1f80e1c679317d267ea68e57e3dc"
+hash = "1d26f529f9f96b9ae38548f7fec2ed980c96dcfadeeec61048a535fe5235ccea"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b4f88913cb7f872c6ac1425c3a0eae9b61e4c463dadbf7f56dc94f0ad344be1e"
+hash = "8bb3c54bfb62659221624111e2b5b3cf743fb902483ed11817530c04cd0f8553"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7094,7 +7090,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7190,7 +7186,7 @@ hash = "af610b44617c5a13c48c7198f68d8da9c73b8430a64f7b18b84817ef35255c25"
 
 [[files]]
 file = "kubejs/assets/emi/index/stacks/items.json"
-hash = "7021e6e1f860610a30b83215140c9038d716187e5ba2f08410e287de38df7d77"
+hash = "7f925a1405ce8809992f33350819e0434f9d4bd7c9f528847a44cf19220c3783"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/filters/categories.json"
@@ -9025,10 +9021,6 @@ file = "kubejs/startup_scripts/asticor_carts/constants.js"
 hash = "e166da6fbe62100679044a8280b9ec2e4f2e63bc7b45cb680087d292d1665161"
 
 [[files]]
-file = "kubejs/startup_scripts/chisel_and_bits/constants.js"
-hash = "32d3ac49790b0622495c1be94faf286fe192d23481e4ceab35c2cea70d7068cd"
-
-[[files]]
 file = "kubejs/startup_scripts/computer_craft/constants.js"
 hash = "0334c6cfd370230452e203a76a3afeec14916d49bff9ebf18084eb42dc44b5af"
 
@@ -9538,11 +9530,6 @@ metafile = true
 [[files]]
 file = "mods/fog.pw.toml"
 hash = "fb5cc01ddc48568a13d83fee02ecc059b5f5fdea31e21a4ee2fe96b1d99768a5"
-metafile = true
-
-[[files]]
-file = "mods/fps-reducer.pw.toml"
-hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
 metafile = true
 
 [[files]]
