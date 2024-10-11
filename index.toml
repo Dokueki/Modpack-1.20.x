@@ -161,6 +161,10 @@ file = "config/betterfoliage-client.toml"
 hash = "c980ebb79847b5eb5389d15567843cba8e32586ab1039c8e68f05574fa1ff765"
 
 [[files]]
+file = "config/bettermobcombat/server.json5"
+hash = "d44bb69ad8398a9622906ed674e4968e0d247a29369d50faa55124d7c985cb70"
+
+[[files]]
 file = "config/betterpingdisplay-client.toml"
 hash = "164836730c41628abbd6a1cdc3724c3766d8204d57caa18ec31d1f90472d9326"
 
@@ -586,7 +590,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "a0d1055b48ab0cabf976217b7997256a2dcb3047245f989d1fb21fd9dc3eec7a"
+hash = "560adc075857789fca7609440e6ae7fa5d5e4b5f34d44428bd4a861cfc99e9a0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -797,6 +801,10 @@ file = "config/merequester-common.toml"
 hash = "a87e0e5a2bacb1c4c5399265ba2615d6b697f1a23513dad44044b18d400f1015"
 
 [[files]]
+file = "config/mobplayeranimator/client.json5"
+hash = "200ef97985c247b0f593237dc244481b222b517a2b82a1d0d51943e57444f8bc"
+
+[[files]]
 file = "config/modelfix-client.toml"
 hash = "762378a61d5807c35e6e34171948affe068a478a8922057c98d391d3e6dcad03"
 
@@ -838,11 +846,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "1644071310cd6d0cebd1614b5de3f94af089ed5193c3478f1767e71675e8f54b"
+hash = "dfafad75abf6df8cc2d3f3e6f41b966266e7d455719791cb20a4d1f887b4a3df"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "739462b8fe48641b945f3408618c8afa00f7ecb88d1719e2e590723388bc0663"
+hash = "7836d5483cee8a102f8575dc4948d820b32b650c5770badda4aa55811ba5cd56"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -970,11 +978,11 @@ hash = "9b3e0083b1eee6e415f89f772669b5cc2190c2d7b6a545716bc1544f0ddb8fe0"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "53ffe37e2046f04bd9a6441088a42e6f80973ef0ab9098f91c905551b89e714d"
+hash = "1e8c1f23dd0e2ba5b0b573bd488b061b7de12d5bb1a440c497810a120ef2914d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e83fbc5a5830cfd6515165a401a4cc672dc21f287f6a8d6f0b9a97ce8b16de6f"
+hash = "af48c1e823892e407125329d7bc1655a4ee959572ff1fddfd6564bcea42cb193"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7114,7 +7122,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9237,6 +9245,11 @@ hash = "940b2dd5d9c3b42ea24c43b5fe7f25485b835fef8a0c06b3b2fd2be6489d2d1b"
 metafile = true
 
 [[files]]
+file = "mods/better-mob-combat.pw.toml"
+hash = "0fd463d07a7d604a50b082849d9cebd76c8a0a5506670524afaeab716a8ec689"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "6b6606cba629513b93efc3785208566165ae53eef400f1767f959af4ba9c901e"
 metafile = true
@@ -9789,6 +9802,11 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "2e1e73a8c4cc02b3bff1084940a6c0a7156c8925d881f8d98fb0495e050c65d1"
+metafile = true
+
+[[files]]
+file = "mods/mob-player-animator.pw.toml"
+hash = "cc2f94dfbcdcc716e6a175b5a21880b877013be069b904bd7179b8be363b3ab3"
 metafile = true
 
 [[files]]
