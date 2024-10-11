@@ -1006,11 +1006,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "21dd1c27d7fe7645b3f98c4a249165b7db2a40b73d102a3e588fdc38e186ecdf"
+hash = "ae83ef22310eef41feb0da57a1c9d8c0069f0aa3d17dc1da73ed4322c7c557a8"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "cfe3ef25e9eadaf787ccf6aafbaae6e2f883d07d3fa74263911c0826e639afca"
+hash = "1e287093449ff01c4f8bb195a09453a6c68ec82f01317597796739b82198797e"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1150,11 +1150,11 @@ hash = "d839d26abd0288948819928d54978f3cb0d9ea150c20fcd973e2a24ede94ecde"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4057be40ce4321ec526f7cc9dc109b8e5ae316a9b719c8fd348fe583e00a9571"
+hash = "1562f5fac1bdf9a3a4967b5f1f92a57e0d827566930ce35b7e7869f4b0fb521c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ca5310374c561f770da79524216eac5747d3364291714410480a13b9e3192210"
+hash = "5fe9988a1ebd409f156adc75c69412a1974852d025a10fa3206d282e872b1453"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7290,7 +7290,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9853,7 +9853,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e820e46d2ebd62af48df3c63c67e32ec8dbb1f1e378dea86193b24cc39e7715f"
+hash = "891d9f74c6b4efb41a0f0d0d5a97e881ca24ba275627a9f9bb165fb61a729017"
 metafile = true
 
 [[files]]
@@ -10163,7 +10163,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium-reforged.pw.toml"
-hash = "a36a621922fe1f9228ad5cdd8eabb1413c15cf29eb861d8677eff7b69a316cea"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
@@ -10178,7 +10178,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "7ade037520886cbded218c7d9553129108dbb88d404f95aaa98f9e57eaaf49ab"
+hash = "d218175a2fc0fd2fdb907ed55a214f0163d9bcabb75b47ccdb6f4704c3bd5dd0"
 metafile = true
 
 [[files]]
@@ -10408,6 +10408,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1893dc59ea16fa8f670f2aaba63663b3b6ca26092cacbcca9c608556f6c59f79"
 metafile = true
 
 [[files]]
