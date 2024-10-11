@@ -333,10 +333,6 @@ file = "config/curios-common.toml"
 hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
 
 [[files]]
-file = "config/cyclopscore-common.toml"
-hash = "fa39aea3e17fc00455b11205996e553eb574b73a04f876ef754f948234518e1a"
-
-[[files]]
 file = "config/de/mari_023/ae2wtlib.json5"
 hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
 
@@ -447,14 +443,6 @@ hash = "14ef0bbe6e5eeb3be38eb0cc02dcf7390343df816df23d01e032311298911464"
 [[files]]
 file = "config/experimentalsettingsdisabler-client.toml"
 hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
-
-[[files]]
-file = "config/exposure-client.toml"
-hash = "4020add3c043add3af9c7352dfd0ff49aac581e8b352fb8373bf9b20b9d99ba9"
-
-[[files]]
-file = "config/exposure-common.toml"
-hash = "4dd0d924584100ab8cb677a178e8e09bcfe1721856eaec5d980bc74bafc5616b"
 
 [[files]]
 file = "config/extendedcrafting/singularities/aluminum.json"
@@ -650,7 +638,7 @@ hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
 [[files]]
 file = "config/firstperson.json"
-hash = "c191af7c8bcf284f9de3f46a30ccbaf2c972e9cdc394ded9506b805dc36660db"
+hash = "5901f4b9ca78c8e928043863f413e5fb191f2c85c6df51921afe71ca941b4281"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -857,10 +845,6 @@ file = "config/ichunutil/themes/whitelight.json"
 hash = "5369346e99dc684898a20bbf08791a940f55c9e70e4ed0b0fa8af9e04091dc78"
 
 [[files]]
-file = "config/iconexporter-common.toml"
-hash = "906eebaea26c92328a8584131ab83c58cfbbed5a4d0623bd77ee25b12643c45e"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "7f85626943cdc95b9c1ff9b2fcdf5891f1607e99ab61dddbce60703f947ada8f"
 
@@ -894,7 +878,7 @@ hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "f7302691102bd75e072d001fb9d6d9d70c067766f9aabd3a71b05132b372b8c0"
+hash = "41942a0af490bf2ed65534864d30d24106fb868e16c49924db88421e3b9fe941"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -906,7 +890,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "48b39dc4caa19a09479814b67c387482655722b592c1820ea25a59932bad32f0"
+hash = "519a33b71ccbc65bbfd8600170badee1f01f57e814b6bce91df9ef0f728773e2"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -930,7 +914,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "e4ab574942488ba280c2a1fac90de9e2cf6e0422ebc8f96fac6d5b973c137870"
+hash = "487ad7c485b5379993ddebf0c3cc4991de2efe8bc1866f63af3c967d7b7e2867"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -993,14 +977,6 @@ file = "config/monazite.yaml"
 hash = "f73c7616c0927e7540ade4a8eb168e3bd1e7f261b5199f82619c8213693faf49"
 
 [[files]]
-file = "config/moonlight-client.toml"
-hash = "135255a72816385345a135fa013c93dd1737c35eebb80690d29d1b572917267d"
-
-[[files]]
-file = "config/moonlight-common.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
 file = "config/morered-client.toml"
 hash = "ff00fc95814ad2f0a5932603ff119904e278f0020aa994cebba92aa1827c1c96"
 
@@ -1030,11 +1006,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "5a6bab10cd8118a34bff623b082961a5a73936734d6c4eecd1d474d305df7c43"
+hash = "adb15d8f23df56266fa3eb75d9f784c584d535bb8aa4bce174667d55c4d3c526"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "8e16c0dfa832cbac9c1e06c0bfbc9aeb9bcafe0507073eea138f3c4f0183e68e"
+hash = "9029fd1ed30b5efccedc46a1bbdf2ad14ae87b7c66f6f1e5470186777d392c52"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1170,15 +1146,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "e71e608025881d8e09c6029560b4a09301b075fa965152aff9ce758392c71b53"
+hash = "d839d26abd0288948819928d54978f3cb0d9ea150c20fcd973e2a24ede94ecde"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "980fa024aad469c2916c40f2b435d6e4396ba9befed7e95381398adaa53fc301"
+hash = "a390ba3f69148ed0e136c759826629459a9697cf5bedcb54699885f158e8e69d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7bde3ed5a9275d180028a1f489b8eb91949c305aa74c12c1fb81c602cca53e2c"
+hash = "67a0138e7ba335ecaf4c1b1dae6b911588866117211f5fed18f443838c0de321"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -9093,10 +9069,6 @@ file = "kubejs/server_scripts/create_connected/recipes.js"
 hash = "860558f6a899321b94fcccecfb91d9b0d4357c09bf66747f3ac637a067c2d729"
 
 [[files]]
-file = "kubejs/server_scripts/exposure/recipes.js"
-hash = "89863634c04b865eab6af92ecc65c8db50f26cde6bf7b9d07086841207c239da"
-
-[[files]]
 file = "kubejs/server_scripts/extended_ae2/recipes.js"
 hash = "ce927881898260d5ed699a44376d8c4cf283c016e1e0e354d364022276a54450"
 
@@ -9166,7 +9138,7 @@ hash = "84f1216d1986f5ec5ec22346899956dc1ff9a3d63411a392293d99c010f725eb"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "84c0439ead8afe3befa544b2953b50f52ea3d25a142e7b760916b516d1b7f0c2"
+hash = "9a45409438bb2cd0afe4da51c85285b2b38d60690d662d83c09d2e507df6566b"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
@@ -9484,11 +9456,6 @@ hash = "0e3f8fb94585f6087c831362037b9aacf6aa5f76527ead4563033ef321970a8d"
 metafile = true
 
 [[files]]
-file = "mods/carpeted-stairs.pw.toml"
-hash = "87c0430acb03c8092df8aa37df9d7cb16bc6895ec3932c72e23a04561faf5896"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
@@ -9649,11 +9616,6 @@ hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
 metafile = true
 
 [[files]]
-file = "mods/cyclops-core.pw.toml"
-hash = "5191c11884e1f57c7d116cd36cb128c20cb76d5358d3cdd24986fa6439de718a"
-metafile = true
-
-[[files]]
 file = "mods/death-counter.pw.toml"
 hash = "42b26dc45d72c18e1b06ab9ad60c579a239dd8f21124123d81030b9d58f36ff5"
 metafile = true
@@ -9736,11 +9698,6 @@ metafile = true
 [[files]]
 file = "mods/experimental-settings-disabler.pw.toml"
 hash = "5c760f88115ea4cbc556956185ae36761a5e5947bdd24eb01541dfd1c9b32e53"
-metafile = true
-
-[[files]]
-file = "mods/exposure.pw.toml"
-hash = "f4dd7d480cd2ad726f65ed4a17c3d2af3c20e212cda2b4c02fa8a59149330baf"
 metafile = true
 
 [[files]]
@@ -9904,11 +9861,6 @@ hash = "8db43c90ffb5b4d4deb7746384b13f6a7eb52f4f95dcd53982fce3e28694113b"
 metafile = true
 
 [[files]]
-file = "mods/iconexporter.pw.toml"
-hash = "78a3f204dac454c92318a78446557f1f321a48ee09f78c548b3d1220533da180"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e820e46d2ebd62af48df3c63c67e32ec8dbb1f1e378dea86193b24cc39e7715f"
 metafile = true
@@ -9991,11 +9943,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
-metafile = true
-
-[[files]]
-file = "mods/ldlib.pw.toml"
-hash = "1f2013ec13ba049c58455db8117fa505018b49693a3d0e813b31db699240ad41"
 metafile = true
 
 [[files]]
@@ -10256,11 +10203,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "a84f8e46ba2d693bfbdec682ca66213e2e0783395c9af34f8b22d460d3952a4c"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "5abe72892dce9b4a210685cf8c1f5a0a960fcd462bdb77164ce8bd958df557d9"
 metafile = true
 
 [[files]]

@@ -9,7 +9,5 @@
   "dynamicMode": true,
   "vanillaHandsSkipSwimming": true,
   "autoVanillaHands": [],
-  "autoToggleModItems": [
-    "exposure:camera"
-  ]
+  "autoToggleModItems": []
 }

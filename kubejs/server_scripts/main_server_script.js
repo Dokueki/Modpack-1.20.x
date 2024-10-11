@@ -112,7 +112,6 @@ ServerEvents.recipes(event => {
     registerCreateAdditionsRecipes(event)
     registerCreateConnectedRecipes(event)
     registerExtendedAE2Recipes(event)
-    registerExposureRecipes(event)
     registerFirmaCivRecipes(event)
     registerFirmaLifeRecipes(event)
     registerFTBQuestsRecipes(event)
