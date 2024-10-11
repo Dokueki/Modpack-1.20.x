@@ -726,7 +726,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "9fdc807864f7e37d9ce9d2448de5334d4c563126c84bd4e8598395be868b22db"
+hash = "817f66e85f79694ceedd7f64b3020f376c0d1c8d31b9021da9948e4562d5a620"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -1006,11 +1006,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "adb15d8f23df56266fa3eb75d9f784c584d535bb8aa4bce174667d55c4d3c526"
+hash = "5736e50ea1ee90ba122a1cbcecc497680bbd3a6e47c7a9ba0e7437577198bcb3"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "9029fd1ed30b5efccedc46a1bbdf2ad14ae87b7c66f6f1e5470186777d392c52"
+hash = "23ed6d50eab3a4c8d2f39dd74753b06be85371b31c1b4437f70afa1e71cf314e"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1150,11 +1150,11 @@ hash = "d839d26abd0288948819928d54978f3cb0d9ea150c20fcd973e2a24ede94ecde"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a390ba3f69148ed0e136c759826629459a9697cf5bedcb54699885f158e8e69d"
+hash = "40659ab114ea3e6a1e7d9c052761cb424ede605c78bac6cd18e9b5e68e176f1f"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "67a0138e7ba335ecaf4c1b1dae6b911588866117211f5fed18f443838c0de321"
+hash = "8243ec5c25e06e7be6752fc53f65e4e01caab320e798b456bb4dca2a423b57f9"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7290,7 +7290,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10271,16 +10271,6 @@ hash = "cdc10d50e62957f26a3ea5e0c28aaba4c26a893cfd9eb7e28bf7e681700ca0cb"
 metafile = true
 
 [[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "2a8820619b9b68980daffb1e0e1964f89518c8d5a264aa0c48488f12ff7e0d84"
-metafile = true
-
-[[files]]
 file = "mods/terrafirmacraft.pw.toml"
 hash = "140bf8a924a31484071877ba63bc775914806e58611e7ccfde6791fbc60d1a23"
 metafile = true
@@ -10388,11 +10378,6 @@ metafile = true
 [[files]]
 file = "mods/tumbleweed.pw.toml"
 hash = "15af8d1b761076f112ac3a81edb2b2d5647688d7e30ea2460fe7841d43323b27"
-metafile = true
-
-[[files]]
-file = "mods/u-team-core.pw.toml"
-hash = "4cac5373ae387bc3c6d6b4a9b58936f600a0b6bb8566873e1f5378c9789eda38"
 metafile = true
 
 [[files]]
