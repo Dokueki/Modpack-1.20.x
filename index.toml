@@ -746,7 +746,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "f1b1e488e3de45a80e2cc9a8afc0771333194059d9a6f2e22901cf54df489b33"
+hash = "05798599e7cb97a16737a66264407048f447344c24159a88ce8dfbdb57c1e651"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
@@ -754,7 +754,7 @@ hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
 
 [[files]]
 file = "config/jei/jei-debug.ini"
-hash = "3bcfdd2751e73643bd8efc330d670c6d8c0ff25f9844c1c768526a98ba995c47"
+hash = "fed5a1f6e741725e0946ec0c3f753994ffed14bb7bcbef81e77e1bb960495e31"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
@@ -846,11 +846,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "cfc480083f4f22e7a407bc6e3f8f9e5ba53733c5c5d8f91a8613ebd90566d00c"
+hash = "a46b41c7b554bedb8d09f528a929c2c55977289fd7f54da9b0310a980244294d"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "5d089736f31ee70787e30811457142b4e2690c1a19283148ac9a9ef68198c236"
+hash = "c331fce023b85f917e8872680cdd63a51456f09dac2b60e0772654d3e57d77d4"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -982,11 +982,11 @@ hash = "3b1f4efc306df8aade10e770bcc19f1e51fd324018fb5453133802ec15e39b0f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "3c1887c514064cf057a9b140942c85910a4103826ee6bb6bfcdf399367e8f127"
+hash = "7c3bd22a1ddfeef4cd6b639686cab474cf6f14db4ad9fb3cad0f151cea397e72"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "da6cc26b848fafe2692355cc2eb5a095c3e12c7292fcf89f637d00806804e663"
+hash = "55d6b8b8550d6b5115b4327baa97f1f39fb31a02c6366ee44ce462fc7c3e9a38"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7134,7 +7134,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10163,7 +10163,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-hot-or-not.pw.toml"
-hash = "b36a564df4593a0d044b0edf0859fa8eaed693489cd0b0ba7d160f81d572e5ea"
+hash = "e676640c01f1b6af825aa32f6f9a97aa39651549fcb102f6d5dec8b86a264a43"
 metafile = true
 
 [[files]]
