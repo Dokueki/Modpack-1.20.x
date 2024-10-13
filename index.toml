@@ -762,7 +762,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "176ad83f815da2455422897bb1bbf597171c4f8ba868f9b43191094c26a02595"
+hash = "ed1ae094049afef91efad7a78c8f7ac3c745b5eab2c914103c18faa0720f126c"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -846,11 +846,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "8f41e7fad86d36d5db9e5f3ad8019b1a002906a2f7b8ac76706259ab55a411ee"
+hash = "54dcfcac22544fb8975c1906c71876ea71d4b5d4fe80708dadfea7e6e28d730d"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "cf510e2b9e2c824b97493fc5385cdac26860736b7f069a3b6c5c08b9d57070e4"
+hash = "038b9049f5fc0acec21d7ccaac40412025d9e10b86741cbf5bc5f213830911a0"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -982,11 +982,11 @@ hash = "3b1f4efc306df8aade10e770bcc19f1e51fd324018fb5453133802ec15e39b0f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a333b37b0ffa1a2499818090ee5c6655695df9af73ecf131c244b370b45eaf4e"
+hash = "c34f0cbd7add32782a1a111d3596d1bb30a8504566fb66e283c70d880068a6ed"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "1e1d07d10eaff3ee3c8e5cdab4d90949b3df87c0d026aed784a0427346cff92e"
+hash = "8bb88773ba0749a1d45311945e6df4fe24b4cb6961b2446eb2929742d2d5eb47"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7134,7 +7134,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10128,7 +10128,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-ambiental-second-edition.pw.toml"
-hash = "2224e95b927adbd1b7489cd265cb4d641cbb7b77b4457a7918c24f68551a5b60"
+hash = "1a8c5561ff3a495cf17a0a3d5993d5a72b619f8e2dcde54169e013e0c6b1bc56"
 metafile = true
 
 [[files]]
