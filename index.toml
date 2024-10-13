@@ -746,7 +746,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "05798599e7cb97a16737a66264407048f447344c24159a88ce8dfbdb57c1e651"
+hash = "f1b1e488e3de45a80e2cc9a8afc0771333194059d9a6f2e22901cf54df489b33"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
@@ -754,7 +754,7 @@ hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
 
 [[files]]
 file = "config/jei/jei-debug.ini"
-hash = "fed5a1f6e741725e0946ec0c3f753994ffed14bb7bcbef81e77e1bb960495e31"
+hash = "3bcfdd2751e73643bd8efc330d670c6d8c0ff25f9844c1c768526a98ba995c47"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
@@ -846,11 +846,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "54dcfcac22544fb8975c1906c71876ea71d4b5d4fe80708dadfea7e6e28d730d"
+hash = "cfc480083f4f22e7a407bc6e3f8f9e5ba53733c5c5d8f91a8613ebd90566d00c"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "038b9049f5fc0acec21d7ccaac40412025d9e10b86741cbf5bc5f213830911a0"
+hash = "5d089736f31ee70787e30811457142b4e2690c1a19283148ac9a9ef68198c236"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -982,11 +982,11 @@ hash = "3b1f4efc306df8aade10e770bcc19f1e51fd324018fb5453133802ec15e39b0f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c34f0cbd7add32782a1a111d3596d1bb30a8504566fb66e283c70d880068a6ed"
+hash = "3c1887c514064cf057a9b140942c85910a4103826ee6bb6bfcdf399367e8f127"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "8bb88773ba0749a1d45311945e6df4fe24b4cb6961b2446eb2929742d2d5eb47"
+hash = "da6cc26b848fafe2692355cc2eb5a095c3e12c7292fcf89f637d00806804e663"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6946,7 +6946,7 @@ hash = "bc7057c5b29c8b90798526139d609df9a170a321d2720fc368377e6ec329f7b6"
 
 [[files]]
 file = "config/tfcambiental-common.toml"
-hash = "a7f04f87913ec608251f13fcf3edf9765ed184a74c3b3984e764d157d77509dc"
+hash = "1e7a4cd81b519099598bdae0cb8af9a3df6ddad77990e4632bc13d65ee3bbccf"
 
 [[files]]
 file = "config/tfcastikorcarts-common.toml"
@@ -7134,7 +7134,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9733,7 +9733,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9a95fa0d72354817701168a09afb36f0cc1d88325587bc37664c03c0fd447621"
+hash = "f7c26052fb00f42e7068932135f7a22eb36eb9fecf8b6a544c1ac8d20c4cdd64"
 metafile = true
 
 [[files]]
