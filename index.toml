@@ -262,7 +262,7 @@ hash = "509a7639fd0bae962775ad8d3ad6b160d0b0e8b3efd9787c3e8bfb1ecbfd47c1"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "51ba9a7c589e44b2b2ea9c9bb0e76448421bea3b2c0324f1235ab2c6d70aae41"
+hash = "9908e0f10dd74ce89703a8e9d28f2beda7a153214fb030d335f0859af2a4879e"
 
 [[files]]
 file = "config/createaddition-common.toml"
@@ -521,24 +521,8 @@ file = "config/fml.toml"
 hash = "70a49aec22117f6eaef55e2e9c4eb8ee4521136912a722444ae8c4e02e97085d"
 
 [[files]]
-file = "config/fog/config.json"
-hash = "b279a75035e97a3fe605c82b6e45f557ace5675564cfe649d23812a3ba133672"
-
-[[files]]
-file = "config/fog/datagen.version"
-hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
-
-[[files]]
-file = "config/fog/fog_definitions/README.txt"
-hash = "d596f4fb3b8bbc3ab415aae91f55ab121aaa77028142e4d3f56fe66880aad5a5"
-
-[[files]]
-file = "config/fog/fog_definitions/pack.mcmeta"
-hash = "0c430ce65beba89e206e63890283047f3a85fdd9a6145f03282e16d0b1c689f1"
-
-[[files]]
 file = "config/forge-client.toml"
-hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+hash = "e58490251cca0d5e66158be4278f3c9e2f904515767ed210920986a1f14cb575"
 
 [[files]]
 file = "config/ftbbackups2.json"
@@ -846,11 +830,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "78fecf704b789e5dc0a407c4c2936c2fab0ad5c373440394292b3f05675df867"
+hash = "c52c6dca00c2a789867538558292b1e33cf3e1ee65e2a6e0a6b59f4b02fa46aa"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a6f40e51b9b725c39665a014d6877816ac709d9a35c815dfe7798ce9530ff44d"
+hash = "b6ae12b63fd3b48c900f8a9c2d21f730fc6e8d811af638f762934efa9151d94a"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -986,11 +970,11 @@ hash = "3b1f4efc306df8aade10e770bcc19f1e51fd324018fb5453133802ec15e39b0f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "95800746078b2997cbd1f349fcb0396a1874f9db052cca00d86c982a0e3f4781"
+hash = "36a24e1e6f786b30277db1c8e970c7de2a4883a499e813db34aa4865bc7156cf"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "9e79ef74271e411cce6e85886a205500bc7220ebeed7b0c0168702917961a90f"
+hash = "4a592b2128570066c9595e223c6722fd4bfe2b961471473d2cfd895f8faa5842"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7138,7 +7122,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9586,11 +9570,6 @@ hash = "c0aee4eedcbdab214dc04eb23ab98aace056c9473ac7d326c5f5edc5e1da58fb"
 metafile = true
 
 [[files]]
-file = "mods/fog.pw.toml"
-hash = "fb5cc01ddc48568a13d83fee02ecc059b5f5fdea31e21a4ee2fe96b1d99768a5"
-metafile = true
-
-[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
@@ -9858,11 +9837,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
-metafile = true
-
-[[files]]
-file = "mods/mru.pw.toml"
-hash = "c3d4ce651ad4076f0ae5e1d2535b76a6ff983412e5a558d913b2f4aa5b52d817"
 metafile = true
 
 [[files]]
