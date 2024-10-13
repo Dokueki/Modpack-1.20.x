@@ -103,18 +103,19 @@
     "part_name": true
   },
   "firmalife": {
-    "oven_top": true,
-    "solar_drier": true,
+    "barrel_press": true,
     "string": true,
     "vat": true,
+    "drying_mat": true,
+    "tumbler": true,
+    "cheese": true,
+    "shelf": true,
+    "oven_top": true,
+    "solar_drier": true,
     "oven_bottom": true,
     "fruit_tree_sapling": true,
     "jarbnet": true,
-    "drying_mat": true,
-    "tumbler": true,
-    "hanger": true,
-    "cheese": true,
-    "shelf": true
+    "hanger": true
   },
   "tfc": {
     "bloomery": true,
