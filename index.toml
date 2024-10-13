@@ -734,7 +734,7 @@ hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "1768c990bae2f1e895d3e7debd86762dc6cb4ebf1622f9a4ff7e8b9fd03f7328"
+hash = "16c90f80c619e305372edf75d1eb42f57d244d1b233362f96eda7b09ad09c6fa"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -846,11 +846,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a46b41c7b554bedb8d09f528a929c2c55977289fd7f54da9b0310a980244294d"
+hash = "be1c94e126317d62527cfdc06f8f5880c6c71e31d804700e9aeb97ae175d6d04"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "c331fce023b85f917e8872680cdd63a51456f09dac2b60e0772654d3e57d77d4"
+hash = "b290e77960b0b4f8fbaadb509d4a3037598f6fa6747288fbbe9bdec96ac146c0"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -982,11 +982,11 @@ hash = "3b1f4efc306df8aade10e770bcc19f1e51fd324018fb5453133802ec15e39b0f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "7c3bd22a1ddfeef4cd6b639686cab474cf6f14db4ad9fb3cad0f151cea397e72"
+hash = "29e8f022b6fd2e249871700ccb34904c428ec487629c32821c825bde61375264"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "55d6b8b8550d6b5115b4327baa97f1f39fb31a02c6366ee44ce462fc7c3e9a38"
+hash = "c39ce889cf33e70dedf4231ad0440cd332105805fc27ed322bb6d891fbcaf0e8"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7134,7 +7134,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9768,7 +9768,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-tfc.pw.toml"
-hash = "8c65e2f263c5fd0341ebf7fd91dbce633b15c2ad9aec0909d3ecea30819fa2c8"
+hash = "08b31d7b266baf832135867bcda30cecec51f4ae82a7b24ca40893325b570082"
 metafile = true
 
 [[files]]
@@ -10113,7 +10113,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "140bf8a924a31484071877ba63bc775914806e58611e7ccfde6791fbc60d1a23"
+hash = "69e9c8f1ae355e831fb08a4b8c9216a2671cfce0970404ab2ad32bcaded02cd1"
 metafile = true
 
 [[files]]
