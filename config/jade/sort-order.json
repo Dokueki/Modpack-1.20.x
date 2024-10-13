@@ -182,5 +182,8 @@
   "tfc:wild_animal": null,
   "tfc:windmill": null,
   "tfc_support_indicator:support_indicator": null,
+  "toms_peripherals:full_modem_info": null,
+  "toms_peripherals:modem_info": null,
+  "toms_peripherals:wdt_info": null,
   "treetap:tap": null
 }

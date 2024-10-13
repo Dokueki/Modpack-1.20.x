@@ -278,11 +278,11 @@ hash = "517f456eab2ca28cfcd471b2fefb23641301a3bbf49fc5c4a9111914166aea93"
 
 [[files]]
 file = "config/createrailwaysnavigator-client.toml"
-hash = "76437e5ed00fa2cdb1d183349199112241550d0bb42f0f574a149da16b6d1646"
+hash = "6ab8337a3800aea4989fae34f88abe2c4b9f1d3bdc5c4dbc5c83256df308703d"
 
 [[files]]
 file = "config/createrailwaysnavigator-common.toml"
-hash = "eaaa93507a4903a5481859807c46e3682b3e3952087943e6084723032b10b214"
+hash = "1dc87976eed1cbcb53fee40b5f440ec3945f25a03504767c5e4c07843d55ee3e"
 
 [[files]]
 file = "config/cull-less-leaves.json"
@@ -446,7 +446,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "12bd3f4a1e0667d5a860450037c6faad6340bca39ad2024c382f0c91db858774"
+hash = "d90d35692ae2115c0126c415acb74c5974d1fcb6c459d5f3b54bae00af6490ca"
 
 [[files]]
 file = "config/fancymenu/slideshows/main_menu/images/image_1.png"
@@ -734,11 +734,11 @@ hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "41942a0af490bf2ed65534864d30d24106fb868e16c49924db88421e3b9fe941"
+hash = "8d1c447305302406ba343f64ca8e4c4c6f8fd791e413d6ce0e487f13076ea319"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "b3e37ef837f2199b0dce288ea674c77167c66b1741b8979f7325df473e899769"
+hash = "a7fec0a97eb15246f7285d4c44e8d6feff29e69f8f3b093d9233eedcc267c57a"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -846,11 +846,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "dfafad75abf6df8cc2d3f3e6f41b966266e7d455719791cb20a4d1f887b4a3df"
+hash = "f723f0af839a37bb50c42aef1b5cbcbe7f376373e76164e296aeda41fcd075e9"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "7836d5483cee8a102f8575dc4948d820b32b650c5770badda4aa55811ba5cd56"
+hash = "36d9442c970c9680a66979331fffa611ed84d32cc12003716ad2cd0aaeccfb2c"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -911,6 +911,10 @@ hash = "598286f6b48c635ebaf4c649f6ebcd5a0dcfb9e9e7bb7a49a29ba71d59ed3de1"
 [[files]]
 file = "config/polymorph-integrations.toml"
 hash = "f09398fbdb8880a2e2a0f234aa6578dd49ada68fecbe899608841f39c430034a"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "6cffea1c20852a079342429a0f223fcc45993a51596c4736e0fe1910c3fcba52"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -974,15 +978,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "9b3e0083b1eee6e415f89f772669b5cc2190c2d7b6a545716bc1544f0ddb8fe0"
+hash = "3b1f4efc306df8aade10e770bcc19f1e51fd324018fb5453133802ec15e39b0f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "1e8c1f23dd0e2ba5b0b573bd488b061b7de12d5bb1a440c497810a120ef2914d"
+hash = "1b4154b4909be2cb43fcc1a1cb519120d5996421249d3ed4a2ffe20a7c81174c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "af48c1e823892e407125329d7bc1655a4ee959572ff1fddfd6564bcea42cb193"
+hash = "91b6b934bbe2d4b1a060753d25b11830807a49d3407b0e0887f04912116353b0"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6973,12 +6977,20 @@ file = "config/titanium/titanium.toml"
 hash = "565e7782790d656fd31350ef9d90cb8ff8b4f38d1fb2418072829fb404195e58"
 
 [[files]]
+file = "config/toms_peripherals-common.toml"
+hash = "4e3405ac50d6e5d0854c6cbc443a3688fcf96b4d1b4b8103982a85b69ec9a3db"
+
+[[files]]
 file = "config/toolbelt-client.toml"
 hash = "dfe8d07c832c05d517cf5bb50798c7678fc529ed4a4bc41367314abf9b40bc5f"
 
 [[files]]
 file = "config/toolbelt-common.toml"
 hash = "b2e66325535b673063f023e6b99d9ba072a202ef3823b0543f446e0730ec62b9"
+
+[[files]]
+file = "config/trackwork-client.toml"
+hash = "ca4a78431cbe112647d2a715150a59e8a952651d78385fd7b41f99e7de3bf0ca"
 
 [[files]]
 file = "config/tumbleweed-common.toml"
@@ -7122,7 +7134,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9175,6 +9187,11 @@ hash = "ad63a8301ac03b46b4eee98991be70534bad07a64ddbb1b541fa9f28b3f2256c"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a70783e0935c2cf59e024b7f75c8da7526b35b19d83ccb29d92d569b14597acc"
 metafile = true
@@ -9406,7 +9423,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "4439600b1d30a5311f7757d5ae049fbae02fbbdfc63b951bebc700f7aef62d9f"
+hash = "126ee8310b8f7fa80a2754fe98eda0fec955619e4b8781c09b62ab6725f9114d"
 metafile = true
 
 [[files]]
@@ -9526,7 +9543,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c3f2175c2bd55cd9d799cbb9ad8097ff978c748005e6dd87298cf7dce63e9f35"
+hash = "36782dfaf54cf47358b0ad6641f0060aa7924d968756e9f266e8bc58f30388b4"
 metafile = true
 
 [[files]]
@@ -9631,7 +9648,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "d1bc44dcc16a3b8124ec4841a690c93005bf82e9649fae1e352e2e315a393da5"
+hash = "066e16c13954b7a11d95fd3a470545977282df4342a245283021ad6fae3f41fc"
 metafile = true
 
 [[files]]
@@ -9761,7 +9778,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "abd38b12752436258db8ffec7d4bee971812f75cdf5d8ce0b6d705948d12f859"
+hash = "f1aa1a1b3746f0bad932aa0e3a95ee987b96efadf1107431c735923f3ae00890"
 metafile = true
 
 [[files]]
@@ -9975,6 +9992,11 @@ hash = "fef154179a8323cd7d55c1e273c66bafc0c4f68d4a08270dca080d060a567f8c"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "81006dc530e5aaeb55c00b6891f73cd9e2fc1f3f3b84819df3a00c4aae151c2d"
+metafile = true
+
+[[files]]
 file = "mods/probejs.pw.toml"
 hash = "0300681fb361bd11b805c75351e2538ec838f21be9d98de5c82c424ddde8a2ae"
 metafile = true
@@ -10011,7 +10033,7 @@ metafile = true
 
 [[files]]
 file = "mods/sacks-n-such.pw.toml"
-hash = "004d065089a1ecb462911feea411e40882c0d666323711c18064636f3faa669f"
+hash = "b48c335021247fcd7f542625b1ec282fb4b03494e055232cbb020ce980654fb9"
 metafile = true
 
 [[files]]
@@ -10180,6 +10202,11 @@ hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
 metafile = true
 
 [[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "1db3c3af533564aa1355e6041419db817bff50ac697cada6d4ab11c8d24c69c2"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
@@ -10187,6 +10214,11 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
+metafile = true
+
+[[files]]
+file = "mods/trackwork.pw.toml"
+hash = "5747ceb15fa4a22c17b70cbc4b74ae9259392c34980f5c01b77870abdf6c693c"
 metafile = true
 
 [[files]]
