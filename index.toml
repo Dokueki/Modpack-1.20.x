@@ -354,7 +354,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "ebc94577ad1c7494c3bb5d2947d8166a07ddf26a8559f449a105e637045bd8c0"
+hash = "0be93a1a06ffcb6081ff77f80686b5e02dcf3b0c3a59ae431c4f0ec278da5743"
 
 [[files]]
 file = "config/emi.css"
@@ -846,11 +846,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "e682fc53999e7bf16d8fe39a0c2b28486085ceb842debc43cc8705892b385ee0"
+hash = "ae59471830144e042a59912097b0aae09fed62923d351173663e56e0012f1466"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "daba6a184ffa017271be0c9b7fe6bb2b8d048ffda41c501f52029c439143690f"
+hash = "ee0539b6908093cafd94ed01254678520856d90f20ebc89ea8a37ef4cefea3af"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -973,6 +973,10 @@ file = "config/sns-common.toml"
 hash = "b11f7daadcfcb36290ff6c22837ed997da99cd700589e2158267c519f9068b8b"
 
 [[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "64d2ce1b1675f17e0807180b9680ef9c97e4b92ac86962b7cbf27f0db4926eb6"
+
+[[files]]
 file = "config/solid_mobs.json"
 hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
@@ -982,11 +986,11 @@ hash = "3b1f4efc306df8aade10e770bcc19f1e51fd324018fb5453133802ec15e39b0f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "5b472201338db2f6eb36a4f0c3f01a8a4c285c4819ca9b18cc1506990ebd187e"
+hash = "302aa8ad59590cf968653b6ed84cf2607947c41c249c7274e5d336c64da68dde"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "bf63a03925a3269be100f6e4684e14ebe7d62172ce02d41bc889b05cb38057ab"
+hash = "eb0bf96f62320c1167686ac41c0c94477c3bdf8443795a98aa853612909def80"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7134,7 +7138,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9493,7 +9497,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "f72bfa782e5e1d0f8c501257b917784d4c1a9b0c5db60d569dadcedde1b7adc9"
+hash = "bb5e37830d8a2c1323e8343c4ba50ea471ac8ac448ff09039c9be7a9676e71a5"
 metafile = true
 
 [[files]]
