@@ -254,7 +254,7 @@ hash = "a2f3940fbd0583446912f67761d1c5be8ea734c78bff1db54c7c5b53cd5576ed"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
+hash = "570f362ea2b9d90d070e436f4cef78ce3b90ab49f5c09dab7c2a3b6b9495d7f3"
 
 [[files]]
 file = "config/create-common.toml"
@@ -354,7 +354,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "0be93a1a06ffcb6081ff77f80686b5e02dcf3b0c3a59ae431c4f0ec278da5743"
+hash = "2d8964eb15458e3575ec8f407b6c088e3a0c89f262cb9084cfbc712edee851e9"
 
 [[files]]
 file = "config/emi.css"
@@ -395,6 +395,10 @@ hash = "14ef0bbe6e5eeb3be38eb0cc02dcf7390343df816df23d01e032311298911464"
 [[files]]
 file = "config/experimentalsettingsdisabler-client.toml"
 hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "fc9d0447760eb661d9e36d862819c2072edc6b2a3f4afe03d1a98bf8dbcd1880"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -830,11 +834,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c52c6dca00c2a789867538558292b1e33cf3e1ee65e2a6e0a6b59f4b02fa46aa"
+hash = "419a7cc13d88f039b77759d77c8fc7f62d14c2d3d77d61a1cd0c2f144fe160d5"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "b6ae12b63fd3b48c900f8a9c2d21f730fc6e8d811af638f762934efa9151d94a"
+hash = "b94b0f4fd3bff17c79db065aff7c6490796c12480328ef4e5c37463fb75139f3"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -966,15 +970,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "3b1f4efc306df8aade10e770bcc19f1e51fd324018fb5453133802ec15e39b0f"
+hash = "dd03084bbc59b5edba1efe64b22835fb99f9aae97fcced7ce1cd9fa391176a3f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "36a24e1e6f786b30277db1c8e970c7de2a4883a499e813db34aa4865bc7156cf"
+hash = "6d79e3a65a848b1eeb1d9b4673ac7fbe4f3b34227821bd5c74e4e1284c7b628b"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "4a592b2128570066c9595e223c6722fd4bfe2b961471473d2cfd895f8faa5842"
+hash = "0cf39f4535bb69da02d55bd84d7a57ee0f32b668611146dffbd56011b809f225"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7122,7 +7126,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9416,17 +9420,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "403e710dce74e1d5ef921e5aa5a813a03709f677c5f8e706d0cc522987509d52"
+hash = "02a6fd7951c114f68c2def4c7155a5a6bd971a79904262ba64b376a0bc191449"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1ab94525fc0733f82423cb76ab5b0c0ac68a9c8456c856527ea60d1906be7c39"
+hash = "0bd6cd5b2f5075f7dcbbcc6f7d2fb2ec0ef7f8b52c46d7a644f0abd84e03872e"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "efd208797e819e40b6ca763586db096535f2bc9a493a443747185b0f8f5ed939"
+hash = "274ead8f01184fb94bcb6d421f03924c2c7a0d10fee7c201154c549253b216ef"
 metafile = true
 
 [[files]]
@@ -9486,7 +9490,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1c7d65c6aa085aa80ff90761e02c408997b28068342ba8fa3f57526946c3c8f2"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -9567,6 +9571,11 @@ metafile = true
 [[files]]
 file = "mods/flickerfix.pw.toml"
 hash = "c0aee4eedcbdab214dc04eb23ab98aace056c9473ac7d326c5f5edc5e1da58fb"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
 
 [[files]]
@@ -9706,7 +9715,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "ebf4b1e07e9c2b93b591b691a354bb4562db9436dd0eea7100ce0e0a0961b99c"
+hash = "4e8f486fd2fc6fd61370570450918f63e5b4850ceba0192c610896ac1ac9d87d"
 metafile = true
 
 [[files]]
@@ -10022,11 +10031,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "a84f8e46ba2d693bfbdec682ca66213e2e0783395c9af34f8b22d460d3952a4c"
-metafile = true
-
-[[files]]
-file = "mods/shimmer.pw.toml"
-hash = "e5352fd9488b9e25f7527cbde04f11e22371e8645d8278fc46e75044ed68cbf9"
 metafile = true
 
 [[files]]
