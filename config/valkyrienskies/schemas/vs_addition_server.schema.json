@@ -66,6 +66,10 @@
     "create" : {
       "type" : "object",
       "properties" : {
+        "encasedFanMixin" : {
+          "type" : "boolean",
+          "description" : "Enable encased fan to work between ships"
+        },
         "stickerCompliance" : {
           "type" : "number",
           "format" : "double",

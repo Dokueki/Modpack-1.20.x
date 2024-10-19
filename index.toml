@@ -398,7 +398,7 @@ hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "c69a5b10724f47d7a7e70a882b6f7b2541573e2a2af0c86a9b4385071f65a01f"
+hash = "3d258ef724de12a78bd81b3b946c7d321c55d92dd32dc72af6f285fa94bc9faa"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -450,7 +450,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "d90d35692ae2115c0126c415acb74c5974d1fcb6c459d5f3b54bae00af6490ca"
+hash = "4b5f602fd295ff141aa1b52ee54d9aa5ef5419940048b931dbf9503b23b86765"
 
 [[files]]
 file = "config/fancymenu/slideshows/main_menu/images/image_1.png"
@@ -562,7 +562,7 @@ hash = "b684f42426a4d9b948f03bc98adc43a4c6c6c804a71b1a40450ffac8dc656198"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/luv__ludicrous_voltage.snbt"
-hash = "dfb6b8f06e353f340954324e77894aa5db4077ed3eb69a60db154932f47ed7de"
+hash = "883f12ca6f098665c68047ff4803a5de1e9da20fc546f836abbe6ba5e24fd32b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
@@ -834,11 +834,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "4ec63e87eef80efcf91ce8f89e6b2e61d52ac0c385c64a272d983f9f291c38e9"
+hash = "f00b0fbded235c766f02b27929440247bb67637606569ffb74a23881d9018584"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "8fda3d9f8981f26385ce4cc577e1553fb2bd7795139cc78779da7efa92c8bec0"
+hash = "2d956486efea82d8e1854f33ebec57add8917cde6e3965de33569aeebd00a9f6"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -970,15 +970,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "dd03084bbc59b5edba1efe64b22835fb99f9aae97fcced7ce1cd9fa391176a3f"
+hash = "6037719bf741f7625f2e2e0fb31848d061fd65085ecb29dc1a7d687a508adf3f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "09cf51033f23abf9f7797d21ca0b6a7c6b7af38e1037d0d233f5c95fccac31c6"
+hash = "90560783eddaaf42ec097dcc24923a6cb7c46f10a6241cbaee0f6728b504dd14"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "051d81ac556ff2ae8d3115c261ce1253ec1fc6e90831490613960d754052c91c"
+hash = "2d1c1065f8cf38d21dee82a89349027e4c6b8a2e60ce26d51b5e4eb906994f89"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -6998,7 +6998,7 @@ hash = "af4d4dce0d5eba4968551eae92dea8a90394d598933a3ef119b46b57c1b2f285"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_addition_server.schema.json"
-hash = "81a6dadb0ec24b59d03447d9916bb3fc81f60d821d3bea9bfdfc1c761f5498b3"
+hash = "2f90e120149b8cb3d6d932bce0adde3a98406a2fe54c2497f2467665c92e415d"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_client.schema.json"
@@ -7126,7 +7126,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9175,7 +9175,7 @@ metafile = true
 
 [[files]]
 file = "mods/alekiships.pw.toml"
-hash = "ad63a8301ac03b46b4eee98991be70534bad07a64ddbb1b541fa9f28b3f2256c"
+hash = "cea56ff79e14518d7b8bca443820ca4911146ac6baee367bfa819aaabea585ff"
 metafile = true
 
 [[files]]
@@ -9375,7 +9375,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "a9a5c85968036b975f04546a4834ba0c701f1ae896c952acb4e428211ed88b52"
+hash = "95521ed1b9e5d430cfd7920661b74dbfaf5035e7a5edd9ef44b9eb14db3a70b8"
 metafile = true
 
 [[files]]
@@ -9525,7 +9525,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "26f18c40fc72ce1261ad494b47f2351c87bc50136a1b8b1baec41242c6c92959"
+hash = "02df348b71da67472e699b20f7289a2ad7a81664d92c7d7e960f9781f2de7d93"
 metafile = true
 
 [[files]]
@@ -9535,7 +9535,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "36782dfaf54cf47358b0ad6641f0060aa7924d968756e9f266e8bc58f30388b4"
+hash = "bc0b08ad1a25ce5a58643ff724c2b184fffb4b85b11373f58427e7aac15cb3dd"
 metafile = true
 
 [[files]]
@@ -9605,7 +9605,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "800421ac8a23d1a441a1af31747a5742b370e2a2ccbeaf9e498c7b6fc66cbb6e"
+hash = "f40a0b281164f4d406e19ff256d88e1a96f9c380f47699ad6cea30926699dc5a"
 metafile = true
 
 [[files]]
@@ -9640,7 +9640,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "066e16c13954b7a11d95fd3a470545977282df4342a245283021ad6fae3f41fc"
+hash = "c16667b46b7f1178ac91514cb50a4d15c56e023c43a3ccaa0e3691e85dab84e3"
 metafile = true
 
 [[files]]
@@ -9706,6 +9706,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "233b64de1833ea36f18e3d3db21fd2e7328a1a5fea62e9946841ac93571da2e9"
 metafile = true
 
 [[files]]
@@ -10215,7 +10220,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-relogs.pw.toml"
-hash = "b51764dfda49b522a09c75a3cf93624bf44611aa450f0124808f0d6dbdd68945"
+hash = "20a3e23ba7878d9b2c2e5e9b6346ae1e298e8a4cf0d0ccf7673b57bdca46afe1"
 metafile = true
 
 [[files]]
@@ -10224,7 +10229,7 @@ hash = "d1b4fdc54dd1a790eb0fec9ce4d34608d79c83d3e6956b9321464d4f374c76ce"
 
 [[files]]
 file = "mods/vs-addition.pw.toml"
-hash = "49d21794c214717501a657eef4eca5a6486e183781b1aaec9af11a55b03077d0"
+hash = "5260b914a9a9a3f90a8f19181b3237a3b8ca3157b616948b4844cb77cc4ef3f2"
 metafile = true
 
 [[files]]
