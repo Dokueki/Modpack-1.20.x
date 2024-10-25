@@ -398,7 +398,7 @@ hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "2e4ae9c0a4da1bbb946f1dd0a27aff94420563fcd101a25110a72ab33ce2f4e8"
+hash = "478d94a512ff92a525b6cbb0b79c4f22f00111f160397cd72a21e0adad857caa"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -538,7 +538,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "8bdc7218e4ed4b553d2f671d5e8b2e2b06f7b0f56596d842ddffaf4f6e141c91"
+hash = "93ede108d07cc620c0804d99cb27c3b85ded7566edd16ebe596db36e2d1c8967"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
@@ -834,11 +834,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "b427536a6e452e0f7a2af69ee1d64cf9697aabf1a558abdf5680e016ef6adf33"
+hash = "a408ae2c65129d06d60993db9ac29cd387da35915c10448dc2e830beb8943acd"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "9931211e23a2a3bae92e177927b7791d9b26a1b1403347165bda38c5b3055084"
+hash = "c3bfc9e4f7e41090238dae007443cbac289d4692bf8803dc8f61b6d9c1d26c74"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -974,11 +974,11 @@ hash = "6037719bf741f7625f2e2e0fb31848d061fd65085ecb29dc1a7d687a508adf3f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "e5c9dfd48e43fe8f94a557ddd4f0e57cd80f77388d80e3db1aff241a6a82f815"
+hash = "515da15c05209f2bb8b9cba73c868439521bf5e2427d2a5f8ea1e52d746140eb"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "fe0e94e6b62c9d0be95a1ecbb2f6019bb9a5831a4f020dc7286d5294eab9338f"
+hash = "29f2343f05726066700b552c33f0d5d5bfb652759c8fe9dd4da9a9b8ad1e206e"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7126,7 +7126,7 @@ hash = "ef861c82ab023aec839b84298496708c4d275ccf928f57989150666065341834"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
