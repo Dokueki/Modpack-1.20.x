@@ -51,11 +51,29 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "deepresonance": {
+    "crystal": true,
+    "generator_part": true
+  },
   "gtceu": {
-    "recipe_logic_provider": true,
+    "primitive_pump": true,
+    "auto_output_info": true,
     "workable_provider": true,
+    "transformer": true,
+    "controllable_provider": true,
+    "me_pattern_buffer": true,
+    "exhaust_vent_info": true,
+    "me_pattern_buffer_proxy": true,
+    "multiblock_structure": true,
+    "recipe_logic_provider": true,
+    "maintenance_info": true,
+    "machine_mode": true,
     "electric_container_provider": true,
-    "controllable_provider": true
+    "recipe_output_info": true,
+    "stained_color": true,
+    "hazard_cleaner_provider": true,
+    "cable_info": true,
+    "parallel_info": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -76,19 +94,8 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
-  "gregiceng": {
-    "crafting_io_buffer": true
-  },
-  "monazite": {
-    "maintenance_info": true,
-    "auto_output_info": true,
-    "machine_mode": true,
-    "parallel": true,
-    "stained_color": true,
-    "recipe_output_info": true,
-    "exhaust_vent_info": true,
-    "cable_info": true,
-    "multiblock_structure": true
+  "mcjtylib": {
+    "jadeaddons": true
   },
   "ae2": {
     "part_icon": true,
@@ -170,6 +177,10 @@
     "firepit": true,
     "ingot_pile": true
   },
+  "firmaciv": {
+    "tfc_chest": true,
+    "barrel": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
@@ -197,5 +208,11 @@
   },
   "treetap": {
     "tap": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }

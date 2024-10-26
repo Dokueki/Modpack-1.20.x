@@ -1,7 +1,3 @@
 {
-    "filters": [
-        "/tfc:ore/[^*]+/[^*]+/",
-        "/firmalife:ore/[^*]+/[^*]+/",
-        "ae2:facade"
-    ]
+    "filters": []
 }
