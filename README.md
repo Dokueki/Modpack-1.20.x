@@ -28,7 +28,7 @@
 
 ***
 
-# Survival Modpack As It Should've Been
+## Survival Modpack As It Should've Been
 
 **TerraFirmaGreg** is a Forge modpack designed to transform Minecraft into a more realistic and challenging survival experience. It features a carefully curated selection of mods, headlined by the intricate and demanding [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) and the technologically advanced [GregTech Modern](https://modrinth.com/mod/gregtechceu-modern).
 

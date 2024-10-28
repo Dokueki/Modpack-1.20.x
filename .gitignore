@@ -1,14 +1,15 @@
-
 # Extensions
 **/*.log
 **/*.gz
 **/*.DS_Store
 **/*.jar
+**/*.mrpack
 **/*.code-workspace
 **/*.zip
 
 # Configs
 config/jei/world/
+config/gregtech/terminal/
 config/roughlyenoughitems/
 config/fantasticlib/
 config/gregtech/terminal/
@@ -18,6 +19,11 @@ config/JustEnoughCalculation/record.json
 config/splash.properties
 config/customloadingscreen_timings.nbt
 config/simplelogin.cfg
+config/fml.toml
+config/forge-client.toml
+config/xaerominimap_entities.json
+# config/xaerominimap.txt
+# config/xaeroworldmap.txt
 config/fancymenu/menu_identifiers.db
 config/fancymenu/user_variables.db
 config/AppliedEnergistics2/items.csv
@@ -73,49 +79,53 @@ chiselsandbits/*
 .vscode/
 .idea/
 .bobby/
+.mixin.out/
+classOut/
 backups/
 profileImage/
 crash-reports/
-classOut/
 logs/
-cache/
 saves/
 ldlib/
 local/
-modernfix/
 vintagefix/
+modernfix/
 XaeroWaypoints*/
 XaeroWorldMap*/
+defaultconfigs/
 xaero/
+visualores/
+mods-carryover/
+fancymenu_data/
+fancymenu_setups/
+downloads/
 CustomSkinLoader/
 EverlastingSkins/
-visualores/
+cache/
 screenshots/
 shaderpacks/
 chiselsandbits/
-backups/
 
+# Client data
 .curseclient
 .sl_password
 patchouli_data.json
 usernamecache.json
 usercache.json
 rhino.local.properties
-fancymenu_data/last_world.fmdata
-local/ftbutilities/backups.json
-
 profile.json
-OpenComputersMod-*
 emi.json
+sl_password.txt
 servers.dat
 servers.dat_old
 cherishedworlds-favorites.dat
 realms_persistence.json
 minecraftinstance.json
-hei_bookmarks.ini
+knownkeys.txt
 optionsof.txt
 optionsshaders.txt
-knownkeys.txt
+OpenComputersMod-*
+hei_bookmarks.ini
 
 *.code-workspace
 *.zip

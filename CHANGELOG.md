@@ -1,6 +1,5 @@
 # Changelog
-## [0.8.0] - ??
-### TODO
+## [0.8.0] - ??.??.2024
 
 ### Changes
 - Replaced TFC ore gen with GT oregen.
@@ -37,9 +36,7 @@
 - Simplified alternator multiblock reques and it controller block recipe.
 - Added better recipes for any wood (nether wood too).
 - Added stripping recipes in emi world interaction page.
-- ...
-### Updated mods
-- ??
+- And another 2123462384234 fixed, tweaks, and etc.
 
 ## [0.7.14] - 01.10.2024
 ### Changes
