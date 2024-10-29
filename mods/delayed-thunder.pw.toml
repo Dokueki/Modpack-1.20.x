@@ -1,0 +1,13 @@
+name = "Delayed Thunder"
+filename = "betterlightning-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce8025038e52588bd6f88a2a0daa76ba97699092"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5856085
+project-id = 1070141

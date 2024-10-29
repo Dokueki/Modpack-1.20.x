@@ -114,7 +114,7 @@ hash = "8c18856003f1c363e48e140ee3c2a833208d59401dab04534fd023e3b7e964b5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "c981a2e6357e8160bbfe7b2425fbf281f2659d41b5906ab5b53c4355d2cf6895"
+hash = "1883013ddfc345cb452059d129377a5bef1cdf3e81c9442e7baff03e95e32e5f"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -175,6 +175,10 @@ hash = "2fea961eb6ec7866622d5ad4aceec1f6cf8563f823cd4b878831c5ad2b3e848d"
 [[files]]
 file = "config/betterfoliage-client.toml"
 hash = "c980ebb79847b5eb5389d15567843cba8e32586ab1039c8e68f05574fa1ff765"
+
+[[files]]
+file = "config/betterlightning-client.toml"
+hash = "15a5d984121f26a21e2a91ae0a3efca3da8a2733fe2cffcd1d33f9805ea4da70"
 
 [[files]]
 file = "config/bettermobcombat/server.json5"
@@ -446,7 +450,7 @@ hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "d1f2a3a41bc59d497ef4c963e93ce4f3e4b43ce5c2d157c7556f7d5a83c96b32"
+hash = "c2a89928ac199d9c02dd718880c8d2f6604fabcf5dce2aea23d1aa0477b8dd6c"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -830,7 +834,7 @@ hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "5a1c63fbc9c6a751bbe2f3cc8eca609676cfb2efa7c7c566face2de1a9e3915a"
+hash = "2d57f4109c7268f938dd125a6af4fa0c2bf1acfbbafca28c414a1de3b8593598"
 
 [[files]]
 file = "config/jei/world/local/New_World__253/bookmarks.ini"
@@ -942,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ca584a8c2d562357d227d8ec863c1e9dc264d756a071bc40e25b397d48612708"
+hash = "c076ff4b74d9b87ca87244c162295c09ba964c2f719ad201b095a19bf4981cfb"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "27f5897d94db57cab09d324b9bf56315b8934d490426501e2fb44dddfc21fa67"
+hash = "dbfd66d6cb58ae4fc68cd41d53a0593f3f0c49dad4f55519b2c03b529a966510"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1098,15 +1102,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "1a75541a45f44f8dbccf956feb81cf33924ac43ccb5c121601693e5b0cda92e1"
+hash = "bb64593f3cd5a9b78face907d3a734cf84eb79ec5fe62dca9c5578304704eef8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "fad2a52b85076c631e4c5384a8500219d85c83244eff8842f798ebbc97f2b966"
+hash = "6c6d59729bfed36dd8d21439e1a699d443647651c0fbef59ba9361c37c51d627"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "6b9c2e64e5327e32e129dadebd82744ba70c8f75a73281745d1b6d4e70bee8c7"
+hash = "f0db3e7abf1360a59abc1f6b07c1924600181b9c4d831b6bee744d70153e696d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7278,7 +7282,7 @@ hash = "918189400a46a162c2ac8cc745694117748cc36498cb49a01e6e7d4f042a6fb8"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "6ca6352b1ce7c212c52383ef11083b7d218c8ff19cb609574a66338701c1e064"
+hash = "4cf6c0ae8f619e5d1d2386483e826183ca9102004eaa971a1586a57d59b27f83"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9609,11 +9613,6 @@ hash = "b398f76eb373a7a47a26a63ea2b52676859fb01b764e49c19dfdc09e005cd4e2"
 metafile = true
 
 [[files]]
-file = "mods/corals-tfc.pw.toml"
-hash = "ef3286ec42a0785ac8a6830ba84837f02bb3411ef95fcecd74453f4b69c64c34"
-metafile = true
-
-[[files]]
 file = "mods/corpse.pw.toml"
 hash = "95521ed1b9e5d430cfd7920661b74dbfaf5035e7a5edd9ef44b9eb14db3a70b8"
 metafile = true
@@ -9721,6 +9720,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
+metafile = true
+
+[[files]]
+file = "mods/delayed-thunder.pw.toml"
+hash = "df041697a43a675ecf3948fcb952b57d35a21101eec21a4f82d0df54b0cbf78f"
 metafile = true
 
 [[files]]
@@ -9906,6 +9910,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "9f1c40fd60756df07eea60d480ae76e91616a0b17e9ecfd9bf99fe60447064e8"
 metafile = true
 
 [[files]]
@@ -10461,6 +10470,11 @@ metafile = true
 [[files]]
 file = "mods/tfc-hot-or-not.pw.toml"
 hash = "e676640c01f1b6af825aa32f6f9a97aa39651549fcb102f6d5dec8b86a264a43"
+metafile = true
+
+[[files]]
+file = "mods/tfc-loot-from-mc.pw.toml"
+hash = "47504b7c5e9d8d1775b49cb2d1da0402907246607d1e59bd2abb55f33d418dbb"
 metafile = true
 
 [[files]]
