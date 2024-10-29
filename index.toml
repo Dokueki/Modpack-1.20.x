@@ -394,7 +394,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
+hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
 
 [[files]]
 file = "config/emi.css"
@@ -435,6 +435,10 @@ hash = "65dfb384385425816a20166eba03fc07fd8eeee0ca2df42a5d7753506b48c418"
 [[files]]
 file = "config/everycomp-entries.toml"
 hash = "2905bf0fc474822741bf1d9f946ba4208b5d51408f31beead726065ef02b6f26"
+
+[[files]]
+file = "config/everycomp-hazardous.properties"
+hash = "c63c29d62c9f1cfed636cf3530fadf27637d19595e661b2fe356f58979c24105"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -575,10 +579,6 @@ hash = "70a49aec22117f6eaef55e2e9c4eb8ee4521136912a722444ae8c4e02e97085d"
 [[files]]
 file = "config/forge-client.toml"
 hash = "e58490251cca0d5e66158be4278f3c9e2f904515767ed210920986a1f14cb575"
-
-[[files]]
-file = "config/forgivingworld.json"
-hash = "ca9a23b4f6bdb0b11e24ae60ddd768421923821ae6c063895732c9fa239d25bd"
 
 [[files]]
 file = "config/ftbbackups2.json"
@@ -922,11 +922,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f9e65f1d7df3f16be4fb2799f466d62ca963a98d6e32ba9a6e89a2cb246db29d"
+hash = "a27cf7b5e5d7499733d1a54c08a13144e9397e005d51aa4eff20974456e7ef52"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "f0fa91c107c6c5a5d4dc7b8123d40fec2205e7224c785930da0f96da2ff30ffe"
+hash = "b17a61eea987e54bbaa185906e5a8c6e91716e2166ae2160752336b1676dc280"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1082,11 +1082,11 @@ hash = "24e0c7d14a036130f2ad5d29549209c1bddbc98c2c8636736edb863bde6fc402"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c5ca82164ad047e6d85aefb7f7b9fa42c86e8bf447a8e045c57802bf810a4563"
+hash = "a388244e7dc89ebd7af856f21fe959d936a2d6f5f7e7976276d1e185633959d3"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "daab2e25ddf8482b530315a3c8e2c99125525b2718f79f56c5851630185dcf65"
+hash = "e5d9c1c6c17e90e60496b7a21bad03a0a0c06359fa611169c123feb36e3af9c7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7242,7 +7242,7 @@ hash = "c0f0c3626adaee861d544ab925065a0c41432af1af6c0266112215e9c3d7c77b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9713,11 +9713,6 @@ hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
-file = "mods/embeddiumplus.pw.toml"
-hash = "a7c037a5b9863f7104d5495ec0bb5df56c4d4cff49e351a3cd1db7690dc7031d"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "a8e4a90179f2c556af989855ed6bfcc6e49cda091562cd8b261f77d0cbd2e84a"
 metafile = true
@@ -9795,11 +9790,6 @@ metafile = true
 [[files]]
 file = "mods/flickerfix.pw.toml"
 hash = "c0aee4eedcbdab214dc04eb23ab98aace056c9473ac7d326c5f5edc5e1da58fb"
-metafile = true
-
-[[files]]
-file = "mods/forgiving-world.pw.toml"
-hash = "a29f1ec58df2185c46368d70716267dc77874108c4749a915ded4a1a8e7843bc"
 metafile = true
 
 [[files]]
