@@ -434,7 +434,7 @@ hash = "65dfb384385425816a20166eba03fc07fd8eeee0ca2df42a5d7753506b48c418"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "2905bf0fc474822741bf1d9f946ba4208b5d51408f31beead726065ef02b6f26"
+hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"

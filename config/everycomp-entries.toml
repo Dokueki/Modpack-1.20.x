@@ -72,7 +72,7 @@
 			window = true
 
 		[entries.wood_type.functionalstorage]
-			1 = true
-			4 = true
-			2 = true
+			1 = false
+			4 = false
+			2 = false
 
