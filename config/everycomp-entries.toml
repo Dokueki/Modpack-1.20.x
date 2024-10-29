@@ -34,6 +34,9 @@
 		[types.wood_type.gtceu]
 			rubber = false
 
+		[types.wood_type.createdieselgenerators]
+			chip_wood = false
+
 	[types.stone_type]
 
 		[types.stone_type.gtceu]
@@ -68,12 +71,8 @@
 			window_pane = true
 			window = true
 
-		[entries.wood_type.storagedrawers]
-			full_drawers_2 = true
-			half_drawers_1 = true
-			full_drawers_4 = true
-			half_drawers_4 = true
-			trim = true
-			half_drawers_2 = true
-			full_drawers_1 = true
+		[entries.wood_type.functionalstorage]
+			1 = true
+			4 = true
+			2 = true
 

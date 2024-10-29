@@ -1,0 +1,13 @@
+name = "Moonlight Lib"
+filename = "moonlight-1.20-2.13.13-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1d8d5e53c9c87b2b6422b1174bbead936a41fee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5824026
+project-id = 499980

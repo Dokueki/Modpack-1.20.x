@@ -1,13 +1,13 @@
 name = "FirmaLife"
-filename = "Firmalife-1.20.1-2.1.11.jar"
+filename = "Firmalife-1.20.1-2.1.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "782c08bd65f0a5673033e189e0eb53e448073440"
+hash = "b1964779fd1c3697130177162c754c77a3fe5eaa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5775257
+file-id = 5736033
 project-id = 453394

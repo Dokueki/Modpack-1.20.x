@@ -1,13 +1,13 @@
 name = "PlayerRevive"
-filename = "PlayerRevive_FORGE_v2.0.27_mc1.20.1.jar"
+filename = "PlayerRevive_FORGE_v2.0.29_mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fe335d6680b86aad9ff95e1858b572244b168ff7"
+hash = "176bb349f436d1b47650c244425cc950bccbb575"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5647065
+file-id = 5853399
 project-id = 266890

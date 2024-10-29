@@ -289,9 +289,6 @@
 	 * Which theme to use for the bottom sidebar
 	 */
 	bottom-sidebar-theme: transparent;
-
-	/** unparsed */
-	maximum-recipe-screen-height: 256;
 }
 
 #binds {

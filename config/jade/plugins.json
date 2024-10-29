@@ -94,6 +94,9 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
+  "gregiceng": {
+    "crafting_io_buffer": true
+  },
   "mcjtylib": {
     "jadeaddons": true
   },
@@ -208,11 +211,5 @@
   },
   "treetap": {
     "tap": true
-  },
-  "storagedrawers": {
-    "display.stacklimit": true,
-    "main": true,
-    "display.content": true,
-    "display.status": true
   }
 }
