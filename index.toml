@@ -114,7 +114,7 @@ hash = "8c18856003f1c363e48e140ee3c2a833208d59401dab04534fd023e3b7e964b5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "1883013ddfc345cb452059d129377a5bef1cdf3e81c9442e7baff03e95e32e5f"
+hash = "fd2c92e75b4abd5ee109aafd27432b589cb8a3ea80b96e42a5bf1b2117fd72ed"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -398,7 +398,7 @@ hash = "2c58318485b34f88159acb0bb8cf359b61ca80d4b8fd2750f5d596d43121bede"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "08afbbcea7194435314b226f673ad0aedaa3e85683ad2032023b406c62b6b1f2"
+hash = "29b4f8711ff641517674913ac00b58dbeb0891ba0e544822cd370383c9c93350"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -406,7 +406,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
+hash = "5acb2bd91303d4a5baacc1fbf61605950f83c239fdd3387f92dd3d4ab40cc706"
 
 [[files]]
 file = "config/emi.css"
@@ -450,7 +450,7 @@ hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "2cbf146ab3f75f4d66016c4b86a1197e476ef0c9e04ac74a2419ee76ec549c08"
+hash = "cac7a532d7ca35fa8a9491dbb016e03edb9e7c9d74987d0a4eaf099dbf65ea2c"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -586,7 +586,7 @@ hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
 file = "config/fml.toml"
-hash = "b27045b6164f362e5308c6e6174fb352c82f57c5d237f6a038e8b32432d469a7"
+hash = "9f91a9dd384d0467155fed66180523cd1884f9214eefa19120db0ba21300677c"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -773,12 +773,8 @@ file = "config/inventoryhud-client.toml"
 hash = "029b31d5cb68ca985188b979b59b759e3b607be9488edf8e4b4ee7708497a8b4"
 
 [[files]]
-file = "config/inventorysorter-client.toml"
-hash = "92de49a9405703845f2da9cde2b77dfa75c0088217c0c7a94d4e9ea200cf0549"
-
-[[files]]
 file = "config/invtweaks-client.toml"
-hash = "242661c0f6c2e74d1cec4762eeeb647745357c9988dcbe9180b7d6f36ac946d1"
+hash = "5fbb1bbda488afe2abfe091bec78283aaf9224415c3c51bf0d92635a50dc7dbe"
 
 [[files]]
 file = "config/itemphysiclite-client.json"
@@ -946,11 +942,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f41e3776dc6de54ced6cb9f09a1e2d087d436548ff405d372167eb3c40461832"
+hash = "663148ff8318ea474bd2ec41aa4083a500fc2e480f0518ae0a2bb9c64464506b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "624adf096f20666124adac0f32898ff6251da660728b9bc8a2c3c725d356e515"
+hash = "d8a669e7d50c18b5725e1ca7bb180943dad3a43dcf4847362e6ebe0bc096ab58"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1106,11 +1102,11 @@ hash = "bb64593f3cd5a9b78face907d3a734cf84eb79ec5fe62dca9c5578304704eef8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "50ae4dc29dee0ae5d8604c99bd7e55e9b413ef0e729777bcf9e866d7b1a6a2ca"
+hash = "692923a144ffb38b4fcb29ecd6f8f1c474d1409dc7a8e8594aa33318f5d28f79"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "3c32b2503b359308e2ca323feb085ed253529d56051cc2b836e1465811d6379a"
+hash = "8d7b8923fbee6c16dceacb4326469ead37556d7b47ff29fb6a24b21e756b434b"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7282,7 +7278,7 @@ hash = "918189400a46a162c2ac8cc745694117748cc36498cb49a01e6e7d4f042a6fb8"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "6ca6352b1ce7c212c52383ef11083b7d218c8ff19cb609574a66338701c1e064"
+hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9953,8 +9949,8 @@ hash = "9928c8f1f67cdc3ccdddef9fe63831a328b44dca1f6be9ebc086fc7d25747826"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "d4e22caa10decf47b90d6d5c6319515231c5c3e7056fdd0bff72131739761fbf"
 metafile = true
 
 [[files]]
