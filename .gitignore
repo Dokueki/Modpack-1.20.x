@@ -92,7 +92,7 @@ vintagefix/
 modernfix/
 XaeroWaypoints*/
 XaeroWorldMap*/
-defaultconfigs/
+#defaultconfigs/
 xaero/
 visualores/
 mods-carryover/
