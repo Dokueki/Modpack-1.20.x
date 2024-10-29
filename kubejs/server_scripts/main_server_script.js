@@ -5,11 +5,9 @@
  */
 ServerEvents.tags('item', event => {
     registerAE2ItemTags(event)
-    registerAlekiRoofsItemTags(event)
     registerAlekiShipsItemTags(event)
     registerAsticorCartsItemTags(event)
     registerBeneathItemTags(event)
-    registerChiselAndBitsItemTags(event)
     registerComputerCraftItemTags(event)
     registerCreateItemTags(event)
     registerCreateAdditionsItemTags(event)
@@ -32,11 +30,9 @@ ServerEvents.tags('item', event => {
  */
 ServerEvents.tags('block', event => {
     registerAE2BlockTags(event)
-    registerAlekiRoofsBlockTags(event)
     registerAlekiShipsBlockTags(event)
     registerAsticorCartsBlockTags(event)
     registerBeneathBlockTags(event)
-    registerChiselAndBitsBlockTags(event)
     registerComputerCraftBlockTags(event)
     registerCreateBlockTags(event)
     registerCreateAdditionsBlockTags(event)
@@ -106,7 +102,6 @@ TFCEvents.data(event => {
 ServerEvents.recipes(event => {
     registerAE2Recipes(event)
     registerAdvancedPeripheralsRecipes(event)
-    registerAlekiRoofsRecipes(event)
     registerAlekiShipsRecipes(event)
     registerAsticorCartsRecipes(event)
     registerAE2InsertExportCardRecipes(event)

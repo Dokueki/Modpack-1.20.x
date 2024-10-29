@@ -926,11 +926,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "d2054e18ab84dc01608def653e47900785d55934647e7cb3d4ddd705a7284f5a"
+hash = "2fec0c462cfe08d3938213fa411cde63a59ad9741f202ce835e1110a4655ced7"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "5c710cef75de6097e32fd08cf16a52f1d8f3da7952dba7eb52f6e2dfd60d210f"
+hash = "6ca1cd102ab11b782c07801fec253910ba655d4be6f6df6856f067870668707a"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -7246,7 +7246,7 @@ hash = "c0f0c3626adaee861d544ab925065a0c41432af1af6c0266112215e9c3d7c77b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8902,7 +8902,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/old.js"
-hash = "f9055e776ac46712a4fde4859b6e6704c2fb2027f7b856f4163d37675508dac4"
+hash = "85ecada2ee006a184b603cb40703261e5efcaf66815ad33c6f95697fbea925e3"
 
 [[files]]
 file = "kubejs/server_scripts/_dokurai/_tweaks.js"
@@ -8983,14 +8983,6 @@ hash = "7e6d5161490122c9c52bcb2a4c378a171851c260e2cc5cf1d7cd84630eb8b11b"
 [[files]]
 file = "kubejs/server_scripts/ae2wtlib/recipes.js"
 hash = "db3ac446489e26617b31e4128c01a9adb2e3da0b41c05b475873759586d50cb3"
-
-[[files]]
-file = "kubejs/server_scripts/alekiroofs/recipes.js"
-hash = "aff799872529cb348a482fa52283abf92fe72fdcc400b2131e3d3445b45e1815"
-
-[[files]]
-file = "kubejs/server_scripts/alekiroofs/tags.js"
-hash = "08c6c25908c05dba9fd834456037465f47cfc20c69d471aad6925b80f9c0e0bf"
 
 [[files]]
 file = "kubejs/server_scripts/alekiships/recipes.js"
@@ -9130,7 +9122,7 @@ hash = "84f1216d1986f5ec5ec22346899956dc1ff9a3d63411a392293d99c010f725eb"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "40c4611106e1bcfc18750a74e228cac0227b32a4ee91617086989a192e622e2b"
+hash = "e73f8349dea2547954c4148970034ba562022dccfd4e21e286ddb6640310170c"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
@@ -9241,10 +9233,6 @@ file = "kubejs/startup_scripts/ae2/constants.js"
 hash = "37de166e6a8389720d9595485dae3372f2c5a82e312a736cb6e7e198554fe079"
 
 [[files]]
-file = "kubejs/startup_scripts/alekiroofs/constants.js"
-hash = "663a021ca99de797a8ce9bb50ee26fa6a8364e6dcc6e99f169c6e9cc039aaebe"
-
-[[files]]
 file = "kubejs/startup_scripts/alekiships/constants.js"
 hash = "c0703d41358f6c4a00a3b59890efd969859b4fedccec6eaf0f6052d7d0459955"
 
@@ -9346,7 +9334,7 @@ hash = "39fd94027ac5fa506b214fe5777452fa84a2d4021ab1b84c1ef49260130297db"
 
 [[files]]
 file = "kubejs/startup_scripts/tfc/constants.js"
-hash = "c1039f4f536b4a7df9e6b7dbd08d50e81fdaf467c924a907825f61dc99ad083c"
+hash = "e31b4a876f1dcfbfa32cf43247ead4cfeeb814ebc2f823be3078571795690408"
 
 [[files]]
 file = "mods/AnimalTrap-1.20.1-forge-1.0.1-custom.jar"

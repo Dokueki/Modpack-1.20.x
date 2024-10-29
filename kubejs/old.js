@@ -25,8 +25,6 @@ const processNetherWood = (woodName) => {
 
     const sign = Item.of(`minecraft:${woodName}_sign`)
     const hangingSign = Item.of(`minecraft:${woodName}_hanging_sign`)
-
-    const roofing = Item.of(`alekiroofs:${woodName}_roofing`)
     
     const window = Item.of(`create:${woodName}_window_pane`)
     const windowPane = Item.of(`create:${woodName}_window_pane`)
@@ -495,28 +493,6 @@ const processNetherWood = (woodName) => {
         .itemInputs('4x #forge:screws')
         .circuit(4)
         .itemOutputs(hangingSign.copyWithCount(3))
-        .EUt(GTValues.VA[GTValues.ULV]).duration(200)
-    //#endregion
-
-    //#region Крыша (AlekiRoofs)
-    e.remove({ id: `alekiroofs:crafting/${woodName}_roofing` })
-
-    e.shaped(roofing.copyWithCount(2), [
-        'A ',
-        ' s'  
-    ], {
-        A: plank,
-        s: '#forge:tools/saws'
-    }).id(`tfg:workbench/${woodName}_roofing_saw`)
-
-    e.recipes.create.cutting([roofing, Item.of('1x gtceu:wood_dust')], plank)
-        .id(`tfg:create_cutting/${woodName}_roofing`)
-
-    e.recipes.gtceu.cutter(`tfg:${woodName}_roofing`)             
-        .itemInputs(plank)
-        .circuit(4)
-        .itemOutputs(roofing.copyWithCount(2))
-        .itemOutputs('1x gtceu:wood_dust')
         .EUt(GTValues.VA[GTValues.ULV]).duration(200)
     //#endregion
 

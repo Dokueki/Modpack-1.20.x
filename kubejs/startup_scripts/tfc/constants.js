@@ -845,10 +845,6 @@ global.WOOD_BLOCK_TYPES = {
         tag: "firmalife:jarbnets",
         material: new MaterialStack(GTMaterials.Wood, GTValues.M)
     },
-    "roofing": {
-        tag: "alekiroofs:roofing",
-        material: new MaterialStack(GTMaterials.Wood, GTValues.M)
-    },
     "wheel": {
         tag: "tfcastikorcarts:cart_wheel",
         material: new MaterialStack(GTMaterials.Wood, GTValues.M)
