@@ -1,0 +1,13 @@
+name = "Valkyrien Skies: Tournament"
+filename = "tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29e7518684c1ef7c2a573a0c57a5e942c6e2c725"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5836554
+project-id = 1126459

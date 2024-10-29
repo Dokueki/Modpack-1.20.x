@@ -446,7 +446,7 @@ hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "1125e833bf1a17de5c3f99c90d3d9ca38daa2d50b38770852bdc735d92daaf05"
+hash = "bd8d6dbcdad1751773c6a3c28a7e49254eb7d4c271113d5f79799dc62b91f38a"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -942,11 +942,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "5071fe3ba722bd901369b9a0de56773c7251ed2e2e52adc1ab0beb7680fd3ccd"
+hash = "16de179a2af0de2a39fc7857b1183c02134428df1baa58530ad6c6085dbf0692"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d474042f582ab54cb31aa5db254363900cf4720caf7625b8067cf3bcab874f78"
+hash = "fa166a6c2271a12c0c7e9d41508ec0e8ed3a13a94c45d67049ee9d9bb84c5694"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1102,11 +1102,11 @@ hash = "1a75541a45f44f8dbccf956feb81cf33924ac43ccb5c121601693e5b0cda92e1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "9dbc5900300e4e8fd7d0435a76539f20703cd3f3deadf84397d24182ba22f791"
+hash = "49fe3105000b4c5e6077fac43938854beec242eb34d85662e8b8a9fc097c26b6"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "11b4354706d423f5aeb9cd9280d7e7b942fdd48c92510d335505e30fa07edd55"
+hash = "05d19aff1315c7dcc8a5c487e0ae4c57f6e248e67d0351e575681a2b721e4a7b"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7161,6 +7161,14 @@ file = "config/valkyrienskies/schemas/vs_server.schema.json"
 hash = "a341bb0adb20cc6127d3a6d10fb4e1627b5a20fcd4c0810a30751415b35d9be3"
 
 [[files]]
+file = "config/valkyrienskies/schemas/vs_tournament_client.schema.json"
+hash = "d5b80e7fc726c7e788493f7f4c9e3e99d15c720844ba453abf8b182963fe8d23"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_tournament_server.schema.json"
+hash = "e6c53a7be28d8a4fda9a1b9820702ab96e9fdfb0a76b1513813d2dfa3449963a"
+
+[[files]]
 file = "config/valkyrienskies/vs_addition_client.json"
 hash = "11bd7e35de2aaa12c1d8ae05c101375bd603d03a6e6e55c1c9b2871e9a7f07be"
 
@@ -7203,6 +7211,14 @@ hash = "56cc120de707f4f3c6321096455265886eaa478ca915d1aafebe4c9e66cb632f"
 [[files]]
 file = "config/valkyrienskies/vs_server.json"
 hash = "3001b184297897ae6048e4db7428b9758775c253be1156237266039a350e5d0b"
+
+[[files]]
+file = "config/valkyrienskies/vs_tournament_client.json"
+hash = "75c60bfca4821de02bea1139ab2a0ff1a9bbf28c60b47efd74f40b6a813e8dad"
+
+[[files]]
+file = "config/valkyrienskies/vs_tournament_server.json"
+hash = "b6ae767a70d07e2b40f3cfcbf6c9511844dc77c9c34ceaa5d4d56b1f9c272d28"
 
 [[files]]
 file = "config/visual_workbench.json"
@@ -10515,6 +10531,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-relogs.pw.toml"
 hash = "20a3e23ba7878d9b2c2e5e9b6346ae1e298e8a4cf0d0ccf7673b57bdca46afe1"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies-tournament.pw.toml"
+hash = "6cdd5f346948e53319f4bb61894782d5569143b9551242ac20a341e0fcb9684c"
 metafile = true
 
 [[files]]
