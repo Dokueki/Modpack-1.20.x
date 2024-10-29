@@ -926,11 +926,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c991c4aae1cda8062a250e615d49d8052af091fd3c27ad701408dd8ac45683e3"
+hash = "1df3f406ad9d330c7f0ba79eb2a099b3708bdae9b3a4cef6896f0463bbe834dd"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "c9f0dc51ce98fb005f0cf9be6c63df702e1294cc8eb3110dabdd7ecaaa232d1e"
+hash = "269ccdd4931258d1f282ed2774d8ab421b940b7eff803efc413d6b29488b06ce"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -7246,7 +7246,7 @@ hash = "c0f0c3626adaee861d544ab925065a0c41432af1af6c0266112215e9c3d7c77b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9122,7 +9122,7 @@ hash = "84f1216d1986f5ec5ec22346899956dc1ff9a3d63411a392293d99c010f725eb"
 
 [[files]]
 file = "kubejs/server_scripts/main_server_script.js"
-hash = "d63eacf76a64358d4103fdd1e3b49ad94241724be670199feb288b762d119d5e"
+hash = "62abb6581ae48f6f76f1b49f22d2d6ec1c39a1c0f53b81bcc8927d1001d833ae"
 
 [[files]]
 file = "kubejs/server_scripts/me_requester/recipes.js"
