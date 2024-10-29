@@ -124,7 +124,6 @@ ServerEvents.recipes(event => {
     registerMoreRedRecipes(event)
     registerRailWaysRecipes(event)
     registerRFToolsRecipes(event)
-    registerStorageDrawersRecipes(event)
     registerSophisticatedBackpacksRecipes(event)
     registerTfceaRecipes(event)
     registerTFCRecipes(event)
