@@ -262,7 +262,7 @@ hash = "74a4490a9e22547861cccba0a9cf729be26b2a482ca3fd2c694ea0f4d08e77f2"
 
 [[files]]
 file = "config/configured-client.toml"
-hash = "564e6b7eb80e781e61c79d687b6a506e163d3cad89ede9705a744d3453e02231"
+hash = "d446c625f796e8c4918a690d9638158a2978e588640bdafd9eb904de0806fdab"
 
 [[files]]
 file = "config/copycats-client.toml"
@@ -450,7 +450,7 @@ hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "c2a89928ac199d9c02dd718880c8d2f6604fabcf5dce2aea23d1aa0477b8dd6c"
+hash = "2cbf146ab3f75f4d66016c4b86a1197e476ef0c9e04ac74a2419ee76ec549c08"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c076ff4b74d9b87ca87244c162295c09ba964c2f719ad201b095a19bf4981cfb"
+hash = "f41e3776dc6de54ced6cb9f09a1e2d087d436548ff405d372167eb3c40461832"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "dbfd66d6cb58ae4fc68cd41d53a0593f3f0c49dad4f55519b2c03b529a966510"
+hash = "624adf096f20666124adac0f32898ff6251da660728b9bc8a2c3c725d356e515"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1010,7 +1010,7 @@ hash = "598286f6b48c635ebaf4c649f6ebcd5a0dcfb9e9e7bb7a49a29ba71d59ed3de1"
 
 [[files]]
 file = "config/polymorph-integrations.toml"
-hash = "f09398fbdb8880a2e2a0f234aa6578dd49ada68fecbe899608841f39c430034a"
+hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
@@ -1066,7 +1066,7 @@ hash = "f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d"
 
 [[files]]
 file = "config/simpleradio-server.toml"
-hash = "917a80a4f861fa0c7f2725f00ff1d9c49aa06ce8ac1c26606dd0d81604854bcd"
+hash = "96788fe9355673d3b79edb5c95824cae7e526bf58f41f4a51eb650cf0c7dadef"
 
 [[files]]
 file = "config/sliceanddice-client.toml"
@@ -1106,11 +1106,11 @@ hash = "bb64593f3cd5a9b78face907d3a734cf84eb79ec5fe62dca9c5578304704eef8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6c6d59729bfed36dd8d21439e1a699d443647651c0fbef59ba9361c37c51d627"
+hash = "50ae4dc29dee0ae5d8604c99bd7e55e9b413ef0e729777bcf9e866d7b1a6a2ca"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f0db3e7abf1360a59abc1f6b07c1924600181b9c4d831b6bee744d70153e696d"
+hash = "3c32b2503b359308e2ca323feb085ed253529d56051cc2b836e1465811d6379a"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7282,7 +7282,7 @@ hash = "918189400a46a162c2ac8cc745694117748cc36498cb49a01e6e7d4f042a6fb8"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "4cf6c0ae8f619e5d1d2386483e826183ca9102004eaa971a1586a57d59b27f83"
+hash = "6ca6352b1ce7c212c52383ef11083b7d218c8ff19cb609574a66338701c1e064"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9503,11 +9503,6 @@ hash = "9f547ab30cc07d0831d0a066032a832dcb16dd7a5aa77c4c7efeaa29d8c10431"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "dc0b2fab9c86d45c490e46a37bf1560698425f2c83609853a6c530b2b38ce321"
 metafile = true
@@ -9943,11 +9938,6 @@ hash = "92f1c52dbc41ca1f065dc77d813c728a8d550a0baa4be5daabfb9b34bd55e8d5"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "c53c029f2ab7ac7499bd47687600fcc34244936dbfcab8201d69864712ae172c"
-metafile = true
-
-[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "c6b19a1c3c87acf8843823e03c9b1abb8e86bcfbc452014bc8f6698ba0351359"
 metafile = true
@@ -9965,11 +9955,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "d4e22caa10decf47b90d6d5c6319515231c5c3e7056fdd0bff72131739761fbf"
 metafile = true
 
 [[files]]
@@ -10283,11 +10268,6 @@ hash = "df91958db1f1c82ea5d4fe933a4893cdefe6861e3aa2f25d4c4a39a062bddd15"
 metafile = true
 
 [[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
-metafile = true
-
-[[files]]
 file = "mods/random-mob-sizes.pw.toml"
 hash = "0981b4a1f7eebb6d1405b45b5c8350eafdf59196c9f2a1c8b4c734de520ea7af"
 metafile = true
@@ -10330,11 +10310,6 @@ metafile = true
 [[files]]
 file = "mods/sacks-n-such.pw.toml"
 hash = "b48c335021247fcd7f542625b1ec282fb4b03494e055232cbb020ce980654fb9"
-metafile = true
-
-[[files]]
-file = "mods/saturn.pw.toml"
-hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
 metafile = true
 
 [[files]]
