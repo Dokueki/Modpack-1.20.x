@@ -51,6 +51,8 @@ config/InventoryHUD/curios.json
 config/packetfixer.properties
 config/fabric/indigo-renderer.properties
 config/everycomp-hazardous.properties
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
 
 # .minecraft
 crash-reports/*
