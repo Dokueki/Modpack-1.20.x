@@ -50,6 +50,7 @@ config/embeddium-options.json
 config/InventoryHUD/curios.json
 config/packetfixer.properties
 config/fabric/indigo-renderer.properties
+config/everycomp-hazardous.properties
 
 # .minecraft
 crash-reports/*
@@ -133,4 +134,3 @@ hei_bookmarks.ini
 
 # Dev
 icon-exports-x32
-
