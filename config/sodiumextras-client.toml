@@ -13,7 +13,7 @@
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
 		#Allowed Values: LEFT, CENTER, RIGHT
-		fpsDisplayGravity = "RIGHT"
+		fpsDisplayGravity = "LEFT"
 		#Shows GPU and memory usage onto FPS display
 		#Allowed Values: OFF, ON, GPU, RAM
 		fpsDisplaySystem = "OFF"
