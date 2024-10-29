@@ -117,7 +117,6 @@ ServerEvents.recipes(event => {
     registerFirmaLifeRecipes(event)
     registerFTBQuestsRecipes(event)
     registerGregTechRecipes(event)
-    registerHandGliderRecipes(event)
     // registerHotOrNotRecipes(event)
     registerMERequesterRecipes(event)
     registerMegaCellsRecipes(event)
