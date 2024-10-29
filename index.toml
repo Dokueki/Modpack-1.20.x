@@ -922,7 +922,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a27cf7b5e5d7499733d1a54c08a13144e9397e005d51aa4eff20974456e7ef52"
+hash = "ff9bac39fcf4d2f1a8382f048a5e3a9688600c04d7925171ff992fe967c9c15b"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -1070,7 +1070,7 @@ hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
-hash = "66d08b23e75416c5ae4e7c29abe95c3f46c1ad678ce7853c081f996b53de548e"
+hash = "ff23c862deb47ec1cdf100f99e2a90e321fab3b5e9b93c29794415943aea5f49"
 
 [[files]]
 file = "config/solid_mobs.json"
@@ -7206,7 +7206,7 @@ hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "57561a5375d9eb714357ad977f5e0f0cafc98b2e059529b7a1a2ac99c64ee92f"
+hash = "d2a070c89e54f2c17c049509dfee33159c55cbdd18190f16364aa9548dfdc2fe"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -7238,7 +7238,7 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "c0f0c3626adaee861d544ab925065a0c41432af1af6c0266112215e9c3d7c77b"
+hash = "c5ace12e32c4cdbf34cdd19edab4aad5c9ed3fe2a5aeb4d5e3e05b83fd36cc51"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
