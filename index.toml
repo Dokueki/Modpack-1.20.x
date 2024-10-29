@@ -86,7 +86,7 @@ hash = "192924b2661f733e19962bfcebc85c4248592ebbfd386bad15794cb524176b1f"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "7db2e8c9afb6797ac6b0135625d36bbda70832ba64a57b398f0f8728cbe712b5"
+hash = "9ecc951d6fa06875e7eabfa72e5ef9c04fadc5a57a7b45fb81dc375092a52d0e"
 
 [[files]]
 file = "LICENSE"
@@ -446,7 +446,7 @@ hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "c87d960deb9fd3e62cacf05a9201cf9520dcaff409f5f94d97e50b3e324f0889"
+hash = "f9683f14d5bf5b61659bbfb5fa3a8054046dc9f1848c09f7f9a1ed09f2f081ea"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -638,7 +638,7 @@ hash = "d907290800c31862e2ffadb05528d4c641e8a954bf12d4e215357b83fcc1d80c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/primitive_age.snbt"
-hash = "0f2d8c02e4dd30c1bac86acc16b3729655d119ca03b6f869cfb467c56454aa27"
+hash = "65c8ac4659e2c4c6ec2aa80fefcc9bd22718b96dd9970a524f4265d19adaf9c0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/progression.snbt"
@@ -942,11 +942,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "9e0f052a562635f20ad9b4831831fe6a62cee666bd846eb8e8e5f134a66fd77a"
+hash = "a859470968d5a8955280ef4c8cb4ef34dae62fedc646d8a663bde7d455c22f6f"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "0250444099bba3d658d9ab0408d61b9d25e00c55b6009def2e34b7ae8cf4ad19"
+hash = "abcdb5b4701230c892d8eb6c38474c9fb07af9273107de287750cc71247b5e1c"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1102,11 +1102,11 @@ hash = "1a75541a45f44f8dbccf956feb81cf33924ac43ccb5c121601693e5b0cda92e1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6ac36ac31fe7ce47c96577b8179c81c5e390a75bb64e30af5542b865a1832c8b"
+hash = "1f336882cc4a06cd6c331d81bf8759844abfb937139357151c6b98dc41bfd847"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "1f8f9be2216d5b051b46b485db4c033a8990c88b6da2df095283026bc4ab14e2"
+hash = "8fb1fdc2da9f477fb29e617ecb1f76b5247b7d758bf43c89caf83c8c4aa7aa10"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7262,7 +7262,7 @@ hash = "c5ace12e32c4cdbf34cdd19edab4aad5c9ed3fe2a5aeb4d5e3e05b83fd36cc51"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "6ca6352b1ce7c212c52383ef11083b7d218c8ff19cb609574a66338701c1e064"
+hash = "17213afc7a56202160af09cb64f3632c243a87da8382a658d8a296e1d7103c35"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9118,7 +9118,7 @@ hash = "6eddb40bd784c02e291b9e1adec39da43cf565db8e97c6c66017542bb03f5e63"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/recipes.js"
-hash = "ebb8c4919dd35d7b7b365fba3cc5d46ccc544c6d1d07faf6eecf61bf45593cbf"
+hash = "abd6ee67d1c7f814bb6684491670c7a150ee9264b8fda264dcf4e2b975a29664"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/tags.js"
