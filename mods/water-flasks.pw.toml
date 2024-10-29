@@ -1,13 +1,13 @@
 name = "TFC Water Flasks"
-filename = "waterflasks-3.0.3.jar"
+filename = "waterflasks-3.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2464553c4bf78e26b6a4ae6487aa0c94cd845d89"
+hash = "7504911aaf8aefde9ae62dabe45d9aa6dddbbb95"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5666352
+file-id = 5849711
 project-id = 354353

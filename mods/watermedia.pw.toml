@@ -1,6 +1,7 @@
 name = "WATERMeDIA: Multimedia API"
 filename = "watermedia-2.0.75.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"
