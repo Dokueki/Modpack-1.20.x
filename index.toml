@@ -114,7 +114,7 @@ hash = "8c18856003f1c363e48e140ee3c2a833208d59401dab04534fd023e3b7e964b5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "fd2c92e75b4abd5ee109aafd27432b589cb8a3ea80b96e42a5bf1b2117fd72ed"
+hash = "c633f7558851a488a3ba662dc005e4081584c70a584f450ffd133fc18d198a4e"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -398,7 +398,7 @@ hash = "2c58318485b34f88159acb0bb8cf359b61ca80d4b8fd2750f5d596d43121bede"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "29b4f8711ff641517674913ac00b58dbeb0891ba0e544822cd370383c9c93350"
+hash = "0caaf1e15b78f3599b2e47d9dfe796f4be94f9025bb265a3bff02077a34f8ba1"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -449,10 +449,6 @@ file = "config/everycomp-entries.toml"
 hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
 
 [[files]]
-file = "config/everycomp-hazardous.properties"
-hash = "cac7a532d7ca35fa8a9491dbb016e03edb9e7c9d74987d0a4eaf099dbf65ea2c"
-
-[[files]]
 file = "config/expatternprovider-common.toml"
 hash = "14ef0bbe6e5eeb3be38eb0cc02dcf7390343df816df23d01e032311298911464"
 
@@ -462,7 +458,7 @@ hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f02a466520f06c932f5663f5bfd8f26117fbab20b40711d2b20fc60ad5568327"
+hash = "478d94a512ff92a525b6cbb0b79c4f22f00111f160397cd72a21e0adad857caa"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -586,7 +582,7 @@ hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
 file = "config/fml.toml"
-hash = "9f91a9dd384d0467155fed66180523cd1884f9214eefa19120db0ba21300677c"
+hash = "70a49aec22117f6eaef55e2e9c4eb8ee4521136912a722444ae8c4e02e97085d"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -833,14 +829,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "2d57f4109c7268f938dd125a6af4fa0c2bf1acfbbafca28c414a1de3b8593598"
 
 [[files]]
-file = "config/jei/world/local/New_World__253/bookmarks.ini"
-hash = "6d5f179c023b37cc4cc30ef002937cfd9d641377cf31aca57950e75fcd4db14e"
-
-[[files]]
-file = "config/jei/world/server/Minecraft_Server_3afea72a/bookmarks.ini"
-hash = "bdecfa87cca9f7d52981b5b7a5e3ce6781b02599703983ee311cf8ee95f2adc0"
-
-[[files]]
 file = "config/konkrete/locals/de_de.local"
 hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
@@ -942,11 +930,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "663148ff8318ea474bd2ec41aa4083a500fc2e480f0518ae0a2bb9c64464506b"
+hash = "a408ae2c65129d06d60993db9ac29cd387da35915c10448dc2e830beb8943acd"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d8a669e7d50c18b5725e1ca7bb180943dad3a43dcf4847362e6ebe0bc096ab58"
+hash = "c3bfc9e4f7e41090238dae007443cbac289d4692bf8803dc8f61b6d9c1d26c74"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1101,14 +1089,6 @@ file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "bb64593f3cd5a9b78face907d3a734cf84eb79ec5fe62dca9c5578304704eef8"
 
 [[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "692923a144ffb38b4fcb29ecd6f8f1c474d1409dc7a8e8594aa33318f5d28f79"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "8d7b8923fbee6c16dceacb4326469ead37556d7b47ff29fb6a24b21e756b434b"
-
-[[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "c9e79968413b6d27a548872869c347d8006b29878cb05210c9b24b4be5efe45a"
 
@@ -1123,6 +1103,18 @@ hash = "c90c03568bd17832981e663cf07cadcc3dd9040fa50b5a690b269b1f6fb5e6c7"
 [[files]]
 file = "config/tacz-common.toml"
 hash = "381a229fef689955c79fdad67d71c3a9494de8230490e18690c0d838869d4781"
+
+[[files]]
+file = "config/tacz/backup/tacz_default_gun/backup-20240915-092446-72450f538e935a9704452b13a61f15ef.zip"
+hash = "7758be81aa0d28a3fb52eef4b46d8bced04173350b4fddf71d5c68cd665d5705"
+
+[[files]]
+file = "config/tacz/backup/tacz_default_gun/backup-20240915-092909-cc1077ce4e820d4c6566f02b1fa67ca2.zip"
+hash = "a2d6395165d7c8a1fe592b7f1ff85f08e19de8f1262398f634ab782a7daf9c12"
+
+[[files]]
+file = "config/tacz/backup/tacz_default_gun/backup-20240916-181352-cc1077ce4e820d4c6566f02b1fa67ca2.zip"
+hash = "a2d6395165d7c8a1fe592b7f1ff85f08e19de8f1262398f634ab782a7daf9c12"
 
 [[files]]
 file = "config/tacz/backup/tacz_default_gun/backup-20241011-100044-cc1077ce4e820d4c6566f02b1fa67ca2.zip"
@@ -7242,7 +7234,7 @@ hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "d2a070c89e54f2c17c049509dfee33159c55cbdd18190f16364aa9548dfdc2fe"
+hash = "7907775097dbc605dd21e3de0eb06788eb4d62e1d3b93881f27a4381c2bb91af"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -7278,7 +7270,7 @@ hash = "918189400a46a162c2ac8cc745694117748cc36498cb49a01e6e7d4f042a6fb8"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10544,12 +10536,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "e17890439481e924cc5d65c2bee02c1c4b471411a58fab4c3d5677f1b24159ca"
+hash = "94360ccccad2451f7d34e0e771c2160d30d35517b51fb6ccdf8089ee6488a9d5"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "5df08fc0bd1e1ed4fe706a74472aaf654a1fd4a7e1c7ba07e3f9049468763a40"
+hash = "81745eeaaf4d0ffad3d160a0b71cfddac757c6a34bc796cc501d1a69e4241784"
 metafile = true
 
 [[files]]
@@ -10586,13 +10578,5 @@ file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
 hash = "f44cb272d34cb3c9d86df11cf35db55c119a4d01796b5ac2fc436d53f5db73ca"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.3.zip"
-hash = "d69c93c78daeb1c07bed1a4d7b932126ad36cad5fd17bef42f733c4cb84e417d"
-
-[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
 hash = "07d768019091796e9c5da8608005e054d233d8b2c1edfc61c0edd5206bd9c21a"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
-hash = "b7fbb224f5cde61e335be7bbaa022c751048925fb23a2c8ad0475f35608b56d4"
