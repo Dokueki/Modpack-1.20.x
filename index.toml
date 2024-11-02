@@ -141,6 +141,14 @@ file = "config/ambientsounds-client.json"
 hash = "d002319f21f057d57ab1e6a018877d57e687b2e3cd6a5479164ec66d98cd0f78"
 
 [[files]]
+file = "config/amendments-client.toml"
+hash = "77f178c786e8e9ca3862911243a1699bef9f02feedb0502e694e932ac1ff761d"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "231fbc6c0968bd951ba7fb09d9f016b94e8a08b78e5500b5f8030621260f6835"
+
+[[files]]
 file = "config/astikorcarts-common.toml"
 hash = "675b1722c214c4434db25850d08b9c903f8b3e1a7b9b3eb1e7b5f84351a3ef90"
 
@@ -446,11 +454,11 @@ hash = "65dfb384385425816a20166eba03fc07fd8eeee0ca2df42a5d7753506b48c418"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
+hash = "79b31bc684947839f48921cc1697ddde8b2cee922b562357726cb4f37c915e87"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "42c048dcf992ad4a2f49f992a39844cc0af177e0df02de4c758ed50fc77f89ad"
+hash = "a01e7756a407157edfbbf326278f04bf209d1af71a858b25f4b6df3abe0365cd"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -790,11 +798,11 @@ hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
+hash = "1b18d9fbd389463219368fbcb2af09958676e90168fec04612a851d076bf4a46"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "281ada7573cd7d4e2d6a9e5d8b78968faa06c7f5d5db0b4349ee77545d37e31c"
+hash = "83da8b65db967b255b219a2996ebfcbe6df763476f0dc632b6fcc61fc3ce7657"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -942,11 +950,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "8627acd9ffd720f8f11433401a13b2462aa1ab7b94ad0fff8ea3a9b3f51c470b"
+hash = "d8c44fa0862ce7de23809f970cc590c94ac594b81daa15ead4a4e639975c0a50"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "f26959943f26c0bf2b8b9f4b1ec7492b843ef645bc98bb5803be776acfbc281a"
+hash = "9ab6a2c557295f97f71a7030f6afd7251ac8cf1bf49312957ab75a2761337ddb"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1102,11 +1110,11 @@ hash = "d11a345aa03046088e55b2cd425dfd9713a498762054c4a92f18db3ecbb9c4a1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "70337cb3c2c8e45d9b2b4a03ac2e52b2367f6d7cf1bb6c24b528e8fca93326c5"
+hash = "b045550caebe692d115d3474da3daa44c56a67710b820170cdfea97f8beb009d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b0de22d9bb97766e4ae5e843a6eb33548a5ddcbceee7d22d7d4bc45b87b2a84f"
+hash = "a96d8811c5a2a762dfcf7708adf48a6b171dc97249f151c69a4641aca8b16ce7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7278,7 +7286,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "1d67c4d9e9d5030ad25f7533015b6fe901fe85ae7ce5f5eea83ed6fe7a9e5893"
+hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9411,6 +9419,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "60e856358f793ce86ade104e96d1b4697adfefde35b1ed74e9e05d47bc8bbc71"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "06b855a74316c8f1b5ac9b4b13fbaafc5848502d6ec079a394e7e9db596b3ac1"
 metafile = true
 
 [[files]]

@@ -94,9 +94,6 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
-  "gregiceng": {
-    "crafting_io_buffer": true
-  },
   "mcjtylib": {
     "jadeaddons": true
   },
