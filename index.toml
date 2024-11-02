@@ -114,7 +114,7 @@ hash = "8c18856003f1c363e48e140ee3c2a833208d59401dab04534fd023e3b7e964b5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "a937bbb82dbc74aa438160d09ddfd7deb29da1d8486e38ca395fa837065ff9e7"
+hash = "fd2c92e75b4abd5ee109aafd27432b589cb8a3ea80b96e42a5bf1b2117fd72ed"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -398,7 +398,7 @@ hash = "2c58318485b34f88159acb0bb8cf359b61ca80d4b8fd2750f5d596d43121bede"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
-hash = "0caaf1e15b78f3599b2e47d9dfe796f4be94f9025bb265a3bff02077a34f8ba1"
+hash = "29b4f8711ff641517674913ac00b58dbeb0891ba0e544822cd370383c9c93350"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -450,11 +450,11 @@ hash = "7d3f50159700c669d7eb90c763e5bbf9a36f6cf3a13b05ff813fc757c940ee03"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "4623aa7aa94f7b1b670dd7e0add0c9fec2f5501977a3726cbcfe2148c464565d"
+hash = "42c048dcf992ad4a2f49f992a39844cc0af177e0df02de4c758ed50fc77f89ad"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
-hash = "14ef0bbe6e5eeb3be38eb0cc02dcf7390343df816df23d01e032311298911464"
+hash = "882103a506ede7a15158b5171ef0416abfd885dc35cf6e2e6fb32779090228c0"
 
 [[files]]
 file = "config/experimentalsettingsdisabler-client.toml"
@@ -462,7 +462,7 @@ hash = "d280f5cfcfa2b576a7b9486775491cec6c5f80c85c6325e5f396c9d764b16ce3"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "478d94a512ff92a525b6cbb0b79c4f22f00111f160397cd72a21e0adad857caa"
+hash = "f02a466520f06c932f5663f5bfd8f26117fbab20b40711d2b20fc60ad5568327"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -586,7 +586,7 @@ hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
 file = "config/fml.toml"
-hash = "70a49aec22117f6eaef55e2e9c4eb8ee4521136912a722444ae8c4e02e97085d"
+hash = "9f91a9dd384d0467155fed66180523cd1884f9214eefa19120db0ba21300677c"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -830,7 +830,15 @@ hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "2d57f4109c7268f938dd125a6af4fa0c2bf1acfbbafca28c414a1de3b8593598"
+hash = "3713dc9ff612ad4287662ed392d8bf3a0346181b954e58eadc17324b27c5e6b3"
+
+[[files]]
+file = "config/jei/world/local/New_World__253/bookmarks.ini"
+hash = "6d5f179c023b37cc4cc30ef002937cfd9d641377cf31aca57950e75fcd4db14e"
+
+[[files]]
+file = "config/jei/world/server/Minecraft_Server_3afea72a/bookmarks.ini"
+hash = "bdecfa87cca9f7d52981b5b7a5e3ce6781b02599703983ee311cf8ee95f2adc0"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -934,11 +942,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "62fc8b9e42b1e061eddce8a3acb9fd5511817859de873c2a2c2481ec93d2ad21"
+hash = "8627acd9ffd720f8f11433401a13b2462aa1ab7b94ad0fff8ea3a9b3f51c470b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "84d42d1c18f31c6852190e66a1bed5e70a4d0c15f367ed6080e64455303e963c"
+hash = "f26959943f26c0bf2b8b9f4b1ec7492b843ef645bc98bb5803be776acfbc281a"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -962,7 +970,7 @@ hash = "409036c8a451edc8079b433254ebfa44176e6aa528326ed49f9b732d65ab5ff8"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
-hash = "a185e65c940a545ae1a1398731687e365f10030f2ab2397c39a62df8b1c8a337"
+hash = "fca1fdf738b0babcd701b452636d4b0b22e6d9d7a190f5eebd913821c0461968"
 
 [[files]]
 file = "config/physicsmod/physics_cloth_config.json"
@@ -1090,15 +1098,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "bb64593f3cd5a9b78face907d3a734cf84eb79ec5fe62dca9c5578304704eef8"
+hash = "d11a345aa03046088e55b2cd425dfd9713a498762054c4a92f18db3ecbb9c4a1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c2b97b66a8da631e607f7abbeecd65d2aedce6ef4df1451a446ba9b033dc6f41"
+hash = "70337cb3c2c8e45d9b2b4a03ac2e52b2367f6d7cf1bb6c24b528e8fca93326c5"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "4661807e3a47bdcd890ad180ae78d9de3067f5568caf1cc843ec5fa1d791f901"
+hash = "b0de22d9bb97766e4ae5e843a6eb33548a5ddcbceee7d22d7d4bc45b87b2a84f"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1115,18 +1123,6 @@ hash = "c90c03568bd17832981e663cf07cadcc3dd9040fa50b5a690b269b1f6fb5e6c7"
 [[files]]
 file = "config/tacz-common.toml"
 hash = "381a229fef689955c79fdad67d71c3a9494de8230490e18690c0d838869d4781"
-
-[[files]]
-file = "config/tacz/backup/tacz_default_gun/backup-20240915-092446-72450f538e935a9704452b13a61f15ef.zip"
-hash = "7758be81aa0d28a3fb52eef4b46d8bced04173350b4fddf71d5c68cd665d5705"
-
-[[files]]
-file = "config/tacz/backup/tacz_default_gun/backup-20240915-092909-cc1077ce4e820d4c6566f02b1fa67ca2.zip"
-hash = "a2d6395165d7c8a1fe592b7f1ff85f08e19de8f1262398f634ab782a7daf9c12"
-
-[[files]]
-file = "config/tacz/backup/tacz_default_gun/backup-20240916-181352-cc1077ce4e820d4c6566f02b1fa67ca2.zip"
-hash = "a2d6395165d7c8a1fe592b7f1ff85f08e19de8f1262398f634ab782a7daf9c12"
 
 [[files]]
 file = "config/tacz/backup/tacz_default_gun/backup-20241011-100044-cc1077ce4e820d4c6566f02b1fa67ca2.zip"
@@ -7246,7 +7242,7 @@ hash = "db16ff3023f8e5c8fac315f846c6ef26ac530ffd2f8854096722790e09c3ddbf"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "7d2e7520c83ebbf94aa8822208ade8dd7bb6960a1ed0a333d3b77dbd6ba00c98"
+hash = "d2a070c89e54f2c17c049509dfee33159c55cbdd18190f16364aa9548dfdc2fe"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -7278,11 +7274,11 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "918189400a46a162c2ac8cc745694117748cc36498cb49a01e6e7d4f042a6fb8"
+hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "1d67c4d9e9d5030ad25f7533015b6fe901fe85ae7ce5f5eea83ed6fe7a9e5893"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7426,7 +7422,7 @@ hash = "a7513d99498988f20a97df53e8e91715013ac083736ae177b36575d779c02bbc"
 
 [[files]]
 file = "defaultconfigs/lithicaddon-server.toml"
-hash = "6eca0e00f9ec4bc8963237312fc77cd089e40637efa18b2575b2db2b0f801806"
+hash = "4e765da9c94c19787f13da2d875d2d004a675487a5ebd69ca66bdd2f7383b33b"
 
 [[files]]
 file = "defaultconfigs/lithiccoins-server.toml"
@@ -9549,7 +9545,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
-hash = "a1135cfbd16a383627318aaa7b4676f7576224ccfa46df656eba4839031b3fcc"
+hash = "1f6ae5f138c0492ed6d9d535db10d6cbf1b0d32bf19ec79110f1a1543d9d1d22"
 metafile = true
 
 [[files]]
@@ -9759,7 +9755,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "59c21f304f9c5fa731bbee0e5832f8307676773ed9e3e93cfb645a22b5cc19a9"
+hash = "867f52070652fe0e7dc68d773dbbc43cfa224ee49dafef017cadd514db9919a0"
 metafile = true
 
 [[files]]
@@ -9784,7 +9780,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "69bb5ba318562384220d280b706f1a8db3843317856f1a0574c60a990b53987c"
+hash = "7d4ade96e0688b675076c5cce2068e96e9f374b2e7d9fac2529898f57d22c4d5"
 metafile = true
 
 [[files]]
@@ -10034,7 +10030,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithic-addon-mod.pw.toml"
-hash = "d8b716a53ee73be8294528058de65180089aca1a31133e03fe1b265a1b50d7dc"
+hash = "d4a743c99c3a207b3c771143145214802a12db0154bbc85d0103bb40add8c5de"
 metafile = true
 
 [[files]]
@@ -10324,7 +10320,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "7cc0818c423ecd688ee446451c7aec760de89868f95525108c02ed9c6ac3af6b"
+hash = "30b94b72dafc04ff185d1b63034f4c50fd1ddb63f6a7486fa5860b801fe82d00"
 metafile = true
 
 [[files]]
@@ -10394,7 +10390,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "69e9c8f1ae355e831fb08a4b8c9216a2671cfce0970404ab2ad32bcaded02cd1"
+hash = "fa7b142dc0fb4b6cdcb1cb23d326571d09da71684429c23c082c75f743768ae6"
 metafile = true
 
 [[files]]
@@ -10434,7 +10430,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-desire-paths.pw.toml"
-hash = "19d919765ba86703a8dcdec45a7fb8b7fba6b469e2fae7b089f69496505725a1"
+hash = "0267e1a290b7717636475d9e7ff419ce140e748f6cf4054609b8f0b3e4347cbd"
 metafile = true
 
 [[files]]
@@ -10563,7 +10559,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "81745eeaaf4d0ffad3d160a0b71cfddac757c6a34bc796cc501d1a69e4241784"
+hash = "c706b6922e64d6dfac55aa557a3ee99841ee95d8da266b80adb1431b0084db6b"
 metafile = true
 
 [[files]]
@@ -10573,7 +10569,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2d8caf83668f6d80ddac661636b44f9bcb74cb0e7ca18d62937172e0769ebc2f"
+hash = "fc87d67d950a471f25000ca5a5c0cc80eee30d6ab79e3a998bc7ac8a862ab3b7"
 metafile = true
 
 [[files]]
@@ -10600,5 +10596,13 @@ file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
 hash = "f44cb272d34cb3c9d86df11cf35db55c119a4d01796b5ac2fc436d53f5db73ca"
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.3.zip"
+hash = "d69c93c78daeb1c07bed1a4d7b932126ad36cad5fd17bef42f733c4cb84e417d"
+
+[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
 hash = "07d768019091796e9c5da8608005e054d233d8b2c1edfc61c0edd5206bd9c21a"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
+hash = "b7fbb224f5cde61e335be7bbaa022c751048925fb23a2c8ad0475f35608b56d4"

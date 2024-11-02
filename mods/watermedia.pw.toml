@@ -1,13 +1,13 @@
 name = "WATERMeDIA: Multimedia API"
-filename = "watermedia-2.1.1.jar"
+filename = "watermedia-2.1.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "1646beab81d706e2354cc4d17eaba1268415af03"
+hash = "5ddf4e14d71754ce2506c09dedd39be8393584b9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5853149
+file-id = 5864233
 project-id = 869524
