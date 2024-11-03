@@ -1,13 +1,13 @@
 name = "TFC loot"
-filename = "tfc_loot_from_mc-forge-1.20.1-ver.1.0.0.jar"
+filename = "tfc_loot-1.20.1-forge-ver.1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1c1804f8060b801605a05e202ee5ca9e1292e529"
+hash = "fc686a325b45fb15ec5f9e35141492c396ac56fd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5852209
+file-id = 5871314
 project-id = 1129601
