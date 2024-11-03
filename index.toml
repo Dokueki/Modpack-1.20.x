@@ -458,7 +458,7 @@ hash = "79b31bc684947839f48921cc1697ddde8b2cee922b562357726cb4f37c915e87"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "a01e7756a407157edfbbf326278f04bf209d1af71a858b25f4b6df3abe0365cd"
+hash = "dfc5ec89b83399ecec18743c51f210fe4c51716de2f6ada40eef6b16ec982d9d"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -950,11 +950,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "d8c44fa0862ce7de23809f970cc590c94ac594b81daa15ead4a4e639975c0a50"
+hash = "96c341a5a1d86f477b7468cf8ce866089241936f26560519cb925b64b8b9cc68"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "9ab6a2c557295f97f71a7030f6afd7251ac8cf1bf49312957ab75a2761337ddb"
+hash = "691e4212a3b15bc91ff244b7726ecc83dbf038f09f0ad3353053618cdd727fa5"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1110,11 +1110,11 @@ hash = "d11a345aa03046088e55b2cd425dfd9713a498762054c4a92f18db3ecbb9c4a1"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b045550caebe692d115d3474da3daa44c56a67710b820170cdfea97f8beb009d"
+hash = "ec7f93850c0df0b3b7734893b17af84fc8edae687532e2275820e4fa3d7bb22b"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a96d8811c5a2a762dfcf7708adf48a6b171dc97249f151c69a4641aca8b16ce7"
+hash = "aa5d35a908807008835093ac9e1bdd980777d665700a84ef140489110d935270"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -9987,6 +9987,11 @@ hash = "82a4731b5389478bf8e775ba898012644a2a4c02982424a78241a38ec1c58911"
 metafile = true
 
 [[files]]
+file = "mods/jadens-nether-expansion.pw.toml"
+hash = "9b13fd51427d1d7aa7fcc3cb9358a1dde1268a895147c672a1c89b986264bbb4"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "60813bd83b6042f9c218e718a990e81757681f19d6a4b9b3860f529c8b651960"
 metafile = true
@@ -10399,6 +10404,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "cdc10d50e62957f26a3ea5e0c28aaba4c26a893cfd9eb7e28bf7e681700ca0cb"
+metafile = true
+
+[[files]]
+file = "mods/tacz-js.pw.toml"
+hash = "d1c8f7e4ed2d82bec62c43d8940576d0cbc734853bb3aec12ffac5e0ecdb8eda"
 metafile = true
 
 [[files]]
