@@ -454,11 +454,11 @@ hash = "65dfb384385425816a20166eba03fc07fd8eeee0ca2df42a5d7753506b48c418"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "79b31bc684947839f48921cc1697ddde8b2cee922b562357726cb4f37c915e87"
+hash = "fbfacdbaebf99af6c8ff951ae354ac9a0db2096e29d60d7bfd520462522fe920"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "dfc5ec89b83399ecec18743c51f210fe4c51716de2f6ada40eef6b16ec982d9d"
+hash = "99bcb659778dcc948ab566828f4ffe45f4e8b40702b82838ce98eed6e06aab5a"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -937,6 +937,10 @@ file = "config/nerb.yaml"
 hash = "297c899fead9c3e358d9fc45edcc241f4ffbc25b71a8c1c2c84609d8110b8eca"
 
 [[files]]
+file = "config/netherexp-common.toml"
+hash = "6fa235798ee3b5cbd6b6850bc338d7816e85e2699bc26a007baf818525e13f69"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
@@ -950,11 +954,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "96c341a5a1d86f477b7468cf8ce866089241936f26560519cb925b64b8b9cc68"
+hash = "cb74cf8277488d30eef5e009130ed86b919242f4e98a4389679e12410fa6ccd9"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "691e4212a3b15bc91ff244b7726ecc83dbf038f09f0ad3353053618cdd727fa5"
+hash = "a64e5b0722a0cc9da119b125d9a7803307368b84dc00c4a2404c527c1af304ba"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1106,15 +1110,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "d11a345aa03046088e55b2cd425dfd9713a498762054c4a92f18db3ecbb9c4a1"
+hash = "805fb28dfb5411b5663917f8b36447fa1926a30aac3f8924a7f8b0e609df66fd"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ec7f93850c0df0b3b7734893b17af84fc8edae687532e2275820e4fa3d7bb22b"
+hash = "505a38849a5e24a8ca8fdea55e30488edafd71c1537d898ed590bc8ce0b21240"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "aa5d35a908807008835093ac9e1bdd980777d665700a84ef140489110d935270"
+hash = "04fc2d89f16655e93e432dcf21e53d3457dd3479bbdbb00a3791b824249e1535"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7053,6 +7057,10 @@ file = "config/tacz/custom/tacz_default_gun/tacz/textures/shell/9mm_shell_s.png"
 hash = "3810673be85e47a4de0cd83753236f2d2bc4cb8391f20f8724b5701aa4f31d4a"
 
 [[files]]
+file = "config/terrablender.toml"
+hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
+
+[[files]]
 file = "config/tfc-client.toml"
 hash = "c4ddd6b484340ea73d6b2e96c994a65a2bfbbcc0560e85adae1068159405703f"
 
@@ -7286,7 +7294,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
+hash = "e1cbc29c6ec6cc52dbb88264ccbe03af934a740085871e0fe59e2d7c52a4f045"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10409,6 +10417,11 @@ metafile = true
 [[files]]
 file = "mods/tacz-js.pw.toml"
 hash = "d1c8f7e4ed2d82bec62c43d8940576d0cbc734853bb3aec12ffac5e0ecdb8eda"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
 metafile = true
 
 [[files]]

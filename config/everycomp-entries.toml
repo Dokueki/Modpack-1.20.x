@@ -37,6 +37,9 @@
 		[types.wood_type.createdieselgenerators]
 			chip_wood = false
 
+		[types.wood_type.netherexp]
+			claret = true
+
 	[types.stone_type]
 
 		[types.stone_type.gtceu]
@@ -61,6 +64,9 @@
 			cut_scoria = false
 			cut_scorchia = false
 			cut_veridium = false
+
+		[types.stone_type.netherexp]
+			soul_slate = true
 
 	[types.cake]
 
