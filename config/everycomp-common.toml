@@ -7,7 +7,7 @@
 	#Creates a debug folder inside your instance directory where all the dynamically generated resources will be saved
 	save_debug_resources = false
 	#Sends a packet to verify all dependencies mod versions are the same on connect. DIsable if it causes issues
-	mod_version_check_packet = true
+	mod_version_check_packet = false
 	#Don't touch unless you are told to
 	debug_packet = false
 

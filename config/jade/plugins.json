@@ -75,6 +75,10 @@
     "cable_info": true,
     "parallel_info": true
   },
+  "fluiddrawerslegacy": {
+    "controller": true,
+    "fluiddrawer": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -208,5 +212,11 @@
   },
   "treetap": {
     "tap": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }

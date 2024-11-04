@@ -35,7 +35,7 @@
 			rubber = false
 
 		[types.wood_type.createdieselgenerators]
-			chip_wood = false
+			chip_wood = true
 
 		[types.wood_type.netherexp]
 			claret = true
@@ -86,8 +86,12 @@
 			window_pane = true
 			window = true
 
-		[entries.wood_type.functionalstorage]
-			1 = false
-			4 = false
-			2 = false
+		[entries.wood_type.storagedrawers]
+			full_drawers_2 = true
+			half_drawers_1 = true
+			full_drawers_4 = true
+			half_drawers_4 = true
+			trim = true
+			half_drawers_2 = true
+			full_drawers_1 = true
 

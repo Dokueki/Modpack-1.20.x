@@ -61,6 +61,8 @@
   "firmalife:string": null,
   "firmalife:tumbler": null,
   "firmalife:vat": null,
+  "fluiddrawerslegacy:controller": null,
+  "fluiddrawerslegacy:fluiddrawer": null,
   "framedblocks:framed_item_frame": null,
   "gregiceng:crafting_io_buffer": null,
   "gtceu:auto_output_info": null,
