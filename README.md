@@ -9,7 +9,7 @@
   <a href="https://discord.gg/AEaCzCTUwQ">
   <img src="https://github.com/TerraFirmaGreg-Team/.github/blob/main/branding/discord_logo.png?raw=true" alt="Chat on Discord" height="50"></a>
 
-  <a href="https://www.curseforge.com/minecraft/modpacks/terrafirmagreg/files?page=1&pageSize=20&version=1.20.1">
+  <a href="https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern">
   <img src="https://github.com/TerraFirmaGreg-Team/.github/blob/main/branding/curseforge_logo.png?raw=true" alt="Available on СurseForge" height="50"></a>
   <br/>
   <p align="center">
@@ -30,7 +30,7 @@
 
 ## Survival Modpack As It Should've Been
 
-**TerraFirmaGreg** is a Forge modpack designed to transform Minecraft into a more realistic and challenging survival experience. It features a carefully curated selection of mods, headlined by the intricate and demanding [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) and the technologically advanced [GregTech Modern](https://modrinth.com/mod/gregtechceu-modern).
+**TerraFirmaGreg-Modern** is a Forge modpack that makes the gameplay of Minecraft realistic and challenging, because it contains two of the hard and coolest mods for Minecraft, these are [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) and [GregTech Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern).
 
 This modpack synergizes the limited compatibility of TerraFirmaCraft with the best of technical mods, creating a unique gameplay experience. In addition to these cornerstone mods, TerraFirmaGreg includes:
 
