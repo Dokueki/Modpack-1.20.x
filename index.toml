@@ -458,7 +458,7 @@ hash = "fbfacdbaebf99af6c8ff951ae354ac9a0db2096e29d60d7bfd520462522fe920"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "9eed1bc83b171ded882ba379ee209b72a962b34b0c65f5fa1fa8fd3d4589af37"
+hash = "f3c13a1156f88a72cc20b4a580f7d979e64c3f44add9d1cc7b81f6a7097538a6"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -954,11 +954,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "027c184df43f429c9824ebdd3a5f11bdbcf490cf58c108d7a5f8b474125555ef"
+hash = "12239a1d06ed24f9dfc605cd57a9807055721e79644ec91934a35b5b4e259e20"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "0b8eb4076525bff5953fb32c855a69f09a8d36eb879ca53f6124f105704d6a6a"
+hash = "32800b3fac0e8ac4c9b50de104b5c8f62ec1a0cd792be75de08e40b2e171b787"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1114,11 +1114,11 @@ hash = "805fb28dfb5411b5663917f8b36447fa1926a30aac3f8924a7f8b0e609df66fd"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4663deda80ddac5021b4b79b37cf2f17aa4aa7946268f79a1eabc3462caec452"
+hash = "de32feeeda84932573220efdf2eb4437913d168fa1705e4e9c9785a10b034cdb"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "0735cfdccc6c6c4a37bd0f09bbff007cdc3c3ea409af2646f983f346a33ab4b4"
+hash = "527e2217fc92271b6a824d68c3e4ce2e2fa3f6d1e84a6ddf317bebf4893a51f3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7294,7 +7294,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
+hash = "17213afc7a56202160af09cb64f3632c243a87da8382a658d8a296e1d7103c35"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7326,7 +7326,7 @@ hash = "383f0fcbcd2c74ad3c0479ab93442b31fd54f7af4d6835e12faf488dfb655232"
 
 [[files]]
 file = "defaultconfigs/beneath-server.toml"
-hash = "90d95059c64bf6f458428fabf2d44d8ba3c34edbb482ce676f47bd6c64b25305"
+hash = "996da84956ffbdbd13aa2c73186e20f8ffee3fe5c3221e9299e84089ceaaf308"
 
 [[files]]
 file = "defaultconfigs/computercraft-server.toml"
@@ -9486,7 +9486,7 @@ metafile = true
 
 [[files]]
 file = "mods/beneath.pw.toml"
-hash = "15d01a9e04ebecaef0276de28d7fffcf6def118f6e092b3f25735edfc88339ba"
+hash = "bb2c1183130fb5baeac57b280ad16d591aa3fb133a01b2990342dd21c952c9eb"
 metafile = true
 
 [[files]]
@@ -9871,7 +9871,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "a4a0adb85269712ade2399503b6365b87847cac8f34f674c535564bda184bcce"
+hash = "e7a40fe1098ebe6927703ba59660eec7b90777cd00cfe9baa8fe48e0a888e2b8"
 metafile = true
 
 [[files]]
