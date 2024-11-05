@@ -114,7 +114,7 @@ hash = "8c18856003f1c363e48e140ee3c2a833208d59401dab04534fd023e3b7e964b5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "1c6727d5c9f057b3365189116dac206ba8a48d429e9d2a4d7601cb8bc5b1ba5b"
+hash = "55a3af94b92b7db31c716d21bddca48bda86da90473ee2287c66ac76c1a87c9f"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -458,7 +458,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "e741d68a78344a5c5a31501c3356ece126e71e2616728337d82979232732e879"
+hash = "655523029322537df13987cebc3e3ae20132d1e5b1da3aba95129f86a593a421"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -954,11 +954,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "b78f2aba0ab02a8204e774d4cfb9b6bcdba6a74a987b908c89fd4ea450b634d8"
+hash = "3ffbc678bd1240bfc4f074668f82efc723342e7aac7e84a9756707df63a84be9"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "1dcc29460bb1ea5dd354be72b483dea58f1e4e9326139d8bf84b7ab26c1ba4dc"
+hash = "96ca875874e2393d8daece11bf42d46ffe27a03f996439f14b66439e6a9e808d"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1114,11 +1114,11 @@ hash = "805fb28dfb5411b5663917f8b36447fa1926a30aac3f8924a7f8b0e609df66fd"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "735d2b606375fc45643fc28ea10a4b8597fa4e0df35874d3e670c28daa4425d1"
+hash = "c50c26abf63289024a1e270c4bb6795ed8e08295f006732644f9125782e9f845"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "775dcf47d624acbe1a783c08a34b195badfdf65965de89d7130db0ea13759407"
+hash = "77225c55adff10f939033e59325228f9767e5eab2e299f82b059912517b9b0d3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7302,7 +7302,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "6ca6352b1ce7c212c52383ef11083b7d218c8ff19cb609574a66338701c1e064"
+hash = "4cf6c0ae8f619e5d1d2386483e826183ca9102004eaa971a1586a57d59b27f83"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10002,7 +10002,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "82a4731b5389478bf8e775ba898012644a2a4c02982424a78241a38ec1c58911"
+hash = "de3310ed1f65e3efa94a7112501307d6439822c7b080c472363e4a3b7eb2e94c"
 metafile = true
 
 [[files]]
@@ -10132,7 +10132,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
+hash = "a2aa83a2702bf9d02a5b6f48ccabb1cbce2708c7e9de40e75a06b673494d8f46"
 metafile = true
 
 [[files]]
@@ -10432,7 +10432,7 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-js.pw.toml"
-hash = "d1c8f7e4ed2d82bec62c43d8940576d0cbc734853bb3aec12ffac5e0ecdb8eda"
+hash = "1cd7edb94665068343a539fd61d7f2dc66970e89cd09be4d2f63549fa7ac2862"
 metafile = true
 
 [[files]]
