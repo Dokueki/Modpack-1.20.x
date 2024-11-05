@@ -114,7 +114,7 @@ hash = "8c18856003f1c363e48e140ee3c2a833208d59401dab04534fd023e3b7e964b5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "55a3af94b92b7db31c716d21bddca48bda86da90473ee2287c66ac76c1a87c9f"
+hash = "1c6727d5c9f057b3365189116dac206ba8a48d429e9d2a4d7601cb8bc5b1ba5b"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -369,14 +369,6 @@ file = "config/decay_2012-client.toml"
 hash = "33b4d174854182fc9891d71c150a29ef7acb91f35ebc8369ab662730ecbcf63f"
 
 [[files]]
-file = "config/deepresonance-client.toml"
-hash = "c4f7e4f3d4a9e4485c8d97ed2820881b7603f02d712e3bd2f701ce78008aa1b2"
-
-[[files]]
-file = "config/deepresonance-common.toml"
-hash = "c79966f928cc774c3cef56d6f1484ca2465dce791643c85a166dda84224dcdcd"
-
-[[files]]
 file = "config/defaultoptions-common.toml"
 hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
 
@@ -458,7 +450,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "655523029322537df13987cebc3e3ae20132d1e5b1da3aba95129f86a593a421"
+hash = "cacee427e1c2dc412eae8aa31694c577a56e4740840111fc1e9cd20f98adcf92"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -838,7 +830,7 @@ hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "6c93ef87ff25a12396dfadc4fe3377b4c7ca66ce8a4299e47801b2b327a90b94"
+hash = "8b8dbf483abe210cae4043cc30f2dfcf064e84be7d03b816abc27003b39a620a"
 
 [[files]]
 file = "config/jei/world/local/New_World__253/bookmarks.ini"
@@ -954,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "3ffbc678bd1240bfc4f074668f82efc723342e7aac7e84a9756707df63a84be9"
+hash = "059afa0a1f29f13224b709c50c9c860b5e17a08e198a218b9b86bd6c3179e0d3"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "96ca875874e2393d8daece11bf42d46ffe27a03f996439f14b66439e6a9e808d"
+hash = "fa231903391d85c4db3006588b9affc8f5732b208b9039065eb93b06a5c246c0"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1045,18 +1037,6 @@ file = "config/resourceful-config-web.json"
 hash = "fb79923205b2cc8185b1786296edbc646c6c6cd6a150cbf109fa167ed89c83e4"
 
 [[files]]
-file = "config/rftoolsbuilder-client.toml"
-hash = "5c17254a35d8fdf5d4bab537a40cedfcb9a02b398c915c82dc4a657a13a6b73b"
-
-[[files]]
-file = "config/rftoolsdim-common.toml"
-hash = "a20418b35a349fd095d179878a20de1413b00899da101b20f68aba5090213a8f"
-
-[[files]]
-file = "config/rftoolsutility-client.toml"
-hash = "77b0594f22ea4de4e3f5d45d3426829bae7fa13daa351c39094fab7eff1caad5"
-
-[[files]]
 file = "config/saturn-optimizations.toml"
 hash = "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3"
 
@@ -1110,15 +1090,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "805fb28dfb5411b5663917f8b36447fa1926a30aac3f8924a7f8b0e609df66fd"
+hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c50c26abf63289024a1e270c4bb6795ed8e08295f006732644f9125782e9f845"
+hash = "a1bf5feaf738a726a488a2eb405ebee1dc3da87d7a06094223e4f62cacafea9c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "77225c55adff10f939033e59325228f9767e5eab2e299f82b059912517b9b0d3"
+hash = "708c19e21bc3936fc3c4bc793d75fb2c9927c548392da739c4240c7c25fbf5e3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7142,15 +7122,15 @@ hash = "8da919d5ec927450c66497e2dba34aaa2e1993d017ee7654f3bdde26d09686f2"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_addition_client.schema.json"
-hash = "8b5fd6db8a59e64923d1dfc6ba6c43408a7748a83b4f0984a7bf0c7f573080a5"
+hash = "e33f0b89a90cace51e1e527fbde331a6b2121148bd2a5a794667ec0483b8feb7"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_addition_common.schema.json"
-hash = "af4d4dce0d5eba4968551eae92dea8a90394d598933a3ef119b46b57c1b2f285"
+hash = "9239d883351cca19e85bc4007be1006681f3689356efa84616f70d0132d7a831"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_addition_server.schema.json"
-hash = "2f90e120149b8cb3d6d932bce0adde3a98406a2fe54c2497f2467665c92e415d"
+hash = "9c89d63ebed81c59cdaf035bae870e28a199e83782743da96aafba361d8c6d13"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_client.schema.json"
@@ -7302,7 +7282,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "4cf6c0ae8f619e5d1d2386483e826183ca9102004eaa971a1586a57d59b27f83"
+hash = "d908ace7beb41d9547345a51de278cf3d6d6888a33d86d5a69d481b365c1c98b"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7367,10 +7347,6 @@ hash = "31818944254f689e486489e6ca4fb63a8a409e099e5f3ef99bab39c4d6e8008a"
 [[files]]
 file = "defaultconfigs/decay_2012-server.toml"
 hash = "34e9706a09120222e8a7053e74bd691f01f480a15d533d426ec9c28ae990f044"
-
-[[files]]
-file = "defaultconfigs/deepresonance-server.toml"
-hash = "3ac421ec4f9afff74f29ec6f467aeb0862ea16b0e2d4b7bf3261ea12d3753a0e"
 
 [[files]]
 file = "defaultconfigs/etched-server.toml"
@@ -7471,26 +7447,6 @@ hash = "42ae025e5b4be24c82d0b4b4f079c852060f3506cf8d374dcaf2e0be034cfbe2"
 [[files]]
 file = "defaultconfigs/railways-server.toml"
 hash = "8bb806db99040ea909537e1baa2c4621f136f4f85d15e2174cbe1754c62f66d8"
-
-[[files]]
-file = "defaultconfigs/rftoolsbase-server.toml"
-hash = "d1c84449142828b045f1519a2d1a4dec9ab68eef7e447a674fa3a3cfdf131636"
-
-[[files]]
-file = "defaultconfigs/rftoolsbuilder-server.toml"
-hash = "08f5aed44b45ececfe81acdf51ce18ac1ba115b3358d2b8f609c3f92236a4010"
-
-[[files]]
-file = "defaultconfigs/rftoolscontrol-server.toml"
-hash = "eb880332d63179e53bd689fb2f8f4805e5c64cced26c47717efa9e237b5c6787"
-
-[[files]]
-file = "defaultconfigs/rftoolsdim-server.toml"
-hash = "9d80af5edbea32a0012c8ad5bf2e4fa2b6ff9a45663ab14fd0803040f9a4d066"
-
-[[files]]
-file = "defaultconfigs/rftoolsutility-server.toml"
-hash = "4af6854ea954a696ee174444bd6528f1a63b582172d4c2f6addc9fec10df4020"
 
 [[files]]
 file = "defaultconfigs/ritchiesprojectilelib-server.toml"
@@ -8067,38 +8023,6 @@ hash = "8be26d56c747e1c63015b8d9708d09cdc43e43469ff899a98a38fdcb1e8a985a"
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/gameplay/fishing/treasure.json"
 hash = "f82a2c54e8f93803b88b2123af81ebd9b0d64e229253627a3b9e400e098839dc"
-
-[[files]]
-file = "kubejs/data/rftoolsbase/worldgen/configured_feature/dimshard_dimensions.json"
-hash = "4eb3a3ee09988fa46f515e4d5962aaf276a8ace3da167aca343c61b283864e21"
-
-[[files]]
-file = "kubejs/data/rftoolsbase/worldgen/configured_feature/dimshard_end.json"
-hash = "e328e2cfe85fa19f19364a398f3cca6057066460185966c0a09f14d5c437580b"
-
-[[files]]
-file = "kubejs/data/rftoolsbase/worldgen/configured_feature/dimshard_nether.json"
-hash = "63e171c6998b812adcf09d5e8894606acf8aae08ba872ffc1347bacca5e714cc"
-
-[[files]]
-file = "kubejs/data/rftoolsbase/worldgen/configured_feature/dimshard_overworld.json"
-hash = "4eb3a3ee09988fa46f515e4d5962aaf276a8ace3da167aca343c61b283864e21"
-
-[[files]]
-file = "kubejs/data/rftoolsbase/worldgen/placed_feature/dimshard_dimensions.json"
-hash = "8765fd5c141da46b0cecd8a03574e977c13dc97472e449e9b85b016eeb6e1c81"
-
-[[files]]
-file = "kubejs/data/rftoolsbase/worldgen/placed_feature/dimshard_end.json"
-hash = "f1dafcc600b452ae3835a8de2fd7a793cc15611d4cfc64af0e25093e33c5f295"
-
-[[files]]
-file = "kubejs/data/rftoolsbase/worldgen/placed_feature/dimshard_nether.json"
-hash = "eea8a7161fea81c647569fe4eddc823fa17b2065e79b8836ec8aa2c6cc434a52"
-
-[[files]]
-file = "kubejs/data/rftoolsbase/worldgen/placed_feature/dimshard_overworld.json"
-hash = "7f7955c2615d689ff0d88423ead567f4bda1a9ac62c31dd6791f94e385fb9ee3"
 
 [[files]]
 file = "kubejs/data/tfc/loot_tables/panning/deposits/cassiterite_andesite.json"
@@ -9217,14 +9141,6 @@ file = "kubejs/server_scripts/railways/tags.js"
 hash = "d35e5628394249fcb6225f9d5dbc36a1c4354b4bdad9f37678ddf861e7dddec8"
 
 [[files]]
-file = "kubejs/server_scripts/rftools/recipes.js"
-hash = "fe2abdaa8f4d1b48ed4d10def082c1e9ea9d2f993cfd2856ec5e94d0286a4da4"
-
-[[files]]
-file = "kubejs/server_scripts/rftools/tags.js"
-hash = "db014ebab2e8655723a07abc474f4652e74f8ecb6b8269867ec08f77665ebb7d"
-
-[[files]]
 file = "kubejs/server_scripts/storage_drawers/recipes.js"
 hash = "983b8a0cd38599aa21a416b9745e01499c761bd2a84a268f08dfdb9859eadc04"
 
@@ -9738,11 +9654,6 @@ metafile = true
 [[files]]
 file = "mods/decay-2012.pw.toml"
 hash = "4b0d9fd9d590f7eeaaacd0438c273529a4717d1cd8a1960a60dbd8bf1269029a"
-metafile = true
-
-[[files]]
-file = "mods/deep-resonance.pw.toml"
-hash = "8a664a47b97fa9e2dddea761e9c18d620695e090eeb86553c67bd52e2f6a6680"
 metafile = true
 
 [[files]]
@@ -10316,31 +10227,6 @@ hash = "6a30514da0ab75c8cf96a2b3be3f4a667d0496cea73bd4ca321b5de09bcc28af"
 metafile = true
 
 [[files]]
-file = "mods/rftools-base.pw.toml"
-hash = "ca582093870dc726c1ce366843b8aee8ee761550cb4daed58d6f5ac9be4af956"
-metafile = true
-
-[[files]]
-file = "mods/rftools-builder.pw.toml"
-hash = "9e8a1ea51980865c648e6f45d7b0b78962ab5f933c2a8f4aaf350abe3091687c"
-metafile = true
-
-[[files]]
-file = "mods/rftools-control.pw.toml"
-hash = "e45129647ef1e53075ea074c60a640fc080d2e6086f6e115f2b065ff2156ab26"
-metafile = true
-
-[[files]]
-file = "mods/rftools-dimensions.pw.toml"
-hash = "31330396a5a0539a4993c38a7344cfef327e5da7d62888174bbf4e5397f56aca"
-metafile = true
-
-[[files]]
-file = "mods/rftools-utility.pw.toml"
-hash = "700fd4c9a5df3dc32fd01aebaeb038bc223ebe8d32e45b2997b8942538b08a80"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "d218175a2fc0fd2fdb907ed55a214f0163d9bcabb75b47ccdb6f4704c3bd5dd0"
 metafile = true
@@ -10501,11 +10387,6 @@ hash = "e676640c01f1b6af825aa32f6f9a97aa39651549fcb102f6d5dec8b86a264a43"
 metafile = true
 
 [[files]]
-file = "mods/tfc-loot-from-mc.pw.toml"
-hash = "4c4b2957384308a4e08535f0bfc523a83cfbb9d0e307a76fdca193c16a08ce61"
-metafile = true
-
-[[files]]
 file = "mods/tfc-regrowing-forests.pw.toml"
 hash = "117818dfd61af3fbb21be2d19b4dd92fc40cfb6d118447531aa7ab47c9ef96f8"
 metafile = true
@@ -10596,7 +10477,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs-addition.pw.toml"
-hash = "5260b914a9a9a3f90a8f19181b3237a3b8ca3157b616948b4844cb77cc4ef3f2"
+hash = "f7d7d682f460c399b6cce9c1a20049fb182487bbae2081f739e74b295ac7c666"
 metafile = true
 
 [[files]]
