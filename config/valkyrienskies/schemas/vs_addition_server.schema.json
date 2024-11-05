@@ -66,6 +66,10 @@
     "create" : {
       "type" : "object",
       "properties" : {
+        "copycatMaterialMass" : {
+          "type" : "boolean",
+          "description" : "Not available yet. DO NOT OPEN THIS!"
+        },
         "encasedFanMixin" : {
           "type" : "boolean",
           "description" : "Enable encased fan to work between ships"
@@ -146,6 +150,16 @@
     "disableSomeWarnings" : {
       "type" : "boolean",
       "description" : "Disable some annoying console logs :)"
+    },
+    "experimental" : {
+      "type" : "object",
+      "properties" : {
+        "explosion" : {
+          "type" : "boolean",
+          "description" : "Enable another explosion for ships. (Needs reboot & may have an impact on performance)"
+        }
+      },
+      "additionalProperties" : false
     },
     "getEntitiesAabbSizeLimit" : {
       "type" : "number",
