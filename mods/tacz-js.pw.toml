@@ -1,13 +1,13 @@
 name = "TaCZ JS"
-filename = "taczjs-forge-1.1.1-mc1.20.1.jar"
+filename = "taczjs-forge-1.2.0-mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2a07a32272eeb51f6dd3d7f63d4fbbfffddc4875"
+hash = "264edca58c6f927b2b5781bf1cfd1e392cad3c9d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5881294
+file-id = 5882725
 project-id = 1130998
