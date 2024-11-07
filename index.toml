@@ -114,7 +114,7 @@ hash = "8c18856003f1c363e48e140ee3c2a833208d59401dab04534fd023e3b7e964b5"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "62c62f9a6f63893ddda6deb11a4a2f9fd16d157a3e50f2b4a78ea129d588fd3d"
+hash = "1fc080a1855b3fbbf7c1c614bc6da08672623e1041e1bc8b83ecf1c558200e41"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -450,7 +450,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "c85d1db36efabb112cf0ba2afb625383591823cdafcd737f2091ec65703e0916"
+hash = "5d9fc34ac64ce10a58269d68f87b64e6699454886116e68e76c76d4b57c0fd41"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "b292c33a48b98a94507a351e8beea5b6afb42a466547d0a438576831b1788aaa"
+hash = "da9ee8538322179ae3e279cc1a11f6d05b6201b818c56929e52ea03e8c9f331d"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "8150c6d77ad81130025abb0c81661a5f9991995da18e4a24e2eb0f3d06f74e69"
+hash = "b83fdfaf21829b50636ffbbcd620842fbded195bf626fde6d969eb7b0e499644"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,11 +1094,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "00b0d1bbbbd40c204ecd965847b2319009c1a05429754a3bc39b5825cbce428a"
+hash = "f0c8613c124c22f2c1cb9bf196050bb5d54fc99cae23578f56f0ea8360e88665"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "51c67cdc2f3f97e3ae348ea722f643df5e97809bbb169f90d9c167dbaa5c30cd"
+hash = "7bd4f4566194e508974bbf86a83d0f829cc637462524857b23f2f72569429eaf"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7282,7 +7282,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "e1cbc29c6ec6cc52dbb88264ccbe03af934a740085871e0fe59e2d7c52a4f045"
+hash = "d908ace7beb41d9547345a51de278cf3d6d6888a33d86d5a69d481b365c1c98b"
 
 [[files]]
 file = "config/xaeropatreon.txt"
