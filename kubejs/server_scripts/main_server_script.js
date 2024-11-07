@@ -123,7 +123,6 @@ ServerEvents.recipes(event => {
     registerMinecraftRecipes(event)
     registerMoreRedRecipes(event)
     registerRailWaysRecipes(event)
-    registerRFToolsRecipes(event)
     registerStorageDrawersRecipes(event)
     registerTfceaRecipes(event)
     registerTFCRecipes(event)
