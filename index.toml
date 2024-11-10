@@ -450,7 +450,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "e370cd8ea7239db6ddf1855c37fb276242b431369194cfa1e541bf7e39da8dc0"
+hash = "ffd93b8b8d512984f5d8966d57ea59c3052fe5f717aef8500cce335cc6526478"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "d5e325db6144673e51e48859e99097c0b3a3a229837e906d6b88868f5fe6c073"
+hash = "a2289c333f3f578c6339ec65ca025438e59caf83f908ba50dc4be242b0848479"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "904eb9a36b1428825fcafb140e332fa4f1b92ed2a13497befe3ffa36cd2cb874"
+hash = "bb823632a69f177a814be651bf682aae11a813b9c76adf97c8775bdf4bbd24f8"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,11 +1094,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "bbf2fbf45fe01b84aaffde779110a7c2f52dddeb8062c70ad45ff400bbe22a05"
+hash = "58d1f1dfd8fd0eefe7494cb054f22cd83f7fafd35c09f677706964c567b5351d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "09c84a493ffccb49ff00116a4291c84b3ae6d6ba5672ecc58a4901b176fdee55"
+hash = "31b72c30c557864d1aca2a0d57081c7f88cfef5a1683370a1fb7006c3384b763"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7282,7 +7282,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "1d67c4d9e9d5030ad25f7533015b6fe901fe85ae7ce5f5eea83ed6fe7a9e5893"
+hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7463,6 +7463,10 @@ hash = "3be027505b61bb409ac0b8e12a50f4b46c0265a12eb46efa20f5b36d38f99a3c"
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "38738e4cd464aa79098e2ab02e14f606cb599335cf1ac177b80480aa67a43c87"
+
+[[files]]
+file = "defaultconfigs/tacz-durability[SERVER].toml"
+hash = "f48aa38dec57454038c853679d62f4e9e62168ba923f8e70164da109ada8017f"
 
 [[files]]
 file = "defaultconfigs/tacz-server.toml"
@@ -10120,7 +10124,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "2386d15e4d3d2e79490d59fdf997357aa65b32fc186999cea2cb82ea56aad407"
+hash = "7f517c9c9f2aedf32b72d72882aef48fc36d74c3df591e982fe12ac6dc5d0524"
 metafile = true
 
 [[files]]
@@ -10635,7 +10639,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3334886cc6363bf44668a6611f2018cba24c93190fb8d1aa8ab67528be7eab2c"
+hash = "c702f86739b460198ad50590d0b6bdd030588af3b9c7c05ece4b74a5fb45addc"
 metafile = true
 
 [[files]]
@@ -10705,7 +10709,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
-hash = "c99ce51e9f4d59caacb36295e3708b2255ce973d99227d8dbc0348cc82f9da67"
+hash = "830a3f07be995badf36595ab24c1d2cf77610e761b2edc8fcc4a2cfb573b0406"
 metafile = true
 
 [[files]]
