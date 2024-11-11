@@ -450,7 +450,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "ffd93b8b8d512984f5d8966d57ea59c3052fe5f717aef8500cce335cc6526478"
+hash = "46cdf7622f8eb1ceffa526ef37caa152ffa6db8e6c5903c1223944458c291313"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a2289c333f3f578c6339ec65ca025438e59caf83f908ba50dc4be242b0848479"
+hash = "8326ee8809996d06ebc4714f82f35313fa52fa6b9866ff844b8b08c6f51125d2"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "bb823632a69f177a814be651bf682aae11a813b9c76adf97c8775bdf4bbd24f8"
+hash = "6bbcbead5c284b61b9305f2f07b86cec930e9e6c5717b011830c8df0a218fb34"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,11 +1094,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "58d1f1dfd8fd0eefe7494cb054f22cd83f7fafd35c09f677706964c567b5351d"
+hash = "8d52728b5dd0cfc1fe763c2b8d61f9d2fe9ad88a4fdefe3a887593424774d045"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "31b72c30c557864d1aca2a0d57081c7f88cfef5a1683370a1fb7006c3384b763"
+hash = "56d446f60c393534c3b1147c493a8cd3671bc26e10d8a2bc412ac473a3de3171"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7282,7 +7282,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
+hash = "e1cbc29c6ec6cc52dbb88264ccbe03af934a740085871e0fe59e2d7c52a4f045"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7463,10 +7463,6 @@ hash = "3be027505b61bb409ac0b8e12a50f4b46c0265a12eb46efa20f5b36d38f99a3c"
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "38738e4cd464aa79098e2ab02e14f606cb599335cf1ac177b80480aa67a43c87"
-
-[[files]]
-file = "defaultconfigs/tacz-durability[SERVER].toml"
-hash = "f48aa38dec57454038c853679d62f4e9e62168ba923f8e70164da109ada8017f"
 
 [[files]]
 file = "defaultconfigs/tacz-server.toml"
@@ -10489,7 +10485,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "0511a8b14b2933e0571f494a3278d98ac4e877c50643014318ca352ce4094a4a"
+hash = "c08bb05d70c1b7717dcb2842b8513327f5b3b4985dddd7b823f2d45b72d01041"
 metafile = true
 
 [[files]]
@@ -10714,7 +10710,7 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-js.pw.toml"
-hash = "f744d1a042d23f06145b0785204536b9b9f8f282e53f514181a8fe4f675bf74b"
+hash = "7ce5d8f8f75049e8603288ecc09a98e84fc75448836ae726fedc78983c78a41a"
 metafile = true
 
 [[files]]
@@ -10888,7 +10884,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c706b6922e64d6dfac55aa557a3ee99841ee95d8da266b80adb1431b0084db6b"
+hash = "2e4e245c7f8abd70ebb1e378788c149a2e23e36da850a92764a6098e62a47179"
 metafile = true
 
 [[files]]
