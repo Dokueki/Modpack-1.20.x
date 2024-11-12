@@ -450,7 +450,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "46cdf7622f8eb1ceffa526ef37caa152ffa6db8e6c5903c1223944458c291313"
+hash = "950b3e1a12219a00d6a78c6a988b1c91f5ac3d278254437da4d2bc6a0dbd4f77"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -594,7 +594,7 @@ hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
 file = "config/fml.toml"
-hash = "9f91a9dd384d0467155fed66180523cd1884f9214eefa19120db0ba21300677c"
+hash = "4c9fd965cd3a28c26a5c709b1cfffee46895f21facd24576f82e637fcacffa7a"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "8326ee8809996d06ebc4714f82f35313fa52fa6b9866ff844b8b08c6f51125d2"
+hash = "37d5ff1877f2c20767890cc085b1a01db724b76b5ce83117fdc448f54cb8efe1"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "6bbcbead5c284b61b9305f2f07b86cec930e9e6c5717b011830c8df0a218fb34"
+hash = "b08f69cd91d61bd3be6b93958db51fcd04104d8dcbc4338d1f3d855191eef09e"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,11 +1094,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8d52728b5dd0cfc1fe763c2b8d61f9d2fe9ad88a4fdefe3a887593424774d045"
+hash = "fecf7069c4230a561f3293c6c7e56c562559da5202259c1d6198c1ffbdf1a932"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "56d446f60c393534c3b1147c493a8cd3671bc26e10d8a2bc412ac473a3de3171"
+hash = "a31342ec4dcc39fd67115a0b51de7a9ce89006580de4c73abe55391bb9e1d9fa"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1127,6 +1127,10 @@ hash = "381a229fef689955c79fdad67d71c3a9494de8230490e18690c0d838869d4781"
 [[files]]
 file = "config/tacz/backup/tacz_default_gun/backup-20241011-100044-cc1077ce4e820d4c6566f02b1fa67ca2.zip"
 hash = "a2d6395165d7c8a1fe592b7f1ff85f08e19de8f1262398f634ab782a7daf9c12"
+
+[[files]]
+file = "config/tacz/backup/tacz_default_gun/backup-20241111-201221-0aa1c66aed2f96bf219e14a8aa1e6d13.zip"
+hash = "dfb8d66fd4bad47c32171d20457e72660b4990af1d4939fd54ffd5ce5bf0d3ea"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/12g_display.json"
@@ -7282,7 +7286,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "e1cbc29c6ec6cc52dbb88264ccbe03af934a740085871e0fe59e2d7c52a4f045"
+hash = "a9e1eed8492b1d8870d04bc2a656ffd54fa6474eda60a6de155478e45f0ed365"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10485,7 +10489,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c08bb05d70c1b7717dcb2842b8513327f5b3b4985dddd7b823f2d45b72d01041"
+hash = "9631d9d1a4399586bea811b013d542a1b504a4c75d4f95f09e12881bdeee7fa1"
 metafile = true
 
 [[files]]
