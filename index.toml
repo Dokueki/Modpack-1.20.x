@@ -450,7 +450,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "950b3e1a12219a00d6a78c6a988b1c91f5ac3d278254437da4d2bc6a0dbd4f77"
+hash = "40d2814d6be9527ac4db5934ae3781d9cba0eff0bad29414f16cf1552af4ee35"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "37d5ff1877f2c20767890cc085b1a01db724b76b5ce83117fdc448f54cb8efe1"
+hash = "d1a615522ac0d603dc9d7b83a1513bf0bb8251aeb8e94fa7f7c990130670663a"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "b08f69cd91d61bd3be6b93958db51fcd04104d8dcbc4338d1f3d855191eef09e"
+hash = "d9efc726441bc8485e2305b0b8dbd10ed71dba6dcafafe4893e887f5abe41505"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,11 +1094,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "fecf7069c4230a561f3293c6c7e56c562559da5202259c1d6198c1ffbdf1a932"
+hash = "abf3af296247eb529a959849277ae501f6efc6f1d22f02749944fbb59ad0723a"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a31342ec4dcc39fd67115a0b51de7a9ce89006580de4c73abe55391bb9e1d9fa"
+hash = "512a96a5fe61c51e1e3612a38308b486c2ddd1f69e8843a2d13951d6e6549827"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7286,7 +7286,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a9e1eed8492b1d8870d04bc2a656ffd54fa6474eda60a6de155478e45f0ed365"
+hash = "6ca6352b1ce7c212c52383ef11083b7d218c8ff19cb609574a66338701c1e064"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10010,6 +10010,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "cb7b31c785f6e7466951c7b2b221d9c89f065e7930a36ac1a575e40d54404bb3"
+metafile = true
+
+[[files]]
+file = "mods/create-tank-defenses.pw.toml"
+hash = "c58b3c215d107ad651567522d6f8ea19248c20691b20ae47d07fe42127173c19"
 metafile = true
 
 [[files]]

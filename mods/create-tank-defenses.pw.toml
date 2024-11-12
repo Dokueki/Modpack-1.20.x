@@ -1,0 +1,13 @@
+name = "Create: Tank Defenses"
+filename = "CreateTankDefenses v0.80.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1faaf93d247e642386a8fe9a665300a8fd387a45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5895543
+project-id = 1016912
