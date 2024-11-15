@@ -1,13 +1,13 @@
 name = "GregTechCEu Modern"
-filename = "gtceu-1.20.1-1.5.1.jar"
+filename = "gtceu-1.20.1-1.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "46b01e04cb68ac8a67884fde24bcd75dcc906eba"
+hash = "60a6972331fbe2b7b8ea72fd39711c73f4c2ef36"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5901677
+file-id = 5904722
 project-id = 890405

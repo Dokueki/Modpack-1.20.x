@@ -450,7 +450,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "eeeb5bc1bcfe196ba2f2c16932bcd7c7ca6c8deea1ba0456a3106abc76714e9d"
+hash = "3b772ed244d5ffc112e00517bcc8e4e602687c898f42432e814e2346d83c7a05"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -698,7 +698,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "3b0695e1ceec60694664721139d363d5627169e2e4540121db3029a473631220"
+hash = "bd272ac55a2ce1b0dd050f63a4232702f0526c1622b13c56baff67f6d5dfecce"
 
 [[files]]
 file = "config/ichunutil/ichunutil-client.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "fa07e3ad8fcb62ff3a46470ad383f0baed241b56204b7e8808f5f55b877c72c5"
+hash = "b813b0a9a253b2c9538f9f186579bcdba4ffca814b4bd37604c0da792c9f72c4"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "7c58a1f661bdbdb4a0791702cf411f3ef62dc9fdcaca0dd4faf67ca6f5b92fae"
+hash = "a403434ff746b799e5941fe8ebe7fa6e96464bbde21e7f79d90fbaa2ce13e4df"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,11 +1094,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "797697198ed975b2b9db54f481545d1ed9fc10dbf42bf01595fdd1208b07be13"
+hash = "849fc84abee9484fe7b381bc514e4c1b58b221b402c2806cbe28a6d720329140"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "2f7ee766f0af76f7ba0a9e002ad15454f3ea2a9c942e516077b35e1578c45bd4"
+hash = "c5db78974cdfc12e26790d9125f1bbf930b2160ec3d5c05a329c16e4621df17d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -9889,7 +9889,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
+hash = "cbaf6a6e33c624f4ceeb335bed920dfc1cbdeef1492aaaa3e24b08772e148613"
 metafile = true
 
 [[files]]
@@ -10264,7 +10264,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "5b29fb937522d15612cc9d62dc2f35a4ea91c6aca3597bc0c5634b2b3442e29e"
+hash = "f03986866f0b6fccbc38d87da4653f6cbdaacfa4786254ed656928b3ff786bc1"
 metafile = true
 
 [[files]]
@@ -10614,7 +10614,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "df91958db1f1c82ea5d4fe933a4893cdefe6861e3aa2f25d4c4a39a062bddd15"
+hash = "d99946cb99e0d71fc13f2ff0e87108618b1f42486ff0ab3c3b99fa40c66efc9a"
 metafile = true
 
 [[files]]
