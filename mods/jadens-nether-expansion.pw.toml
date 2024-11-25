@@ -1,13 +1,13 @@
 name = "Jaden's Nether Expansion"
-filename = "Jadens-Nether-Expansion-2.1.0-Forge.jar"
+filename = "Jadens-Nether-Expansion-2.1.3-Forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5492fb8ca31a111823d0f00658993a32691bc508"
+hash = "be64a0e7c9fb27866fc1421740410ab773981412"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5845326
+file-id = 5925845
 project-id = 1111833

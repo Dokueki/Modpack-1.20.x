@@ -42,11 +42,6 @@
     "computercraft" : {
       "type" : "object",
       "properties" : {
-        "defaultMinPeriod" : {
-          "type" : "integer",
-          "format" : "int64",
-          "description" : "m"
-        },
         "enableCheatCannonMountPeripheral" : {
           "type" : "boolean",
           "description" : "Enable cheat functions on cannon mount peripheral"
@@ -90,6 +85,10 @@
     "createBigCannons" : {
       "type" : "object",
       "properties" : {
+        "addShipVelocity" : {
+          "type" : "boolean",
+          "description" : "Adds the ship's velocity vector to the initial velocity of the cannon's projectile"
+        },
         "autoCannonRecoilForce" : {
           "type" : "number",
           "format" : "double",
@@ -109,6 +108,10 @@
             "description" : "Custom autocannon breech fire rates"
           }
         },
+        "enableCannonRecoil" : {
+          "type" : "boolean",
+          "description" : "Enable cannon recoil feature"
+        },
         "mediumCannonRecoilForce" : {
           "type" : "number",
           "format" : "double",
@@ -117,12 +120,7 @@
         "rotaryCannonRecoilForce" : {
           "type" : "number",
           "format" : "double",
-          "description" : "The force of recoil produced by medium cannon fire on a ship"
-        },
-        "spreadMultiplier" : {
-          "type" : "number",
-          "format" : "double",
-          "description" : "I hope cannons will no longer destroy airplane cockpits"
+          "description" : "The force of recoil produced by rotary cannon fire on a ship"
         }
       },
       "additionalProperties" : false
@@ -147,10 +145,6 @@
       "format" : "double",
       "description" : "VS2 default block mass"
     },
-    "disableSomeWarnings" : {
-      "type" : "boolean",
-      "description" : "Disable some annoying console logs :)"
-    },
     "experimental" : {
       "type" : "object",
       "properties" : {
@@ -165,6 +159,18 @@
       "type" : "number",
       "format" : "double",
       "description" : "Disable some annoying console logs :)"
+    },
+    "nonColliderBlocks" : {
+      "description" : "Set of non-collider blocks on the ship that are excluded from collision detection.",
+      "type" : "array",
+      "items" : {
+        "type" : "string",
+        "description" : "Set of non-collider blocks on the ship that are excluded from collision detection."
+      }
+    },
+    "nonColliderBlocksPriority" : {
+      "type" : "integer",
+      "format" : "int32"
     },
     "$schema" : {
       "type" : "string"
