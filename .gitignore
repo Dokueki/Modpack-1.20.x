@@ -83,6 +83,7 @@ chiselsandbits/*
 .idea/
 .bobby/
 .mixin.out/
+assets/
 classOut/
 backups/
 profileImage/
@@ -99,6 +100,7 @@ XaeroWorldMap*/
 xaero/
 visualores/
 mods-carryover/
+EnderStorage/
 fancymenu_data/
 fancymenu_setups/
 downloads/
@@ -110,6 +112,7 @@ shaderpacks/
 chiselsandbits/
 
 # Client data
+bansoukou
 .curseclient
 .sl_password
 patchouli_data.json
