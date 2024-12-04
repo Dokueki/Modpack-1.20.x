@@ -69,6 +69,42 @@
           "type" : "boolean",
           "description" : "Enable encased fan to work between ships"
         },
+        "psi" : {
+          "type" : "object",
+          "properties" : {
+            "energyMaxInput" : {
+              "type" : "integer",
+              "format" : "int32",
+              "description" : "Max Input every tick of energy interfaces (unit: FE/ME)",
+              "minimum" : 0
+            },
+            "energyMaxOutput" : {
+              "type" : "integer",
+              "format" : "int32",
+              "description" : "Max Output every tick of energy interfaces (unit: FE/ME)",
+              "minimum" : 0
+            },
+            "energyTemp" : {
+              "type" : "integer",
+              "format" : "int32",
+              "description" : "Temporary energy storage for each pair of interfaces (unit: FE/ME)",
+              "minimum" : 0
+            },
+            "fluidTemp" : {
+              "type" : "integer",
+              "format" : "int32",
+              "description" : "Temporary fluid storage for each pair of interfaces (unit: bucket)",
+              "minimum" : 0
+            },
+            "itemTemp" : {
+              "type" : "integer",
+              "format" : "int32",
+              "description" : "Temporary item storage for each pair of interfaces (unit: slot)",
+              "minimum" : 0
+            }
+          },
+          "additionalProperties" : false
+        },
         "stickerCompliance" : {
           "type" : "number",
           "format" : "double",
@@ -144,6 +180,14 @@
       "type" : "number",
       "format" : "double",
       "description" : "VS2 default block mass"
+    },
+    "defaultFluidDensity" : {
+      "type" : "number",
+      "format" : "double"
+    },
+    "defaultFluidDragCoefficient" : {
+      "type" : "number",
+      "format" : "double"
     },
     "experimental" : {
       "type" : "object",

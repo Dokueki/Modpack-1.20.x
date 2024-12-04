@@ -1,44 +1,48 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/CONTRIBUTING.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/BUG_REPORT.yml"
+hash = "3d2cd9e1efc417bfb036d6a67d09e78995f22edc920b0d04ef73532e2b6fffd7"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/CRASH_REPORT.yml"
+hash = "d909ad9e31275aae22665f0879778a7b1ab02f0f92536cf6116cc01c33e6f811"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/ENHANCEMENT.yml"
+hash = "852bd96f2f8ead78d138e9689708315d568fca41c6b2dcf66b46c51f1b3f1983"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/FEATURE_REQUEST.yml"
+hash = "4ec328bd2863cb1769f5369118e687bf473ef31bc02c389870546f791d0362da"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/QUESTION.yml"
+hash = "2802a7473ba30eec743049606b2e08bbf45c38cf4f7484ab9665e3ad645b56ae"
+
+[[files]]
 file = ".github/ISSUE_TEMPLATE/config.yml"
-hash = "f2428ebbf53c062b1d0894f561195d7ec9b53fcf4b62fc1944fef185ea720da3"
+hash = "ab9e233a09712ca386bc478ace6f91449e0f6014ae66233249a8dd1cd217e8f2"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/en-00-crash-report.yml"
-hash = "d130d82700ac879557d252722e971a69cabd7e118ce249bb7ca321fd97803085"
+file = ".github/PULL_REQUEST_TEMPLATE.md"
+hash = "5d523cf3f7e186048fa2c5947f1c101c2accb5c09bca20235641d09972acc01b"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/en-01-bug-report.yml"
-hash = "3af43a11787dbf4c54d48d810aa02e938e7d30bc04078069d8d6343ac821b602"
+file = ".github/README.md"
+hash = "e212bc1571e20516c4ff5a83a596d624f0404d5f847621ec9cb9802d70602dcf"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/en-02-feature-request.yml"
-hash = "64681ecf62291ae2ac7e2d20605775d73b063fa27d07899082bb4b96aa084a8a"
+file = ".github/SECURITY.md"
+hash = "dd9058b5dc6b39b14fd22d31707ace672edcbb0a6fac870c90addc03fdc24dea"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/en-03-question.yml"
-hash = "2d8c6294f4d72e01897690ad19c894357305b01777ec0e04271a9e45b93ebc32"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/ru-00-crash-report.yml"
-hash = "f54d2f80df5ad8f58c61a887482df426d7f0309115866599fff4bc23b0192cb6"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/ru-01-bug-report.yml"
-hash = "0b1f8a6c922fe4f32eca98be3cc7cda6f5cc4b3200c901cbfcf7dc55fb42974e"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/ru-02-feature-request.yml"
-hash = "72ffaa8adc5ab2659ddea1d54e6cd5a1523ae9571c3977bfe4fdc083d99b1beb"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/ru-03-question.yml"
-hash = "2ebbceb8ca9ad931e793fd192a11ace989d814cf384fd79194a5a56c3688016e"
-
-[[files]]
-file = ".github/pull_request_template.md"
-hash = "92102e63d4ec84597d5edd0c67b7100a359eef8a078cd46d26b76694fa7044db"
+file = ".github/workflows/server.yml"
+hash = "0a3fc48e87d86ded3280ecef799d7000b734fa6d905980fa846794270b46d5e1"
 
 [[files]]
 file = ".vscode/fluid-attributes.json"
@@ -91,10 +95,6 @@ hash = "9ecc951d6fa06875e7eabfa72e5ef9c04fadc5a57a7b45fb81dc375092a52d0e"
 [[files]]
 file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
-file = "README.md"
-hash = "e212bc1571e20516c4ff5a83a596d624f0404d5f847621ec9cb9802d70602dcf"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
@@ -450,7 +450,7 @@ hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "64435c75d97882c985c8b677a4887de328b91455612b7abb7a93ec2e233ebb5b"
+hash = "70b995e221ba508f5efaa36b85828a797ee85e7aa33fa8c89874ee7388464edb"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "0070502d18f90a1ae0c0719eebcc9021ba813f9d74cce0429962ec4f338a43b3"
+hash = "55a1cf59b53d204e2671aa12f070583645989121146f91e82a5cdbbff9cbf04f"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "4728e7a6509c807bb5dfcc6f658980dc3188378212f532410c9885c20fa7a905"
+hash = "13bc474987f9f100c034f0dc41a69451b6323a8e2eebac3c67c502ea789c09a7"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,11 +1094,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "be49f84f786e888a34f969f79f1e6fb59b5f0b5879357ace6945e47c596ea92c"
+hash = "fc91fe4a5b01357f5fa1ca4ad2323db826dd37d34b3db76aada9f24d4e5acdff"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "4ceea8522c260f2adf5e4fc3787dbcf5d0de197baac6ebed4fc57c53bde06991"
+hash = "7d050d4c04e848354fe929bef74d642264c828ced7aaa5ce1af9e6b543b57d06"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7126,7 +7126,7 @@ hash = "8da919d5ec927450c66497e2dba34aaa2e1993d017ee7654f3bdde26d09686f2"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_addition_client.schema.json"
-hash = "e33f0b89a90cace51e1e527fbde331a6b2121148bd2a5a794667ec0483b8feb7"
+hash = "6d795e5495d8e7a11b587d89a5f66aae623d165e7ea4f1847d9215a67a0b42dc"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_addition_common.schema.json"
@@ -7134,7 +7134,7 @@ hash = "c2dd31370282ddf3271c30b35f0d9283d5affbab6a7052f8e537417c484a5ea9"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_addition_server.schema.json"
-hash = "03d6d051a41ae88ca9758a4067d0d79417d0fc723db2d4d8821ef721b5877406"
+hash = "12657bf40d12e79b9f50f5dd1d3f84f30980f2bdcb9184aa0e4785d4db67617a"
 
 [[files]]
 file = "config/valkyrienskies/schemas/vs_client.schema.json"
@@ -7290,7 +7290,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "4cf6c0ae8f619e5d1d2386483e826183ca9102004eaa971a1586a57d59b27f83"
+hash = "d908ace7beb41d9547345a51de278cf3d6d6888a33d86d5a69d481b365c1c98b"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9918,7 +9918,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "2ce6ec544eafe9d1d0f24e4552c98852b37130d8ed9343e0b93c38883713d0b8"
+hash = "47769534b6c7d1197b9224184780aae97eba5230193b69b28d9737324f4a32b1"
 metafile = true
 
 [[files]]
@@ -10033,7 +10033,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b8062d755b0c405730eea3021944d93d772aa7ee1d8fa1273d8f292317945b7b"
+hash = "132778db5fa85031685000d65683d9467254a8b8b1c4d1704476d28f200211ec"
 metafile = true
 
 [[files]]
@@ -10133,7 +10133,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "bd349b254eed32f2ac1063159d752468438234b8c14d2937df95794832973f52"
+hash = "b780464fba5384f9ab6086aacac7a33578f2a958d426a91612e14445f1756b0a"
 metafile = true
 
 [[files]]
@@ -10283,7 +10283,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "c6b19a1c3c87acf8843823e03c9b1abb8e86bcfbc452014bc8f6698ba0351359"
+hash = "eca3b243e94bcafb9c119ea9159ac3aad48fdc9487790838f2afbd94c6abcb46"
 metafile = true
 
 [[files]]
@@ -10788,7 +10788,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-hot-or-not.pw.toml"
-hash = "e676640c01f1b6af825aa32f6f9a97aa39651549fcb102f6d5dec8b86a264a43"
+hash = "cf8f1cca8504e3cef3c74144d04fdd9476499e32dbc230ecd3983a0b60ae2172"
 metafile = true
 
 [[files]]
@@ -10882,7 +10882,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs-addition.pw.toml"
-hash = "518d4876326207b04976c438613fb28c52e53c65ff4c020c15289bb610eb2658"
+hash = "8e815fab9b1b126f571ece050f7fcfb3b852ab8f56123bba3a7864dd6ba66cfa"
 metafile = true
 
 [[files]]

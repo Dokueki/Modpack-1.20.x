@@ -2,6 +2,15 @@
   "$schema" : "https://json-schema.org/draft/2019-09/schema",
   "type" : "object",
   "properties" : {
+    "embeddium" : {
+      "type" : "object",
+      "properties" : {
+        "enableBlockEntityCullOnShips" : {
+          "type" : "boolean"
+        }
+      },
+      "additionalProperties" : false
+    },
     "enablePointRemoval" : {
       "type" : "boolean",
       "description" : "Enable mechanical arm item remove unavailable interaction point"
