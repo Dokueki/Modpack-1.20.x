@@ -325,6 +325,10 @@ file = "config/createpickywheels-common.toml"
 hash = "621ad3f1156b88b7ddf0c16f59c433b14c905e812f90eecfb34158ce514343e1"
 
 [[files]]
+file = "config/createpowerlines-common.toml"
+hash = "5e816c177be84210c124af01142b6eeca5ad38b2e3cbb528b66934ac4bf9666a"
+
+[[files]]
 file = "config/createrailwaysnavigator-client.toml"
 hash = "6ab8337a3800aea4989fae34f88abe2c4b9f1d3bdc5c4dbc5c83256df308703d"
 
@@ -450,7 +454,7 @@ hash = "885b0f44af2b766d8300b8ec516d9339d4af7a341d4b53f4c7d75694b22d579d"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "3245d6c56746f39ca8d96ef88b6a363ef1170cb9b10854fedaca6981ab2dd712"
+hash = "b8c924ecbdc7507e8056122b48089c37a6d7e68e1167c8e098c8ed9357794059"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -946,11 +950,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "e4884c2d7a919cc01bf7c8d3555451413e1b4396a94306a16c3d96ab35673bd6"
+hash = "503bc85740306873e7eb8c1002f100999382f0709fada9ce492127b2e1ecb7f2"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "5751600bff34643dd63a3d1331d51ecf3cd3d7869e521b6af109710b43e897eb"
+hash = "16d843e97a1c4fcc04a8bcfe7b920f51da17cd70f1a49e42f2b2bacef0efa9e1"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,11 +1098,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "27c319bdf9e40039d308ed31a84013e3b3ac01b31f2d076586dac93a8ae59750"
+hash = "438b7d46d666e2f58d4f8c7fe32aec5bdb8cf54066b4bc4bb5ddea11c62aa736"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ec61cfecd18be38f99d8393fa6095377d1351dd09883521e62ac343a17c796a4"
+hash = "044d91ba9a76d5bf05605540f53a6cf172ceec0904479b5ffd49b3ca4227c192"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7290,7 +7294,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "6ca6352b1ce7c212c52383ef11083b7d218c8ff19cb609574a66338701c1e064"
+hash = "d908ace7beb41d9547345a51de278cf3d6d6888a33d86d5a69d481b365c1c98b"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10004,6 +10008,11 @@ metafile = true
 [[files]]
 file = "mods/create-picky-waterwheels.pw.toml"
 hash = "1939c6f5473c8d20970e25820fb957a2c124c0508c02308daaa3a181682487e0"
+metafile = true
+
+[[files]]
+file = "mods/create-powerlines.pw.toml"
+hash = "4a718d12854dae0a57cd480a25768ff16c8bbbc5f9c26ff1221e0ccdc00e4d8a"
 metafile = true
 
 [[files]]

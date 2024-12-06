@@ -1,0 +1,13 @@
+name = "Create: Powerlines"
+filename = "createpowerlines-1.20.1-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d26cca463c80a6538c55b8b5bb65fc796d4325bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5967133
+project-id = 1076056
