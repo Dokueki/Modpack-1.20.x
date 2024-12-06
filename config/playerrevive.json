@@ -24,7 +24,10 @@
     "hasShaderEffect": true,
     "changePermissionLevel": false,
     "permissionLevel": 0,
-    "canBePushed": true
+    "canBePushed": true,
+    "disableInventoryAccess": false,
+    "disableChatAccess": false,
+    "disableServerCommands": false
   },
   "revive": {
     "requiredReviveProgress": 100.0,

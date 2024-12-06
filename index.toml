@@ -446,11 +446,11 @@ hash = "495a369668255a04946f7293e548086abecd41acd2926772e155041408ce751f"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "5d19c143ed40e2c4c1670062d60bad38d425b9585963de85c74895f1eea2e533"
+hash = "885b0f44af2b766d8300b8ec516d9339d4af7a341d4b53f4c7d75694b22d579d"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "70b995e221ba508f5efaa36b85828a797ee85e7aa33fa8c89874ee7388464edb"
+hash = "3245d6c56746f39ca8d96ef88b6a363ef1170cb9b10854fedaca6981ab2dd712"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -946,11 +946,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "55a1cf59b53d204e2671aa12f070583645989121146f91e82a5cdbbff9cbf04f"
+hash = "e4884c2d7a919cc01bf7c8d3555451413e1b4396a94306a16c3d96ab35673bd6"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "13bc474987f9f100c034f0dc41a69451b6323a8e2eebac3c67c502ea789c09a7"
+hash = "5751600bff34643dd63a3d1331d51ecf3cd3d7869e521b6af109710b43e897eb"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1006,7 +1006,7 @@ hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
 
 [[files]]
 file = "config/playerrevive.json"
-hash = "598286f6b48c635ebaf4c649f6ebcd5a0dcfb9e9e7bb7a49a29ba71d59ed3de1"
+hash = "cf5e87bef733b6e363ac704d07c1a8eeabc609186ca2706e10757500041f5d49"
 
 [[files]]
 file = "config/polymorph-integrations.toml"
@@ -1094,11 +1094,11 @@ hash = "cb07f53d243d1985880f7f71d96adc6d153d0b12885ccc45fdada40c59bc727f"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "fc91fe4a5b01357f5fa1ca4ad2323db826dd37d34b3db76aada9f24d4e5acdff"
+hash = "27c319bdf9e40039d308ed31a84013e3b3ac01b31f2d076586dac93a8ae59750"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7d050d4c04e848354fe929bef74d642264c828ced7aaa5ce1af9e6b543b57d06"
+hash = "ec61cfecd18be38f99d8393fa6095377d1351dd09883521e62ac343a17c796a4"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7290,7 +7290,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d908ace7beb41d9547345a51de278cf3d6d6888a33d86d5a69d481b365c1c98b"
+hash = "6ca6352b1ce7c212c52383ef11083b7d218c8ff19cb609574a66338701c1e064"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -9958,7 +9958,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "95521ed1b9e5d430cfd7920661b74dbfaf5035e7a5edd9ef44b9eb14db3a70b8"
+hash = "4060f07ce7fe26ea5990a1e98a64bd9cf58593a8f3a68b3a489b0e4c36722b46"
 metafile = true
 
 [[files]]
@@ -10033,7 +10033,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "132778db5fa85031685000d65683d9467254a8b8b1c4d1704476d28f200211ec"
+hash = "58a9509ff4a1203d4b9eb86c10ab803e2f38b0b23963470040031843faebfaac"
 metafile = true
 
 [[files]]
@@ -10133,7 +10133,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "b780464fba5384f9ab6086aacac7a33578f2a958d426a91612e14445f1756b0a"
+hash = "f90bf20f9fdb3f0834f8736f35a41b19b175dc53f9a3e80f736206486bcc11db"
 metafile = true
 
 [[files]]
@@ -10583,7 +10583,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "6811d42607bdb3cab3aab499b56b8d3969fa3a73c02295bd758d8c433e0e9dbe"
+hash = "6991305367f4be5a498fe71ffc47855bafb1b6d53bb795018543e682d1fc68f5"
 metafile = true
 
 [[files]]
@@ -10788,7 +10788,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-hot-or-not.pw.toml"
-hash = "cf8f1cca8504e3cef3c74144d04fdd9476499e32dbc230ecd3983a0b60ae2172"
+hash = "82ba7935fa42e48247f3d25a71dbe52296794bd40a3d075a5f67e6d6684863d9"
 metafile = true
 
 [[files]]
@@ -10917,7 +10917,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c01af28960df240b10bd22d8d7b21d608ce27c2561bdd3d1fdf23e3bc43b12d3"
+hash = "076e0a7faaec4467a074d74c01060ad06b1a39f5ff8a823b76410d2c59470594"
 metafile = true
 
 [[files]]
