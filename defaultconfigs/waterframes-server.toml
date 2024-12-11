@@ -72,12 +72,25 @@
 		usableInSurvivalMode = true
 		#Changes if any player can use displays, otherwise only admins can use it
 		usableForAnyone = true
+		#Enables Permission API integration [(Neo)Forge only]
+		#(Neo)Forge provides its own permissions API compatible with permissions mods like Luckperms or FTB Ranks
+		#This config enables integrations and ignores all below settings
+		usePermissionsAPI = false
+		#Allow saving for anyone without OP permissions
+		allowSaving = true
+		#Allow interacting (open gui) for all remotes
+		usableRemote = true
+		#Allow binding remotes on any display
+		usableRemoteBinding = true
 
 		#Whitelist configuration: please stop bugging me with this :(
 		[waterframes.permissions.whitelist]
 			#Enables whitelist feature
-			#[WARNING]: THE AUTHOR OF THE MOD IS NOT RESPONSIBLE IF IN YOUR SERVER SOMEONE PUTS NSFW MEDIA
+			#[WARNING]: THE AUTHOR OF THE MOD (SRRAPERO720) IS NOT RESPONSIBLE IF IN YOUR SERVER SOMEONE PUTS NSFW MEDIA
 			#WATERMEDIA HAVE SUPPORT FOR ADULT PAGES AND WHITELIST WAS DESIGNED TO PREVENT THAT
+			#MIMIMIMI THE KIDS, SHUT UP, I GIVE YOU THE OPTIONS ENABLED _BY DEFAULT_ TO PREVENT THAT
 			enable = true
 			urls = ["imgur.com", "gyazo.com", "prntscr.com", "tinypic.com", "puu.sh", "pinimg.com", "photobucket.com", "staticflickr.com", "flic.kr", "tenor.co", "gfycat.com", "giphy.com", "gph.is", "gifbin.com", "i.redd.it", "media.tumblr.com", "twimg.com", "discordapp.com", "images.discordapp.net", "discord.com", "githubusercontent.com", "googleusercontent.com", "googleapis.com", "wikimedia.org", "ytimg.com", "youtube.com", "youtu.be", "twitch.tv", "twitter.com", "soundcloud.com", "kick.com", "srrapero720.me", "fbcdn.net", "drive.google.com"]
+			#Moves the whitelist into the darkside
+			blacklistMode = false
 

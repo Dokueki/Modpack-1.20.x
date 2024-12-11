@@ -1,13 +1,13 @@
 name = "Fzzy Config"
-filename = "fzzy_config-0.5.8+1.20.1+forge.jar"
+filename = "fzzy_config-0.5.9+1.20.1+forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dfff813d2ffe045277b7030d5a4e68a0fe44eee8"
+hash = "c0a86bbf4c2912d082f0e718e759f830808ba66c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5933877
+file-id = 5969656
 project-id = 1005914
