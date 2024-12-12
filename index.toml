@@ -9961,8 +9961,13 @@ hash = "b398f76eb373a7a47a26a63ea2b52676859fb01b764e49c19dfdc09e005cd4e2"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "1af059c86c3a848280f5bad0851cdbc429b136e408190384a1985aa17ff45325"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
-hash = "4060f07ce7fe26ea5990a1e98a64bd9cf58593a8f3a68b3a489b0e4c36722b46"
+hash = "a9c37cc0b87641c4e4ee89e7835d340f7beb06409276dc90f867346ede86b7bb"
 metafile = true
 
 [[files]]
