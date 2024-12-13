@@ -454,7 +454,7 @@ hash = "885b0f44af2b766d8300b8ec516d9339d4af7a341d4b53f4c7d75694b22d579d"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "442ce8194ea9233aaa0d50583523ec3d42cfab42e93fec381518cbd301c80299"
+hash = "80f0b8aafb66fd42c0bb484c9c8ba1e6a005158f58bbc3308afa6ccad18e5bc3"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -950,11 +950,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "a68734217f54c98b15916a49ac002d0c5d35d6a0b6296fb38736e24745ec1763"
+hash = "9db8ac95c0417bb1bce44f401a30ddf9d5d2381d038b263eb41a782b2a6eedd7"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "2a5267970b8a64f893546719d04c5d4f0a4a02d920784d793dd6c8674a3a26bd"
+hash = "568db2db019b4876426f840636c72d5785689bdd95a2c8032ac34eb74bfd75b1"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1094,15 +1094,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "04e7790f954f629dffd8bc5659548818b45b47880783a19dc32a7beb46af2047"
+hash = "da8da05de46610b2080809e5aa7e07df27cd52f85e7d406f64ac67f7c9b18b03"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "2d48e3d60f7c13ace62882f0091a0a5f40670de44b037e22f34912db0f965f90"
+hash = "7b25bf71bfabedcccbde5a0e76c525e5ce17b290173c275041612d513d247552"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "54b694498f129fe844cbca123c428932656fae83f8715e993681270928cef142"
+hash = "5d18ad9290539a6918fa36d42459df5783b8b4fdf7db04673422a7854eb22946"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7294,7 +7294,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
+hash = "e1cbc29c6ec6cc52dbb88264ccbe03af934a740085871e0fe59e2d7c52a4f045"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10116,6 +10116,11 @@ hash = "bb5e37830d8a2c1323e8343c4ba50ea471ac8ac448ff09039c9be7a9676e71a5"
 metafile = true
 
 [[files]]
+file = "mods/elysium-api.pw.toml"
+hash = "bdc3729d9bef817c4b1a1754723dba411a3cd790493e01f3c858edec47a58f8b"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
@@ -10337,7 +10342,7 @@ metafile = true
 
 [[files]]
 file = "mods/jadens-nether-expansion.pw.toml"
-hash = "543b88e759f02f5c281f643ae2fa97d9a5c3a99d375aab0717b5f733d19221a3"
+hash = "e27b2bd8a147da560bd784d320536c9f6dcf127e93d4e8d29f716b2b3c0776e8"
 metafile = true
 
 [[files]]
@@ -10462,7 +10467,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2d05084103715228a9fb89d68e68fdc1f0d78e4a5facc9895d26b3ba0b7fd92f"
+hash = "38365cfabe4f5af0a270c208ba4de1b332b9e3740251ccae7f33023d9aeaf3db"
 metafile = true
 
 [[files]]
@@ -10741,11 +10746,6 @@ hash = "5ac5df305169ff00dd3157da61c6e55bd40e166e183eb39a15ddb66ef7e4a36f"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
-metafile = true
-
-[[files]]
 file = "mods/terrafirmacraft.pw.toml"
 hash = "fa7b142dc0fb4b6cdcb1cb23d326571d09da71684429c23c082c75f743768ae6"
 metafile = true
@@ -10911,7 +10911,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "adb73fa757cda1dc466cb811d0e17cb6b2590600063fca8988b4cccac8d7e1af"
+hash = "833687f3fae2e07924ec1a47895959b9a309cd88edf24a59658852b54e01d9a3"
 metafile = true
 
 [[files]]
@@ -10926,7 +10926,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
+hash = "54ad33cf1eb06e8bd5179706f90eedbda07eb60216f1bd40017c205caa2fbf4e"
 metafile = true
 
 [[files]]
