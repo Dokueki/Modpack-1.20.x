@@ -458,7 +458,7 @@ hash = "885b0f44af2b766d8300b8ec516d9339d4af7a341d4b53f4c7d75694b22d579d"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "793315b9d0c3835e34db93db4d794a01958a453eb8338bbcdc09ab48d533ee49"
+hash = "10f6d325380716d14f820f1278b0f2dd0f5caebacff19f96daa3d621787819c6"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -954,11 +954,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "fa2bcf173910153127d1772be598ab18b71ad415b491b4d4aa852c64bd600194"
+hash = "252b2c2de3fc9e94bc173b97abf57501fd6199dce8c8c25e424cf5d32f3e803e"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "b74fb8352122376b22881e90b69c911a60a02fea38c74e12c001aa689633d5ce"
+hash = "d2987840f67e634e2b18ed61b1a8c7b69982e1c5bbc1272ab9f5647b550f08f4"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1102,11 +1102,11 @@ hash = "da8da05de46610b2080809e5aa7e07df27cd52f85e7d406f64ac67f7c9b18b03"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4fcd9d02ffa039e160b29e5dfce04f5e0033f63f4905376f7fcde969708582f3"
+hash = "dab618bf2284f73042e52f606810d3c8aa394a922e17967cdc968dd226450b0c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7a7ff37ae5fa2c70c4db99dc261c22aaf8f39258e5fe0bc3d9ffb1df3c891a67"
+hash = "da42b9ba94467ce18c4b95ce83a61adb6b17d2cade20d6274fc495882532a85c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -10291,7 +10291,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "69c727ffd3d79d725853ad0486dde3dd836ff8ecc3cb7021aeda691e7c28090b"
+hash = "10d6bec9927a09de2a8c52edd58905d919a4771625a8a1bc8ab82f1621cd445d"
 metafile = true
 
 [[files]]
@@ -10751,7 +10751,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "8a34a4cbf21634708ec8241ead8b0bb5227152d0518d78ab2264d88375728ba5"
+hash = "20fd2673c1823892da828546f9f36cb5a222c003a9dd0e5e995e03fa054b52ca"
 metafile = true
 
 [[files]]
