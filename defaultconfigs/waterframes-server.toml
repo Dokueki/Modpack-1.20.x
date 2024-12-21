@@ -38,6 +38,12 @@
 		[waterframes.multimedia.watermedia]
 			#Enables VLC/FFMPEG usage for multimedia processing like videos and music (support added by WATERMeDIA)
 			enable = true
+			#Force-enable WATERMeDIA's slavism mode, slavism enhances youtube quality
+			#This option comes with 3 downsides:
+			#1: Playback gets way unstable
+			#2: Sync time is increased to 10 seconds (less sync for all players)
+			#3: You can only manually sync every 10 seconds after a seek
+			slavismMode = false
 
 	#Configuration related to interactions with vanilla and modded features
 	[waterframes.block_behavior]
