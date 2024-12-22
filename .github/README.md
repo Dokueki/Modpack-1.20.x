@@ -30,14 +30,31 @@
 
 ## Survival Modpack As It Should've Been
 
-**TerraFirmaGreg-Modern** is a Forge modpack that makes the gameplay of Minecraft realistic and challenging, because it contains two of the hard and coolest mods for Minecraft, these are [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) and [GregTech Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern).
+**TerraFirmaGreg-Modern** is a Forge modpack that makes the gameplay of Minecraft realistic and challenging, because it contains two of the hard and coolest mods for Minecraft, these are [TerraFirmaCraft] and [GregTech Modern].
 
-This modpack synergizes the limited compatibility of TerraFirmaCraft with the best of technical mods, creating a unique gameplay experience. In addition to these cornerstone mods, TerraFirmaGreg includes:
+Modpack developers have carefully combined TerraFirmaCraft, which has little compatibility ability, and [GregTech Modern], the best of the technical mods.
 
-- [Applied Energistics](https://modrinth.com/mod/ae2): Revolutionize your storage with a network-based digital system.
-- [Create](https://modrinth.com/mod/create): Unleash your creativity with tools and blocks for building and automation.
-- [Gregicality Rocketry](https://modrinth.com/mod/gcyr): Explore space with advanced systems and interplanetary travel.
+Also in the modpack there are other interesting mods that will allow you to pass the time with pleasure (or not): 
 
-Each mod and its add-ons offer diverse gameplay enhancements, ensuring that your time in this complex world is both challenging and enjoyable. To assist newcomers, the modpack includes a quest system that serves as a guide through the intricacies of this unfriendly world.
+- [TerraFirmaCraft]
+- [GregTech Modern]
+- [Applied Energistics]
+- [Create]
+- [Gregicality Rocketry]
+
+
+and others, also all these mods have addons to diversify the gameplay even more! To make it easier for you to start developing in this complex world, there are quests in the modpack, with the help of them you can get used to this unfriendly world.
+
+## Development
+
+For the set-up guide, please feel free to head to the [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ![img](https://github.com/TerraFirmaGreg-Team/.github/blob/main/branding/image_readme.png?raw=true)
+
+
+<!-- Links: -->
+[TerraFirmaCraft]: https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft
+[GregTech Modern]: https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern
+[Applied Energistics]: https://www.curseforge.com/minecraft/mc-mods/ae2
+[Create]: https://www.curseforge.com/minecraft/mc-mods/create
+[Gregicality Rocketry]: https://www.curseforge.com/minecraft/mc-mods/gcyr
