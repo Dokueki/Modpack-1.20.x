@@ -458,7 +458,7 @@ hash = "885b0f44af2b766d8300b8ec516d9339d4af7a341d4b53f4c7d75694b22d579d"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "10f6d325380716d14f820f1278b0f2dd0f5caebacff19f96daa3d621787819c6"
+hash = "5953726d0df49c42b70a9abd78e24479e96d1e0cb9f3862553427a8ab9a2394a"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -838,7 +838,7 @@ hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "8b8dbf483abe210cae4043cc30f2dfcf064e84be7d03b816abc27003b39a620a"
+hash = "9e1eb4e0c256dc300ae20a15be9e4de2ed370a74b74bdff67bdfadeaa862d656"
 
 [[files]]
 file = "config/jei/world/local/New_World__253/bookmarks.ini"
@@ -938,7 +938,7 @@ hash = "297c899fead9c3e358d9fc45edcc241f4ffbc25b71a8c1c2c84609d8110b8eca"
 
 [[files]]
 file = "config/netherexp-common.toml"
-hash = "7fa3160614381f715ad1621d82eaa9ce0a33f822bb93865a7c20ad3a4b5df2be"
+hash = "f2f1cf8900bbbda8214a9aad91ab67b47ad199e298f503cbd245a5177dbb3f7e"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -954,11 +954,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "252b2c2de3fc9e94bc173b97abf57501fd6199dce8c8c25e424cf5d32f3e803e"
+hash = "82712c37c8aa58f247669cb164e17c766e59dc0bb553641d6a07351626e8f692"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d2987840f67e634e2b18ed61b1a8c7b69982e1c5bbc1272ab9f5647b550f08f4"
+hash = "fe79de514ae9f542952ff575d6621bccc838783fa82afd9dfb8d973c01ec75b0"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1098,15 +1098,15 @@ hash = "7620262e9a6f3bc0d285e9d29c56b8f2d3e1a520bbd459820d2a1e6d4c4b5fc0"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "da8da05de46610b2080809e5aa7e07df27cd52f85e7d406f64ac67f7c9b18b03"
+hash = "54b4926dffc83f888ff4580eac4dedd99f433bc8f01807d3ef8a017c2faf7ce3"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "dab618bf2284f73042e52f606810d3c8aa394a922e17967cdc968dd226450b0c"
+hash = "463ed5fd6b07862bda00ff2e84620f4ffea4ae20d7501a8112028ef8a41a0d72"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "da42b9ba94467ce18c4b95ce83a61adb6b17d2cade20d6274fc495882532a85c"
+hash = "7d48ebf199b99ae0271a985d13c155cc6a98fd954dc6e16c33958c2af87e5e44"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7298,7 +7298,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "e1cbc29c6ec6cc52dbb88264ccbe03af934a740085871e0fe59e2d7c52a4f045"
+hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -10156,12 +10156,12 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "39af780045534b3d27e124462d912187e82002d94584e9822b3524bebd915a65"
+hash = "4e24bc0f1bfad2929193dbe0f70cbce2f9d549fe36d8fca69d677d5161877041"
 metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "f8d0d0bb35598ebff78d864cdf8e3bc9eba90b979423b24d1f7d6bfd8767dcf8"
+hash = "3c0dbe4a7a20369742b078027db12d75247a16f2b952dfa5bd0a1a288690b7dd"
 metafile = true
 
 [[files]]
@@ -10346,7 +10346,7 @@ metafile = true
 
 [[files]]
 file = "mods/jadens-nether-expansion.pw.toml"
-hash = "2127ade1ad5926d2e6e0e3f25c1e06ae2e78fe198e2f079eb694e64d5fa294fb"
+hash = "4f8e6d6cfcac121653ac332ea85f17cbba4a261c90f96cee5dcaaba85aad9b31"
 metafile = true
 
 [[files]]
@@ -10671,7 +10671,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "135b25dbe6a4b6155257b18edd3a23385c3e3bd8cd4b4764247102845f2d9b89"
+hash = "85e278f838142925dcbf6ac3471a12021f30058040ce3aca7d791430fd9f8dc6"
 metafile = true
 
 [[files]]
@@ -10925,7 +10925,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fc87d67d950a471f25000ca5a5c0cc80eee30d6ab79e3a998bc7ac8a862ab3b7"
+hash = "f1b130bfacad77032c6dc45119ecda63ea7189a71206853a1ba6c344d77d2280"
 metafile = true
 
 [[files]]
