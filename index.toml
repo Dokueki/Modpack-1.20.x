@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/CODE_OF_CONDUCT.md"
+hash = "65c155081f988f2a2b65964f28a9a0b47cc8731e8d43205b98cd9e286a5a3fb3"
+
+[[files]]
 file = ".github/CONTRIBUTING.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "28a631d3d0b6a220c0e52b83d3acf4087bc3b9e19afe4cf8418f30a1fe4cda27"
 
 [[files]]
 file = ".github/ISSUE_TEMPLATE/BUG_REPORT.yml"
-hash = "3d2cd9e1efc417bfb036d6a67d09e78995f22edc920b0d04ef73532e2b6fffd7"
+hash = "40bfc110bbe58ae9cdd65ad1e7d37a43a9e047eda27d99c19d8c6472a5dfdc47"
 
 [[files]]
 file = ".github/ISSUE_TEMPLATE/CRASH_REPORT.yml"
@@ -30,19 +34,15 @@ hash = "ab9e233a09712ca386bc478ace6f91449e0f6014ae66233249a8dd1cd217e8f2"
 
 [[files]]
 file = ".github/PULL_REQUEST_TEMPLATE.md"
-hash = "5d523cf3f7e186048fa2c5947f1c101c2accb5c09bca20235641d09972acc01b"
+hash = "d41fe6b1ec9754e7987ef278b67b6c81b3c39b62dc0e6a09033fd37ebac00eac"
 
 [[files]]
 file = ".github/README.md"
-hash = "e212bc1571e20516c4ff5a83a596d624f0404d5f847621ec9cb9802d70602dcf"
+hash = "b144c0570f95fc2114c268b84edda6d2b971b7a10a20d8da083072850d1e1fe6"
 
 [[files]]
 file = ".github/SECURITY.md"
 hash = "dd9058b5dc6b39b14fd22d31707ace672edcbb0a6fac870c90addc03fdc24dea"
-
-[[files]]
-file = ".github/workflows/server.yml"
-hash = "0a3fc48e87d86ded3280ecef799d7000b734fa6d905980fa846794270b46d5e1"
 
 [[files]]
 file = ".vscode/fluid-attributes.json"
@@ -458,7 +458,7 @@ hash = "885b0f44af2b766d8300b8ec516d9339d4af7a341d4b53f4c7d75694b22d579d"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "5953726d0df49c42b70a9abd78e24479e96d1e0cb9f3862553427a8ab9a2394a"
+hash = "824a2282a9a75727874f619109dee234a062820f175b6042deb0d5e26c22dfda"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
@@ -954,11 +954,11 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "82712c37c8aa58f247669cb164e17c766e59dc0bb553641d6a07351626e8f692"
+hash = "e32231b4d35bbe94c1a3b7f07a68a08a4a022db9cbc8662d5a0adf5e04348373"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "fe79de514ae9f542952ff575d6621bccc838783fa82afd9dfb8d973c01ec75b0"
+hash = "10ad6bf089026f8a4f8a4174d436f00851f73a25b1c70f703ae78d328bbaa546"
 
 [[files]]
 file = "config/panorama_screens/settings.json"
@@ -1102,11 +1102,11 @@ hash = "54b4926dffc83f888ff4580eac4dedd99f433bc8f01807d3ef8a017c2faf7ce3"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "463ed5fd6b07862bda00ff2e84620f4ffea4ae20d7501a8112028ef8a41a0d72"
+hash = "805791072ea82292c359466d69a3b865ed2b57fc3cafe9b71fae18d589b9eb58"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7d48ebf199b99ae0271a985d13c155cc6a98fd954dc6e16c33958c2af87e5e44"
+hash = "067c9633401cc1ae722ab1cc0f34c3060f102aef9d405e9e87d68de5a6dd9709"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -7298,7 +7298,7 @@ hash = "ae013b6bfac1489267f70ca8bfcd187837a746bb8cac720585448f7c2a322381"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "ae247fc21e23161939934adde609efabc791c1dec6a07dd58bf4454c03ea7536"
+hash = "a9e1eed8492b1d8870d04bc2a656ffd54fa6474eda60a6de155478e45f0ed365"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7529,10 +7529,6 @@ file = "icon.ico"
 hash = "d023b6d9ef15ee13f78dc7624b259c56235ada6704c61a297fb1e542dcb25137"
 
 [[files]]
-file = "icon.png"
-hash = "33ea62d26cca1dac22363338cd27db222ef2fc3319c94332ea3155c7a45fd524"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -7562,7 +7558,7 @@ hash = "ae51f14ccef878f2d33f93073f0dc6a74c3672994728d63143f9d4d24e41fa36"
 
 [[files]]
 file = "kubejs/assets/gtceu/lang/en_us.json"
-hash = "550572b5deac441dfb9d29cf2c7232d62cb4367759f9e82d092c87b60de17aea"
+hash = "5f2e982ab092902d6d2a0ca878fbb02f6396e2e3bd6eba6fd4ede91c6ef4c734"
 
 [[files]]
 file = "kubejs/assets/gtceu/lang/ru_ru.json"
@@ -7606,7 +7602,7 @@ hash = "7ad641266c31abc2f2fb11af1fc6ec677d95f2a78b39b3df5b6e5c50e45c4704"
 
 [[files]]
 file = "kubejs/assets/tfg/lang/en_us.json"
-hash = "b52a3f3619bdc5177b0fd9ebfc3a6d33fcdd3220c803f0880d47d235474461d2"
+hash = "96998d50e59ce151f12b080faaf35f0502903044dd5a57c12f8785241b8f029f"
 
 [[files]]
 file = "kubejs/assets/tfg/lang/ru_ru.json"
@@ -8893,6 +8889,190 @@ file = "kubejs/data/tfc/worldgen/configured_feature/topaz_volcano_fissure.json"
 hash = "5f194fad7271556a0fa8687b08804b533a8d0d943ca5001073aa961fcd5fb6a4"
 
 [[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_garnet_amethyst.json"
+hash = "65be487bc3d8b98b890af731e50e5bbd714b7f6d7444adcd36ae2d8f86bb4f4c"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_garnet_opal.json"
+hash = "a6a0e6e0f2a86f7688366366b51c1dd1aa6e3e9feec6d52014f58550620a5960"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_gold.json"
+hash = "a68e518dc09f1c9438c0e0844581cc280c267df275e34d5bd91be5f9d2916794"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_hematite.json"
+hash = "40440ca7ea173487272df63d924c0882244aba03f5b8716571ee9440c8e8fc26"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_limonite.json"
+hash = "e86ada0d7f426d9db53a62fe85553c2f08bccfddabedd4f3bfe2894380c1a49c"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_magnetite.json"
+hash = "fc07e297416c417c8d176fa161fcaa2949b0c554cf4807f76f991c921e0b84e3"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_molybdenum.json"
+hash = "74d5172a232295d47e1eb13a02acbc30663a84385dffc6997b66c1bb1f271530"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_naquadah.json"
+hash = "c9ff65e67c55e1bd49757f227f239f981bde18073309212e130c79a3fe9ac7b7"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_pitchblende.json"
+hash = "249206b8298f91232960ea33ff921628123ff33b2cc5776ee283d08781dee918"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_sapphire.json"
+hash = "36fda990a98b9d88e0e391bb0d733a895c9078a22692c52ac4a619d40ec793f5"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_scheelite.json"
+hash = "9014bf95a998b5ce1536a3fbf8dd94c291b57f4c7df9f8f8af5612ee3f6b0ad3"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_sheldonite.json"
+hash = "ccfa638e484e69a0494d93bec607c45ffe762b28c51f62695e191aeecf3483d5"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/deep_topaz.json"
+hash = "1ca359b12b254799251a5480a88d8fd2ebebeb08619428cff5a0dc652f1ad58f"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_apatite_.json"
+hash = "8ea9e6d2a2dfda25cc83574ceee5d6ab39da4c800e17b16adb2609bbd4bc4b7a"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_basaltic_sands.json"
+hash = "0fe6bcb89b7be308201f1bc31338d4dbd2acd8377e03ae6739cb872574fe1cff"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_bauxite.json"
+hash = "9cce2e6f3fad62dd1ed95472a9bb90a8a7e4edf8b4832fd9d0283c77b183b2cf"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_beryllium.json"
+hash = "101471287b2346b409c84c39510f2907116379d0b276bca68550f73fbf33f896"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_bismuthinite.json"
+hash = "5c52ff6626dfd8ce857460906fe5e3bbc56f17af9bb2cf3efdadf4c0bad4375c"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_cassiterite.json"
+hash = "747aec035f28fa15271e3c45c450dc666e343dd9ec0beff9bd6a3b8411742220"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_certus_quartz.json"
+hash = "0390bad94427b2a7ef4543479ca999cb98dfd9a34128bdf8eb06183412ba7740"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_coal.json"
+hash = "05712b23ba36ba4058121df975503c0a8d03df16d35555c57e28ffb4d616aa9f"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_copper.json"
+hash = "51bfd2f3df440a189a91c184c203b1bcf046f872ce5da634ce9ead27a3ebef45"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_garnet_tin.json"
+hash = "aa739a782d3b56e95894cf379bee44722c77fda80badd5445fdbd16964f7ae52"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_garnierite.json"
+hash = "e92bdc09fd47355b4a3c726398f5acf98fb3703a4895c1a960de942112b83c7c"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_gold.json"
+hash = "ab555babf314854aaea9efd1aaf02b177e5b4bae95f24928551fc9d53ed388ff"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_graphite.json"
+hash = "a034827986dba80e95ed4a4c4e8544dc8535167bef3681029a3aab313ab06687"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_hematite.json"
+hash = "0d39ffdf23c3751c89f07a1f39b5b93ca8bebb5663886f77edd322682236c5cb"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_lapis.json"
+hash = "c6dccf328f9dc1f10b833d8d8770a9b5ec4389cb78b37dc089d53ef24eba92ae"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_limonite.json"
+hash = "9ee8014760ee48276d686915c3208d06871e289001b9f67ae99e6276cfa0bca6"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_lubricant.json"
+hash = "4eeb1e8e6bf3dcadbc6331385babca297593bf566d0ec1ae8953c10e294a82b7"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_magnetite.json"
+hash = "56379f33b92f24ae4595811ef2ab32df0863a48b8dcca4d3ef980131252fc5dd"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_manganese.json"
+hash = "de94077e845b16fca08af276174240d9a8753f7eb8891b7666fa00a8270a500f"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_mica.json"
+hash = "057f80061d9d8293e0949245f2dda9b2cd8001aabe25754b63c07cd4c013b5f0"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_monazite.json"
+hash = "ff4d7c25d41851336ad0d0971d009797fa87b01cbc4c35a215c4d50093ad8744"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_oilsands.json"
+hash = "aa0febf7e00f51b11bb3d28659d4e335abbc2edd1b54b40ff786fa0dc5d3f5e8"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_olivine.json"
+hash = "764ff7ac44d76107be621e5f298daaa71d08d97df2afeb69663cca88b549ce5e"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_redstone.json"
+hash = "99eb0d18e8c7ab9b41718469a541a51fde6d72687d02a33a169a5ac9d87502ec"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_salt.json"
+hash = "40ebf7d27afd0583da34dc365706aedf508d86701428f36c6cc5feb74e505818"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_saltpeter.json"
+hash = "dd64cd308ed1acc01bf73f0e82e17fd14efba7cad361e98f8fdfa6ff1e3fae98"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_silver.json"
+hash = "4a5af700a68012654cae6d43869e3cd69b5aa30e6791ef90861108c7135a60f3"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_sphalerite.json"
+hash = "0ebba8b8bcb8f7f59c0d31f991b2eb87cda4349c26723824f38b9e57b86251f5"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_spodumene.json"
+hash = "ded0b2ee3d16caada99eb62b49fc71fe5098206f98dfb4ece7dd7e2f0cf0e918"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_sulfur.json"
+hash = "4a8b0cb770ffa0891fa82c1392d1af5617a909fc1feca8e9de0a31fdff7a747e"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/normal_tetrahedrite.json"
+hash = "145d5ea7baefaae582f2230a7492a5a47f73974e1a9bfd92facd352c1d426f76"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/surface_copper.json"
+hash = "5e567e4a4cf22d8f39ccf1710b69a41f89b3ffc526adf38d9f5694f654bd9e53"
+
+[[files]]
+file = "kubejs/data/tfg/worldgen/configured_feature/vein/surface_tetrahedrite.json"
+hash = "9fdb7a80f25b29ea3883702e5d1ac2905c90a18ae0cb541ff4b96e16d1eb5787"
+
+[[files]]
 file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
@@ -9566,7 +9746,7 @@ hash = "8b614d419ff5f0a24bbc26311a475d4e4858be2c7a3056446c51b5c2179ea9bb"
 
 [[files]]
 file = "kubejs/server_scripts/tfc/tags.js"
-hash = "9915d04550ec516e9a6fe2cd789f601b3ab06943356025226e30d2316a1f3376"
+hash = "2499427e9bad3570ac1588537bf2fd0c3294a09cfe000045f339cf2fdfbac687"
 
 [[files]]
 file = "kubejs/server_scripts/tfc_grooming_station/recipes.js"
