@@ -1,0 +1,13 @@
+name = "Dice"
+filename = "Dice-[MC-1.20.1]-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YaTcrHqS/versions/PdfbnB3Z/Dice-%5BMC-1.20.1%5D-1.0.1.jar"
+hash-format = "sha1"
+hash = "085b9b7ee0b72c2fd619935a9845e7d97866b42e"
+
+[update]
+[update.modrinth]
+mod-id = "YaTcrHqS"
+version = "PdfbnB3Z"

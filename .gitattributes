@@ -1,15 +1,2 @@
-* text=auto eol=lf
-
-*.zip binary
-*.png binary
-
-dumps/**/*.* linguist-generated=true
-*.log linguist-generated=true
-
-# git update-index --assume-unchanged {file}
-# git update-index --no-assume-unchanged {file}
-
-config/packetfixer.properties
-config/embeddium-options.json
-config/sound_physics_remastered/occlusion.properties
-config/sound_physics_remastered/reflectivity.properties
+# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
+* -text

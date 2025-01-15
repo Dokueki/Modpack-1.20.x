@@ -1,0 +1,13 @@
+name = "Tree Tap"
+filename = "treetap-1.20.1-0.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "397dc912e94bb651bc8dcc193c0f77ed38bead17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5922848
+project-id = 927874

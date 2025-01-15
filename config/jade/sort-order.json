@@ -61,7 +61,10 @@
   "firmalife:string": null,
   "firmalife:tumbler": null,
   "firmalife:vat": null,
+  "fluiddrawerslegacy:controller": null,
+  "fluiddrawerslegacy:fluiddrawer": null,
   "framedblocks:framed_item_frame": null,
+  "gregiceng:crafting_io_buffer": null,
   "gtceu:auto_output_info": null,
   "gtceu:cable_info": null,
   "gtceu:controllable_provider": null,
@@ -79,6 +82,7 @@
   "gtceu:recipe_logic_provider": null,
   "gtceu:recipe_output_info": null,
   "gtceu:stained_color": null,
+  "gtceu:steam_boiler_info": null,
   "gtceu:transformer": null,
   "gtceu:workable_provider": null,
   "jade:block_face": null,
@@ -182,5 +186,8 @@
   "tfc:wild_animal": null,
   "tfc:windmill": null,
   "tfc_support_indicator:support_indicator": null,
+  "toms_peripherals:full_modem_info": null,
+  "toms_peripherals:modem_info": null,
+  "toms_peripherals:wdt_info": null,
   "treetap:tap": null
 }

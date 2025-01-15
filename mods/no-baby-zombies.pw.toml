@@ -1,0 +1,13 @@
+name = "No Baby Zombies"
+filename = "nobabyzombies1_20_1forge-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1a68f9cbf00cac24f60752ac32b0d38a8a1bdac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6046882
+project-id = 959336

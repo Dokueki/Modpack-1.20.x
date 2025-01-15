@@ -1,0 +1,13 @@
+name = "Sacks 'N Such"
+filename = "Sacks 'N Such-1.20.1-1.1.2-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33a67efc7c59e148019d199f1c7bc934906262b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5804953
+project-id = 695822

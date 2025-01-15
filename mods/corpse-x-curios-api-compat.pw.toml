@@ -1,0 +1,13 @@
+name = "Corpse x Curios API Compat"
+filename = "corpsecurioscompat-1.20.1-Forge-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ecf4674e3de4b3facecb81bb1eadfc2c936d9f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6045850
+project-id = 1138130

@@ -18,7 +18,7 @@ familiarityDecayLimit = 0.3
 	# If true, TFC will stop time when no players are online on a running server.
 	# This prevents food from decaying, the calendar from advancing, and the sun from moving, etc.
 	# !!Disable at your own risk!!
-	enableTimeStopWhenServerEmpty = true
+	enableTimeStopWhenServerEmpty = false
 	#
 	# Enable fire arrows and fireballs to spread fire and light blocks.
 	enableFireArrowSpreading = true
@@ -31,7 +31,7 @@ familiarityDecayLimit = 0.3
 	enableInfestations = true
 	#
 	# Enables TFC setting the moon phase based on the progress of the month. The etymology of the English word 'month' is in fact related to the word 'moon'.
-	enableCalendarSensitiveMoonPhases = true
+	enableCalendarSensitiveMoonPhases = false
 	#
 	# If false, vanilla lightning will not strike.
 	enableLightning = true

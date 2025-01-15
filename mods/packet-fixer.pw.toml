@@ -1,0 +1,13 @@
+name = "Packet Fixer"
+filename = "packetfixer-forge-1.4.3-1.19-to-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/IbGpdCZX/packetfixer-forge-1.4.3-1.19-to-1.20.1.jar"
+hash-format = "sha1"
+hash = "560523f6a356ea3683b273c6474ef94e79178bc2"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "IbGpdCZX"

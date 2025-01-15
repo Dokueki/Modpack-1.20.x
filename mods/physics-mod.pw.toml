@@ -1,0 +1,13 @@
+name = "Physics Mod"
+filename = "physics-mod-pro-v171b-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://www.patreon.com/file?h=114047283&m=366094398"
+hash-format = "sha1"
+hash = "a80d4e3195c7c21ae22c765bceb95c198318af49"
+
+[option]
+optional = true
+default = false
+description = "Dive into a new world like never seen before. Collapsing caves, interactive ragdolls, item physics and much more awaits you!"

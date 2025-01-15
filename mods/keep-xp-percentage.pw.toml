@@ -1,0 +1,13 @@
+name = "Keep XP Percentage (upon death)"
+filename = "KeepXPPercentage-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sjrbmoHq/versions/cFyC4Koe/KeepXPPercentage-Forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "b93d56368a5b9cb233c71a43f69e8065034b60ac"
+
+[update]
+[update.modrinth]
+mod-id = "sjrbmoHq"
+version = "cFyC4Koe"

@@ -1,0 +1,13 @@
+name = "Create Low-Heated"
+filename = "createlowheated-forge-1.20.1-0.5.1.f-i.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8019a3d4e8cf007354adfef81fc0dfd36a80855d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5393309
+project-id = 873945

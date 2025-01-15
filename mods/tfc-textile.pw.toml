@@ -1,0 +1,13 @@
+name = "TFC Textile"
+filename = "tfc_textile-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f68aff31c58bcfd12306218766d24022d6e78db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5761738
+project-id = 1085858

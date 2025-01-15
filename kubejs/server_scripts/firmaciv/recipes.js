@@ -6,6 +6,9 @@ const registerFirmaCivRecipes = (event) => {
 
     event.remove({ id: '/firmaciv:quern/' })
     event.remove({ id: 'firmaciv:anvil/copper_bolt' })
+    event.remove({ id: '/alekiroofs:.*_roofing/' })
+    event.remove({ id: '/firmaciv:.*_roofing/' })
+    event.remove({ id: 'firmaciv:thatch_roofing_slab' })
 
     //#endregion
 

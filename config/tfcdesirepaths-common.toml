@@ -21,4 +21,11 @@
 	#The factor that affects the chance of path creation. Higher value equals higher chance
 	#Range: 1.0 ~ 1.7976931348623157E308
 	cartCompactFactor = 5.0
+	#If enabled, all rocky blocks as cobble, raw and hardened can be worn down. True = enabled
+	toggleRockBlocks = true
+	#Should grass naturally and incrementally decay or regrow according to the local light level? This makes e.g. forest more dynamic, simulating sparse undergrowth. Applies to the desire path mechanic too. True = enabled
+	toggleDynamicGrass = true
+	#The minimum speed a cart should move at, in order for blocks to compact
+	#Range: 0.0 ~ 1.7976931348623157E308
+	cartSpeedThreshold = 0.07
 

@@ -1,0 +1,71 @@
+{
+	"default_scaling": {
+		"type": "static",
+		"scaling": 1.0,
+		"scale_loot": false,
+		"scale_xp": false,
+		"scale_health": "none",
+		"scale_damage": "none",
+		"scale_speed": "none"
+	},
+	"include_list": [
+		"tfc:squid",
+		"tfc:octopoteuthis",
+		"tfc:frog",
+		"tfc:penguin",
+		"minecraft:spider"
+	],
+	"exclude_list": [],
+	"keep_scaling_on_conversion": true,
+	"scaling_overrides": {
+		"tfc:frog": {
+			"type": "uniform",
+			"min_scaling": 0.6,
+			"max_scaling": 0.8,
+			"scale_loot": false,
+			"scale_xp": false,
+			"scale_health": "none",
+			"scale_damage": "none",
+			"scale_speed": "none"
+		},
+		"tfc:octopoteuthis": {
+			"type": "static",
+			"scaling": 0.3,
+			"scale_loot": false,
+			"scale_xp": false,
+			"scale_health": "none",
+			"scale_damage": "none",
+			"scale_speed": "none"
+		},
+		"tfc:penguin": {
+			"type": "uniform",
+			"min_scaling": 1.1,
+			"max_scaling": 1.6,
+			"scale_loot": false,
+			"scale_xp": false,
+			"scale_health": "none",
+			"scale_damage": "none",
+			"scale_speed": "none"
+		},
+		"minecraft:spider": {
+			"type": "gaussian",
+			"min_scaling": 0.4,
+			"max_scaling": 0.7,
+			"close_to_original": false,
+			"scale_loot": false,
+			"scale_xp": false,
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "none"
+		},
+		"tfc:squid": {
+			"type": "static",
+			"scaling": 0.3,
+			"scale_loot": false,
+			"scale_xp": false,
+			"scale_health": "none",
+			"scale_damage": "none",
+			"scale_speed": "none"
+		}
+	}
+}

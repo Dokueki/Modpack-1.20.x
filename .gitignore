@@ -17,7 +17,6 @@ config/gregtech/terminal/
 config/roughlyenoughitems/
 config/fantasticlib/
 config/better_quest_popup/completed-cache/
-
 config/AppliedEnergistics2/items.csv
 config/AppliedEnergistics2/CustomRecipes.cfg
 config/cherishedworlds/favorites.dat
@@ -34,18 +33,41 @@ config/xaerominimap_entities.json
 config/fancymenu/menu_identifiers.db
 config/fancymenu/user_variables.db
 config/oculus.properties
+config/Discord-Integration.toml
 config/embeddium-fingerprint.json
 config/everycomp-hazardous.properties
-config/fml.toml
-config/forge-client.toml
 config/voicechat/username-cache.json
-
 config/stellarcore_stitcher_cache_jei.dat
 config/stellarcore_stitcher_cache_vanilla.dat
+config/xaerominimap.txt
+config/xaeroworldmap.txt
+config/jade/server-plugin-overrides.json
+config/jade/sort-order.json
+config/embeddium-options.json
+config/voicechat/voicechat-client.properties
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
+config/InventoryHUD/curios.json
+config/packetfixer.properties
+config/fabric/indigo-renderer.properties
 
 # .minecraft
+crash-reports/*
+logs/*
+saves/*
+ldlib/
+local/*
+modernfix/*
+XaeroWaypoints*
+XaeroWorldMap/*
+xaero/*
+CustomSkinLoader/*
+screenshots/*
+shaderpacks/*
+chiselsandbits/*
+.vscode/*
+.new_mods/*
 !bansoukou/**.zip
-
 .vscode/
 .idea/
 .bobby/
@@ -57,7 +79,6 @@ profileImage/
 crash-reports/
 logs/
 saves/
-ldlib/
 local/
 vintagefix/
 modernfix/
@@ -82,7 +103,6 @@ chiselsandbits/
 bansoukou
 .curseclient
 .sl_password
-options.txt
 patchouli_data.json
 usernamecache.json
 usercache.json
@@ -101,11 +121,9 @@ optionsshaders.txt
 OpenComputersMod-*
 hei_bookmarks.ini
 
-# Server data
-.pakku/server-overrides/libraries
-.pakku/server-overrides/config
-.pakku/server-overrides/defaultconfigs
-.pakku/server-overrides/groovy
-.pakku/server-overrides/scripts
-.pakku/server-overrides/mods
-.pakku/server-overrides/user_jvm_args.txt
+*.code-workspace
+*.zip
+*.mrpack
+
+# Dev
+icon-exports-x32

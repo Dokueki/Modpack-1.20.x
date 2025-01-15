@@ -1,0 +1,13 @@
+name = "Open Parties and Claims"
+filename = "open-parties-and-claims-forge-1.20.1-0.23.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f59207176cdc2fe53e5f7e65debc08a7dca3882"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6055478
+project-id = 636608

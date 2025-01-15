@@ -1,0 +1,13 @@
+name = "Valkyrien Relogs"
+filename = "valkyrienrelogs-0.3.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e70f35486245736d1a346a5895bf05e561dffb0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5819594
+project-id = 1011712

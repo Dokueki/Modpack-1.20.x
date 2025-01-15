@@ -1,0 +1,13 @@
+name = "Belly Flop"
+filename = "belly_flop-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bmroi5QH/versions/TRstkyBR/belly_flop-1.20.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "feccbc75d034635c92e09c462c66832e83d74dd7"
+
+[update]
+[update.modrinth]
+mod-id = "Bmroi5QH"
+version = "TRstkyBR"

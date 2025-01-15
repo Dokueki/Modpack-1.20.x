@@ -1,0 +1,13 @@
+name = "TFC Grooming Station"
+filename = "tfcgroomer-1.20.1-0.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "292c57951e1fe01e2159287e0392e4afda1d8153"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6044738
+project-id = 1003785

@@ -1,0 +1,13 @@
+name = "TFC Support Indicator"
+filename = "tfc_support_indicator-1.0.3+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RL8eBaUL/versions/jeOTOlLX/tfc_support_indicator-1.0.3%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "0d0001517a6a4246f1b9d968bf5672ecbfdc9596"
+
+[update]
+[update.modrinth]
+mod-id = "RL8eBaUL"
+version = "jeOTOlLX"
